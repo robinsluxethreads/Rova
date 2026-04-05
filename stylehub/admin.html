@@ -1,0 +1,440 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Product Manager - Robins Luxe Threads</title>
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+  <style>
+    *, *::before, *::after { margin: 0; padding: 0; box-sizing: border-box; }
+    :root {
+      --bg: #0a0a0a; --card: #1a1a1a; --border: #2a2a2a;
+      --gold: #c9a84c; --gold-light: #d4b96a;
+      --text: #f5f5f5; --text2: #aaa; --text3: #777;
+      --danger: #e74c3c; --success: #2ecc71;
+    }
+    body { font-family: 'Poppins', sans-serif; background: var(--bg); color: var(--text); padding: 20px; }
+    .container { max-width: 1100px; margin: 0 auto; }
+
+    /* Header */
+    .header { display: flex; justify-content: space-between; align-items: center; margin-bottom: 30px; padding-bottom: 20px; border-bottom: 1px solid var(--border); }
+    .header h1 { font-size: 1.5rem; color: var(--gold); }
+    .header-actions { display: flex; gap: 10px; }
+
+    /* Buttons */
+    .btn { padding: 10px 20px; border: none; border-radius: 6px; font-weight: 600; font-size: 0.85rem; cursor: pointer; transition: all 0.3s; text-transform: uppercase; letter-spacing: 1px; }
+    .btn-gold { background: var(--gold); color: var(--bg); }
+    .btn-gold:hover { background: var(--gold-light); }
+    .btn-green { background: var(--success); color: #fff; }
+    .btn-green:hover { background: #27ae60; }
+    .btn-red { background: var(--danger); color: #fff; }
+    .btn-red:hover { background: #c0392b; }
+    .btn-outline { background: none; border: 1px solid var(--border); color: var(--text2); }
+    .btn-outline:hover { border-color: var(--gold); color: var(--gold); }
+    .btn-sm { padding: 6px 12px; font-size: 0.75rem; }
+
+    /* Stats */
+    .stats { display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: 16px; margin-bottom: 30px; }
+    .stat { background: var(--card); border: 1px solid var(--border); border-radius: 8px; padding: 20px; text-align: center; }
+    .stat-num { font-size: 2rem; font-weight: 700; color: var(--gold); }
+    .stat-label { font-size: 0.8rem; color: var(--text2); margin-top: 4px; }
+
+    /* Product Table */
+    .table-wrap { overflow-x: auto; }
+    table { width: 100%; border-collapse: collapse; }
+    th { text-align: left; padding: 12px 16px; background: var(--card); color: var(--gold); font-size: 0.8rem; text-transform: uppercase; letter-spacing: 1px; border-bottom: 2px solid var(--border); }
+    td { padding: 12px 16px; border-bottom: 1px solid var(--border); font-size: 0.9rem; vertical-align: middle; }
+    tr:hover td { background: rgba(201,168,76,0.05); }
+    .td-emoji { font-size: 1.5rem; }
+    .td-name { font-weight: 600; }
+    .td-price { color: var(--gold); font-weight: 600; }
+    .td-old-price { color: var(--text3); text-decoration: line-through; font-size: 0.8rem; margin-left: 6px; }
+    .td-badge { display: inline-block; padding: 2px 8px; border-radius: 10px; font-size: 0.7rem; font-weight: 700; text-transform: uppercase; }
+    .td-badge.sale { background: var(--danger); color: #fff; }
+    .td-badge.new { background: var(--success); color: #fff; }
+    .td-sizes { font-size: 0.8rem; color: var(--text2); }
+    .td-actions { display: flex; gap: 6px; }
+
+    /* Modal */
+    .modal-overlay { display: none; position: fixed; inset: 0; background: rgba(0,0,0,0.8); z-index: 1000; align-items: center; justify-content: center; }
+    .modal-overlay.open { display: flex; }
+    .modal { background: var(--card); border: 1px solid var(--border); border-radius: 12px; padding: 30px; width: 90%; max-width: 550px; max-height: 90vh; overflow-y: auto; }
+    .modal h2 { font-size: 1.3rem; color: var(--gold); margin-bottom: 20px; }
+    .form-row { display: grid; grid-template-columns: 1fr 1fr; gap: 16px; margin-bottom: 16px; }
+    .form-group { display: flex; flex-direction: column; gap: 6px; margin-bottom: 16px; }
+    .form-group label { font-size: 0.8rem; font-weight: 600; color: var(--text2); text-transform: uppercase; letter-spacing: 1px; }
+    .form-group input, .form-group select, .form-group textarea {
+      padding: 10px 14px; background: var(--bg); border: 1px solid var(--border); border-radius: 6px; color: var(--text); font-family: inherit; font-size: 0.9rem;
+    }
+    .form-group input:focus, .form-group select:focus, .form-group textarea:focus { border-color: var(--gold); outline: none; }
+    .form-group textarea { resize: vertical; min-height: 80px; }
+    .size-checks { display: flex; gap: 10px; flex-wrap: wrap; }
+    .size-checks label { display: flex; align-items: center; gap: 4px; font-size: 0.85rem; color: var(--text); cursor: pointer; }
+    .size-checks input { accent-color: var(--gold); }
+    .modal-actions { display: flex; gap: 10px; justify-content: flex-end; margin-top: 20px; }
+
+    /* Toast */
+    .toast { position: fixed; bottom: 30px; right: 30px; background: var(--gold); color: var(--bg); padding: 14px 28px; border-radius: 8px; font-weight: 600; font-size: 0.9rem; transform: translateY(100px); opacity: 0; transition: all 0.4s ease; z-index: 9999; }
+    .toast.show { transform: translateY(0); opacity: 1; }
+
+    /* How-to */
+    .how-to { background: var(--card); border: 1px solid var(--border); border-radius: 8px; padding: 20px; margin-bottom: 30px; }
+    .how-to h3 { color: var(--gold); font-size: 1rem; margin-bottom: 10px; }
+    .how-to ol { padding-left: 20px; color: var(--text2); font-size: 0.85rem; line-height: 1.8; }
+    .how-to code { background: var(--bg); padding: 2px 6px; border-radius: 4px; font-size: 0.8rem; color: var(--gold); }
+
+    /* Image fields */
+    .img-field { display: flex; gap: 8px; margin-bottom: 8px; align-items: center; }
+    .img-field input { flex: 1; padding: 10px 14px; background: var(--bg); border: 1px solid var(--border); border-radius: 6px; color: var(--text); font-family: inherit; font-size: 0.9rem; }
+    .img-field input:focus { border-color: var(--gold); outline: none; }
+    .img-field .img-preview { width: 40px; height: 40px; border-radius: 4px; overflow: hidden; background: var(--bg); border: 1px solid var(--border); flex-shrink: 0; }
+    .img-field .img-preview img { width: 100%; height: 100%; object-fit: cover; }
+    .img-remove { background: none; border: none; color: var(--danger); font-size: 1.2rem; cursor: pointer; padding: 4px 8px; }
+    .img-remove:hover { color: #fff; }
+
+    @media (max-width: 768px) {
+      .form-row { grid-template-columns: 1fr; }
+      .header { flex-direction: column; gap: 12px; }
+      .stats { grid-template-columns: 1fr 1fr; }
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="header">
+      <h1>Product Manager</h1>
+      <div class="header-actions">
+        <button class="btn btn-gold" onclick="openAddModal()">+ Add Product</button>
+        <button class="btn btn-green" onclick="exportProducts()">Export products.json</button>
+        <label class="btn btn-outline" style="cursor:pointer;">
+          Import JSON
+          <input type="file" accept=".json" onchange="importProducts(event)" style="display:none;">
+        </label>
+        <a href="index.html" class="btn btn-outline">View Site</a>
+      </div>
+    </div>
+
+    <div class="how-to">
+      <h3>How to update your website</h3>
+      <ol>
+        <li>Add, edit, or delete products below</li>
+        <li>Click <strong>"Export products.json"</strong> to download the file</li>
+        <li>Replace <code>data/products.json</code> in your GitHub repo with the downloaded file</li>
+        <li>Your website updates automatically!</li>
+      </ol>
+    </div>
+
+    <div class="stats" id="stats"></div>
+
+    <div class="table-wrap">
+      <table>
+        <thead>
+          <tr>
+            <th></th>
+            <th>Name</th>
+            <th>Category</th>
+            <th>Price</th>
+            <th>Sizes</th>
+            <th>Badge</th>
+            <th>Actions</th>
+          </tr>
+        </thead>
+        <tbody id="productTable"></tbody>
+      </table>
+    </div>
+  </div>
+
+  <!-- Add/Edit Modal -->
+  <div class="modal-overlay" id="modal">
+    <div class="modal">
+      <h2 id="modalTitle">Add Product</h2>
+      <input type="hidden" id="editId">
+      <div class="form-row">
+        <div class="form-group">
+          <label>Product Name</label>
+          <input type="text" id="fName" placeholder="e.g. Silk Evening Gown" required>
+        </div>
+        <div class="form-group">
+          <label>Category</label>
+          <select id="fCategory">
+            <option>Dresses</option>
+            <option>Tops</option>
+            <option>Bottoms</option>
+            <option>Outerwear</option>
+            <option>Accessories</option>
+          </select>
+        </div>
+      </div>
+      <div class="form-row">
+        <div class="form-group">
+          <label>Price ($)</label>
+          <input type="number" id="fPrice" step="0.01" min="0" placeholder="289.00">
+        </div>
+        <div class="form-group">
+          <label>Old Price ($) <span style="color:var(--text3);font-weight:400;">(optional, for sales)</span></label>
+          <input type="number" id="fOldPrice" step="0.01" min="0" placeholder="350.00">
+        </div>
+      </div>
+      <div class="form-group">
+        <label>Product Images <span style="color:var(--text3);font-weight:400;">(paste URLs or local paths like images/products/dress.jpg)</span></label>
+        <div id="fImagesWrap"></div>
+        <button type="button" class="btn btn-outline btn-sm" onclick="addImageField()" style="margin-top:8px;">+ Add Image</button>
+      </div>
+      <div class="form-row">
+        <div class="form-group">
+          <label>Fallback Emoji <span style="color:var(--text3);font-weight:400;">(shown if no images)</span></label>
+          <input type="text" id="fEmoji" placeholder="e.g. 👗 👚 👖 🧥 👜" maxlength="4">
+        </div>
+        <div class="form-group">
+          <label>Badge</label>
+          <select id="fBadge">
+            <option value="">None</option>
+            <option value="New">New</option>
+            <option value="Sale">Sale</option>
+            <option value="Hot">Hot</option>
+            <option value="Limited">Limited</option>
+          </select>
+        </div>
+      </div>
+      <div class="form-group">
+        <label>Available Sizes</label>
+        <div class="size-checks">
+          <label><input type="checkbox" value="XS" class="fSize"> XS</label>
+          <label><input type="checkbox" value="S" class="fSize"> S</label>
+          <label><input type="checkbox" value="M" class="fSize" checked> M</label>
+          <label><input type="checkbox" value="L" class="fSize"> L</label>
+          <label><input type="checkbox" value="XL" class="fSize"> XL</label>
+          <label><input type="checkbox" value="One Size" class="fSize"> One Size</label>
+        </div>
+      </div>
+      <div class="form-group">
+        <label>Description</label>
+        <textarea id="fDesc" placeholder="Describe the product..."></textarea>
+      </div>
+      <div class="modal-actions">
+        <button class="btn btn-outline" onclick="closeModal()">Cancel</button>
+        <button class="btn btn-gold" onclick="saveProduct()">Save Product</button>
+      </div>
+    </div>
+  </div>
+
+  <div class="toast" id="toast"></div>
+
+  <script>
+    let products = [];
+
+    // Load products from JSON file
+    function loadProducts() {
+      return fetch('data/products.json')
+        .then(r => r.json())
+        .then(data => { products = data; renderAll(); })
+        .catch(() => { products = []; renderAll(); });
+    }
+
+    function renderAll() {
+      renderStats();
+      renderTable();
+    }
+
+    function renderStats() {
+      const cats = {};
+      products.forEach(p => { cats[p.category] = (cats[p.category] || 0) + 1; });
+      document.getElementById('stats').innerHTML = `
+        <div class="stat"><div class="stat-num">${products.length}</div><div class="stat-label">Total Products</div></div>
+        ${Object.entries(cats).map(([c, n]) => `<div class="stat"><div class="stat-num">${n}</div><div class="stat-label">${c}</div></div>`).join('')}
+      `;
+    }
+
+    function renderTable() {
+      const tbody = document.getElementById('productTable');
+      if (products.length === 0) {
+        tbody.innerHTML = '<tr><td colspan="7" style="text-align:center;color:var(--text3);padding:40px;">No products yet. Click "Add Product" to start.</td></tr>';
+        return;
+      }
+      tbody.innerHTML = products.map(p => `
+        <tr>
+          <td class="td-emoji">${p.images && p.images.length > 0 ? `<img src="${p.images[0]}" style="width:40px;height:40px;object-fit:cover;border-radius:4px;" onerror="this.outerHTML='${p.emoji || '👗'}'">` : (p.emoji || '👗')}</td>
+          <td class="td-name">${p.name}</td>
+          <td>${p.category}</td>
+          <td>
+            <span class="td-price">$${p.price.toFixed(2)}</span>
+            ${p.oldPrice ? `<span class="td-old-price">$${p.oldPrice.toFixed(2)}</span>` : ''}
+          </td>
+          <td class="td-sizes">${p.sizes.join(', ')}</td>
+          <td>${p.badge ? `<span class="td-badge ${p.badge.toLowerCase()}">${p.badge}</span>` : '-'}</td>
+          <td>
+            <div class="td-actions">
+              <button class="btn btn-outline btn-sm" onclick="editProduct(${p.id})">Edit</button>
+              <button class="btn btn-red btn-sm" onclick="deleteProduct(${p.id})">Delete</button>
+            </div>
+          </td>
+        </tr>
+      `).join('');
+    }
+
+    // Modal
+    // Image field helpers
+    function addImageField(value) {
+      const wrap = document.getElementById('fImagesWrap');
+      const div = document.createElement('div');
+      div.className = 'img-field';
+      div.innerHTML = `
+        <div class="img-preview"><img src="${value || ''}" onerror="this.style.display='none'" onload="this.style.display='block'"></div>
+        <input type="text" placeholder="Image URL or path (e.g. images/products/dress.jpg)" value="${value || ''}" onchange="this.previousElementSibling.querySelector('img').src=this.value">
+        <button class="img-remove" onclick="this.parentElement.remove()" title="Remove">&times;</button>
+      `;
+      wrap.appendChild(div);
+    }
+
+    function getImageValues() {
+      return Array.from(document.querySelectorAll('#fImagesWrap input')).map(i => i.value.trim()).filter(v => v.length > 0);
+    }
+
+    function setImageFields(images) {
+      document.getElementById('fImagesWrap').innerHTML = '';
+      if (images && images.length > 0) {
+        images.forEach(img => addImageField(img));
+      } else {
+        addImageField('');
+      }
+    }
+
+    function openAddModal() {
+      document.getElementById('modalTitle').textContent = 'Add Product';
+      document.getElementById('editId').value = '';
+      document.getElementById('fName').value = '';
+      document.getElementById('fCategory').value = 'Dresses';
+      document.getElementById('fPrice').value = '';
+      document.getElementById('fOldPrice').value = '';
+      document.getElementById('fEmoji').value = '';
+      document.getElementById('fBadge').value = '';
+      document.getElementById('fDesc').value = '';
+      setImageFields([]);
+      document.querySelectorAll('.fSize').forEach(cb => { cb.checked = cb.value === 'M'; });
+      document.getElementById('modal').classList.add('open');
+    }
+
+    function editProduct(id) {
+      const p = products.find(x => x.id === id);
+      if (!p) return;
+      document.getElementById('modalTitle').textContent = 'Edit Product';
+      document.getElementById('editId').value = p.id;
+      document.getElementById('fName').value = p.name;
+      document.getElementById('fCategory').value = p.category;
+      document.getElementById('fPrice').value = p.price;
+      document.getElementById('fOldPrice').value = p.oldPrice || '';
+      document.getElementById('fEmoji').value = p.emoji || '';
+      document.getElementById('fBadge').value = p.badge || '';
+      document.getElementById('fDesc').value = p.description;
+      setImageFields(p.images || []);
+      document.querySelectorAll('.fSize').forEach(cb => { cb.checked = p.sizes.includes(cb.value); });
+      document.getElementById('modal').classList.add('open');
+    }
+
+    function closeModal() {
+      document.getElementById('modal').classList.remove('open');
+    }
+
+    function saveProduct() {
+      const name = document.getElementById('fName').value.trim();
+      const category = document.getElementById('fCategory').value;
+      const price = parseFloat(document.getElementById('fPrice').value);
+      const oldPrice = parseFloat(document.getElementById('fOldPrice').value) || null;
+      const emoji = document.getElementById('fEmoji').value.trim() || '👗';
+      const badge = document.getElementById('fBadge').value || null;
+      const description = document.getElementById('fDesc').value.trim();
+      const sizes = Array.from(document.querySelectorAll('.fSize:checked')).map(cb => cb.value);
+      const images = getImageValues();
+
+      if (!name || isNaN(price) || price <= 0) {
+        showToast('Please fill in name and price');
+        return;
+      }
+      if (sizes.length === 0) {
+        showToast('Please select at least one size');
+        return;
+      }
+
+      const editId = parseInt(document.getElementById('editId').value);
+
+      if (editId) {
+        const idx = products.findIndex(p => p.id === editId);
+        if (idx !== -1) {
+          products[idx] = { ...products[idx], name, category, price, oldPrice, emoji, badge, description, sizes, images };
+          showToast('Product updated!');
+        }
+      } else {
+        const maxId = products.reduce((max, p) => Math.max(max, p.id), 0);
+        products.push({ id: maxId + 1, name, category, price, oldPrice, emoji, badge, description, sizes, images });
+        showToast('Product added!');
+      }
+
+      closeModal();
+      renderAll();
+    }
+
+    function deleteProduct(id) {
+      const p = products.find(x => x.id === id);
+      if (!p) return;
+      if (!confirm(`Delete "${p.name}"?`)) return;
+      products = products.filter(x => x.id !== id);
+      renderAll();
+      showToast('Product deleted');
+    }
+
+    // Export
+    function exportProducts() {
+      const clean = products.map(p => {
+        const obj = { id: p.id, name: p.name, price: p.price, category: p.category, images: p.images || [], emoji: p.emoji || '👗', sizes: p.sizes, description: p.description };
+        if (p.oldPrice) obj.oldPrice = p.oldPrice;
+        if (p.badge) obj.badge = p.badge;
+        return obj;
+      });
+      const blob = new Blob([JSON.stringify(clean, null, 2)], { type: 'application/json' });
+      const url = URL.createObjectURL(blob);
+      const a = document.createElement('a');
+      a.href = url;
+      a.download = 'products.json';
+      a.click();
+      URL.revokeObjectURL(url);
+      showToast('products.json downloaded! Replace data/products.json in your repo.');
+    }
+
+    // Import
+    function importProducts(e) {
+      const file = e.target.files[0];
+      if (!file) return;
+      const reader = new FileReader();
+      reader.onload = function(ev) {
+        try {
+          const data = JSON.parse(ev.target.result);
+          if (!Array.isArray(data)) throw new Error('Not an array');
+          products = data;
+          renderAll();
+          showToast(`Imported ${data.length} products!`);
+        } catch {
+          showToast('Invalid JSON file');
+        }
+      };
+      reader.readAsText(file);
+      e.target.value = '';
+    }
+
+    // Toast
+    function showToast(msg) {
+      const t = document.getElementById('toast');
+      t.textContent = msg;
+      t.classList.add('show');
+      setTimeout(() => t.classList.remove('show'), 2500);
+    }
+
+    // Close modal on overlay click
+    document.getElementById('modal').addEventListener('click', function(e) {
+      if (e.target === this) closeModal();
+    });
+
+    // Init
+    loadProducts();
+  </script>
+</body>
+</html>

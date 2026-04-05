@@ -1,0 +1,162 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Robins Luxe Threads - Elegance Redefined</title>
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;700&family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+  <!-- Navbar -->
+  <nav class="navbar">
+    <div class="container">
+      <a href="index.html" class="navbar__logo">ROBINS LUXE THREADS</a>
+      <ul class="navbar__links" id="navLinks">
+        <li><a href="index.html" class="active">Home</a></li>
+        <li><a href="shop.html">Shop</a></li>
+        <li><a href="about.html">About</a></li>
+        <li><a href="contact.html">Contact</a></li>
+      </ul>
+      <div class="navbar__toggle" id="navToggle" onclick="toggleNav()">
+        <span></span><span></span><span></span>
+      </div>
+    </div>
+  </nav>
+
+  <!-- Hero -->
+  <section class="hero">
+    <div class="hero__content">
+      <p class="hero__subtitle" id="heroSubtitle"></p>
+      <h1 class="hero__title" id="heroTitle"></h1>
+      <p class="hero__desc" id="heroDesc"></p>
+      <a href="shop.html" class="btn btn--primary">Shop Now &#8594;</a>
+    </div>
+  </section>
+
+  <!-- Categories -->
+  <section class="section fade-in">
+    <div class="container">
+      <div class="section__header">
+        <h2 class="section__title">Shop by Category</h2>
+        <p class="section__subtitle">Find your perfect style</p>
+        <div class="section__divider"></div>
+      </div>
+      <div class="categories stagger-children" id="homeCategories"></div>
+    </div>
+  </section>
+
+  <!-- Trending Products -->
+  <section class="section fade-in" style="background: var(--bg-card);">
+    <div class="container">
+      <div class="section__header">
+        <h2 class="section__title">Trending Now</h2>
+        <p class="section__subtitle">Our most loved pieces this season</p>
+        <div class="section__divider"></div>
+      </div>
+      <div class="products-grid" id="trendingProducts"></div>
+      <div style="text-align:center;margin-top:40px;">
+        <a href="shop.html" class="btn btn--outline">View All Products &#8594;</a>
+      </div>
+    </div>
+  </section>
+
+  <!-- Features -->
+  <section class="section">
+    <div class="container">
+      <div class="features stagger-children" id="homeFeatures"></div>
+    </div>
+  </section>
+
+  <!-- Newsletter -->
+  <section class="section">
+    <div class="container">
+      <div class="newsletter scale-in">
+        <h2 class="newsletter__title">Stay in the Loop</h2>
+        <p class="newsletter__desc">Subscribe to get exclusive access to new arrivals, style tips, and special offers.</p>
+        <form class="newsletter__form" onsubmit="submitNewsletter(event)">
+          <input type="email" class="newsletter__input" id="newsletterEmail" placeholder="Enter your email address" required>
+          <button type="submit" class="btn btn--primary" id="newsletterBtn">Subscribe</button>
+        </form>
+      </div>
+    </div>
+  </section>
+
+  <!-- Footer -->
+  <footer class="footer">
+    <div class="container">
+      <div class="footer__grid">
+        <div>
+          <a href="index.html" class="navbar__logo">ROBINS LUXE THREADS</a>
+          <p class="footer__brand-desc"></p>
+          <div class="footer__social">
+            <a href="#">f</a>
+            <a href="#">t</a>
+            <a href="#">i</a>
+            <a href="#">p</a>
+          </div>
+        </div>
+        <div>
+          <h4 class="footer__title">Quick Links</h4>
+          <div class="footer__links">
+            <a href="shop.html">Shop All</a>
+            <a href="about.html">Our Story</a>
+            <a href="contact.html">Contact</a>
+          </div>
+        </div>
+        <div>
+          <h4 class="footer__title">Categories</h4>
+          <div class="footer__links" id="footerCategories"></div>
+        </div>
+        <div>
+          <h4 class="footer__title">Customer Care</h4>
+          <div class="footer__links">
+            <a href="#">Shipping Info</a>
+            <a href="#">Returns & Exchanges</a>
+            <a href="#">FAQ</a>
+          </div>
+        </div>
+      </div>
+      <div class="footer__bottom"></div>
+    </div>
+  </footer>
+
+  <div class="toast" id="toast"></div>
+
+  <script src="js/main.js"></script>
+  <script>
+    document.addEventListener('DOMContentLoaded', () => {
+      loadSiteData().then(() => {
+        // Hero
+        document.getElementById('heroSubtitle').textContent = cfg('brand.heroSubtitle', 'New Collection 2027');
+        document.getElementById('heroTitle').textContent = cfg('brand.heroTitle', 'Elegance Redefined');
+        document.getElementById('heroDesc').textContent = cfg('brand.heroDesc', '');
+
+        // Categories
+        renderCategories('homeCategories');
+
+        // Products
+        renderProducts('trendingProducts', products.slice(0, 4));
+
+        // Features
+        const features = cfg('features', []);
+        const featEl = document.getElementById('homeFeatures');
+        if (featEl && features.length) {
+          featEl.innerHTML = features.map(f => `
+            <div class="feature">
+              <div class="feature__icon">${f.icon}</div>
+              <h3 class="feature__title">${f.title}</h3>
+              <p class="feature__desc">${f.desc}</p>
+            </div>
+          `).join('');
+        }
+
+        // Footer
+        renderFooterCategories();
+        applyBranding();
+      });
+    });
+  </script>
+</body>
+</html>

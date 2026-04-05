@@ -1,0 +1,54 @@
+{
+  "brand": {
+    "name": "ROBINS LUXE THREADS",
+    "tagline": "Curating elegance for the modern woman. Premium quality clothing that makes you feel confident and beautiful every day.",
+    "year": "2025",
+    "heroSubtitle": "New Collection 2026",
+    "heroTitle": "Elegance Redefined for the Modern Woman",
+    "heroDesc": "Discover curated collections that blend timeless sophistication with contemporary style."
+  },
+  "currency": {
+    "symbol": "₹",
+    "code": "INR"
+  },
+  "contact": {
+    "whatsappNumber": "919876543210",
+    "email": "hello@robinsluxethreads.com",
+    "supportEmail": "support@robinsluxethreads.com",
+    "phone": "+91 98765 43210",
+    "phoneHours": "Mon - Fri: 9AM - 6PM IST",
+    "address": "123 Fashion Avenue\nMumbai, Maharashtra 400001\nIndia",
+    "storeHours": "Monday - Saturday: 10AM - 8PM\nSunday: 11AM - 6PM"
+  },
+  "categories": [
+    { "name": "Dresses", "slug": "dresses", "emoji": "👗", "gradient": "linear-gradient(135deg,#2a1a0a,#1a0a1a)" },
+    { "name": "Tops", "slug": "tops", "emoji": "👕", "gradient": "linear-gradient(135deg,#1a1a2a,#0a1a2a)" },
+    { "name": "Bottoms", "slug": "bottoms", "emoji": "👖", "gradient": "linear-gradient(135deg,#1a2a1a,#0a2a1a)" },
+    { "name": "Outerwear", "slug": "outerwear", "emoji": "🧥", "gradient": "linear-gradient(135deg,#2a0a1a,#1a0a2a)" },
+    { "name": "Accessories", "slug": "accessories", "emoji": "👜", "gradient": "linear-gradient(135deg,#2a1a2a,#1a2a2a)" }
+  ],
+  "about": {
+    "title": "Our Story",
+    "description": "Born from a passion for timeless elegance and modern design, Robins Luxe Threads is where sophistication meets everyday fashion.",
+    "whoWeAre": "Robins Luxe Threads was founded with a simple vision: to make high-quality, elegant fashion accessible to every woman. We believe that what you wear is a reflection of who you are, and every woman deserves to feel confident and beautiful.",
+    "whoWeAre2": "Our team of passionate designers and stylists carefully curate each collection, ensuring every piece meets our exacting standards for quality, comfort, and style. From timeless classics to contemporary trends, we offer a range that speaks to the modern woman.",
+    "stats": [
+      { "number": "100+", "label": "Happy Customers", "desc": "And growing every day" },
+      { "number": "50+", "label": "Products", "desc": "Curated with care" },
+      { "number": "5+", "label": "Cities", "desc": "We deliver across India" },
+      { "number": "4.8", "label": "Star Rating", "desc": "Average customer review" }
+    ],
+    "values": [
+      { "icon": "🌱", "title": "Sustainability", "desc": "We are committed to ethical sourcing and sustainable practices. Our fabrics are chosen with care for both quality and the planet." },
+      { "icon": "💎", "title": "Quality", "desc": "Every stitch matters. We maintain the highest standards of craftsmanship so our pieces look and feel exceptional." },
+      { "icon": "💖", "title": "Inclusivity", "desc": "Fashion is for everyone. We design with diverse body types in mind, offering sizes from XS to XL across our collections." },
+      { "icon": "⭐", "title": "Innovation", "desc": "We constantly evolve, blending timeless design principles with modern trends to bring you fresh, exciting styles every season." }
+    ]
+  },
+  "features": [
+    { "icon": "🚚", "title": "Free Shipping", "desc": "On all orders over ₹5,000" },
+    { "icon": "🔄", "title": "Easy Returns", "desc": "30-day return policy" },
+    { "icon": "🔒", "title": "Secure Payment", "desc": "100% secure checkout" },
+    { "icon": "💬", "title": "24/7 Support", "desc": "Always here to help" }
+  ]
+}

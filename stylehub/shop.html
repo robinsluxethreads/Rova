@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Shop - Robins Luxe Threads</title>
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;700&family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+  <!-- Navbar -->
+  <nav class="navbar">
+    <div class="container">
+      <a href="index.html" class="navbar__logo">ROBINS LUXE THREADS</a>
+      <ul class="navbar__links" id="navLinks">
+        <li><a href="index.html">Home</a></li>
+        <li><a href="shop.html" class="active">Shop</a></li>
+        <li><a href="about.html">About</a></li>
+        <li><a href="contact.html">Contact</a></li>
+      </ul>
+      <div class="navbar__toggle" id="navToggle" onclick="toggleNav()">
+        <span></span><span></span><span></span>
+      </div>
+    </div>
+  </nav>
+
+  <!-- Page Banner -->
+  <div class="page-banner">
+    <h1 class="page-banner__title">Our Collection</h1>
+  </div>
+
+  <!-- Shop Layout -->
+  <section class="section">
+    <div class="container">
+      <div class="shop-layout">
+        <!-- Sidebar -->
+        <aside class="shop-sidebar">
+          <div class="filter-group">
+            <h3 class="filter-group__title">Category</h3>
+            <div id="categoryFilters"></div>
+          </div>
+          <div class="filter-group">
+            <h3 class="filter-group__title">Price Range</h3>
+            <select id="priceFilter" onchange="filterProducts()">
+              <option value="all">All Prices</option>
+              <option value="0-1000">Under ₹1,000</option>
+              <option value="1000-3000">₹1,000 - ₹3,000</option>
+              <option value="3000-10000">₹3,000 - ₹10,000</option>
+              <option value="10000+">₹10,000+</option>
+            </select>
+          </div>
+          <div class="filter-group">
+            <h3 class="filter-group__title">Size</h3>
+            <label><input type="checkbox" value="XS" onchange="filterProducts()"> XS</label>
+            <label><input type="checkbox" value="S" onchange="filterProducts()"> S</label>
+            <label><input type="checkbox" value="M" onchange="filterProducts()"> M</label>
+            <label><input type="checkbox" value="L" onchange="filterProducts()"> L</label>
+            <label><input type="checkbox" value="XL" onchange="filterProducts()"> XL</label>
+          </div>
+          <button class="btn btn--outline btn--small btn--full" onclick="clearFilters()">Clear Filters</button>
+        </aside>
+
+        <!-- Products -->
+        <div>
+          <div class="shop-header">
+            <span class="shop-header__count" id="productCount">Showing 0 products</span>
+            <div class="shop-header__sort">
+              <select id="sortFilter" onchange="filterProducts()">
+                <option value="default">Sort by: Featured</option>
+                <option value="price-low">Price: Low to High</option>
+                <option value="price-high">Price: High to Low</option>
+                <option value="name">Name: A-Z</option>
+              </select>
+            </div>
+          </div>
+          <div class="products-grid" id="shopProducts"></div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Footer -->
+  <footer class="footer">
+    <div class="container">
+      <div class="footer__grid">
+        <div>
+          <a href="index.html" class="navbar__logo">ROBINS LUXE THREADS</a>
+          <p class="footer__brand-desc"></p>
+        </div>
+        <div>
+          <h4 class="footer__title">Quick Links</h4>
+          <div class="footer__links">
+            <a href="shop.html">Shop All</a>
+            <a href="about.html">Our Story</a>
+            <a href="contact.html">Contact</a>
+          </div>
+        </div>
+        <div>
+          <h4 class="footer__title">Categories</h4>
+          <div class="footer__links" id="footerCategories"></div>
+        </div>
+        <div>
+          <h4 class="footer__title">Customer Care</h4>
+          <div class="footer__links">
+            <a href="#">Shipping Info</a>
+            <a href="#">Returns & Exchanges</a>
+            <a href="#">FAQ</a>
+          </div>
+        </div>
+      </div>
+      <div class="footer__bottom"></div>
+    </div>
+  </footer>
+
+  <div class="toast" id="toast"></div>
+  <script src="js/main.js"></script>
+  <script>
+    document.addEventListener('DOMContentLoaded', () => {
+      loadSiteData().then(() => {
+        renderShopSidebar();
+        const params = new URLSearchParams(window.location.search);
+        const category = params.get('category');
+        if (category) {
+          const checkbox = document.querySelector(`#categoryFilters input[value="${category}"]`);
+          if (checkbox) checkbox.checked = true;
+        }
+        filterProducts();
+        renderFooterCategories();
+        applyBranding();
+      });
+    });
+  </script>
+</body>
+</html>

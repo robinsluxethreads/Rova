@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>About - Robins Luxe Threads</title>
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;700&family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+  <!-- Navbar -->
+  <nav class="navbar">
+    <div class="container">
+      <a href="index.html" class="navbar__logo">ROBINS LUXE THREADS</a>
+      <ul class="navbar__links" id="navLinks">
+        <li><a href="index.html">Home</a></li>
+        <li><a href="shop.html">Shop</a></li>
+        <li><a href="about.html" class="active">About</a></li>
+        <li><a href="contact.html">Contact</a></li>
+      </ul>
+      <div class="navbar__toggle" id="navToggle" onclick="toggleNav()">
+        <span></span><span></span><span></span>
+      </div>
+    </div>
+  </nav>
+
+  <!-- About Hero -->
+  <div class="about-hero">
+    <h1 class="about-hero__title" id="aboutTitle">Our Story</h1>
+    <p class="about-hero__desc" id="aboutDesc"></p>
+  </div>
+
+  <!-- Mission -->
+  <section class="section">
+    <div class="container">
+      <div class="about-content">
+        <div class="about-content__text fade-in-left">
+          <h3>Who We Are</h3>
+          <p id="aboutWho1"></p>
+          <p id="aboutWho2"></p>
+        </div>
+        <div class="about-content__image fade-in-right">&#10024;</div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Values -->
+  <section class="section" style="background:var(--bg-card);">
+    <div class="container">
+      <div class="section__header">
+        <h2 class="section__title">What We Stand For</h2>
+        <p class="section__subtitle">The pillars that define our brand</p>
+        <div class="section__divider"></div>
+      </div>
+      <div class="about-values stagger-children" id="aboutValues"></div>
+    </div>
+  </section>
+
+  <!-- Stats -->
+  <section class="section">
+    <div class="container">
+      <div class="features stagger-children" id="aboutStats"></div>
+    </div>
+  </section>
+
+  <!-- CTA -->
+  <section class="section">
+    <div class="container">
+      <div class="newsletter scale-in">
+        <h2 class="newsletter__title">Ready to Explore?</h2>
+        <p class="newsletter__desc">Discover our latest collection and find your next favourite piece.</p>
+        <a href="shop.html" class="btn btn--primary">Browse Collection &#8594;</a>
+      </div>
+    </div>
+  </section>
+
+  <!-- Footer -->
+  <footer class="footer">
+    <div class="container">
+      <div class="footer__grid">
+        <div>
+          <a href="index.html" class="navbar__logo">ROBINS LUXE THREADS</a>
+          <p class="footer__brand-desc"></p>
+        </div>
+        <div>
+          <h4 class="footer__title">Quick Links</h4>
+          <div class="footer__links">
+            <a href="shop.html">Shop All</a>
+            <a href="about.html">Our Story</a>
+            <a href="contact.html">Contact</a>
+          </div>
+        </div>
+        <div>
+          <h4 class="footer__title">Categories</h4>
+          <div class="footer__links" id="footerCategories"></div>
+        </div>
+        <div>
+          <h4 class="footer__title">Customer Care</h4>
+          <div class="footer__links">
+            <a href="#">Shipping Info</a>
+            <a href="#">Returns & Exchanges</a>
+          </div>
+        </div>
+      </div>
+      <div class="footer__bottom"></div>
+    </div>
+  </footer>
+
+  <script src="js/main.js"></script>
+  <script>
+    document.addEventListener('DOMContentLoaded', () => {
+      loadConfig().then(() => {
+        // About content
+        document.getElementById('aboutTitle').textContent = cfg('about.title', 'Our Story');
+        document.getElementById('aboutDesc').textContent = cfg('about.description', '');
+        document.getElementById('aboutWho1').textContent = cfg('about.whoWeAre', '');
+        document.getElementById('aboutWho2').textContent = cfg('about.whoWeAre2', '');
+
+        // Values
+        const values = cfg('about.values', []);
+        const valuesEl = document.getElementById('aboutValues');
+        if (valuesEl && values.length) {
+          valuesEl.innerHTML = values.map(v => `
+            <div class="about-value">
+              <div class="about-value__icon">${v.icon}</div>
+              <h3 class="about-value__title">${v.title}</h3>
+              <p class="about-value__desc">${v.desc}</p>
+            </div>
+          `).join('');
+        }
+
+        // Stats
+        const stats = cfg('about.stats', []);
+        const statsEl = document.getElementById('aboutStats');
+        if (statsEl && stats.length) {
+          statsEl.innerHTML = stats.map(s => `
+            <div class="feature">
+              <div class="feature__icon" style="font-size:2.5rem;font-weight:700;color:var(--gold);font-family:'Playfair Display',serif;">${s.number}</div>
+              <h3 class="feature__title">${s.label}</h3>
+              <p class="feature__desc">${s.desc}</p>
+            </div>
+          `).join('');
+        }
+
+        renderFooterCategories();
+        applyBranding();
+      });
+    });
+  </script>
+</body>
+</html>
