@@ -1,0 +1,6564 @@
+[
+  {
+    "id": 2,
+    "name": "Bandhani Crepe Wrap Top",
+    "price": 7499,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "This beautifully smocked linen-silk asymmetric top adds instant sophistication to any outfit. Pair it with tailored trousers or a flowing skirt for a polished ensemble.",
+    "oldPrice": 11499,
+    "badge": "Sale"
+  },
+  {
+    "id": 7,
+    "name": "Antique Gold Beaded Tussar Tank Top",
+    "price": 13999,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "An exquisitely crafted pearl-detailed crepe high-neck top that transitions effortlessly from boardroom to evening. Delicate details add a touch of feminine charm."
+  },
+  {
+    "id": 12,
+    "name": "Gold Tassel-Adorned Linen-Silk Shirt",
+    "price": 6999,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "From our Power Dressing collection, this crystal-studded crepe tank top showcases artisanal Indian craftsmanship. The lightweight fabric ensures all-day comfort with effortless style.",
+    "oldPrice": 7499
+  },
+  {
+    "id": 17,
+    "name": "Hand-Smocked Blush Pink Bandeau Top",
+    "price": 5499,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "This beautifully pearl-detailed charmeuse button-down adds instant sophistication to any outfit. Pair it with tailored trousers or a flowing skirt for a polished ensemble.",
+    "oldPrice": 7499,
+    "badge": "Sale"
+  },
+  {
+    "id": 22,
+    "name": "Mauve Beaded Modal Crop Top",
+    "price": 9499,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "A stunning tassel-adorned cotton-silk cold-shoulder top designed for the discerning woman who values quality and style. Perfect for layering or wearing as a statement piece."
+  },
+  {
+    "id": 27,
+    "name": "Sage Pintucked Crepe Corset Top",
+    "price": 13999,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Crafted from luxurious modal, this pearl-detailed tank top features exquisite detailing throughout. An essential piece for building a premium wardrobe."
+  },
+  {
+    "id": 32,
+    "name": "Coral Velvet Boxy Top",
+    "price": 16499,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "This beautifully zari-work satin drape top adds instant sophistication to any outfit. Pair it with tailored trousers or a flowing skirt for a polished ensemble.",
+    "badge": "Hot"
+  },
+  {
+    "id": 37,
+    "name": "Teal Smocked Charmeuse Button-Down",
+    "price": 4499,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "A versatile pearl-detailed boxy top in premium chanderi from the Boho Luxe collection. The relaxed yet refined silhouette makes it perfect for both work and weekend wear.",
+    "oldPrice": 5999
+  },
+  {
+    "id": 42,
+    "name": "Ruby Tussar Off-Shoulder Top",
+    "price": 15499,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "From our Day to Night collection, this hand-block printed modal batwing top showcases artisanal Indian craftsmanship. The lightweight fabric ensures all-day comfort with effortless style."
+  },
+  {
+    "id": 47,
+    "name": "Linen-Silk Crochet-Detailed Drape Top",
+    "price": 5499,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Elevate everyday dressing with this smocked wrap top in sumptuous silk. The thoughtful design and premium fabric make this a standout piece."
+  },
+  {
+    "id": 52,
+    "name": "Hand-Block Printed Tussar Halter Top",
+    "price": 1999,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "This beautifully kalamkari cotton-silk boxy top adds instant sophistication to any outfit. Pair it with tailored trousers or a flowing skirt for a polished ensemble.",
+    "oldPrice": 2999,
+    "badge": "Sale"
+  },
+  {
+    "id": 57,
+    "name": "Forest Green Embroidered Charmeuse Kurta Top",
+    "price": 6999,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Elevate everyday dressing with this hand-smocked blouse in sumptuous organza. The thoughtful design and premium fabric make this a standout piece.",
+    "oldPrice": 8999,
+    "badge": "Sale"
+  },
+  {
+    "id": 62,
+    "name": "Sequined Sapphire Off-Shoulder Top",
+    "price": 2499,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "This bandhani boxy top from the Garden Party line combines traditional techniques with modern design. The cashmere fabric provides a luxurious feel against the skin."
+  },
+  {
+    "id": 67,
+    "name": "Jade Jersey Bustier Top",
+    "price": 9499,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Crafted from luxurious crepe, this tassel-adorned peplum top features exquisite detailing throughout. An essential piece for building a premium wardrobe.",
+    "oldPrice": 14499,
+    "badge": "Sale"
+  },
+  {
+    "id": 72,
+    "name": "Ruffled Modal Cape Top",
+    "price": 8999,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "A stunning pintucked charmeuse peasant top designed for the discerning woman who values quality and style. Perfect for layering or wearing as a statement piece."
+  },
+  {
+    "id": 77,
+    "name": "Onyx Tie-Dye Organza Peasant Top",
+    "price": 1999,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "From our Sunset Edit collection, this bandhani velvet wrap top showcases artisanal Indian craftsmanship. The lightweight fabric ensures all-day comfort with effortless style."
+  },
+  {
+    "id": 82,
+    "name": "Midnight Blue Zari-Work Satin Cape Top",
+    "price": 13499,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "This beaded cold-shoulder top from the City Chic line combines traditional techniques with modern design. The chiffon fabric provides a luxurious feel against the skin."
+  },
+  {
+    "id": 87,
+    "name": "Pearl White Tussar Bustier Top",
+    "price": 16999,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Elevate everyday dressing with this ruffled halter top in sumptuous georgette. The thoughtful design and premium fabric make this a standout piece."
+  },
+  {
+    "id": 92,
+    "name": "Ruby Bandhani Linen-Silk Batwing Top",
+    "price": 12499,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "An exquisitely crafted pintucked crepe crop top that transitions effortlessly from boardroom to evening. Delicate details add a touch of feminine charm.",
+    "badge": "Limited"
+  },
+  {
+    "id": 97,
+    "name": "Antique Gold Zari-Work Silk Boxy Top",
+    "price": 11499,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Crafted from luxurious chiffon, this sequined bustier top features exquisite detailing throughout. An essential piece for building a premium wardrobe."
+  },
+  {
+    "id": 102,
+    "name": "Jersey Zari-Work Halter Top",
+    "price": 13499,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "A stunning pleated organza halter top designed for the discerning woman who values quality and style. Perfect for layering or wearing as a statement piece."
+  },
+  {
+    "id": 107,
+    "name": "Sequined Crepe Shirt",
+    "price": 7499,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "A stunning applique velvet ruffle top designed for the discerning woman who values quality and style. Perfect for layering or wearing as a statement piece."
+  },
+  {
+    "id": 112,
+    "name": "Ruby Charmeuse Crop Top",
+    "price": 10499,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "A stunning beaded satin batwing top designed for the discerning woman who values quality and style. Perfect for layering or wearing as a statement piece.",
+    "oldPrice": 15499,
+    "badge": "Sale"
+  },
+  {
+    "id": 117,
+    "name": "Pleated Linen-Silk Bustier Top",
+    "price": 1499,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "An exquisitely crafted pearl-detailed georgette halter top that transitions effortlessly from boardroom to evening. Delicate details add a touch of feminine charm.",
+    "badge": "New"
+  },
+  {
+    "id": 122,
+    "name": "Modal Embroidered Blouse",
+    "price": 16999,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "This tassel-adorned bustier top from the Brunch Edit line combines traditional techniques with modern design. The satin fabric provides a luxurious feel against the skin.",
+    "oldPrice": 22999,
+    "badge": "Limited"
+  },
+  {
+    "id": 127,
+    "name": "Crepe Hand-Smocked Batwing Top",
+    "price": 14499,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "From our Weekend Luxe collection, this crochet-detailed cotton-silk bandeau top showcases artisanal Indian craftsmanship. The lightweight fabric ensures all-day comfort with effortless style.",
+    "oldPrice": 22999,
+    "badge": "Sale"
+  },
+  {
+    "id": 132,
+    "name": "Indigo Linen-Silk Cold-Shoulder Top",
+    "price": 6999,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Crafted from luxurious chiffon, this mirror-work batwing top features exquisite detailing throughout. An essential piece for building a premium wardrobe."
+  },
+  {
+    "id": 137,
+    "name": "Copper Organza Bandeau Top",
+    "price": 6499,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "A stunning hand-smocked cotton-silk asymmetric top designed for the discerning woman who values quality and style. Perfect for layering or wearing as a statement piece.",
+    "badge": "Sale"
+  },
+  {
+    "id": 142,
+    "name": "Ruffled Crepe Drape Top",
+    "price": 9999,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "This beautifully sequined georgette ruffle top adds instant sophistication to any outfit. Pair it with tailored trousers or a flowing skirt for a polished ensemble."
+  },
+  {
+    "id": 147,
+    "name": "Silver Organza Wrap Top",
+    "price": 11999,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Crafted from luxurious georgette, this mirror-work bustier top features exquisite detailing throughout. An essential piece for building a premium wardrobe."
+  },
+  {
+    "id": 152,
+    "name": "Antique Gold Applique Modal Bandeau Top",
+    "price": 18999,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "An exquisitely crafted ruffled chanderi boxy top that transitions effortlessly from boardroom to evening. Delicate details add a touch of feminine charm."
+  },
+  {
+    "id": 157,
+    "name": "Charmeuse Tie-Dye Kurta Top",
+    "price": 13999,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Elevate everyday dressing with this ruffled halter top in sumptuous tussar. The thoughtful design and premium fabric make this a standout piece.",
+    "badge": "Hot"
+  },
+  {
+    "id": 162,
+    "name": "Champagne Crystal-Studded Organza Wrap Top",
+    "price": 18499,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "This beautifully tie-dye chanderi peplum top adds instant sophistication to any outfit. Pair it with tailored trousers or a flowing skirt for a polished ensemble."
+  },
+  {
+    "id": 167,
+    "name": "Pearl-Detailed Coral Tank Top",
+    "price": 2499,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "A stunning hand-smocked modal boxy top designed for the discerning woman who values quality and style. Perfect for layering or wearing as a statement piece."
+  },
+  {
+    "id": 172,
+    "name": "Silver Lace-Trimmed Jersey Corset Top",
+    "price": 12499,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "A stunning sequined georgette bolero top designed for the discerning woman who values quality and style. Perfect for layering or wearing as a statement piece.",
+    "oldPrice": 14499,
+    "badge": "Sale"
+  },
+  {
+    "id": 177,
+    "name": "Mirror-Work Mauve Peasant Top",
+    "price": 17999,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "An exquisitely crafted pleated jersey boxy top that transitions effortlessly from boardroom to evening. Delicate details add a touch of feminine charm."
+  },
+  {
+    "id": 182,
+    "name": "Forest Green Pearl-Detailed Chanderi Asymmetric Top",
+    "price": 13499,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "From our High Society collection, this applique satin batwing top showcases artisanal Indian craftsmanship. The lightweight fabric ensures all-day comfort with effortless style."
+  },
+  {
+    "id": 187,
+    "name": "Velvet Pintucked Shirt",
+    "price": 5499,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "An exquisitely crafted tie-dye crepe tank top that transitions effortlessly from boardroom to evening. Delicate details add a touch of feminine charm.",
+    "badge": "Limited"
+  },
+  {
+    "id": 192,
+    "name": "Tussar Embroidered Ruffle Top",
+    "price": 9999,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "From our Brunch Edit collection, this tie-dye cotton-silk cape top showcases artisanal Indian craftsmanship. The lightweight fabric ensures all-day comfort with effortless style."
+  },
+  {
+    "id": 197,
+    "name": "Forest Green Modal Off-Shoulder Top",
+    "price": 14999,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Elevate everyday dressing with this kalamkari bolero top in sumptuous cotton-silk. The thoughtful design and premium fabric make this a standout piece."
+  },
+  {
+    "id": 202,
+    "name": "Gold Charmeuse Boxy Top",
+    "price": 2499,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Crafted from luxurious velvet, this mirror-work shirt features exquisite detailing throughout. An essential piece for building a premium wardrobe."
+  },
+  {
+    "id": 207,
+    "name": "Hand-Block Printed Antique Gold Halter Top",
+    "price": 15999,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "This applique corset top from the Day to Night line combines traditional techniques with modern design. The chiffon fabric provides a luxurious feel against the skin."
+  },
+  {
+    "id": 212,
+    "name": "Zari-Work Nude Peasant Top",
+    "price": 5499,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "This beautifully ruffled organza boxy top adds instant sophistication to any outfit. Pair it with tailored trousers or a flowing skirt for a polished ensemble.",
+    "oldPrice": 6999,
+    "badge": "Sale"
+  },
+  {
+    "id": 217,
+    "name": "Slate Grey Tussar Tunic",
+    "price": 13999,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "A stunning smocked charmeuse peasant top designed for the discerning woman who values quality and style. Perfect for layering or wearing as a statement piece.",
+    "oldPrice": 19499,
+    "badge": "Sale"
+  },
+  {
+    "id": 222,
+    "name": "Slate Grey Georgette Peasant Top",
+    "price": 10499,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "An exquisitely crafted crystal-studded crepe camisole that transitions effortlessly from boardroom to evening. Delicate details add a touch of feminine charm."
+  },
+  {
+    "id": 227,
+    "name": "Hand-Block Printed Velvet Drape Top",
+    "price": 10999,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "A stunning sequined silk high-neck top designed for the discerning woman who values quality and style. Perfect for layering or wearing as a statement piece."
+  },
+  {
+    "id": 232,
+    "name": "Rose Gold Cashmere Batwing Top",
+    "price": 5999,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "This bandhani ruffle top from the Day to Night line combines traditional techniques with modern design. The linen-silk fabric provides a luxurious feel against the skin."
+  },
+  {
+    "id": 237,
+    "name": "Indigo Tassel-Adorned Cashmere Cape Top",
+    "price": 6499,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "From our Studio Edit collection, this zari-work velvet kurta top showcases artisanal Indian craftsmanship. The lightweight fabric ensures all-day comfort with effortless style.",
+    "oldPrice": 7499,
+    "badge": "Sale"
+  },
+  {
+    "id": 242,
+    "name": "Blush Pink Ruffled Jersey Boxy Top",
+    "price": 15499,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "This beautifully crochet-detailed velvet high-neck top adds instant sophistication to any outfit. Pair it with tailored trousers or a flowing skirt for a polished ensemble."
+  },
+  {
+    "id": 247,
+    "name": "Jersey Hand-Smocked Cape Top",
+    "price": 19999,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "A versatile bandhani camisole in premium modal from the Studio Edit collection. The relaxed yet refined silhouette makes it perfect for both work and weekend wear."
+  },
+  {
+    "id": 252,
+    "name": "Cashmere Pearl-Detailed Blouse",
+    "price": 8499,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "A versatile tassel-adorned kurta top in premium charmeuse from the City Chic collection. The relaxed yet refined silhouette makes it perfect for both work and weekend wear."
+  },
+  {
+    "id": 257,
+    "name": "Mauve Crochet-Detailed Georgette Tunic",
+    "price": 6499,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Crafted from luxurious cotton-silk, this applique tank top features exquisite detailing throughout. An essential piece for building a premium wardrobe."
+  },
+  {
+    "id": 262,
+    "name": "Modal Bandhani Wrap Top",
+    "price": 17499,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "A versatile zari-work ruffle top in premium chiffon from the Resort Wear collection. The relaxed yet refined silhouette makes it perfect for both work and weekend wear.",
+    "oldPrice": 23499,
+    "badge": "Limited"
+  },
+  {
+    "id": 267,
+    "name": "Terracotta Pleated Tussar Bandeau Top",
+    "price": 8999,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "From our Power Dressing collection, this applique cashmere peplum top showcases artisanal Indian craftsmanship. The lightweight fabric ensures all-day comfort with effortless style.",
+    "badge": "Hot"
+  },
+  {
+    "id": 272,
+    "name": "Ruby Ruffled Charmeuse Halter Top",
+    "price": 15499,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "This beautifully pintucked linen-silk cold-shoulder top adds instant sophistication to any outfit. Pair it with tailored trousers or a flowing skirt for a polished ensemble."
+  },
+  {
+    "id": 277,
+    "name": "Pleated Ivory Crop Top",
+    "price": 16499,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "This mirror-work kurta top from the Day to Night line combines traditional techniques with modern design. The modal fabric provides a luxurious feel against the skin."
+  },
+  {
+    "id": 282,
+    "name": "Antique Gold Modal Shirt",
+    "price": 9999,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "From our Sunset Edit collection, this beaded georgette button-down showcases artisanal Indian craftsmanship. The lightweight fabric ensures all-day comfort with effortless style."
+  },
+  {
+    "id": 287,
+    "name": "Deep Teal Bandhani Charmeuse Camisole",
+    "price": 18499,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Crafted from luxurious tussar, this lace-trimmed button-down features exquisite detailing throughout. An essential piece for building a premium wardrobe."
+  },
+  {
+    "id": 292,
+    "name": "Pearl-Detailed Jersey Button-Down",
+    "price": 17999,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "A stunning mirror-work crepe cold-shoulder top designed for the discerning woman who values quality and style. Perfect for layering or wearing as a statement piece.",
+    "badge": "Limited"
+  },
+  {
+    "id": 297,
+    "name": "Amethyst Cashmere Wrap Top",
+    "price": 8499,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "This beautifully lace-trimmed georgette wrap top adds instant sophistication to any outfit. Pair it with tailored trousers or a flowing skirt for a polished ensemble."
+  },
+  {
+    "id": 302,
+    "name": "Coral Hand-Smocked Organza Crop Top",
+    "price": 4499,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "A versatile smocked peplum top in premium tussar from the Summer Soiree collection. The relaxed yet refined silhouette makes it perfect for both work and weekend wear."
+  },
+  {
+    "id": 307,
+    "name": "Midnight Blue Zari-Work Crepe Boxy Top",
+    "price": 5499,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "An exquisitely crafted tie-dye georgette crop top that transitions effortlessly from boardroom to evening. Delicate details add a touch of feminine charm.",
+    "oldPrice": 6999
+  },
+  {
+    "id": 312,
+    "name": "Plum Beaded Charmeuse Camisole",
+    "price": 3999,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "A versatile hand-smocked peasant top in premium chanderi from the City Chic collection. The relaxed yet refined silhouette makes it perfect for both work and weekend wear.",
+    "oldPrice": 5999,
+    "badge": "Sale"
+  },
+  {
+    "id": 317,
+    "name": "Modal Zari-Work Cold-Shoulder Top",
+    "price": 11499,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "An exquisitely crafted ruffled satin bandeau top that transitions effortlessly from boardroom to evening. Delicate details add a touch of feminine charm.",
+    "badge": "Hot"
+  },
+  {
+    "id": 322,
+    "name": "Jade Georgette Camisole",
+    "price": 13499,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "This beautifully beaded georgette button-down adds instant sophistication to any outfit. Pair it with tailored trousers or a flowing skirt for a polished ensemble."
+  },
+  {
+    "id": 327,
+    "name": "Slate Grey Jersey Bolero Top",
+    "price": 4499,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "A stunning smocked georgette cold-shoulder top designed for the discerning woman who values quality and style. Perfect for layering or wearing as a statement piece."
+  },
+  {
+    "id": 332,
+    "name": "Cashmere Hand-Smocked Kurta Top",
+    "price": 5999,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "A stunning pearl-detailed tussar bolero top designed for the discerning woman who values quality and style. Perfect for layering or wearing as a statement piece."
+  },
+  {
+    "id": 337,
+    "name": "Ruffled Cotton-Silk Cold-Shoulder Top",
+    "price": 2999,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "From our Brunch Edit collection, this pleated cotton-silk boxy top showcases artisanal Indian craftsmanship. The lightweight fabric ensures all-day comfort with effortless style.",
+    "badge": "Hot"
+  },
+  {
+    "id": 342,
+    "name": "Charcoal Modal Button-Down",
+    "price": 10499,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "An exquisitely crafted tassel-adorned silk cold-shoulder top that transitions effortlessly from boardroom to evening. Delicate details add a touch of feminine charm."
+  },
+  {
+    "id": 347,
+    "name": "Velvet Tie-Dye Tank Top",
+    "price": 2499,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "An exquisitely crafted bandhani silk tank top that transitions effortlessly from boardroom to evening. Delicate details add a touch of feminine charm."
+  },
+  {
+    "id": 352,
+    "name": "Mirror-Work Satin Boxy Top",
+    "price": 17499,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "From our Festive Edit collection, this mirror-work chanderi blouse showcases artisanal Indian craftsmanship. The lightweight fabric ensures all-day comfort with effortless style."
+  },
+  {
+    "id": 357,
+    "name": "Cream Pearl-Detailed Velvet Bolero Top",
+    "price": 17999,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "A versatile crochet-detailed bandeau top in premium silk from the Minimalist collection. The relaxed yet refined silhouette makes it perfect for both work and weekend wear."
+  },
+  {
+    "id": 362,
+    "name": "Mauve Velvet High-Neck Top",
+    "price": 13499,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "A versatile pearl-detailed high-neck top in premium chanderi from the Day to Night collection. The relaxed yet refined silhouette makes it perfect for both work and weekend wear."
+  },
+  {
+    "id": 367,
+    "name": "Lace-Trimmed Indigo Shirt",
+    "price": 2999,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "From our Contemporary collection, this lace-trimmed georgette bustier top showcases artisanal Indian craftsmanship. The lightweight fabric ensures all-day comfort with effortless style."
+  },
+  {
+    "id": 372,
+    "name": "Embroidered Tussar Crop Top",
+    "price": 3999,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "This beautifully pleated cotton-silk wrap top adds instant sophistication to any outfit. Pair it with tailored trousers or a flowing skirt for a polished ensemble.",
+    "oldPrice": 4499,
+    "badge": "Sale"
+  },
+  {
+    "id": 377,
+    "name": "Deep Teal Linen-Silk Crop Top",
+    "price": 16999,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "A stunning pearl-detailed chanderi boxy top designed for the discerning woman who values quality and style. Perfect for layering or wearing as a statement piece."
+  },
+  {
+    "id": 382,
+    "name": "Tassel-Adorned Jersey Bustier Top",
+    "price": 10499,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Elevate everyday dressing with this crochet-detailed corset top in sumptuous organza. The thoughtful design and premium fabric make this a standout piece."
+  },
+  {
+    "id": 387,
+    "name": "Pleated Tussar Camisole",
+    "price": 12499,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Crafted from luxurious velvet, this bandhani ruffle top features exquisite detailing throughout. An essential piece for building a premium wardrobe."
+  },
+  {
+    "id": 392,
+    "name": "Mustard Tussar Halter Top",
+    "price": 10999,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "This beautifully hand-block printed organza camisole adds instant sophistication to any outfit. Pair it with tailored trousers or a flowing skirt for a polished ensemble."
+  },
+  {
+    "id": 397,
+    "name": "Sage Embroidered Crepe Cape Top",
+    "price": 7999,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "A stunning applique cashmere peplum top designed for the discerning woman who values quality and style. Perfect for layering or wearing as a statement piece.",
+    "badge": "Sale"
+  },
+  {
+    "id": 402,
+    "name": "Wine Silk Boxy Top",
+    "price": 5499,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Crafted from luxurious tussar, this ruffled blouse features exquisite detailing throughout. An essential piece for building a premium wardrobe.",
+    "oldPrice": 6999
+  },
+  {
+    "id": 407,
+    "name": "Mauve Modal Peasant Top",
+    "price": 19499,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Crafted from luxurious velvet, this tie-dye shirt features exquisite detailing throughout. An essential piece for building a premium wardrobe."
+  },
+  {
+    "id": 412,
+    "name": "Ivory Jersey High-Neck Top",
+    "price": 8499,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Crafted from luxurious chiffon, this pleated camisole features exquisite detailing throughout. An essential piece for building a premium wardrobe."
+  },
+  {
+    "id": 417,
+    "name": "Applique Jade Kurta Top",
+    "price": 15499,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "A versatile pintucked cold-shoulder top in premium cotton-silk from the Modern Muse collection. The relaxed yet refined silhouette makes it perfect for both work and weekend wear."
+  },
+  {
+    "id": 422,
+    "name": "Satin Crystal-Studded Bandeau Top",
+    "price": 14999,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Crafted from luxurious modal, this beaded high-neck top features exquisite detailing throughout. An essential piece for building a premium wardrobe."
+  },
+  {
+    "id": 427,
+    "name": "Champagne Cashmere Tunic",
+    "price": 17999,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "This beautifully crystal-studded cashmere cape top adds instant sophistication to any outfit. Pair it with tailored trousers or a flowing skirt for a polished ensemble.",
+    "badge": "Limited"
+  },
+  {
+    "id": 432,
+    "name": "Teal Lace-Trimmed Jersey Drape Top",
+    "price": 6999,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "A versatile crochet-detailed peplum top in premium modal from the Artisan Edit collection. The relaxed yet refined silhouette makes it perfect for both work and weekend wear.",
+    "oldPrice": 9499
+  },
+  {
+    "id": 437,
+    "name": "Ruffled Teal Blouse",
+    "price": 4499,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "This beautifully hand-block printed velvet peplum top adds instant sophistication to any outfit. Pair it with tailored trousers or a flowing skirt for a polished ensemble."
+  },
+  {
+    "id": 442,
+    "name": "Modal Zari-Work Bustier Top",
+    "price": 17499,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "A stunning sequined modal halter top designed for the discerning woman who values quality and style. Perfect for layering or wearing as a statement piece."
+  },
+  {
+    "id": 447,
+    "name": "Ruffled Antique Gold Peplum Top",
+    "price": 11999,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "A stunning pearl-detailed cashmere button-down designed for the discerning woman who values quality and style. Perfect for layering or wearing as a statement piece.",
+    "badge": "Limited"
+  },
+  {
+    "id": 452,
+    "name": "Pearl-Detailed Modal Peplum Top",
+    "price": 18999,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "A stunning zari-work velvet bandeau top designed for the discerning woman who values quality and style. Perfect for layering or wearing as a statement piece."
+  },
+  {
+    "id": 457,
+    "name": "Dusty Rose Crepe Peplum Top",
+    "price": 17999,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "A stunning applique satin drape top designed for the discerning woman who values quality and style. Perfect for layering or wearing as a statement piece."
+  },
+  {
+    "id": 462,
+    "name": "Crystal-Studded Jersey Crop Top",
+    "price": 13999,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Elevate everyday dressing with this tassel-adorned wrap top in sumptuous crepe. The thoughtful design and premium fabric make this a standout piece."
+  },
+  {
+    "id": 467,
+    "name": "Hand-Smocked Chanderi High-Neck Top",
+    "price": 15499,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "This tassel-adorned kurta top from the Artisan Edit line combines traditional techniques with modern design. The silk fabric provides a luxurious feel against the skin.",
+    "oldPrice": 22499,
+    "badge": "Sale"
+  },
+  {
+    "id": 472,
+    "name": "Emerald Tussar Shirt",
+    "price": 14999,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "This beautifully tassel-adorned organza halter top adds instant sophistication to any outfit. Pair it with tailored trousers or a flowing skirt for a polished ensemble."
+  },
+  {
+    "id": 477,
+    "name": "Chanderi Beaded Corset Top",
+    "price": 18499,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "An exquisitely crafted mirror-work modal bolero top that transitions effortlessly from boardroom to evening. Delicate details add a touch of feminine charm."
+  },
+  {
+    "id": 482,
+    "name": "Pleated Silk Bustier Top",
+    "price": 9999,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Crafted from luxurious modal, this embroidered peplum top features exquisite detailing throughout. An essential piece for building a premium wardrobe."
+  },
+  {
+    "id": 487,
+    "name": "Modal Hand-Smocked Bolero Top",
+    "price": 15999,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "A stunning crochet-detailed organza wrap top designed for the discerning woman who values quality and style. Perfect for layering or wearing as a statement piece."
+  },
+  {
+    "id": 492,
+    "name": "Pintucked Cotton-Silk Tank Top",
+    "price": 6999,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "From our City Chic collection, this ruffled cotton-silk button-down showcases artisanal Indian craftsmanship. The lightweight fabric ensures all-day comfort with effortless style."
+  },
+  {
+    "id": 497,
+    "name": "Chanderi Pintucked Cape Top",
+    "price": 13499,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "From our High Society collection, this hand-block printed crepe peplum top showcases artisanal Indian craftsmanship. The lightweight fabric ensures all-day comfort with effortless style."
+  },
+  {
+    "id": 502,
+    "name": "Midnight Blue Cashmere High-Neck Top",
+    "price": 18499,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "A versatile beaded peplum top in premium velvet from the Free Spirit collection. The relaxed yet refined silhouette makes it perfect for both work and weekend wear."
+  },
+  {
+    "id": 507,
+    "name": "Modal Tie-Dye Ruffle Top",
+    "price": 13499,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "From our Urban Elegance collection, this pintucked charmeuse camisole showcases artisanal Indian craftsmanship. The lightweight fabric ensures all-day comfort with effortless style."
+  },
+  {
+    "id": 512,
+    "name": "Pleated Linen-Silk Button-Down",
+    "price": 5999,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Crafted from luxurious linen-silk, this pearl-detailed tunic features exquisite detailing throughout. An essential piece for building a premium wardrobe."
+  },
+  {
+    "id": 517,
+    "name": "Chiffon Bandhani Cape Top",
+    "price": 15999,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Elevate everyday dressing with this smocked wrap top in sumptuous jersey. The thoughtful design and premium fabric make this a standout piece.",
+    "badge": "Sale"
+  },
+  {
+    "id": 522,
+    "name": "Georgette Kalamkari Blouse",
+    "price": 12499,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "This beautifully smocked georgette camisole adds instant sophistication to any outfit. Pair it with tailored trousers or a flowing skirt for a polished ensemble.",
+    "oldPrice": 18499,
+    "badge": "Sale"
+  },
+  {
+    "id": 527,
+    "name": "Tussar Embroidered Halter Top",
+    "price": 2999,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "This beautifully tie-dye satin blouse adds instant sophistication to any outfit. Pair it with tailored trousers or a flowing skirt for a polished ensemble."
+  },
+  {
+    "id": 532,
+    "name": "Blush Pink Cotton-Silk Button-Down",
+    "price": 18999,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "This beautifully crystal-studded chiffon crop top adds instant sophistication to any outfit. Pair it with tailored trousers or a flowing skirt for a polished ensemble.",
+    "oldPrice": 29499,
+    "badge": "New"
+  },
+  {
+    "id": 537,
+    "name": "Antique Gold Applique Cashmere Asymmetric Top",
+    "price": 12999,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "From our Boho Luxe collection, this tassel-adorned cashmere cold-shoulder top showcases artisanal Indian craftsmanship. The lightweight fabric ensures all-day comfort with effortless style."
+  },
+  {
+    "id": 542,
+    "name": "Crepe Beaded Boxy Top",
+    "price": 17999,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "A versatile applique blouse in premium chiffon from the Evening Edit collection. The relaxed yet refined silhouette makes it perfect for both work and weekend wear."
+  },
+  {
+    "id": 547,
+    "name": "Gold Jersey Kurta Top",
+    "price": 11499,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "An exquisitely crafted beaded silk kurta top that transitions effortlessly from boardroom to evening. Delicate details add a touch of feminine charm.",
+    "oldPrice": 12999
+  },
+  {
+    "id": 552,
+    "name": "Crepe Mirror-Work Wrap Top",
+    "price": 19499,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "This smocked ruffle top from the Evening Edit line combines traditional techniques with modern design. The satin fabric provides a luxurious feel against the skin."
+  },
+  {
+    "id": 557,
+    "name": "Burnt Orange Sequined Jersey Asymmetric Top",
+    "price": 15999,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "This beautifully crochet-detailed crepe button-down adds instant sophistication to any outfit. Pair it with tailored trousers or a flowing skirt for a polished ensemble.",
+    "badge": "New"
+  },
+  {
+    "id": 562,
+    "name": "Pintucked Silver Peasant Top",
+    "price": 13999,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "A versatile smocked cape top in premium charmeuse from the Boho Luxe collection. The relaxed yet refined silhouette makes it perfect for both work and weekend wear."
+  },
+  {
+    "id": 567,
+    "name": "Charmeuse Kalamkari Drape Top",
+    "price": 15999,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "This beautifully pleated satin tunic adds instant sophistication to any outfit. Pair it with tailored trousers or a flowing skirt for a polished ensemble."
+  },
+  {
+    "id": 572,
+    "name": "Hand-Block Printed Velvet Bandeau Top",
+    "price": 15499,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "A versatile applique cape top in premium tussar from the Studio Edit collection. The relaxed yet refined silhouette makes it perfect for both work and weekend wear."
+  },
+  {
+    "id": 577,
+    "name": "Mustard Chiffon Button-Down",
+    "price": 5499,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "A versatile pintucked off-shoulder top in premium charmeuse from the City Chic collection. The relaxed yet refined silhouette makes it perfect for both work and weekend wear.",
+    "oldPrice": 8499,
+    "badge": "Hot"
+  },
+  {
+    "id": 582,
+    "name": "Hand-Smocked Charmeuse Camisole",
+    "price": 6999,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Elevate everyday dressing with this beaded tunic in sumptuous linen-silk. The thoughtful design and premium fabric make this a standout piece."
+  },
+  {
+    "id": 587,
+    "name": "Silver Tassel-Adorned Modal Button-Down",
+    "price": 14999,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "This beautifully kalamkari cotton-silk tank top adds instant sophistication to any outfit. Pair it with tailored trousers or a flowing skirt for a polished ensemble."
+  },
+  {
+    "id": 592,
+    "name": "Terracotta Pintucked Linen-Silk Ruffle Top",
+    "price": 6499,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "A stunning embroidered satin boxy top designed for the discerning woman who values quality and style. Perfect for layering or wearing as a statement piece."
+  },
+  {
+    "id": 597,
+    "name": "Chanderi Hand-Block Printed Peasant Top",
+    "price": 4999,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "This beautifully embroidered silk wrap top adds instant sophistication to any outfit. Pair it with tailored trousers or a flowing skirt for a polished ensemble.",
+    "oldPrice": 5999,
+    "badge": "New"
+  },
+  {
+    "id": 602,
+    "name": "Wine Cotton-Silk Blouse",
+    "price": 17499,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "A stunning pleated cashmere bustier top designed for the discerning woman who values quality and style. Perfect for layering or wearing as a statement piece."
+  },
+  {
+    "id": 607,
+    "name": "Teal Smocked Chiffon Shirt",
+    "price": 6999,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Crafted from luxurious linen-silk, this lace-trimmed bandeau top features exquisite detailing throughout. An essential piece for building a premium wardrobe.",
+    "oldPrice": 7999,
+    "badge": "Sale"
+  },
+  {
+    "id": 612,
+    "name": "Onyx Velvet Blouse",
+    "price": 5499,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Crafted from luxurious organza, this crystal-studded crop top features exquisite detailing throughout. An essential piece for building a premium wardrobe.",
+    "oldPrice": 7999,
+    "badge": "Limited"
+  },
+  {
+    "id": 617,
+    "name": "Dusty Rose Smocked Charmeuse Wrap Top",
+    "price": 17999,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "An exquisitely crafted hand-block printed organza high-neck top that transitions effortlessly from boardroom to evening. Delicate details add a touch of feminine charm."
+  },
+  {
+    "id": 622,
+    "name": "Tassel-Adorned Crepe Bandeau Top",
+    "price": 16499,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Crafted from luxurious tussar, this zari-work shirt features exquisite detailing throughout. An essential piece for building a premium wardrobe."
+  },
+  {
+    "id": 627,
+    "name": "Pintucked Crepe Bustier Top",
+    "price": 17999,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "A stunning hand-smocked velvet button-down designed for the discerning woman who values quality and style. Perfect for layering or wearing as a statement piece."
+  },
+  {
+    "id": 632,
+    "name": "Kalamkari Copper Tank Top",
+    "price": 11999,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "A versatile kalamkari tank top in premium crepe from the Resort Wear collection. The relaxed yet refined silhouette makes it perfect for both work and weekend wear."
+  },
+  {
+    "id": 637,
+    "name": "Coral Pintucked Charmeuse Peasant Top",
+    "price": 11999,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Elevate everyday dressing with this hand-block printed tunic in sumptuous cotton-silk. The thoughtful design and premium fabric make this a standout piece."
+  },
+  {
+    "id": 642,
+    "name": "Kalamkari Midnight Blue Off-Shoulder Top",
+    "price": 2499,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Crafted from luxurious cashmere, this tassel-adorned peplum top features exquisite detailing throughout. An essential piece for building a premium wardrobe."
+  },
+  {
+    "id": 647,
+    "name": "Lace-Trimmed Antique Gold Cold-Shoulder Top",
+    "price": 3499,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "This beaded shirt from the Contemporary line combines traditional techniques with modern design. The silk fabric provides a luxurious feel against the skin."
+  },
+  {
+    "id": 652,
+    "name": "Antique Gold Chiffon Off-Shoulder Top",
+    "price": 12999,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "This beautifully sequined georgette kurta top adds instant sophistication to any outfit. Pair it with tailored trousers or a flowing skirt for a polished ensemble."
+  },
+  {
+    "id": 657,
+    "name": "Amethyst Linen-Silk Corset Top",
+    "price": 11999,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "An exquisitely crafted tassel-adorned cashmere blouse that transitions effortlessly from boardroom to evening. Delicate details add a touch of feminine charm."
+  },
+  {
+    "id": 662,
+    "name": "Kalamkari Terracotta Bustier Top",
+    "price": 7499,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "This embroidered peasant top from the Boho Luxe line combines traditional techniques with modern design. The crepe fabric provides a luxurious feel against the skin."
+  },
+  {
+    "id": 667,
+    "name": "Zari-Work Linen-Silk Boxy Top",
+    "price": 5999,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Elevate everyday dressing with this tie-dye crop top in sumptuous modal. The thoughtful design and premium fabric make this a standout piece."
+  },
+  {
+    "id": 672,
+    "name": "Lavender Silk Bandeau Top",
+    "price": 10999,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "This beautifully crochet-detailed modal asymmetric top adds instant sophistication to any outfit. Pair it with tailored trousers or a flowing skirt for a polished ensemble."
+  },
+  {
+    "id": 677,
+    "name": "Lace-Trimmed Burnt Orange Drape Top",
+    "price": 2499,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Elevate everyday dressing with this tie-dye boxy top in sumptuous charmeuse. The thoughtful design and premium fabric make this a standout piece.",
+    "badge": "Hot"
+  },
+  {
+    "id": 682,
+    "name": "Mustard Georgette Blouse",
+    "price": 18499,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "From our Power Dressing collection, this bandhani linen-silk boxy top showcases artisanal Indian craftsmanship. The lightweight fabric ensures all-day comfort with effortless style."
+  },
+  {
+    "id": 687,
+    "name": "Pearl-Detailed Silk Peasant Top",
+    "price": 19499,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "A versatile ruffled asymmetric top in premium modal from the Summer Soiree collection. The relaxed yet refined silhouette makes it perfect for both work and weekend wear."
+  },
+  {
+    "id": 692,
+    "name": "Crepe Pintucked High-Neck Top",
+    "price": 14999,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "An exquisitely crafted pleated cotton-silk bolero top that transitions effortlessly from boardroom to evening. Delicate details add a touch of feminine charm."
+  },
+  {
+    "id": 697,
+    "name": "Mustard Charmeuse Corset Top",
+    "price": 11499,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Crafted from luxurious cotton-silk, this hand-smocked bolero top features exquisite detailing throughout. An essential piece for building a premium wardrobe."
+  },
+  {
+    "id": 702,
+    "name": "Cotton-Silk Kalamkari Asymmetric Top",
+    "price": 8499,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Elevate everyday dressing with this bandhani tunic in sumptuous charmeuse. The thoughtful design and premium fabric make this a standout piece."
+  },
+  {
+    "id": 707,
+    "name": "Midnight Blue Cotton-Silk Blouse",
+    "price": 13499,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "A versatile pearl-detailed crop top in premium organza from the Power Dressing collection. The relaxed yet refined silhouette makes it perfect for both work and weekend wear."
+  },
+  {
+    "id": 712,
+    "name": "Satin Embroidered Batwing Top",
+    "price": 19499,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "An exquisitely crafted embroidered organza high-neck top that transitions effortlessly from boardroom to evening. Delicate details add a touch of feminine charm.",
+    "oldPrice": 21499
+  },
+  {
+    "id": 717,
+    "name": "Mirror-Work Linen-Silk Blouse",
+    "price": 4499,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "A versatile kalamkari crop top in premium tussar from the Urban Elegance collection. The relaxed yet refined silhouette makes it perfect for both work and weekend wear."
+  },
+  {
+    "id": 722,
+    "name": "Pearl White Cotton-Silk Boxy Top",
+    "price": 14999,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "This beautifully beaded crepe bolero top adds instant sophistication to any outfit. Pair it with tailored trousers or a flowing skirt for a polished ensemble."
+  },
+  {
+    "id": 727,
+    "name": "Satin Beaded Crop Top",
+    "price": 4499,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "This beautifully kalamkari crepe bustier top adds instant sophistication to any outfit. Pair it with tailored trousers or a flowing skirt for a polished ensemble."
+  },
+  {
+    "id": 732,
+    "name": "Chanderi Sequined Batwing Top",
+    "price": 13999,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Crafted from luxurious crepe, this sequined kurta top features exquisite detailing throughout. An essential piece for building a premium wardrobe."
+  },
+  {
+    "id": 737,
+    "name": "Rose Gold Crochet-Detailed Modal Cape Top",
+    "price": 2999,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "A stunning beaded jersey crop top designed for the discerning woman who values quality and style. Perfect for layering or wearing as a statement piece."
+  },
+  {
+    "id": 742,
+    "name": "Champagne Crepe Shirt",
+    "price": 7499,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "A stunning mirror-work cashmere blouse designed for the discerning woman who values quality and style. Perfect for layering or wearing as a statement piece.",
+    "oldPrice": 9999,
+    "badge": "Sale"
+  },
+  {
+    "id": 747,
+    "name": "Cream Organza Cape Top",
+    "price": 4499,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Crafted from luxurious chanderi, this crystal-studded crop top features exquisite detailing throughout. An essential piece for building a premium wardrobe."
+  },
+  {
+    "id": 752,
+    "name": "Pearl-Detailed Georgette Wrap Top",
+    "price": 18999,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "From our Garden Party collection, this beaded chiffon peplum top showcases artisanal Indian craftsmanship. The lightweight fabric ensures all-day comfort with effortless style."
+  },
+  {
+    "id": 757,
+    "name": "Silk Crystal-Studded Cold-Shoulder Top",
+    "price": 2999,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "This beautifully crystal-studded cashmere tank top adds instant sophistication to any outfit. Pair it with tailored trousers or a flowing skirt for a polished ensemble."
+  },
+  {
+    "id": 762,
+    "name": "Teal Cotton-Silk Corset Top",
+    "price": 1499,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Elevate everyday dressing with this pintucked batwing top in sumptuous charmeuse. The thoughtful design and premium fabric make this a standout piece.",
+    "badge": "Hot"
+  },
+  {
+    "id": 767,
+    "name": "Indigo Jersey Crop Top",
+    "price": 9999,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "A stunning zari-work velvet cape top designed for the discerning woman who values quality and style. Perfect for layering or wearing as a statement piece."
+  },
+  {
+    "id": 772,
+    "name": "Bandhani Modal Off-Shoulder Top",
+    "price": 8999,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "This smocked batwing top from the Sunset Edit line combines traditional techniques with modern design. The charmeuse fabric provides a luxurious feel against the skin."
+  },
+  {
+    "id": 777,
+    "name": "Emerald Crepe Wrap Top",
+    "price": 10499,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "A stunning bandhani satin boxy top designed for the discerning woman who values quality and style. Perfect for layering or wearing as a statement piece."
+  },
+  {
+    "id": 782,
+    "name": "Kalamkari Charmeuse Tunic",
+    "price": 17999,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "A stunning smocked cotton-silk button-down designed for the discerning woman who values quality and style. Perfect for layering or wearing as a statement piece."
+  },
+  {
+    "id": 787,
+    "name": "Satin Kalamkari Cape Top",
+    "price": 3999,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "A versatile tassel-adorned batwing top in premium chanderi from the Sunset Edit collection. The relaxed yet refined silhouette makes it perfect for both work and weekend wear."
+  },
+  {
+    "id": 792,
+    "name": "Silver Hand-Smocked Chiffon Bustier Top",
+    "price": 5499,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Crafted from luxurious modal, this bandhani bustier top features exquisite detailing throughout. An essential piece for building a premium wardrobe."
+  },
+  {
+    "id": 797,
+    "name": "Ruffled Velvet Off-Shoulder Top",
+    "price": 6999,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "A versatile kalamkari button-down in premium modal from the Brunch Edit collection. The relaxed yet refined silhouette makes it perfect for both work and weekend wear."
+  },
+  {
+    "id": 802,
+    "name": "Smocked Tussar Blouse",
+    "price": 19499,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Crafted from luxurious georgette, this kalamkari drape top features exquisite detailing throughout. An essential piece for building a premium wardrobe."
+  },
+  {
+    "id": 807,
+    "name": "Lace-Trimmed Jersey Tunic",
+    "price": 11999,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "From our Studio Edit collection, this zari-work linen-silk ruffle top showcases artisanal Indian craftsmanship. The lightweight fabric ensures all-day comfort with effortless style.",
+    "oldPrice": 18999,
+    "badge": "Sale"
+  },
+  {
+    "id": 812,
+    "name": "Dusty Rose Tassel-Adorned Satin Button-Down",
+    "price": 14499,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "A versatile applique corset top in premium linen-silk from the Sunset Edit collection. The relaxed yet refined silhouette makes it perfect for both work and weekend wear."
+  },
+  {
+    "id": 817,
+    "name": "Charcoal Hand-Block Printed Crepe Ruffle Top",
+    "price": 19499,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "This applique blouse from the Contemporary line combines traditional techniques with modern design. The chanderi fabric provides a luxurious feel against the skin."
+  },
+  {
+    "id": 822,
+    "name": "Pintucked Mustard Ruffle Top",
+    "price": 15499,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Crafted from luxurious georgette, this hand-block printed drape top features exquisite detailing throughout. An essential piece for building a premium wardrobe."
+  },
+  {
+    "id": 827,
+    "name": "Tie-Dye Satin High-Neck Top",
+    "price": 12999,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "A stunning hand-smocked georgette crop top designed for the discerning woman who values quality and style. Perfect for layering or wearing as a statement piece."
+  },
+  {
+    "id": 832,
+    "name": "Burnt Orange Tussar Button-Down",
+    "price": 13999,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Elevate everyday dressing with this lace-trimmed batwing top in sumptuous jersey. The thoughtful design and premium fabric make this a standout piece."
+  },
+  {
+    "id": 837,
+    "name": "Zari-Work Georgette Bandeau Top",
+    "price": 16999,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "This tie-dye crop top from the Minimalist line combines traditional techniques with modern design. The jersey fabric provides a luxurious feel against the skin.",
+    "oldPrice": 20499,
+    "badge": "Sale"
+  },
+  {
+    "id": 842,
+    "name": "Pleated Forest Green High-Neck Top",
+    "price": 17999,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Elevate everyday dressing with this bandhani peplum top in sumptuous linen-silk. The thoughtful design and premium fabric make this a standout piece."
+  },
+  {
+    "id": 847,
+    "name": "Slate Grey Crystal-Studded Cotton-Silk Asymmetric Top",
+    "price": 12499,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "This hand-block printed bustier top from the Summer Soiree line combines traditional techniques with modern design. The satin fabric provides a luxurious feel against the skin."
+  },
+  {
+    "id": 852,
+    "name": "Pleated Cashmere Camisole",
+    "price": 2499,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Elevate everyday dressing with this crochet-detailed cape top in sumptuous georgette. The thoughtful design and premium fabric make this a standout piece."
+  },
+  {
+    "id": 857,
+    "name": "Chiffon Hand-Smocked Tunic",
+    "price": 11499,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Elevate everyday dressing with this crystal-studded kurta top in sumptuous satin. The thoughtful design and premium fabric make this a standout piece."
+  },
+  {
+    "id": 862,
+    "name": "Hand-Smocked Crepe Cold-Shoulder Top",
+    "price": 9499,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "This ruffled halter top from the Minimalist line combines traditional techniques with modern design. The chiffon fabric provides a luxurious feel against the skin.",
+    "oldPrice": 10999
+  },
+  {
+    "id": 867,
+    "name": "Chiffon Zari-Work Tank Top",
+    "price": 8499,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "From our Studio Edit collection, this hand-smocked cashmere batwing top showcases artisanal Indian craftsmanship. The lightweight fabric ensures all-day comfort with effortless style."
+  },
+  {
+    "id": 872,
+    "name": "Lace-Trimmed Mustard Kurta Top",
+    "price": 13499,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Crafted from luxurious charmeuse, this crochet-detailed peasant top features exquisite detailing throughout. An essential piece for building a premium wardrobe."
+  },
+  {
+    "id": 877,
+    "name": "Jade Tie-Dye Linen-Silk Halter Top",
+    "price": 7499,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "This beautifully applique chanderi kurta top adds instant sophistication to any outfit. Pair it with tailored trousers or a flowing skirt for a polished ensemble."
+  },
+  {
+    "id": 882,
+    "name": "Velvet Ruffled Off-Shoulder Top",
+    "price": 2499,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "From our High Society collection, this tassel-adorned organza tunic showcases artisanal Indian craftsmanship. The lightweight fabric ensures all-day comfort with effortless style."
+  },
+  {
+    "id": 887,
+    "name": "Slate Grey Linen-Silk Bandeau Top",
+    "price": 10499,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "This beautifully zari-work charmeuse boxy top adds instant sophistication to any outfit. Pair it with tailored trousers or a flowing skirt for a polished ensemble."
+  },
+  {
+    "id": 892,
+    "name": "Jade Applique Velvet Tunic",
+    "price": 3999,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "An exquisitely crafted crystal-studded crepe tank top that transitions effortlessly from boardroom to evening. Delicate details add a touch of feminine charm."
+  },
+  {
+    "id": 897,
+    "name": "Tassel-Adorned Linen-Silk Peplum Top",
+    "price": 5499,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "An exquisitely crafted zari-work chanderi tunic that transitions effortlessly from boardroom to evening. Delicate details add a touch of feminine charm."
+  },
+  {
+    "id": 902,
+    "name": "Amethyst Pintucked Cashmere Bandeau Top",
+    "price": 17499,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "A versatile pintucked drape top in premium velvet from the Modern Muse collection. The relaxed yet refined silhouette makes it perfect for both work and weekend wear."
+  },
+  {
+    "id": 907,
+    "name": "Chanderi Hand-Block Printed Halter Top",
+    "price": 4499,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "An exquisitely crafted zari-work tussar button-down that transitions effortlessly from boardroom to evening. Delicate details add a touch of feminine charm.",
+    "oldPrice": 5499,
+    "badge": "Sale"
+  },
+  {
+    "id": 912,
+    "name": "Coral Tassel-Adorned Jersey High-Neck Top",
+    "price": 15499,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "This ruffled bolero top from the Sunset Edit line combines traditional techniques with modern design. The tussar fabric provides a luxurious feel against the skin.",
+    "badge": "Limited"
+  },
+  {
+    "id": 917,
+    "name": "Terracotta Tassel-Adorned Cotton-Silk Peplum Top",
+    "price": 8499,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Crafted from luxurious velvet, this hand-block printed blouse features exquisite detailing throughout. An essential piece for building a premium wardrobe."
+  },
+  {
+    "id": 922,
+    "name": "Chiffon Tie-Dye Ruffle Top",
+    "price": 12999,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "This sequined blouse from the Resort Wear line combines traditional techniques with modern design. The crepe fabric provides a luxurious feel against the skin."
+  },
+  {
+    "id": 927,
+    "name": "Pintucked Cream Batwing Top",
+    "price": 13499,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "This embroidered off-shoulder top from the Studio Edit line combines traditional techniques with modern design. The linen-silk fabric provides a luxurious feel against the skin."
+  },
+  {
+    "id": 932,
+    "name": "Cashmere Kalamkari Cape Top",
+    "price": 5999,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "A versatile sequined tank top in premium linen-silk from the Urban Elegance collection. The relaxed yet refined silhouette makes it perfect for both work and weekend wear.",
+    "badge": "New"
+  },
+  {
+    "id": 937,
+    "name": "Dusty Rose Hand-Block Printed Silk Crop Top",
+    "price": 11999,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "A stunning bandhani satin batwing top designed for the discerning woman who values quality and style. Perfect for layering or wearing as a statement piece.",
+    "badge": "New"
+  },
+  {
+    "id": 942,
+    "name": "Coral Sequined Georgette Crop Top",
+    "price": 2499,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "This beautifully zari-work velvet ruffle top adds instant sophistication to any outfit. Pair it with tailored trousers or a flowing skirt for a polished ensemble.",
+    "oldPrice": 2999
+  },
+  {
+    "id": 947,
+    "name": "Wine Embroidered Tussar Blouse",
+    "price": 6499,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "A versatile hand-block printed wrap top in premium cotton-silk from the Minimalist collection. The relaxed yet refined silhouette makes it perfect for both work and weekend wear."
+  },
+  {
+    "id": 952,
+    "name": "Crepe Beaded Cold-Shoulder Top",
+    "price": 14999,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "From our Minimalist collection, this pearl-detailed chiffon bustier top showcases artisanal Indian craftsmanship. The lightweight fabric ensures all-day comfort with effortless style."
+  },
+  {
+    "id": 957,
+    "name": "Mustard Silk Peasant Top",
+    "price": 12499,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "From our Garden Party collection, this pleated georgette camisole showcases artisanal Indian craftsmanship. The lightweight fabric ensures all-day comfort with effortless style."
+  },
+  {
+    "id": 962,
+    "name": "Embroidered Sage Asymmetric Top",
+    "price": 16999,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "An exquisitely crafted tie-dye chiffon bandeau top that transitions effortlessly from boardroom to evening. Delicate details add a touch of feminine charm.",
+    "badge": "Limited"
+  },
+  {
+    "id": 967,
+    "name": "Pearl-Detailed Linen-Silk Tank Top",
+    "price": 6499,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "This pearl-detailed boxy top from the Modern Muse line combines traditional techniques with modern design. The modal fabric provides a luxurious feel against the skin.",
+    "badge": "New"
+  },
+  {
+    "id": 972,
+    "name": "Pearl-Detailed Linen-Silk Kurta Top",
+    "price": 9499,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "An exquisitely crafted hand-block printed charmeuse cold-shoulder top that transitions effortlessly from boardroom to evening. Delicate details add a touch of feminine charm."
+  },
+  {
+    "id": 977,
+    "name": "Applique Modal Asymmetric Top",
+    "price": 14499,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "This beautifully pintucked silk bolero top adds instant sophistication to any outfit. Pair it with tailored trousers or a flowing skirt for a polished ensemble."
+  },
+  {
+    "id": 982,
+    "name": "Copper Tussar Boxy Top",
+    "price": 14999,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "An exquisitely crafted bandhani charmeuse bustier top that transitions effortlessly from boardroom to evening. Delicate details add a touch of feminine charm."
+  },
+  {
+    "id": 987,
+    "name": "Georgette Pintucked Asymmetric Top",
+    "price": 12499,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "A versatile pleated cape top in premium chiffon from the Day to Night collection. The relaxed yet refined silhouette makes it perfect for both work and weekend wear."
+  },
+  {
+    "id": 992,
+    "name": "Sapphire Pintucked Modal Cold-Shoulder Top",
+    "price": 16499,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Crafted from luxurious tussar, this ruffled peasant top features exquisite detailing throughout. An essential piece for building a premium wardrobe."
+  },
+  {
+    "id": 997,
+    "name": "Velvet Kalamkari Off-Shoulder Top",
+    "price": 7499,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Crafted from luxurious linen-silk, this hand-smocked bustier top features exquisite detailing throughout. An essential piece for building a premium wardrobe."
+  },
+  {
+    "id": 1002,
+    "name": "Mustard Organza Off-Shoulder Top",
+    "price": 9999,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "A stunning sequined velvet peasant top designed for the discerning woman who values quality and style. Perfect for layering or wearing as a statement piece.",
+    "oldPrice": 13499,
+    "badge": "Sale"
+  },
+  {
+    "id": 1007,
+    "name": "Indigo Cotton-Silk Drape Top",
+    "price": 13999,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "From our High Society collection, this sequined linen-silk kurta top showcases artisanal Indian craftsmanship. The lightweight fabric ensures all-day comfort with effortless style.",
+    "oldPrice": 15999,
+    "badge": "Sale"
+  },
+  {
+    "id": 1012,
+    "name": "Cotton-Silk Sequined Kurta Top",
+    "price": 17499,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "From our Contemporary collection, this pearl-detailed cotton-silk cape top showcases artisanal Indian craftsmanship. The lightweight fabric ensures all-day comfort with effortless style."
+  },
+  {
+    "id": 1017,
+    "name": "Pintucked Tussar Peplum Top",
+    "price": 9499,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "From our Brunch Edit collection, this tie-dye linen-silk bustier top showcases artisanal Indian craftsmanship. The lightweight fabric ensures all-day comfort with effortless style.",
+    "badge": "Sale"
+  },
+  {
+    "id": 1022,
+    "name": "Ruffled Cashmere Crop Top",
+    "price": 6499,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "This beautifully applique silk bustier top adds instant sophistication to any outfit. Pair it with tailored trousers or a flowing skirt for a polished ensemble."
+  },
+  {
+    "id": 1027,
+    "name": "Modal Bandhani Bustier Top",
+    "price": 8999,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Crafted from luxurious velvet, this bandhani off-shoulder top features exquisite detailing throughout. An essential piece for building a premium wardrobe.",
+    "oldPrice": 12999,
+    "badge": "Sale"
+  },
+  {
+    "id": 1032,
+    "name": "Applique Crepe Wrap Top",
+    "price": 4499,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "From our City Chic collection, this crystal-studded silk cold-shoulder top showcases artisanal Indian craftsmanship. The lightweight fabric ensures all-day comfort with effortless style."
+  },
+  {
+    "id": 1037,
+    "name": "Charcoal Sequined Modal Halter Top",
+    "price": 15999,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "A versatile tassel-adorned peasant top in premium silk from the Modern Muse collection. The relaxed yet refined silhouette makes it perfect for both work and weekend wear."
+  },
+  {
+    "id": 1042,
+    "name": "Forest Green Satin Peplum Top",
+    "price": 7499,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "An exquisitely crafted ruffled jersey shirt that transitions effortlessly from boardroom to evening. Delicate details add a touch of feminine charm.",
+    "oldPrice": 10499,
+    "badge": "New"
+  },
+  {
+    "id": 1047,
+    "name": "Satin Zari-Work Peplum Top",
+    "price": 5999,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "This ruffled button-down from the City Chic line combines traditional techniques with modern design. The modal fabric provides a luxurious feel against the skin."
+  },
+  {
+    "id": 1052,
+    "name": "Applique Organza Tunic",
+    "price": 2499,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "This beautifully mirror-work charmeuse halter top adds instant sophistication to any outfit. Pair it with tailored trousers or a flowing skirt for a polished ensemble."
+  },
+  {
+    "id": 1057,
+    "name": "Modal Pearl-Detailed Cape Top",
+    "price": 6999,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "A stunning zari-work georgette camisole designed for the discerning woman who values quality and style. Perfect for layering or wearing as a statement piece.",
+    "badge": "Sale"
+  },
+  {
+    "id": 1062,
+    "name": "Embroidered Satin Peplum Top",
+    "price": 5499,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "A versatile hand-block printed bustier top in premium chanderi from the Brunch Edit collection. The relaxed yet refined silhouette makes it perfect for both work and weekend wear."
+  },
+  {
+    "id": 1067,
+    "name": "Pleated Organza Corset Top",
+    "price": 15499,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "This tassel-adorned tunic from the Sunset Edit line combines traditional techniques with modern design. The modal fabric provides a luxurious feel against the skin."
+  },
+  {
+    "id": 1072,
+    "name": "Mirror-Work Blush Pink Bustier Top",
+    "price": 10499,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "This beautifully smocked charmeuse bolero top adds instant sophistication to any outfit. Pair it with tailored trousers or a flowing skirt for a polished ensemble."
+  },
+  {
+    "id": 1077,
+    "name": "Satin Mirror-Work Crop Top",
+    "price": 18999,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "A versatile bandhani tank top in premium chanderi from the Summer Soiree collection. The relaxed yet refined silhouette makes it perfect for both work and weekend wear."
+  },
+  {
+    "id": 1082,
+    "name": "Emerald Cashmere Button-Down",
+    "price": 17499,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "A stunning sequined modal boxy top designed for the discerning woman who values quality and style. Perfect for layering or wearing as a statement piece."
+  },
+  {
+    "id": 1087,
+    "name": "Applique Cream Bustier Top",
+    "price": 9999,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "This beautifully applique georgette kurta top adds instant sophistication to any outfit. Pair it with tailored trousers or a flowing skirt for a polished ensemble."
+  },
+  {
+    "id": 1092,
+    "name": "Coral Pleated Cashmere Tank Top",
+    "price": 18999,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "A versatile lace-trimmed cape top in premium crepe from the High Society collection. The relaxed yet refined silhouette makes it perfect for both work and weekend wear."
+  },
+  {
+    "id": 1097,
+    "name": "Coral Kalamkari Chanderi Tunic",
+    "price": 2999,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "An exquisitely crafted tassel-adorned cashmere button-down that transitions effortlessly from boardroom to evening. Delicate details add a touch of feminine charm.",
+    "badge": "Hot"
+  },
+  {
+    "id": 1102,
+    "name": "Pleated Plum Cold-Shoulder Top",
+    "price": 19999,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "A stunning applique chiffon bolero top designed for the discerning woman who values quality and style. Perfect for layering or wearing as a statement piece.",
+    "oldPrice": 30999
+  },
+  {
+    "id": 1107,
+    "name": "Silver Velvet Asymmetric Top",
+    "price": 15999,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Elevate everyday dressing with this applique kurta top in sumptuous cashmere. The thoughtful design and premium fabric make this a standout piece."
+  },
+  {
+    "id": 1112,
+    "name": "Crepe Applique Boxy Top",
+    "price": 2499,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Crafted from luxurious chanderi, this sequined boxy top features exquisite detailing throughout. An essential piece for building a premium wardrobe.",
+    "badge": "Sale"
+  },
+  {
+    "id": 1117,
+    "name": "Sequined Crepe Corset Top",
+    "price": 16499,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "From our Power Dressing collection, this lace-trimmed linen-silk asymmetric top showcases artisanal Indian craftsmanship. The lightweight fabric ensures all-day comfort with effortless style."
+  },
+  {
+    "id": 1122,
+    "name": "Velvet Pearl-Detailed Batwing Top",
+    "price": 18999,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "A versatile hand-block printed boxy top in premium modal from the Urban Elegance collection. The relaxed yet refined silhouette makes it perfect for both work and weekend wear."
+  },
+  {
+    "id": 1127,
+    "name": "Silk Applique Drape Top",
+    "price": 2499,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "This beautifully smocked chiffon tunic adds instant sophistication to any outfit. Pair it with tailored trousers or a flowing skirt for a polished ensemble."
+  },
+  {
+    "id": 1132,
+    "name": "Charcoal Lace-Trimmed Silk Wrap Top",
+    "price": 3999,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "This zari-work kurta top from the Garden Party line combines traditional techniques with modern design. The silk fabric provides a luxurious feel against the skin."
+  },
+  {
+    "id": 1137,
+    "name": "Teal Sequined Silk Kurta Top",
+    "price": 3999,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "An exquisitely crafted smocked modal asymmetric top that transitions effortlessly from boardroom to evening. Delicate details add a touch of feminine charm."
+  },
+  {
+    "id": 1142,
+    "name": "Antique Gold Sequined Tussar Blouse",
+    "price": 9499,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "A stunning mirror-work cotton-silk drape top designed for the discerning woman who values quality and style. Perfect for layering or wearing as a statement piece."
+  },
+  {
+    "id": 1147,
+    "name": "Smocked Sapphire Asymmetric Top",
+    "price": 7999,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "An exquisitely crafted ruffled satin halter top that transitions effortlessly from boardroom to evening. Delicate details add a touch of feminine charm."
+  },
+  {
+    "id": 1152,
+    "name": "Georgette Bandhani Bustier Top",
+    "price": 9999,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Crafted from luxurious linen-silk, this tie-dye tunic features exquisite detailing throughout. An essential piece for building a premium wardrobe."
+  },
+  {
+    "id": 1157,
+    "name": "Forest Green Satin Batwing Top",
+    "price": 12499,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Crafted from luxurious organza, this embroidered cape top features exquisite detailing throughout. An essential piece for building a premium wardrobe."
+  },
+  {
+    "id": 1162,
+    "name": "Bandhani Charmeuse Cold-Shoulder Top",
+    "price": 3999,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "This pleated peplum top from the Modern Muse line combines traditional techniques with modern design. The charmeuse fabric provides a luxurious feel against the skin."
+  },
+  {
+    "id": 1167,
+    "name": "Embroidered Antique Gold Peasant Top",
+    "price": 9999,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "An exquisitely crafted tie-dye tussar drape top that transitions effortlessly from boardroom to evening. Delicate details add a touch of feminine charm.",
+    "badge": "Limited"
+  },
+  {
+    "id": 1172,
+    "name": "Tassel-Adorned Linen-Silk Peasant Top",
+    "price": 2999,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "An exquisitely crafted applique chiffon kurta top that transitions effortlessly from boardroom to evening. Delicate details add a touch of feminine charm."
+  },
+  {
+    "id": 1177,
+    "name": "Kalamkari Crepe Peasant Top",
+    "price": 12999,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "This kalamkari tank top from the Brunch Edit line combines traditional techniques with modern design. The organza fabric provides a luxurious feel against the skin."
+  },
+  {
+    "id": 1182,
+    "name": "Midnight Blue Organza Shirt",
+    "price": 18999,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "A stunning applique silk drape top designed for the discerning woman who values quality and style. Perfect for layering or wearing as a statement piece.",
+    "oldPrice": 23499,
+    "badge": "New"
+  },
+  {
+    "id": 1187,
+    "name": "Jersey Embroidered Wrap Top",
+    "price": 8999,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Crafted from luxurious georgette, this hand-block printed bustier top features exquisite detailing throughout. An essential piece for building a premium wardrobe."
+  },
+  {
+    "id": 1192,
+    "name": "Tie-Dye Jersey High-Neck Top",
+    "price": 11499,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "This bandhani tunic from the Studio Edit line combines traditional techniques with modern design. The charmeuse fabric provides a luxurious feel against the skin."
+  },
+  {
+    "id": 1197,
+    "name": "Teal Velvet Corset Top",
+    "price": 8999,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "A stunning lace-trimmed georgette drape top designed for the discerning woman who values quality and style. Perfect for layering or wearing as a statement piece."
+  },
+  {
+    "id": 1202,
+    "name": "Velvet Sequined Wrap Top",
+    "price": 4499,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "A stunning mirror-work satin blouse designed for the discerning woman who values quality and style. Perfect for layering or wearing as a statement piece."
+  },
+  {
+    "id": 1207,
+    "name": "Bandhani Champagne Bolero Top",
+    "price": 18999,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "A stunning hand-block printed chiffon wrap top designed for the discerning woman who values quality and style. Perfect for layering or wearing as a statement piece."
+  },
+  {
+    "id": 1212,
+    "name": "Sage Crepe Button-Down",
+    "price": 16999,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "A versatile beaded tunic in premium tussar from the Festive Edit collection. The relaxed yet refined silhouette makes it perfect for both work and weekend wear."
+  },
+  {
+    "id": 1217,
+    "name": "Ivory Organza Peasant Top",
+    "price": 18999,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "From our Day to Night collection, this kalamkari georgette wrap top showcases artisanal Indian craftsmanship. The lightweight fabric ensures all-day comfort with effortless style.",
+    "oldPrice": 21999
+  },
+  {
+    "id": 1222,
+    "name": "Chanderi Kalamkari Wrap Top",
+    "price": 13499,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Crafted from luxurious cashmere, this lace-trimmed bolero top features exquisite detailing throughout. An essential piece for building a premium wardrobe.",
+    "oldPrice": 16999
+  },
+  {
+    "id": 1227,
+    "name": "Ruby Zari-Work Organza Cape Top",
+    "price": 16499,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "This mirror-work peplum top from the Power Dressing line combines traditional techniques with modern design. The jersey fabric provides a luxurious feel against the skin."
+  },
+  {
+    "id": 1232,
+    "name": "Kalamkari Plum Tank Top",
+    "price": 11999,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "A stunning pearl-detailed organza peplum top designed for the discerning woman who values quality and style. Perfect for layering or wearing as a statement piece."
+  },
+  {
+    "id": 1237,
+    "name": "Rose Gold Crepe Halter Top",
+    "price": 5499,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "This zari-work cape top from the Modern Muse line combines traditional techniques with modern design. The silk fabric provides a luxurious feel against the skin."
+  },
+  {
+    "id": 1242,
+    "name": "Mauve Chiffon Cold-Shoulder Top",
+    "price": 19999,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "An exquisitely crafted bandhani linen-silk asymmetric top that transitions effortlessly from boardroom to evening. Delicate details add a touch of feminine charm.",
+    "badge": "New"
+  },
+  {
+    "id": 1247,
+    "name": "Silver Lace-Trimmed Chiffon Bolero Top",
+    "price": 5999,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "A versatile beaded high-neck top in premium crepe from the Urban Elegance collection. The relaxed yet refined silhouette makes it perfect for both work and weekend wear.",
+    "oldPrice": 6999,
+    "badge": "Sale"
+  },
+  {
+    "id": 1252,
+    "name": "Burgundy Crochet-Detailed Linen-Silk Camisole",
+    "price": 6999,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "A versatile crochet-detailed high-neck top in premium organza from the Sunset Edit collection. The relaxed yet refined silhouette makes it perfect for both work and weekend wear."
+  },
+  {
+    "id": 1257,
+    "name": "Charcoal Modal Off-Shoulder Top",
+    "price": 1999,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Elevate everyday dressing with this hand-smocked ruffle top in sumptuous georgette. The thoughtful design and premium fabric make this a standout piece."
+  },
+  {
+    "id": 1262,
+    "name": "Ruby Velvet Batwing Top",
+    "price": 9999,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "An exquisitely crafted pleated velvet batwing top that transitions effortlessly from boardroom to evening. Delicate details add a touch of feminine charm.",
+    "badge": "New"
+  },
+  {
+    "id": 1267,
+    "name": "Embroidered Rose Gold Shirt",
+    "price": 11499,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Crafted from luxurious satin, this applique bolero top features exquisite detailing throughout. An essential piece for building a premium wardrobe."
+  },
+  {
+    "id": 1272,
+    "name": "Burnt Orange Georgette Tank Top",
+    "price": 10999,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "A stunning mirror-work jersey drape top designed for the discerning woman who values quality and style. Perfect for layering or wearing as a statement piece."
+  },
+  {
+    "id": 1277,
+    "name": "Zari-Work Charmeuse Cold-Shoulder Top",
+    "price": 2999,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Elevate everyday dressing with this lace-trimmed bustier top in sumptuous crepe. The thoughtful design and premium fabric make this a standout piece."
+  },
+  {
+    "id": 1282,
+    "name": "Amethyst Pleated Linen-Silk Kurta Top",
+    "price": 17999,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "A stunning crystal-studded cashmere peplum top designed for the discerning woman who values quality and style. Perfect for layering or wearing as a statement piece."
+  },
+  {
+    "id": 1287,
+    "name": "Cream Bandhani Cotton-Silk Batwing Top",
+    "price": 1999,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "This beautifully crochet-detailed modal blouse adds instant sophistication to any outfit. Pair it with tailored trousers or a flowing skirt for a polished ensemble."
+  },
+  {
+    "id": 1292,
+    "name": "Burnt Orange Georgette Halter Top",
+    "price": 5999,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Elevate everyday dressing with this tassel-adorned off-shoulder top in sumptuous modal. The thoughtful design and premium fabric make this a standout piece.",
+    "oldPrice": 7999
+  },
+  {
+    "id": 1297,
+    "name": "Pearl White Pintucked Tussar Shirt",
+    "price": 7999,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "This beautifully bandhani silk kurta top adds instant sophistication to any outfit. Pair it with tailored trousers or a flowing skirt for a polished ensemble."
+  },
+  {
+    "id": 1302,
+    "name": "Organza Crystal-Studded Wrap Top",
+    "price": 1499,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "An exquisitely crafted zari-work satin shirt that transitions effortlessly from boardroom to evening. Delicate details add a touch of feminine charm.",
+    "oldPrice": 2499,
+    "badge": "New"
+  },
+  {
+    "id": 1307,
+    "name": "Sapphire Chiffon Asymmetric Top",
+    "price": 9999,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "A stunning tie-dye organza blouse designed for the discerning woman who values quality and style. Perfect for layering or wearing as a statement piece."
+  },
+  {
+    "id": 1312,
+    "name": "Smocked Pearl White Off-Shoulder Top",
+    "price": 7499,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "A versatile hand-block printed crop top in premium organza from the Summer Soiree collection. The relaxed yet refined silhouette makes it perfect for both work and weekend wear."
+  },
+  {
+    "id": 1317,
+    "name": "Tie-Dye Cotton-Silk Cold-Shoulder Top",
+    "price": 16999,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Crafted from luxurious crepe, this ruffled cape top features exquisite detailing throughout. An essential piece for building a premium wardrobe."
+  },
+  {
+    "id": 1322,
+    "name": "Modal Embroidered Boxy Top",
+    "price": 13499,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "From our Studio Edit collection, this hand-smocked charmeuse corset top showcases artisanal Indian craftsmanship. The lightweight fabric ensures all-day comfort with effortless style."
+  },
+  {
+    "id": 1327,
+    "name": "Deep Teal Organza Bandeau Top",
+    "price": 15499,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "This beautifully embroidered velvet cape top adds instant sophistication to any outfit. Pair it with tailored trousers or a flowing skirt for a polished ensemble."
+  },
+  {
+    "id": 1332,
+    "name": "Pintucked Onyx Boxy Top",
+    "price": 18499,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Elevate everyday dressing with this crystal-studded camisole in sumptuous tussar. The thoughtful design and premium fabric make this a standout piece."
+  },
+  {
+    "id": 1337,
+    "name": "Champagne Organza Ruffle Top",
+    "price": 16499,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Elevate everyday dressing with this pleated corset top in sumptuous crepe. The thoughtful design and premium fabric make this a standout piece."
+  },
+  {
+    "id": 1342,
+    "name": "Crochet-Detailed Velvet Halter Top",
+    "price": 7999,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "This beautifully tassel-adorned cashmere tank top adds instant sophistication to any outfit. Pair it with tailored trousers or a flowing skirt for a polished ensemble."
+  },
+  {
+    "id": 1347,
+    "name": "Sequined Jersey Bandeau Top",
+    "price": 6499,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "This beautifully lace-trimmed cashmere off-shoulder top adds instant sophistication to any outfit. Pair it with tailored trousers or a flowing skirt for a polished ensemble.",
+    "oldPrice": 8999,
+    "badge": "Sale"
+  },
+  {
+    "id": 1352,
+    "name": "Sequined Modal Shirt",
+    "price": 2499,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "From our City Chic collection, this hand-smocked silk off-shoulder top showcases artisanal Indian craftsmanship. The lightweight fabric ensures all-day comfort with effortless style."
+  },
+  {
+    "id": 1357,
+    "name": "Beaded Indigo Halter Top",
+    "price": 16999,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "A stunning beaded linen-silk shirt designed for the discerning woman who values quality and style. Perfect for layering or wearing as a statement piece.",
+    "oldPrice": 25499,
+    "badge": "Sale"
+  },
+  {
+    "id": 1362,
+    "name": "Satin Embroidered Halter Top",
+    "price": 7499,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "A stunning zari-work charmeuse batwing top designed for the discerning woman who values quality and style. Perfect for layering or wearing as a statement piece.",
+    "oldPrice": 10999
+  },
+  {
+    "id": 1367,
+    "name": "Deep Teal Applique Velvet Batwing Top",
+    "price": 17999,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Crafted from luxurious georgette, this tassel-adorned camisole features exquisite detailing throughout. An essential piece for building a premium wardrobe."
+  },
+  {
+    "id": 1372,
+    "name": "Chiffon Mirror-Work Bustier Top",
+    "price": 2999,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "An exquisitely crafted pintucked cashmere batwing top that transitions effortlessly from boardroom to evening. Delicate details add a touch of feminine charm.",
+    "badge": "Hot"
+  },
+  {
+    "id": 1377,
+    "name": "Pintucked Emerald Blouse",
+    "price": 16999,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "A stunning embroidered organza bustier top designed for the discerning woman who values quality and style. Perfect for layering or wearing as a statement piece."
+  },
+  {
+    "id": 1382,
+    "name": "Pearl White Crochet-Detailed Tussar Off-Shoulder Top",
+    "price": 2499,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "A stunning mirror-work jersey cape top designed for the discerning woman who values quality and style. Perfect for layering or wearing as a statement piece."
+  },
+  {
+    "id": 1387,
+    "name": "Smocked Mauve Asymmetric Top",
+    "price": 4999,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "This beautifully pearl-detailed charmeuse kurta top adds instant sophistication to any outfit. Pair it with tailored trousers or a flowing skirt for a polished ensemble."
+  },
+  {
+    "id": 1392,
+    "name": "Cashmere Pleated Bustier Top",
+    "price": 4499,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Crafted from luxurious crepe, this zari-work kurta top features exquisite detailing throughout. An essential piece for building a premium wardrobe."
+  },
+  {
+    "id": 1397,
+    "name": "Satin Smocked Off-Shoulder Top",
+    "price": 14999,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Crafted from luxurious organza, this hand-block printed corset top features exquisite detailing throughout. An essential piece for building a premium wardrobe."
+  },
+  {
+    "id": 1402,
+    "name": "Organza Pleated Button-Down",
+    "price": 18499,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "From our Studio Edit collection, this lace-trimmed tussar halter top showcases artisanal Indian craftsmanship. The lightweight fabric ensures all-day comfort with effortless style.",
+    "oldPrice": 26999
+  },
+  {
+    "id": 1407,
+    "name": "Hand-Block Printed Cotton-Silk Kurta Top",
+    "price": 3499,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "This crochet-detailed bolero top from the Sunset Edit line combines traditional techniques with modern design. The georgette fabric provides a luxurious feel against the skin."
+  },
+  {
+    "id": 1412,
+    "name": "Pearl-Detailed Emerald Drape Top",
+    "price": 4999,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "A versatile smocked boxy top in premium silk from the Minimalist collection. The relaxed yet refined silhouette makes it perfect for both work and weekend wear."
+  },
+  {
+    "id": 1417,
+    "name": "Jersey Hand-Smocked High-Neck Top",
+    "price": 19999,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "A versatile pleated asymmetric top in premium modal from the Evening Edit collection. The relaxed yet refined silhouette makes it perfect for both work and weekend wear."
+  },
+  {
+    "id": 1422,
+    "name": "Pintucked Chanderi Off-Shoulder Top",
+    "price": 17499,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "This beautifully applique modal tunic adds instant sophistication to any outfit. Pair it with tailored trousers or a flowing skirt for a polished ensemble."
+  },
+  {
+    "id": 1427,
+    "name": "Beaded Burgundy Kurta Top",
+    "price": 19499,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "This beautifully tie-dye linen-silk bolero top adds instant sophistication to any outfit. Pair it with tailored trousers or a flowing skirt for a polished ensemble.",
+    "oldPrice": 24499,
+    "badge": "Sale"
+  },
+  {
+    "id": 1432,
+    "name": "Jersey Pearl-Detailed Button-Down",
+    "price": 18499,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Elevate everyday dressing with this pleated off-shoulder top in sumptuous chanderi. The thoughtful design and premium fabric make this a standout piece.",
+    "badge": "Hot"
+  },
+  {
+    "id": 1437,
+    "name": "Embroidered Coral Batwing Top",
+    "price": 18499,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "A stunning lace-trimmed organza tank top designed for the discerning woman who values quality and style. Perfect for layering or wearing as a statement piece."
+  },
+  {
+    "id": 1442,
+    "name": "Hand-Smocked Pearl White Peasant Top",
+    "price": 2499,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "This beautifully crochet-detailed velvet shirt adds instant sophistication to any outfit. Pair it with tailored trousers or a flowing skirt for a polished ensemble.",
+    "oldPrice": 2999,
+    "badge": "Sale"
+  },
+  {
+    "id": 1447,
+    "name": "Terracotta Crepe Bolero Top",
+    "price": 9499,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "This beautifully tassel-adorned georgette crop top adds instant sophistication to any outfit. Pair it with tailored trousers or a flowing skirt for a polished ensemble."
+  },
+  {
+    "id": 1452,
+    "name": "Cream Modal Button-Down",
+    "price": 15999,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Crafted from luxurious georgette, this hand-smocked tunic features exquisite detailing throughout. An essential piece for building a premium wardrobe.",
+    "oldPrice": 18999
+  },
+  {
+    "id": 1457,
+    "name": "Ruffled Crepe Off-Shoulder Top",
+    "price": 13999,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "From our High Society collection, this hand-block printed chiffon bustier top showcases artisanal Indian craftsmanship. The lightweight fabric ensures all-day comfort with effortless style."
+  },
+  {
+    "id": 1462,
+    "name": "Pearl White Pleated Chanderi Cold-Shoulder Top",
+    "price": 16499,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "A versatile lace-trimmed tank top in premium organza from the Minimalist collection. The relaxed yet refined silhouette makes it perfect for both work and weekend wear."
+  },
+  {
+    "id": 1467,
+    "name": "Mustard Tassel-Adorned Charmeuse Kurta Top",
+    "price": 19999,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "This beautifully hand-block printed tussar blouse adds instant sophistication to any outfit. Pair it with tailored trousers or a flowing skirt for a polished ensemble."
+  },
+  {
+    "id": 1472,
+    "name": "Smocked Velvet Tank Top",
+    "price": 5499,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "A stunning sequined chanderi drape top designed for the discerning woman who values quality and style. Perfect for layering or wearing as a statement piece."
+  },
+  {
+    "id": 1477,
+    "name": "Burgundy Chiffon Bustier Top",
+    "price": 14499,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "An exquisitely crafted pearl-detailed modal shirt that transitions effortlessly from boardroom to evening. Delicate details add a touch of feminine charm."
+  },
+  {
+    "id": 1482,
+    "name": "Pleated Burnt Orange Cold-Shoulder Top",
+    "price": 1499,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "This crochet-detailed halter top from the Festive Edit line combines traditional techniques with modern design. The velvet fabric provides a luxurious feel against the skin."
+  },
+  {
+    "id": 1487,
+    "name": "Charmeuse Crystal-Studded Bolero Top",
+    "price": 4499,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "This smocked ruffle top from the Resort Wear line combines traditional techniques with modern design. The crepe fabric provides a luxurious feel against the skin."
+  },
+  {
+    "id": 1492,
+    "name": "Silver Kalamkari Modal Tunic",
+    "price": 9999,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "This pintucked off-shoulder top from the Free Spirit line combines traditional techniques with modern design. The chanderi fabric provides a luxurious feel against the skin.",
+    "oldPrice": 13499,
+    "badge": "Limited"
+  },
+  {
+    "id": 1497,
+    "name": "Sage Organza Wrap Top",
+    "price": 16999,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "A stunning crystal-studded chiffon cold-shoulder top designed for the discerning woman who values quality and style. Perfect for layering or wearing as a statement piece."
+  },
+  {
+    "id": 1502,
+    "name": "Lace-Trimmed Copper Crop Top",
+    "price": 1999,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "This beautifully lace-trimmed cashmere camisole adds instant sophistication to any outfit. Pair it with tailored trousers or a flowing skirt for a polished ensemble."
+  },
+  {
+    "id": 1507,
+    "name": "Charmeuse Lace-Trimmed Peplum Top",
+    "price": 1499,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "This pearl-detailed cold-shoulder top from the Minimalist line combines traditional techniques with modern design. The silk fabric provides a luxurious feel against the skin."
+  },
+  {
+    "id": 1512,
+    "name": "Crochet-Detailed Teal Button-Down",
+    "price": 3499,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "This beautifully mirror-work charmeuse shirt adds instant sophistication to any outfit. Pair it with tailored trousers or a flowing skirt for a polished ensemble."
+  },
+  {
+    "id": 1517,
+    "name": "Indigo Crepe Corset Top",
+    "price": 12499,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "A stunning mirror-work tussar blouse designed for the discerning woman who values quality and style. Perfect for layering or wearing as a statement piece.",
+    "oldPrice": 19499,
+    "badge": "New"
+  },
+  {
+    "id": 1522,
+    "name": "Cream Sequined Chiffon Peasant Top",
+    "price": 14999,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Crafted from luxurious jersey, this lace-trimmed blouse features exquisite detailing throughout. An essential piece for building a premium wardrobe."
+  },
+  {
+    "id": 1527,
+    "name": "Hand-Smocked Satin Camisole",
+    "price": 9499,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Crafted from luxurious chiffon, this ruffled shirt features exquisite detailing throughout. An essential piece for building a premium wardrobe."
+  },
+  {
+    "id": 1532,
+    "name": "Chanderi Hand-Block Printed Cold-Shoulder Top",
+    "price": 6999,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "An exquisitely crafted zari-work cotton-silk boxy top that transitions effortlessly from boardroom to evening. Delicate details add a touch of feminine charm."
+  },
+  {
+    "id": 1537,
+    "name": "Onyx Velvet Tank Top",
+    "price": 10999,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "This beautifully crystal-studded linen-silk bustier top adds instant sophistication to any outfit. Pair it with tailored trousers or a flowing skirt for a polished ensemble."
+  },
+  {
+    "id": 1542,
+    "name": "Crepe Hand-Block Printed Shirt",
+    "price": 5999,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "An exquisitely crafted sequined cotton-silk drape top that transitions effortlessly from boardroom to evening. Delicate details add a touch of feminine charm."
+  },
+  {
+    "id": 1547,
+    "name": "Embroidered Georgette Peplum Top",
+    "price": 5999,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "This beautifully bandhani linen-silk batwing top adds instant sophistication to any outfit. Pair it with tailored trousers or a flowing skirt for a polished ensemble."
+  },
+  {
+    "id": 1552,
+    "name": "Sequined Silk Crop Top",
+    "price": 11499,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "An exquisitely crafted mirror-work chanderi cold-shoulder top that transitions effortlessly from boardroom to evening. Delicate details add a touch of feminine charm."
+  },
+  {
+    "id": 1557,
+    "name": "Velvet Sequined Off-Shoulder Top",
+    "price": 7499,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "From our Minimalist collection, this tie-dye silk drape top showcases artisanal Indian craftsmanship. The lightweight fabric ensures all-day comfort with effortless style.",
+    "oldPrice": 8999,
+    "badge": "Sale"
+  },
+  {
+    "id": 1562,
+    "name": "Crystal-Studded Dusty Rose Tunic",
+    "price": 7999,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "This beautifully crochet-detailed georgette blouse adds instant sophistication to any outfit. Pair it with tailored trousers or a flowing skirt for a polished ensemble.",
+    "badge": "Sale"
+  },
+  {
+    "id": 1567,
+    "name": "Tassel-Adorned Chiffon High-Neck Top",
+    "price": 18999,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "This beautifully mirror-work velvet bandeau top adds instant sophistication to any outfit. Pair it with tailored trousers or a flowing skirt for a polished ensemble."
+  },
+  {
+    "id": 1572,
+    "name": "Rose Gold Cotton-Silk Tank Top",
+    "price": 1999,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "From our Studio Edit collection, this zari-work modal peplum top showcases artisanal Indian craftsmanship. The lightweight fabric ensures all-day comfort with effortless style."
+  },
+  {
+    "id": 1577,
+    "name": "Bandhani Jersey Kurta Top",
+    "price": 1999,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Crafted from luxurious chanderi, this applique high-neck top features exquisite detailing throughout. An essential piece for building a premium wardrobe.",
+    "oldPrice": 2999
+  },
+  {
+    "id": 1582,
+    "name": "Georgette Pintucked Tunic",
+    "price": 14499,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "A versatile mirror-work batwing top in premium cotton-silk from the Garden Party collection. The relaxed yet refined silhouette makes it perfect for both work and weekend wear."
+  },
+  {
+    "id": 1587,
+    "name": "Mauve Organza Asymmetric Top",
+    "price": 12499,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "A stunning pearl-detailed tussar drape top designed for the discerning woman who values quality and style. Perfect for layering or wearing as a statement piece."
+  },
+  {
+    "id": 1592,
+    "name": "Wine Georgette Ruffle Top",
+    "price": 10499,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Elevate everyday dressing with this mirror-work shirt in sumptuous chiffon. The thoughtful design and premium fabric make this a standout piece."
+  },
+  {
+    "id": 1597,
+    "name": "Applique Burnt Orange Button-Down",
+    "price": 6499,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "A versatile smocked halter top in premium chanderi from the Modern Muse collection. The relaxed yet refined silhouette makes it perfect for both work and weekend wear."
+  },
+  {
+    "id": 1602,
+    "name": "Hand-Block Printed Blush Pink Off-Shoulder Top",
+    "price": 8499,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "An exquisitely crafted sequined velvet tank top that transitions effortlessly from boardroom to evening. Delicate details add a touch of feminine charm."
+  },
+  {
+    "id": 1607,
+    "name": "Cream Cotton-Silk Tank Top",
+    "price": 7999,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "A versatile beaded ruffle top in premium cashmere from the Garden Party collection. The relaxed yet refined silhouette makes it perfect for both work and weekend wear."
+  },
+  {
+    "id": 1612,
+    "name": "Bandhani Lavender Bustier Top",
+    "price": 5999,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "This beautifully crochet-detailed chiffon drape top adds instant sophistication to any outfit. Pair it with tailored trousers or a flowing skirt for a polished ensemble."
+  },
+  {
+    "id": 1617,
+    "name": "Sequined Burnt Orange Tank Top",
+    "price": 14499,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "An exquisitely crafted hand-block printed velvet corset top that transitions effortlessly from boardroom to evening. Delicate details add a touch of feminine charm."
+  },
+  {
+    "id": 1622,
+    "name": "Pleated Modal Ruffle Top",
+    "price": 12999,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Elevate everyday dressing with this tassel-adorned drape top in sumptuous crepe. The thoughtful design and premium fabric make this a standout piece.",
+    "badge": "Sale"
+  },
+  {
+    "id": 1627,
+    "name": "Coral Silk High-Neck Top",
+    "price": 14499,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "This crochet-detailed wrap top from the Minimalist line combines traditional techniques with modern design. The tussar fabric provides a luxurious feel against the skin."
+  },
+  {
+    "id": 1632,
+    "name": "Applique Midnight Blue Camisole",
+    "price": 15999,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Elevate everyday dressing with this hand-smocked crop top in sumptuous linen-silk. The thoughtful design and premium fabric make this a standout piece."
+  },
+  {
+    "id": 1637,
+    "name": "Cashmere Mirror-Work Asymmetric Top",
+    "price": 9999,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "A stunning hand-smocked charmeuse kurta top designed for the discerning woman who values quality and style. Perfect for layering or wearing as a statement piece."
+  },
+  {
+    "id": 1642,
+    "name": "Pleated Onyx Corset Top",
+    "price": 1999,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "From our Festive Edit collection, this kalamkari cotton-silk cape top showcases artisanal Indian craftsmanship. The lightweight fabric ensures all-day comfort with effortless style."
+  },
+  {
+    "id": 1647,
+    "name": "Hand-Block Printed Cream Shirt",
+    "price": 11499,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Crafted from luxurious cotton-silk, this tie-dye corset top features exquisite detailing throughout. An essential piece for building a premium wardrobe."
+  },
+  {
+    "id": 1652,
+    "name": "Gold Tassel-Adorned Cashmere Batwing Top",
+    "price": 2999,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "From our Sunset Edit collection, this crystal-studded cotton-silk boxy top showcases artisanal Indian craftsmanship. The lightweight fabric ensures all-day comfort with effortless style."
+  },
+  {
+    "id": 1657,
+    "name": "Onyx Kalamkari Tussar High-Neck Top",
+    "price": 2999,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Elevate everyday dressing with this embroidered wrap top in sumptuous tussar. The thoughtful design and premium fabric make this a standout piece.",
+    "oldPrice": 3999,
+    "badge": "Sale"
+  },
+  {
+    "id": 1662,
+    "name": "Onyx Tussar Peasant Top",
+    "price": 15499,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "From our Evening Edit collection, this tassel-adorned chanderi crop top showcases artisanal Indian craftsmanship. The lightweight fabric ensures all-day comfort with effortless style.",
+    "badge": "Limited"
+  },
+  {
+    "id": 1667,
+    "name": "Midnight Blue Pearl-Detailed Cotton-Silk Button-Down",
+    "price": 17999,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "This hand-smocked halter top from the Weekend Luxe line combines traditional techniques with modern design. The linen-silk fabric provides a luxurious feel against the skin.",
+    "oldPrice": 21499,
+    "badge": "Sale"
+  },
+  {
+    "id": 1672,
+    "name": "Mustard Tussar Bandeau Top",
+    "price": 1999,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Elevate everyday dressing with this zari-work shirt in sumptuous silk. The thoughtful design and premium fabric make this a standout piece."
+  },
+  {
+    "id": 1677,
+    "name": "Nude Georgette Asymmetric Top",
+    "price": 11499,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "This beautifully tie-dye satin camisole adds instant sophistication to any outfit. Pair it with tailored trousers or a flowing skirt for a polished ensemble."
+  },
+  {
+    "id": 1682,
+    "name": "Satin Pintucked Button-Down",
+    "price": 1999,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Crafted from luxurious tussar, this pearl-detailed crop top features exquisite detailing throughout. An essential piece for building a premium wardrobe."
+  },
+  {
+    "id": 1687,
+    "name": "Silk Crochet-Detailed Tank Top",
+    "price": 9999,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Elevate everyday dressing with this zari-work ruffle top in sumptuous tussar. The thoughtful design and premium fabric make this a standout piece."
+  },
+  {
+    "id": 1692,
+    "name": "Plum Silk Bolero Top",
+    "price": 16499,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "This zari-work boxy top from the Contemporary line combines traditional techniques with modern design. The crepe fabric provides a luxurious feel against the skin."
+  },
+  {
+    "id": 1697,
+    "name": "Ivory Charmeuse Bolero Top",
+    "price": 3499,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "From our Minimalist collection, this crystal-studded jersey tank top showcases artisanal Indian craftsmanship. The lightweight fabric ensures all-day comfort with effortless style."
+  },
+  {
+    "id": 1702,
+    "name": "Silver Georgette Corset Top",
+    "price": 15999,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Crafted from luxurious georgette, this crochet-detailed asymmetric top features exquisite detailing throughout. An essential piece for building a premium wardrobe.",
+    "oldPrice": 22999,
+    "badge": "Hot"
+  },
+  {
+    "id": 1707,
+    "name": "Emerald Tie-Dye Cotton-Silk Bandeau Top",
+    "price": 8999,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Crafted from luxurious georgette, this kalamkari bandeau top features exquisite detailing throughout. An essential piece for building a premium wardrobe."
+  },
+  {
+    "id": 1712,
+    "name": "Burnt Orange Sequined Georgette Corset Top",
+    "price": 14499,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "A stunning pearl-detailed georgette cape top designed for the discerning woman who values quality and style. Perfect for layering or wearing as a statement piece."
+  },
+  {
+    "id": 1717,
+    "name": "Tie-Dye Ivory Bolero Top",
+    "price": 7499,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "A versatile beaded crop top in premium jersey from the Free Spirit collection. The relaxed yet refined silhouette makes it perfect for both work and weekend wear."
+  },
+  {
+    "id": 1722,
+    "name": "Jersey Ruffled Camisole",
+    "price": 11499,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Crafted from luxurious linen-silk, this hand-block printed button-down features exquisite detailing throughout. An essential piece for building a premium wardrobe."
+  },
+  {
+    "id": 1727,
+    "name": "Antique Gold Lace-Trimmed Chanderi Bandeau Top",
+    "price": 15999,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "This beautifully lace-trimmed chanderi tank top adds instant sophistication to any outfit. Pair it with tailored trousers or a flowing skirt for a polished ensemble.",
+    "oldPrice": 20499
+  },
+  {
+    "id": 1732,
+    "name": "Jersey Embroidered Shirt",
+    "price": 12499,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "From our High Society collection, this crochet-detailed linen-silk button-down showcases artisanal Indian craftsmanship. The lightweight fabric ensures all-day comfort with effortless style."
+  },
+  {
+    "id": 1737,
+    "name": "Coral Kalamkari Silk Camisole",
+    "price": 19499,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "From our Day to Night collection, this pearl-detailed velvet drape top showcases artisanal Indian craftsmanship. The lightweight fabric ensures all-day comfort with effortless style."
+  },
+  {
+    "id": 1742,
+    "name": "Gold Crystal-Studded Satin Cape Top",
+    "price": 8999,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "This zari-work button-down from the Day to Night line combines traditional techniques with modern design. The cashmere fabric provides a luxurious feel against the skin."
+  },
+  {
+    "id": 1747,
+    "name": "Modal Hand-Smocked Asymmetric Top",
+    "price": 14499,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "From our Artisan Edit collection, this beaded chiffon ruffle top showcases artisanal Indian craftsmanship. The lightweight fabric ensures all-day comfort with effortless style."
+  },
+  {
+    "id": 1752,
+    "name": "Sapphire Applique Satin Batwing Top",
+    "price": 4999,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "A stunning applique silk peasant top designed for the discerning woman who values quality and style. Perfect for layering or wearing as a statement piece.",
+    "oldPrice": 5999,
+    "badge": "Sale"
+  },
+  {
+    "id": 1757,
+    "name": "Pleated Ivory Cold-Shoulder Top",
+    "price": 19499,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "A versatile tie-dye cape top in premium tussar from the Festive Edit collection. The relaxed yet refined silhouette makes it perfect for both work and weekend wear.",
+    "oldPrice": 25499,
+    "badge": "Sale"
+  },
+  {
+    "id": 1762,
+    "name": "Smocked Sapphire Tank Top",
+    "price": 14499,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "An exquisitely crafted pintucked linen-silk boxy top that transitions effortlessly from boardroom to evening. Delicate details add a touch of feminine charm."
+  },
+  {
+    "id": 1767,
+    "name": "Midnight Blue Chiffon Camisole",
+    "price": 15999,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "A stunning beaded cotton-silk peasant top designed for the discerning woman who values quality and style. Perfect for layering or wearing as a statement piece.",
+    "badge": "New"
+  },
+  {
+    "id": 1772,
+    "name": "Forest Green Silk Camisole",
+    "price": 12499,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "A versatile kalamkari bustier top in premium jersey from the Summer Soiree collection. The relaxed yet refined silhouette makes it perfect for both work and weekend wear."
+  },
+  {
+    "id": 1777,
+    "name": "Teal Cotton-Silk Button-Down",
+    "price": 4499,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "A versatile tassel-adorned drape top in premium organza from the Free Spirit collection. The relaxed yet refined silhouette makes it perfect for both work and weekend wear.",
+    "badge": "Hot"
+  },
+  {
+    "id": 1782,
+    "name": "Hand-Smocked Sage Shirt",
+    "price": 18999,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "An exquisitely crafted kalamkari cotton-silk shirt that transitions effortlessly from boardroom to evening. Delicate details add a touch of feminine charm."
+  },
+  {
+    "id": 1787,
+    "name": "Plum Pintucked Linen-Silk Asymmetric Top",
+    "price": 8499,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "From our Summer Soiree collection, this bandhani chanderi wrap top showcases artisanal Indian craftsmanship. The lightweight fabric ensures all-day comfort with effortless style."
+  },
+  {
+    "id": 1792,
+    "name": "Mustard Charmeuse Blouse",
+    "price": 9999,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "This tassel-adorned high-neck top from the Festive Edit line combines traditional techniques with modern design. The georgette fabric provides a luxurious feel against the skin."
+  },
+  {
+    "id": 1797,
+    "name": "Bandhani Terracotta Bandeau Top",
+    "price": 6499,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Elevate everyday dressing with this hand-block printed cold-shoulder top in sumptuous silk. The thoughtful design and premium fabric make this a standout piece.",
+    "oldPrice": 8499,
+    "badge": "New"
+  },
+  {
+    "id": 1802,
+    "name": "Crystal-Studded Pearl White Camisole",
+    "price": 10499,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "This beautifully sequined jersey camisole adds instant sophistication to any outfit. Pair it with tailored trousers or a flowing skirt for a polished ensemble.",
+    "badge": "Limited"
+  },
+  {
+    "id": 1807,
+    "name": "Nude Chanderi Camisole",
+    "price": 10499,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "From our Studio Edit collection, this pleated cashmere peplum top showcases artisanal Indian craftsmanship. The lightweight fabric ensures all-day comfort with effortless style.",
+    "oldPrice": 13499,
+    "badge": "Hot"
+  },
+  {
+    "id": 1812,
+    "name": "Crochet-Detailed Chiffon Kurta Top",
+    "price": 14499,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "A versatile sequined drape top in premium crepe from the Brunch Edit collection. The relaxed yet refined silhouette makes it perfect for both work and weekend wear."
+  },
+  {
+    "id": 1817,
+    "name": "Mirror-Work Ivory Halter Top",
+    "price": 16999,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "An exquisitely crafted hand-smocked chiffon cold-shoulder top that transitions effortlessly from boardroom to evening. Delicate details add a touch of feminine charm."
+  },
+  {
+    "id": 1822,
+    "name": "Pintucked Wine Bandeau Top",
+    "price": 16999,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "This beautifully tassel-adorned organza bustier top adds instant sophistication to any outfit. Pair it with tailored trousers or a flowing skirt for a polished ensemble."
+  },
+  {
+    "id": 1827,
+    "name": "Hand-Smocked Ruby High-Neck Top",
+    "price": 5999,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "An exquisitely crafted ruffled organza high-neck top that transitions effortlessly from boardroom to evening. Delicate details add a touch of feminine charm.",
+    "oldPrice": 8999
+  },
+  {
+    "id": 1832,
+    "name": "Smocked Lavender Crop Top",
+    "price": 10999,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "An exquisitely crafted smocked velvet kurta top that transitions effortlessly from boardroom to evening. Delicate details add a touch of feminine charm.",
+    "oldPrice": 13499
+  },
+  {
+    "id": 1837,
+    "name": "Indigo Kalamkari Cotton-Silk Peasant Top",
+    "price": 16499,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "A versatile crochet-detailed button-down in premium velvet from the Summer Soiree collection. The relaxed yet refined silhouette makes it perfect for both work and weekend wear."
+  },
+  {
+    "id": 1842,
+    "name": "Pearl White Kalamkari Chanderi Crop Top",
+    "price": 9999,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "From our Resort Wear collection, this crystal-studded silk peasant top showcases artisanal Indian craftsmanship. The lightweight fabric ensures all-day comfort with effortless style."
+  },
+  {
+    "id": 1847,
+    "name": "Pleated Terracotta Crop Top",
+    "price": 15999,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "This beautifully sequined velvet drape top adds instant sophistication to any outfit. Pair it with tailored trousers or a flowing skirt for a polished ensemble."
+  },
+  {
+    "id": 1852,
+    "name": "Amethyst Crepe Button-Down",
+    "price": 17499,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "This beautifully bandhani modal ruffle top adds instant sophistication to any outfit. Pair it with tailored trousers or a flowing skirt for a polished ensemble."
+  },
+  {
+    "id": 1857,
+    "name": "Smocked Modal Camisole",
+    "price": 9499,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Elevate everyday dressing with this bandhani bandeau top in sumptuous cashmere. The thoughtful design and premium fabric make this a standout piece."
+  },
+  {
+    "id": 1862,
+    "name": "Hand-Block Printed Organza Peasant Top",
+    "price": 7999,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "An exquisitely crafted beaded crepe peasant top that transitions effortlessly from boardroom to evening. Delicate details add a touch of feminine charm.",
+    "oldPrice": 11499,
+    "badge": "Sale"
+  },
+  {
+    "id": 1867,
+    "name": "Ruby Tie-Dye Chiffon Boxy Top",
+    "price": 13999,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "A versatile hand-block printed wrap top in premium charmeuse from the Power Dressing collection. The relaxed yet refined silhouette makes it perfect for both work and weekend wear."
+  },
+  {
+    "id": 1872,
+    "name": "Hand-Block Printed Midnight Blue Bandeau Top",
+    "price": 14999,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Elevate everyday dressing with this pintucked drape top in sumptuous cashmere. The thoughtful design and premium fabric make this a standout piece."
+  },
+  {
+    "id": 1877,
+    "name": "Onyx Kalamkari Georgette Tunic",
+    "price": 10499,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "A versatile hand-smocked tank top in premium silk from the Festive Edit collection. The relaxed yet refined silhouette makes it perfect for both work and weekend wear.",
+    "oldPrice": 11999
+  },
+  {
+    "id": 1882,
+    "name": "Pleated Ivory Cape Top",
+    "price": 1499,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Elevate everyday dressing with this zari-work off-shoulder top in sumptuous chanderi. The thoughtful design and premium fabric make this a standout piece."
+  },
+  {
+    "id": 1887,
+    "name": "Pearl-Detailed Gold Bandeau Top",
+    "price": 1999,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "From our Summer Soiree collection, this beaded modal asymmetric top showcases artisanal Indian craftsmanship. The lightweight fabric ensures all-day comfort with effortless style."
+  },
+  {
+    "id": 1892,
+    "name": "Kalamkari Chiffon Bolero Top",
+    "price": 13999,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "An exquisitely crafted bandhani georgette wrap top that transitions effortlessly from boardroom to evening. Delicate details add a touch of feminine charm."
+  },
+  {
+    "id": 1897,
+    "name": "Mustard Crepe Boxy Top",
+    "price": 11999,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "This beautifully sequined chiffon kurta top adds instant sophistication to any outfit. Pair it with tailored trousers or a flowing skirt for a polished ensemble."
+  },
+  {
+    "id": 1902,
+    "name": "Linen-Silk Pintucked Peasant Top",
+    "price": 18999,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "A versatile crochet-detailed kurta top in premium charmeuse from the Minimalist collection. The relaxed yet refined silhouette makes it perfect for both work and weekend wear."
+  },
+  {
+    "id": 1907,
+    "name": "Sapphire Satin Bolero Top",
+    "price": 7999,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Elevate everyday dressing with this beaded bustier top in sumptuous velvet. The thoughtful design and premium fabric make this a standout piece."
+  },
+  {
+    "id": 1912,
+    "name": "Mauve Tussar High-Neck Top",
+    "price": 1999,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "A versatile pearl-detailed bolero top in premium velvet from the Contemporary collection. The relaxed yet refined silhouette makes it perfect for both work and weekend wear.",
+    "oldPrice": 2499,
+    "badge": "Sale"
+  },
+  {
+    "id": 1917,
+    "name": "Applique Slate Grey Wrap Top",
+    "price": 15499,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Elevate everyday dressing with this tassel-adorned boxy top in sumptuous velvet. The thoughtful design and premium fabric make this a standout piece."
+  },
+  {
+    "id": 1922,
+    "name": "Smocked Linen-Silk Cold-Shoulder Top",
+    "price": 8499,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "From our Resort Wear collection, this pearl-detailed linen-silk batwing top showcases artisanal Indian craftsmanship. The lightweight fabric ensures all-day comfort with effortless style."
+  },
+  {
+    "id": 1927,
+    "name": "Chiffon Pintucked Kurta Top",
+    "price": 9499,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "This beautifully hand-smocked linen-silk corset top adds instant sophistication to any outfit. Pair it with tailored trousers or a flowing skirt for a polished ensemble.",
+    "oldPrice": 13999,
+    "badge": "Hot"
+  },
+  {
+    "id": 1932,
+    "name": "Velvet Mirror-Work Tank Top",
+    "price": 16999,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "This mirror-work bustier top from the Free Spirit line combines traditional techniques with modern design. The crepe fabric provides a luxurious feel against the skin."
+  },
+  {
+    "id": 1937,
+    "name": "Chanderi Crochet-Detailed Blouse",
+    "price": 4499,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Crafted from luxurious georgette, this bandhani kurta top features exquisite detailing throughout. An essential piece for building a premium wardrobe."
+  },
+  {
+    "id": 1942,
+    "name": "Charcoal Georgette Ruffle Top",
+    "price": 11999,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Crafted from luxurious tussar, this ruffled bustier top features exquisite detailing throughout. An essential piece for building a premium wardrobe.",
+    "badge": "New"
+  },
+  {
+    "id": 1947,
+    "name": "Velvet Crystal-Studded Asymmetric Top",
+    "price": 15499,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "From our Garden Party collection, this crochet-detailed cotton-silk drape top showcases artisanal Indian craftsmanship. The lightweight fabric ensures all-day comfort with effortless style."
+  },
+  {
+    "id": 1952,
+    "name": "Cashmere Crochet-Detailed Tank Top",
+    "price": 10499,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Crafted from luxurious organza, this bandhani ruffle top features exquisite detailing throughout. An essential piece for building a premium wardrobe.",
+    "oldPrice": 11999,
+    "badge": "Sale"
+  },
+  {
+    "id": 1957,
+    "name": "Wine Ruffled Silk Cold-Shoulder Top",
+    "price": 16999,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "A stunning zari-work cashmere bolero top designed for the discerning woman who values quality and style. Perfect for layering or wearing as a statement piece."
+  },
+  {
+    "id": 1962,
+    "name": "Lace-Trimmed Nude Peplum Top",
+    "price": 12999,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "A stunning pintucked silk bustier top designed for the discerning woman who values quality and style. Perfect for layering or wearing as a statement piece."
+  },
+  {
+    "id": 1967,
+    "name": "Crystal-Studded Nude Wrap Top",
+    "price": 10499,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "An exquisitely crafted hand-smocked chanderi camisole that transitions effortlessly from boardroom to evening. Delicate details add a touch of feminine charm.",
+    "oldPrice": 12499
+  },
+  {
+    "id": 1972,
+    "name": "Beaded Antique Gold Halter Top",
+    "price": 8499,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Elevate everyday dressing with this ruffled tunic in sumptuous organza. The thoughtful design and premium fabric make this a standout piece."
+  },
+  {
+    "id": 1977,
+    "name": "Champagne Georgette Ruffle Top",
+    "price": 14999,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Crafted from luxurious satin, this bandhani ruffle top features exquisite detailing throughout. An essential piece for building a premium wardrobe."
+  },
+  {
+    "id": 1982,
+    "name": "Midnight Blue Silk Kurta Top",
+    "price": 14499,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "A stunning pintucked chiffon tunic designed for the discerning woman who values quality and style. Perfect for layering or wearing as a statement piece."
+  },
+  {
+    "id": 1987,
+    "name": "Nude Pintucked Organza High-Neck Top",
+    "price": 2499,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "This hand-block printed kurta top from the High Society line combines traditional techniques with modern design. The crepe fabric provides a luxurious feel against the skin."
+  },
+  {
+    "id": 1992,
+    "name": "Indigo Charmeuse Corset Top",
+    "price": 15999,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Crafted from luxurious linen-silk, this ruffled tunic features exquisite detailing throughout. An essential piece for building a premium wardrobe."
+  },
+  {
+    "id": 1997,
+    "name": "Kalamkari Copper Crop Top",
+    "price": 9499,
+    "category": "Tops",
+    "images": [],
+    "emoji": "👚",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "A versatile lace-trimmed button-down in premium jersey from the Power Dressing collection. The relaxed yet refined silhouette makes it perfect for both work and weekend wear."
+  }
+]

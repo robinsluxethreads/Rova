@@ -1,0 +1,6573 @@
+[
+  {
+    "id": 4,
+    "name": "Structured Brocade Wrap Jacket",
+    "price": 28499,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "From the Heritage Craft collection, this pearl-clasped coat in sumptuous silk-lined elevates any ensemble. Perfect for transitional weather, it combines warmth with undeniable style."
+  },
+  {
+    "id": 9,
+    "name": "Gold-Buttoned Cashmere Bolero",
+    "price": 35999,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "This crystal-buttoned alpaca jacket from our Weekend Escape line showcases artisanal Indian craftsmanship. The premium construction provides both warmth and elegance.",
+    "oldPrice": 45999,
+    "badge": "Hot"
+  },
+  {
+    "id": 14,
+    "name": "Mandarin-Collar Wine Parka",
+    "price": 9499,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Elevate your outerwear with this mandarin-collar alpaca jacket featuring masterful construction. The alpaca fabric provides exceptional warmth without compromising on style.",
+    "oldPrice": 12999,
+    "badge": "New"
+  },
+  {
+    "id": 19,
+    "name": "Shahtoosh-Style Handwoven Quilted Jacket",
+    "price": 44999,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "This luxurious embroidered suede duster coat is the ultimate layering piece for cooler evenings. The impeccable tailoring and premium fabric ensure a sophisticated silhouette."
+  },
+  {
+    "id": 24,
+    "name": "Slate Grey Zardozi Wool Duster Coat",
+    "price": 46999,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "This luxurious hand-quilted tweed moto jacket is the ultimate layering piece for cooler evenings. The impeccable tailoring and premium fabric ensure a sophisticated silhouette."
+  },
+  {
+    "id": 29,
+    "name": "Tassel-Detailed Brocade Long Coat",
+    "price": 18499,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "A beautifully crafted piped organza opera coat that blends functionality with high fashion. The thoughtful design details make it a coveted wardrobe addition."
+  },
+  {
+    "id": 34,
+    "name": "Onyx Crystal-Buttoned Faux-Fur Trimmed Cape",
+    "price": 43499,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "An investment piece from the Autumn Edit collection, this sequined duster coat in rich cashmere offers timeless appeal. The structured silhouette adds polish to any look."
+  },
+  {
+    "id": 39,
+    "name": "Gold-Buttoned Burnt Orange Parka",
+    "price": 31499,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "This double-breasted pashmina quilted jacket from our Contemporary Layer line showcases artisanal Indian craftsmanship. The premium construction provides both warmth and elegance."
+  },
+  {
+    "id": 44,
+    "name": "Hand-Quilted Suede Moto Jacket",
+    "price": 22999,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "This luxurious gold-buttoned velvet shrug is the ultimate layering piece for cooler evenings. The impeccable tailoring and premium fabric ensure a sophisticated silhouette.",
+    "oldPrice": 25999
+  },
+  {
+    "id": 49,
+    "name": "Leather Double-Breasted Pea Coat",
+    "price": 7999,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "A beautifully crafted pearl-clasped jacquard opera coat that blends functionality with high fashion. The thoughtful design details make it a coveted wardrobe addition.",
+    "badge": "Limited"
+  },
+  {
+    "id": 54,
+    "name": "Rose Gold Lace-Overlaid Brocade Shrug",
+    "price": 11499,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "A beautifully crafted pearl-clasped suede kimono jacket that blends functionality with high fashion. The thoughtful design details make it a coveted wardrobe addition.",
+    "oldPrice": 16499,
+    "badge": "Sale"
+  },
+  {
+    "id": 59,
+    "name": "Collarless Lavender Wrap Jacket",
+    "price": 41499,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Elevate your outerwear with this crystal-buttoned silk-lined wrap jacket featuring masterful construction. The silk-lined fabric provides exceptional warmth without compromising on style.",
+    "oldPrice": 52999
+  },
+  {
+    "id": 64,
+    "name": "Hand-Quilted Shahtoosh-Style Shrug",
+    "price": 6999,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "This show-stopping mandarin-collar quilted jacket in premium pashmina makes a bold fashion statement. From boardroom meetings to evening events, it commands attention."
+  },
+  {
+    "id": 69,
+    "name": "Fur-Trimmed Teal Cape",
+    "price": 28999,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Elevate your outerwear with this mandarin-collar suede bomber jacket featuring masterful construction. The suede fabric provides exceptional warmth without compromising on style.",
+    "oldPrice": 40999,
+    "badge": "Sale"
+  },
+  {
+    "id": 74,
+    "name": "Charcoal Suede Vest",
+    "price": 48999,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "A beautifully crafted pearl-clasped wool cropped jacket that blends functionality with high fashion. The thoughtful design details make it a coveted wardrobe addition.",
+    "oldPrice": 55499,
+    "badge": "Sale"
+  },
+  {
+    "id": 79,
+    "name": "Emerald Silk-Lined Double-Breasted Blazer",
+    "price": 23499,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Elevate your outerwear with this hand-quilted leather poncho featuring masterful construction. The leather fabric provides exceptional warmth without compromising on style."
+  },
+  {
+    "id": 84,
+    "name": "Belted Alpaca Opera Coat",
+    "price": 44999,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "From the Mountain Luxe collection, this mandarin-collar kimono jacket in sumptuous wool elevates any ensemble. Perfect for transitional weather, it combines warmth with undeniable style.",
+    "badge": "Sale"
+  },
+  {
+    "id": 89,
+    "name": "Mauve Pashmina Pea Coat",
+    "price": 22999,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "A beautifully crafted crystal-buttoned cashmere quilted jacket that blends functionality with high fashion. The thoughtful design details make it a coveted wardrobe addition."
+  },
+  {
+    "id": 94,
+    "name": "Sequined Mustard Cardigan",
+    "price": 10499,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Crafted from the finest wool, this gold-buttoned pea coat features exquisite detailing and a flattering fit. A statement piece that transforms any outfit."
+  },
+  {
+    "id": 99,
+    "name": "Lace-Overlaid Leather Duster Coat",
+    "price": 26499,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "A beautifully crafted handwoven cashmere cape that blends functionality with high fashion. The thoughtful design details make it a coveted wardrobe addition."
+  },
+  {
+    "id": 104,
+    "name": "Shahtoosh-Style Hand-Quilted Cape",
+    "price": 49499,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "A beautifully crafted applique shahtoosh-style poncho that blends functionality with high fashion. The thoughtful design details make it a coveted wardrobe addition."
+  },
+  {
+    "id": 109,
+    "name": "Amethyst Fur-Trimmed Tweed Trench Coat",
+    "price": 24999,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "From the Midnight Edit collection, this handwoven cape in sumptuous suede elevates any ensemble. Perfect for transitional weather, it combines warmth with undeniable style."
+  },
+  {
+    "id": 114,
+    "name": "Lavender Wool Parka",
+    "price": 34999,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "This luxurious belted tweed bomber jacket is the ultimate layering piece for cooler evenings. The impeccable tailoring and premium fabric ensure a sophisticated silhouette."
+  },
+  {
+    "id": 119,
+    "name": "Emerald Wool Vest",
+    "price": 7499,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "An investment piece from the Power Play collection, this resham-work opera coat in rich brocade offers timeless appeal. The structured silhouette adds polish to any look.",
+    "badge": "Sale"
+  },
+  {
+    "id": 124,
+    "name": "Structured Organza Parka",
+    "price": 20999,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "This luxurious fur-trimmed pashmina coat is the ultimate layering piece for cooler evenings. The impeccable tailoring and premium fabric ensure a sophisticated silhouette."
+  },
+  {
+    "id": 129,
+    "name": "Wool Collarless Coat",
+    "price": 39999,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "This luxurious handwoven merino wool long coat is the ultimate layering piece for cooler evenings. The impeccable tailoring and premium fabric ensure a sophisticated silhouette."
+  },
+  {
+    "id": 134,
+    "name": "Brocade Zardozi Cardigan",
+    "price": 33499,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Elevate your outerwear with this hand-quilted cashmere coat featuring masterful construction. The cashmere fabric provides exceptional warmth without compromising on style."
+  },
+  {
+    "id": 139,
+    "name": "Double-Breasted Silk-Lined Parka",
+    "price": 37499,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "An investment piece from the Festive Layer collection, this double-breasted swing coat in rich brocade offers timeless appeal. The structured silhouette adds polish to any look."
+  },
+  {
+    "id": 144,
+    "name": "Beaded Faux-Fur Trimmed Quilted Jacket",
+    "price": 8499,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "From the Regal Layer collection, this embroidered cardigan in sumptuous merino wool elevates any ensemble. Perfect for transitional weather, it combines warmth with undeniable style.",
+    "oldPrice": 10999,
+    "badge": "Sale"
+  },
+  {
+    "id": 149,
+    "name": "Beaded Jade Wrap Jacket",
+    "price": 5499,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "This handwoven wool shrug from our Nordic Luxe line showcases artisanal Indian craftsmanship. The premium construction provides both warmth and elegance."
+  },
+  {
+    "id": 154,
+    "name": "Belted Leather Poncho",
+    "price": 26999,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Elevate your outerwear with this zardozi velvet swing coat featuring masterful construction. The velvet fabric provides exceptional warmth without compromising on style.",
+    "badge": "New"
+  },
+  {
+    "id": 159,
+    "name": "Fur-Trimmed Tweed Trench Coat",
+    "price": 3999,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "This piped velvet bolero from our Midnight Edit line showcases artisanal Indian craftsmanship. The premium construction provides both warmth and elegance."
+  },
+  {
+    "id": 164,
+    "name": "Applique Cashmere Wrap Jacket",
+    "price": 40999,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Elevate your outerwear with this mandarin-collar organza shrug featuring masterful construction. The organza fabric provides exceptional warmth without compromising on style."
+  },
+  {
+    "id": 169,
+    "name": "Beaded Slate Grey Long Coat",
+    "price": 19499,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "From the Nordic Luxe collection, this gold-buttoned quilted jacket in sumptuous brocade elevates any ensemble. Perfect for transitional weather, it combines warmth with undeniable style.",
+    "oldPrice": 25999,
+    "badge": "Sale"
+  },
+  {
+    "id": 174,
+    "name": "Double-Breasted Slate Grey Vest",
+    "price": 20499,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "This show-stopping mandarin-collar pea coat in premium faux-fur trimmed makes a bold fashion statement. From boardroom meetings to evening events, it commands attention.",
+    "oldPrice": 28499,
+    "badge": "Limited"
+  },
+  {
+    "id": 179,
+    "name": "Wool Belted Vest",
+    "price": 34999,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "From the City Nights collection, this beaded coat in sumptuous organza elevates any ensemble. Perfect for transitional weather, it combines warmth with undeniable style."
+  },
+  {
+    "id": 184,
+    "name": "Resham-Work Coral Nehru Jacket",
+    "price": 19999,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "From the Runway Wrap collection, this sequined duster coat in sumptuous wool elevates any ensemble. Perfect for transitional weather, it combines warmth with undeniable style."
+  },
+  {
+    "id": 189,
+    "name": "Organza Embroidered Swing Coat",
+    "price": 24499,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "This luxurious belted leather bomber jacket is the ultimate layering piece for cooler evenings. The impeccable tailoring and premium fabric ensure a sophisticated silhouette."
+  },
+  {
+    "id": 194,
+    "name": "Slate Grey Tweed Cardigan",
+    "price": 47999,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "An investment piece from the Regal Layer collection, this structured parka in rich leather offers timeless appeal. The structured silhouette adds polish to any look.",
+    "oldPrice": 62999
+  },
+  {
+    "id": 199,
+    "name": "Resham-Work Faux-Fur Trimmed Swing Coat",
+    "price": 14499,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "A beautifully crafted belted faux-fur trimmed nehru jacket that blends functionality with high fashion. The thoughtful design details make it a coveted wardrobe addition.",
+    "oldPrice": 15999
+  },
+  {
+    "id": 204,
+    "name": "Crystal-Buttoned Blush Pink Cardigan",
+    "price": 13499,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "This zardozi cashmere cape from our Heritage Craft line showcases artisanal Indian craftsmanship. The premium construction provides both warmth and elegance.",
+    "badge": "Sale"
+  },
+  {
+    "id": 209,
+    "name": "Wool Tassel-Detailed Pea Coat",
+    "price": 41999,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Crafted from the finest jacquard, this handwoven wrap jacket features exquisite detailing and a flattering fit. A statement piece that transforms any outfit.",
+    "oldPrice": 66999
+  },
+  {
+    "id": 214,
+    "name": "Forest Green Merino Wool Swing Coat",
+    "price": 44499,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Elevate your outerwear with this resham-work silk-lined cocoon coat featuring masterful construction. The silk-lined fabric provides exceptional warmth without compromising on style."
+  },
+  {
+    "id": 219,
+    "name": "Forest Green Merino Wool Moto Jacket",
+    "price": 8999,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "This luxurious resham-work shahtoosh-style kimono jacket is the ultimate layering piece for cooler evenings. The impeccable tailoring and premium fabric ensure a sophisticated silhouette."
+  },
+  {
+    "id": 224,
+    "name": "Jacquard Pearl-Clasped Vest",
+    "price": 8499,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "This pearl-clasped shahtoosh-style long coat from our Travel Edit line showcases artisanal Indian craftsmanship. The premium construction provides both warmth and elegance.",
+    "oldPrice": 12999,
+    "badge": "New"
+  },
+  {
+    "id": 229,
+    "name": "Handwoven Brocade Parka",
+    "price": 47499,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "From the Weekend Escape collection, this pearl-clasped nehru jacket in sumptuous cashmere elevates any ensemble. Perfect for transitional weather, it combines warmth with undeniable style."
+  },
+  {
+    "id": 234,
+    "name": "Mustard Applique Jacquard Parka",
+    "price": 41499,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Crafted from the finest brocade, this mandarin-collar cape features exquisite detailing and a flattering fit. A statement piece that transforms any outfit."
+  },
+  {
+    "id": 239,
+    "name": "Terracotta Crystal-Buttoned Alpaca Cape",
+    "price": 23999,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "This show-stopping fur-trimmed duster coat in premium wool makes a bold fashion statement. From boardroom meetings to evening events, it commands attention."
+  },
+  {
+    "id": 244,
+    "name": "Mustard Brocade Blazer",
+    "price": 29499,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "A beautifully crafted hand-quilted pashmina kimono jacket that blends functionality with high fashion. The thoughtful design details make it a coveted wardrobe addition."
+  },
+  {
+    "id": 249,
+    "name": "Merino Wool Gold-Buttoned Cropped Jacket",
+    "price": 14999,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "From the Heritage Craft collection, this crystal-buttoned blazer in sumptuous jacquard elevates any ensemble. Perfect for transitional weather, it combines warmth with undeniable style.",
+    "oldPrice": 20499,
+    "badge": "Hot"
+  },
+  {
+    "id": 254,
+    "name": "Slate Grey Pashmina Shrug",
+    "price": 47499,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "This zardozi wool duster coat from our Travel Edit line showcases artisanal Indian craftsmanship. The premium construction provides both warmth and elegance."
+  },
+  {
+    "id": 259,
+    "name": "Structured Faux-Fur Trimmed Blazer",
+    "price": 42999,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "This applique silk-lined swing coat from our Twilight line showcases artisanal Indian craftsmanship. The premium construction provides both warmth and elegance.",
+    "oldPrice": 47999,
+    "badge": "Sale"
+  },
+  {
+    "id": 264,
+    "name": "Beaded Cashmere Shrug",
+    "price": 11499,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Elevate your outerwear with this zardozi pashmina coat featuring masterful construction. The pashmina fabric provides exceptional warmth without compromising on style."
+  },
+  {
+    "id": 269,
+    "name": "Organza Sequined Long Coat",
+    "price": 42499,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "This applique faux-fur trimmed cardigan from our Midnight Edit line showcases artisanal Indian craftsmanship. The premium construction provides both warmth and elegance.",
+    "oldPrice": 56999,
+    "badge": "Sale"
+  },
+  {
+    "id": 274,
+    "name": "Burnt Orange Applique Tweed Jacket",
+    "price": 11999,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Elevate your outerwear with this tassel-detailed faux-fur trimmed blazer featuring masterful construction. The faux-fur trimmed fabric provides exceptional warmth without compromising on style."
+  },
+  {
+    "id": 279,
+    "name": "Antique Gold Alpaca Shrug",
+    "price": 46499,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "This applique silk-lined cocoon coat from our Heritage Craft line showcases artisanal Indian craftsmanship. The premium construction provides both warmth and elegance."
+  },
+  {
+    "id": 284,
+    "name": "Plum Tweed Cocoon Coat",
+    "price": 18999,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "A beautifully crafted beaded cashmere blazer that blends functionality with high fashion. The thoughtful design details make it a coveted wardrobe addition."
+  },
+  {
+    "id": 289,
+    "name": "Wool Lace-Overlaid Long Coat",
+    "price": 37999,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Elevate your outerwear with this sequined cashmere jacket featuring masterful construction. The cashmere fabric provides exceptional warmth without compromising on style."
+  },
+  {
+    "id": 294,
+    "name": "Amethyst Brocade Wrap Jacket",
+    "price": 39499,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "This show-stopping hand-quilted wrap jacket in premium velvet makes a bold fashion statement. From boardroom meetings to evening events, it commands attention."
+  },
+  {
+    "id": 299,
+    "name": "Cream Cashmere Parka",
+    "price": 20499,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Elevate your outerwear with this crystal-buttoned faux-fur trimmed coat featuring masterful construction. The faux-fur trimmed fabric provides exceptional warmth without compromising on style."
+  },
+  {
+    "id": 304,
+    "name": "Piped Ruby Quilted Jacket",
+    "price": 29499,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "This mandarin-collar leather quilted jacket from our Contemporary Layer line showcases artisanal Indian craftsmanship. The premium construction provides both warmth and elegance.",
+    "oldPrice": 37499
+  },
+  {
+    "id": 309,
+    "name": "Piped Antique Gold Parka",
+    "price": 24999,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "An investment piece from the Autumn Edit collection, this tassel-detailed wrap jacket in rich jacquard offers timeless appeal. The structured silhouette adds polish to any look."
+  },
+  {
+    "id": 314,
+    "name": "Lace-Overlaid Leather Cardigan",
+    "price": 6499,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "This luxurious lace-overlaid pashmina pea coat is the ultimate layering piece for cooler evenings. The impeccable tailoring and premium fabric ensure a sophisticated silhouette."
+  },
+  {
+    "id": 319,
+    "name": "Sapphire Fur-Trimmed Merino Wool Swing Coat",
+    "price": 42499,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "This gold-buttoned faux-fur trimmed cropped jacket from our Runway Wrap line showcases artisanal Indian craftsmanship. The premium construction provides both warmth and elegance."
+  },
+  {
+    "id": 324,
+    "name": "Fur-Trimmed Faux-Fur Trimmed Trench Coat",
+    "price": 4999,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "This piped merino wool pea coat from our Contemporary Layer line showcases artisanal Indian craftsmanship. The premium construction provides both warmth and elegance.",
+    "oldPrice": 5999,
+    "badge": "New"
+  },
+  {
+    "id": 329,
+    "name": "Gold-Buttoned Suede Duster Coat",
+    "price": 30999,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "This luxurious sequined cashmere moto jacket is the ultimate layering piece for cooler evenings. The impeccable tailoring and premium fabric ensure a sophisticated silhouette."
+  },
+  {
+    "id": 334,
+    "name": "Mandarin-Collar Jacquard Pea Coat",
+    "price": 49999,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Crafted from the finest brocade, this embroidered wrap jacket features exquisite detailing and a flattering fit. A statement piece that transforms any outfit."
+  },
+  {
+    "id": 339,
+    "name": "Double-Breasted Faux-Fur Trimmed Quilted Jacket",
+    "price": 11999,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "This show-stopping piped coat in premium velvet makes a bold fashion statement. From boardroom meetings to evening events, it commands attention.",
+    "oldPrice": 16999,
+    "badge": "Sale"
+  },
+  {
+    "id": 344,
+    "name": "Zardozi Teal Pea Coat",
+    "price": 41499,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "An investment piece from the Autumn Edit collection, this pearl-clasped cape in rich merino wool offers timeless appeal. The structured silhouette adds polish to any look."
+  },
+  {
+    "id": 349,
+    "name": "Ruby Faux-Fur Trimmed Coat",
+    "price": 33999,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "An investment piece from the Winter Luxe collection, this zardozi coat in rich organza offers timeless appeal. The structured silhouette adds polish to any look.",
+    "badge": "Hot"
+  },
+  {
+    "id": 354,
+    "name": "Midnight Blue Pashmina Nehru Jacket",
+    "price": 8499,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "An investment piece from the Weekend Escape collection, this handwoven shrug in rich tweed offers timeless appeal. The structured silhouette adds polish to any look.",
+    "oldPrice": 12999,
+    "badge": "Sale"
+  },
+  {
+    "id": 359,
+    "name": "Piped Sapphire Nehru Jacket",
+    "price": 5999,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "This show-stopping handwoven bomber jacket in premium leather makes a bold fashion statement. From boardroom meetings to evening events, it commands attention."
+  },
+  {
+    "id": 364,
+    "name": "Deep Teal Suede Nehru Jacket",
+    "price": 13499,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "From the Nordic Luxe collection, this double-breasted pea coat in sumptuous organza elevates any ensemble. Perfect for transitional weather, it combines warmth with undeniable style.",
+    "oldPrice": 19499,
+    "badge": "Hot"
+  },
+  {
+    "id": 369,
+    "name": "Onyx Tweed Cardigan",
+    "price": 34499,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "This luxurious structured shahtoosh-style opera coat is the ultimate layering piece for cooler evenings. The impeccable tailoring and premium fabric ensure a sophisticated silhouette."
+  },
+  {
+    "id": 374,
+    "name": "Mandarin-Collar Brocade Double-Breasted Blazer",
+    "price": 20499,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "This luxurious mandarin-collar silk-lined moto jacket is the ultimate layering piece for cooler evenings. The impeccable tailoring and premium fabric ensure a sophisticated silhouette."
+  },
+  {
+    "id": 379,
+    "name": "Terracotta Merino Wool Opera Coat",
+    "price": 49499,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "From the Travel Edit collection, this beaded cropped jacket in sumptuous organza elevates any ensemble. Perfect for transitional weather, it combines warmth with undeniable style.",
+    "oldPrice": 72999
+  },
+  {
+    "id": 384,
+    "name": "Sequined Ivory Duster Coat",
+    "price": 17499,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "From the Mountain Luxe collection, this embroidered opera coat in sumptuous cashmere elevates any ensemble. Perfect for transitional weather, it combines warmth with undeniable style.",
+    "oldPrice": 25499,
+    "badge": "Sale"
+  },
+  {
+    "id": 389,
+    "name": "Burgundy Suede Coat",
+    "price": 29999,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "A beautifully crafted applique silk-lined kimono jacket that blends functionality with high fashion. The thoughtful design details make it a coveted wardrobe addition."
+  },
+  {
+    "id": 394,
+    "name": "Mandarin-Collar Merino Wool Long Coat",
+    "price": 39999,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "This luxurious structured jacquard moto jacket is the ultimate layering piece for cooler evenings. The impeccable tailoring and premium fabric ensure a sophisticated silhouette."
+  },
+  {
+    "id": 399,
+    "name": "Suede Handwoven Double-Breasted Blazer",
+    "price": 40999,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "A beautifully crafted embroidered silk-lined kimono jacket that blends functionality with high fashion. The thoughtful design details make it a coveted wardrobe addition."
+  },
+  {
+    "id": 404,
+    "name": "Gold-Buttoned Indigo Cape",
+    "price": 27499,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "A beautifully crafted applique brocade vest that blends functionality with high fashion. The thoughtful design details make it a coveted wardrobe addition."
+  },
+  {
+    "id": 409,
+    "name": "Organza Structured Jacket",
+    "price": 16499,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "An investment piece from the Midnight Edit collection, this double-breasted bolero in rich leather offers timeless appeal. The structured silhouette adds polish to any look."
+  },
+  {
+    "id": 414,
+    "name": "Sage Silk-Lined Bolero",
+    "price": 25999,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "This luxurious double-breasted faux-fur trimmed cape is the ultimate layering piece for cooler evenings. The impeccable tailoring and premium fabric ensure a sophisticated silhouette.",
+    "oldPrice": 40999
+  },
+  {
+    "id": 419,
+    "name": "Handwoven Midnight Blue Wrap Jacket",
+    "price": 44499,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Crafted from the finest cashmere, this fur-trimmed cape features exquisite detailing and a flattering fit. A statement piece that transforms any outfit."
+  },
+  {
+    "id": 424,
+    "name": "Ivory Beaded Tweed Cropped Jacket",
+    "price": 31499,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "An investment piece from the Weekend Escape collection, this tassel-detailed trench coat in rich organza offers timeless appeal. The structured silhouette adds polish to any look."
+  },
+  {
+    "id": 429,
+    "name": "Sage Shahtoosh-Style Cocoon Coat",
+    "price": 41499,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "This luxurious fur-trimmed alpaca cropped jacket is the ultimate layering piece for cooler evenings. The impeccable tailoring and premium fabric ensure a sophisticated silhouette.",
+    "badge": "Sale"
+  },
+  {
+    "id": 434,
+    "name": "Mustard Fur-Trimmed Faux-Fur Trimmed Bolero",
+    "price": 46999,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Crafted from the finest velvet, this pearl-clasped vest features exquisite detailing and a flattering fit. A statement piece that transforms any outfit."
+  },
+  {
+    "id": 439,
+    "name": "Tweed Resham-Work Nehru Jacket",
+    "price": 22499,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "This show-stopping zardozi jacket in premium alpaca makes a bold fashion statement. From boardroom meetings to evening events, it commands attention."
+  },
+  {
+    "id": 444,
+    "name": "Piped Pashmina Cardigan",
+    "price": 37499,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "This luxurious collarless merino wool jacket is the ultimate layering piece for cooler evenings. The impeccable tailoring and premium fabric ensure a sophisticated silhouette."
+  },
+  {
+    "id": 449,
+    "name": "Merino Wool Gold-Buttoned Shrug",
+    "price": 42999,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "This show-stopping lace-overlaid parka in premium tweed makes a bold fashion statement. From boardroom meetings to evening events, it commands attention."
+  },
+  {
+    "id": 454,
+    "name": "Leather Resham-Work Quilted Jacket",
+    "price": 21999,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "This luxurious double-breasted brocade long coat is the ultimate layering piece for cooler evenings. The impeccable tailoring and premium fabric ensure a sophisticated silhouette."
+  },
+  {
+    "id": 459,
+    "name": "Wine Tassel-Detailed Alpaca Parka",
+    "price": 33999,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Elevate your outerwear with this piped organza bolero featuring masterful construction. The organza fabric provides exceptional warmth without compromising on style."
+  },
+  {
+    "id": 464,
+    "name": "Structured Cream Shrug",
+    "price": 8499,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "From the Nordic Luxe collection, this mandarin-collar cape in sumptuous shahtoosh-style elevates any ensemble. Perfect for transitional weather, it combines warmth with undeniable style.",
+    "badge": "New"
+  },
+  {
+    "id": 469,
+    "name": "Cream Merino Wool Cardigan",
+    "price": 48499,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "This luxurious beaded jacquard kimono jacket is the ultimate layering piece for cooler evenings. The impeccable tailoring and premium fabric ensure a sophisticated silhouette.",
+    "oldPrice": 61999,
+    "badge": "Sale"
+  },
+  {
+    "id": 474,
+    "name": "Deep Teal Collarless Suede Jacket",
+    "price": 13999,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Crafted from the finest pashmina, this zardozi bomber jacket features exquisite detailing and a flattering fit. A statement piece that transforms any outfit."
+  },
+  {
+    "id": 479,
+    "name": "Embroidered Alpaca Shrug",
+    "price": 12999,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "This luxurious hand-quilted pashmina pea coat is the ultimate layering piece for cooler evenings. The impeccable tailoring and premium fabric ensure a sophisticated silhouette."
+  },
+  {
+    "id": 484,
+    "name": "Pearl White Zardozi Cashmere Cape",
+    "price": 31499,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Crafted from the finest leather, this lace-overlaid long coat features exquisite detailing and a flattering fit. A statement piece that transforms any outfit."
+  },
+  {
+    "id": 489,
+    "name": "Structured Faux-Fur Trimmed Opera Coat",
+    "price": 24999,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "An investment piece from the Artisan Warmth collection, this mandarin-collar kimono jacket in rich silk-lined offers timeless appeal. The structured silhouette adds polish to any look."
+  },
+  {
+    "id": 494,
+    "name": "Tweed Collarless Parka",
+    "price": 35499,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Elevate your outerwear with this mandarin-collar brocade trench coat featuring masterful construction. The brocade fabric provides exceptional warmth without compromising on style."
+  },
+  {
+    "id": 499,
+    "name": "Deep Teal Jacquard Wrap Jacket",
+    "price": 17999,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "This show-stopping beaded poncho in premium brocade makes a bold fashion statement. From boardroom meetings to evening events, it commands attention."
+  },
+  {
+    "id": 504,
+    "name": "Plum Jacquard Swing Coat",
+    "price": 21999,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "This luxurious double-breasted suede opera coat is the ultimate layering piece for cooler evenings. The impeccable tailoring and premium fabric ensure a sophisticated silhouette.",
+    "oldPrice": 30499,
+    "badge": "Sale"
+  },
+  {
+    "id": 509,
+    "name": "Embroidered Sage Cocoon Coat",
+    "price": 21999,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Crafted from the finest brocade, this fur-trimmed jacket features exquisite detailing and a flattering fit. A statement piece that transforms any outfit."
+  },
+  {
+    "id": 514,
+    "name": "Handwoven Mustard Cocoon Coat",
+    "price": 48499,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Elevate your outerwear with this fur-trimmed tweed nehru jacket featuring masterful construction. The tweed fabric provides exceptional warmth without compromising on style."
+  },
+  {
+    "id": 519,
+    "name": "Crystal-Buttoned Dusty Rose Cape",
+    "price": 46999,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Crafted from the finest cashmere, this collarless opera coat features exquisite detailing and a flattering fit. A statement piece that transforms any outfit."
+  },
+  {
+    "id": 524,
+    "name": "Double-Breasted Velvet Swing Coat",
+    "price": 14999,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Elevate your outerwear with this embroidered leather cropped jacket featuring masterful construction. The leather fabric provides exceptional warmth without compromising on style.",
+    "oldPrice": 16499,
+    "badge": "Sale"
+  },
+  {
+    "id": 529,
+    "name": "Onyx Sequined Suede Jacket",
+    "price": 5999,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "A beautifully crafted belted brocade bolero that blends functionality with high fashion. The thoughtful design details make it a coveted wardrobe addition."
+  },
+  {
+    "id": 534,
+    "name": "Organza Zardozi Coat",
+    "price": 46499,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Crafted from the finest wool, this lace-overlaid pea coat features exquisite detailing and a flattering fit. A statement piece that transforms any outfit.",
+    "oldPrice": 55999
+  },
+  {
+    "id": 539,
+    "name": "Applique Alpaca Double-Breasted Blazer",
+    "price": 24499,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "This luxurious tassel-detailed tweed poncho is the ultimate layering piece for cooler evenings. The impeccable tailoring and premium fabric ensure a sophisticated silhouette."
+  },
+  {
+    "id": 544,
+    "name": "Piped Burgundy Parka",
+    "price": 8999,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "An investment piece from the Power Play collection, this tassel-detailed bomber jacket in rich jacquard offers timeless appeal. The structured silhouette adds polish to any look.",
+    "oldPrice": 10999
+  },
+  {
+    "id": 549,
+    "name": "Shahtoosh-Style Fur-Trimmed Coat",
+    "price": 18999,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "This structured silk-lined duster coat from our Evening Affair line showcases artisanal Indian craftsmanship. The premium construction provides both warmth and elegance."
+  },
+  {
+    "id": 554,
+    "name": "Structured Suede Vest",
+    "price": 34999,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "This embroidered wool coat from our Evening Affair line showcases artisanal Indian craftsmanship. The premium construction provides both warmth and elegance."
+  },
+  {
+    "id": 559,
+    "name": "Alpaca Handwoven Pea Coat",
+    "price": 7499,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "A beautifully crafted embroidered faux-fur trimmed quilted jacket that blends functionality with high fashion. The thoughtful design details make it a coveted wardrobe addition."
+  },
+  {
+    "id": 564,
+    "name": "Handwoven Suede Bolero",
+    "price": 15999,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "A beautifully crafted pearl-clasped silk-lined trench coat that blends functionality with high fashion. The thoughtful design details make it a coveted wardrobe addition."
+  },
+  {
+    "id": 569,
+    "name": "Fur-Trimmed Merino Wool Cropped Jacket",
+    "price": 46999,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "From the Power Play collection, this double-breasted long coat in sumptuous merino wool elevates any ensemble. Perfect for transitional weather, it combines warmth with undeniable style.",
+    "badge": "New"
+  },
+  {
+    "id": 574,
+    "name": "Wool Collarless Cardigan",
+    "price": 20999,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "This luxurious lace-overlaid tweed vest is the ultimate layering piece for cooler evenings. The impeccable tailoring and premium fabric ensure a sophisticated silhouette."
+  },
+  {
+    "id": 579,
+    "name": "Burgundy Sequined Velvet Parka",
+    "price": 40999,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "From the Couture Layer collection, this belted quilted jacket in sumptuous tweed elevates any ensemble. Perfect for transitional weather, it combines warmth with undeniable style."
+  },
+  {
+    "id": 584,
+    "name": "Lavender Merino Wool Quilted Jacket",
+    "price": 17499,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "An investment piece from the Autumn Edit collection, this belted coat in rich pashmina offers timeless appeal. The structured silhouette adds polish to any look."
+  },
+  {
+    "id": 589,
+    "name": "Alpaca Pearl-Clasped Moto Jacket",
+    "price": 35499,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "This luxurious beaded faux-fur trimmed cropped jacket is the ultimate layering piece for cooler evenings. The impeccable tailoring and premium fabric ensure a sophisticated silhouette."
+  },
+  {
+    "id": 594,
+    "name": "Sequined Alpaca Pea Coat",
+    "price": 4499,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "From the Contemporary Layer collection, this lace-overlaid cropped jacket in sumptuous velvet elevates any ensemble. Perfect for transitional weather, it combines warmth with undeniable style."
+  },
+  {
+    "id": 599,
+    "name": "Suede Beaded Swing Coat",
+    "price": 17499,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "A beautifully crafted zardozi wool wrap jacket that blends functionality with high fashion. The thoughtful design details make it a coveted wardrobe addition.",
+    "oldPrice": 24999,
+    "badge": "Sale"
+  },
+  {
+    "id": 604,
+    "name": "Silk-Lined Structured Pea Coat",
+    "price": 13999,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "This luxurious handwoven cashmere quilted jacket is the ultimate layering piece for cooler evenings. The impeccable tailoring and premium fabric ensure a sophisticated silhouette."
+  },
+  {
+    "id": 609,
+    "name": "Beaded Slate Grey Bolero",
+    "price": 4499,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "This tassel-detailed tweed wrap jacket from our Seasonal Edit line showcases artisanal Indian craftsmanship. The premium construction provides both warmth and elegance."
+  },
+  {
+    "id": 614,
+    "name": "Charcoal Velvet Kimono Jacket",
+    "price": 46999,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "An investment piece from the Festive Layer collection, this fur-trimmed double-breasted blazer in rich suede offers timeless appeal. The structured silhouette adds polish to any look."
+  },
+  {
+    "id": 619,
+    "name": "Indigo Embroidered Organza Quilted Jacket",
+    "price": 22999,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "An investment piece from the Evening Affair collection, this applique wrap jacket in rich brocade offers timeless appeal. The structured silhouette adds polish to any look."
+  },
+  {
+    "id": 624,
+    "name": "Tassel-Detailed Merino Wool Duster Coat",
+    "price": 27499,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "An investment piece from the City Nights collection, this gold-buttoned cocoon coat in rich faux-fur trimmed offers timeless appeal. The structured silhouette adds polish to any look.",
+    "badge": "Sale"
+  },
+  {
+    "id": 629,
+    "name": "Merino Wool Embroidered Bolero",
+    "price": 16999,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "A beautifully crafted mandarin-collar suede cocoon coat that blends functionality with high fashion. The thoughtful design details make it a coveted wardrobe addition."
+  },
+  {
+    "id": 634,
+    "name": "Charcoal Piped Wool Bomber Jacket",
+    "price": 17499,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Crafted from the finest shahtoosh-style, this crystal-buttoned trench coat features exquisite detailing and a flattering fit. A statement piece that transforms any outfit.",
+    "oldPrice": 24499,
+    "badge": "Sale"
+  },
+  {
+    "id": 639,
+    "name": "Embroidered Cream Bolero",
+    "price": 10499,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "This show-stopping zardozi cape in premium jacquard makes a bold fashion statement. From boardroom meetings to evening events, it commands attention."
+  },
+  {
+    "id": 644,
+    "name": "Dusty Rose Applique Tweed Cocoon Coat",
+    "price": 9499,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "A beautifully crafted structured organza cape that blends functionality with high fashion. The thoughtful design details make it a coveted wardrobe addition."
+  },
+  {
+    "id": 649,
+    "name": "Applique Jacquard Swing Coat",
+    "price": 22499,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "This luxurious fur-trimmed wool quilted jacket is the ultimate layering piece for cooler evenings. The impeccable tailoring and premium fabric ensure a sophisticated silhouette."
+  },
+  {
+    "id": 654,
+    "name": "Nude Wool Quilted Jacket",
+    "price": 6999,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "This show-stopping hand-quilted quilted jacket in premium brocade makes a bold fashion statement. From boardroom meetings to evening events, it commands attention.",
+    "oldPrice": 8999,
+    "badge": "Sale"
+  },
+  {
+    "id": 659,
+    "name": "Burgundy Structured Organza Bomber Jacket",
+    "price": 28499,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "This luxurious belted silk-lined bolero is the ultimate layering piece for cooler evenings. The impeccable tailoring and premium fabric ensure a sophisticated silhouette."
+  },
+  {
+    "id": 664,
+    "name": "Pearl-Clasped Merino Wool Trench Coat",
+    "price": 4999,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "An investment piece from the Travel Edit collection, this tassel-detailed moto jacket in rich tweed offers timeless appeal. The structured silhouette adds polish to any look."
+  },
+  {
+    "id": 669,
+    "name": "Antique Gold Tassel-Detailed Wool Coat",
+    "price": 15999,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "This luxurious belted jacquard bomber jacket is the ultimate layering piece for cooler evenings. The impeccable tailoring and premium fabric ensure a sophisticated silhouette."
+  },
+  {
+    "id": 674,
+    "name": "Collarless Onyx Moto Jacket",
+    "price": 34999,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "This embroidered wool double-breasted blazer from our Regal Layer line showcases artisanal Indian craftsmanship. The premium construction provides both warmth and elegance."
+  },
+  {
+    "id": 679,
+    "name": "Tweed Beaded Long Coat",
+    "price": 26499,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "This belted brocade cropped jacket from our Regal Layer line showcases artisanal Indian craftsmanship. The premium construction provides both warmth and elegance.",
+    "badge": "Sale"
+  },
+  {
+    "id": 684,
+    "name": "Velvet Zardozi Nehru Jacket",
+    "price": 17999,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "An investment piece from the Artisan Warmth collection, this handwoven cardigan in rich cashmere offers timeless appeal. The structured silhouette adds polish to any look.",
+    "badge": "New"
+  },
+  {
+    "id": 689,
+    "name": "Brocade Tassel-Detailed Coat",
+    "price": 28999,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "An investment piece from the City Nights collection, this zardozi bolero in rich tweed offers timeless appeal. The structured silhouette adds polish to any look.",
+    "oldPrice": 40999,
+    "badge": "Sale"
+  },
+  {
+    "id": 694,
+    "name": "Gold-Buttoned Silk-Lined Swing Coat",
+    "price": 17999,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Elevate your outerwear with this double-breasted suede cocoon coat featuring masterful construction. The suede fabric provides exceptional warmth without compromising on style."
+  },
+  {
+    "id": 699,
+    "name": "Zardozi Wool Pea Coat",
+    "price": 44999,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Elevate your outerwear with this belted cashmere quilted jacket featuring masterful construction. The cashmere fabric provides exceptional warmth without compromising on style."
+  },
+  {
+    "id": 704,
+    "name": "Mustard Jacquard Wrap Jacket",
+    "price": 25999,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Crafted from the finest shahtoosh-style, this zardozi bomber jacket features exquisite detailing and a flattering fit. A statement piece that transforms any outfit."
+  },
+  {
+    "id": 709,
+    "name": "Lavender Velvet Parka",
+    "price": 15999,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "A beautifully crafted lace-overlaid tweed wrap jacket that blends functionality with high fashion. The thoughtful design details make it a coveted wardrobe addition.",
+    "oldPrice": 21499
+  },
+  {
+    "id": 714,
+    "name": "Slate Grey Suede Cocoon Coat",
+    "price": 15999,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "This show-stopping embroidered bolero in premium brocade makes a bold fashion statement. From boardroom meetings to evening events, it commands attention.",
+    "oldPrice": 18499,
+    "badge": "Sale"
+  },
+  {
+    "id": 719,
+    "name": "Emerald Mandarin-Collar Silk-Lined Vest",
+    "price": 46499,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Crafted from the finest suede, this beaded bolero features exquisite detailing and a flattering fit. A statement piece that transforms any outfit."
+  },
+  {
+    "id": 724,
+    "name": "Zardozi Wool Blazer",
+    "price": 14499,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "From the Mountain Luxe collection, this double-breasted pea coat in sumptuous silk-lined elevates any ensemble. Perfect for transitional weather, it combines warmth with undeniable style.",
+    "oldPrice": 16999
+  },
+  {
+    "id": 729,
+    "name": "Sage Handwoven Organza Nehru Jacket",
+    "price": 25499,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "This show-stopping zardozi pea coat in premium wool makes a bold fashion statement. From boardroom meetings to evening events, it commands attention."
+  },
+  {
+    "id": 734,
+    "name": "Beaded Faux-Fur Trimmed Parka",
+    "price": 29499,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "An investment piece from the Midnight Edit collection, this tassel-detailed double-breasted blazer in rich cashmere offers timeless appeal. The structured silhouette adds polish to any look."
+  },
+  {
+    "id": 739,
+    "name": "Piped Suede Kimono Jacket",
+    "price": 7499,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "An investment piece from the Mountain Luxe collection, this piped kimono jacket in rich organza offers timeless appeal. The structured silhouette adds polish to any look."
+  },
+  {
+    "id": 744,
+    "name": "Coral Organza Cape",
+    "price": 15499,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Elevate your outerwear with this embroidered tweed bomber jacket featuring masterful construction. The tweed fabric provides exceptional warmth without compromising on style.",
+    "oldPrice": 19999,
+    "badge": "Sale"
+  },
+  {
+    "id": 749,
+    "name": "Wool Embroidered Bolero",
+    "price": 32999,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "This luxurious fur-trimmed faux-fur trimmed moto jacket is the ultimate layering piece for cooler evenings. The impeccable tailoring and premium fabric ensure a sophisticated silhouette.",
+    "oldPrice": 48999,
+    "badge": "Sale"
+  },
+  {
+    "id": 754,
+    "name": "Wool Sequined Wrap Jacket",
+    "price": 23999,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "This luxurious resham-work pashmina bomber jacket is the ultimate layering piece for cooler evenings. The impeccable tailoring and premium fabric ensure a sophisticated silhouette."
+  },
+  {
+    "id": 759,
+    "name": "Dusty Rose Silk-Lined Trench Coat",
+    "price": 7499,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Elevate your outerwear with this piped pashmina swing coat featuring masterful construction. The pashmina fabric provides exceptional warmth without compromising on style.",
+    "oldPrice": 8499,
+    "badge": "Hot"
+  },
+  {
+    "id": 764,
+    "name": "Silver Brocade Bolero",
+    "price": 22999,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "This show-stopping beaded coat in premium wool makes a bold fashion statement. From boardroom meetings to evening events, it commands attention."
+  },
+  {
+    "id": 769,
+    "name": "Structured Pashmina Opera Coat",
+    "price": 42999,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "An investment piece from the Mountain Luxe collection, this applique opera coat in rich suede offers timeless appeal. The structured silhouette adds polish to any look.",
+    "oldPrice": 47499,
+    "badge": "Sale"
+  },
+  {
+    "id": 774,
+    "name": "Organza Applique Cocoon Coat",
+    "price": 21999,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Elevate your outerwear with this gold-buttoned organza pea coat featuring masterful construction. The organza fabric provides exceptional warmth without compromising on style."
+  },
+  {
+    "id": 779,
+    "name": "Nude Cashmere Swing Coat",
+    "price": 37499,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "This luxurious pearl-clasped cashmere moto jacket is the ultimate layering piece for cooler evenings. The impeccable tailoring and premium fabric ensure a sophisticated silhouette.",
+    "badge": "Hot"
+  },
+  {
+    "id": 784,
+    "name": "Sequined Burgundy Cape",
+    "price": 18499,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "An investment piece from the Resort Layer collection, this lace-overlaid moto jacket in rich suede offers timeless appeal. The structured silhouette adds polish to any look.",
+    "badge": "Sale"
+  },
+  {
+    "id": 789,
+    "name": "Lace-Overlaid Jade Parka",
+    "price": 49499,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "An investment piece from the Winter Luxe collection, this gold-buttoned moto jacket in rich pashmina offers timeless appeal. The structured silhouette adds polish to any look."
+  },
+  {
+    "id": 794,
+    "name": "Sapphire Faux-Fur Trimmed Blazer",
+    "price": 43999,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "An investment piece from the City Nights collection, this double-breasted trench coat in rich merino wool offers timeless appeal. The structured silhouette adds polish to any look."
+  },
+  {
+    "id": 799,
+    "name": "Crystal-Buttoned Merino Wool Vest",
+    "price": 32499,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Elevate your outerwear with this hand-quilted leather parka featuring masterful construction. The leather fabric provides exceptional warmth without compromising on style."
+  },
+  {
+    "id": 804,
+    "name": "Hand-Quilted Tweed Poncho",
+    "price": 25499,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "From the Autumn Edit collection, this hand-quilted opera coat in sumptuous leather elevates any ensemble. Perfect for transitional weather, it combines warmth with undeniable style.",
+    "oldPrice": 35999,
+    "badge": "Sale"
+  },
+  {
+    "id": 809,
+    "name": "Collarless Plum Nehru Jacket",
+    "price": 30999,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Crafted from the finest jacquard, this double-breasted coat features exquisite detailing and a flattering fit. A statement piece that transforms any outfit.",
+    "oldPrice": 47999,
+    "badge": "Sale"
+  },
+  {
+    "id": 814,
+    "name": "Amethyst Sequined Organza Shrug",
+    "price": 45999,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "An investment piece from the Couture Layer collection, this tassel-detailed pea coat in rich leather offers timeless appeal. The structured silhouette adds polish to any look."
+  },
+  {
+    "id": 819,
+    "name": "Structured Pashmina Bomber Jacket",
+    "price": 6999,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "From the City Nights collection, this mandarin-collar blazer in sumptuous alpaca elevates any ensemble. Perfect for transitional weather, it combines warmth with undeniable style."
+  },
+  {
+    "id": 824,
+    "name": "Copper Suede Shrug",
+    "price": 17999,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "This show-stopping fur-trimmed quilted jacket in premium jacquard makes a bold fashion statement. From boardroom meetings to evening events, it commands attention."
+  },
+  {
+    "id": 829,
+    "name": "Resham-Work Suede Cocoon Coat",
+    "price": 27499,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Crafted from the finest suede, this lace-overlaid blazer features exquisite detailing and a flattering fit. A statement piece that transforms any outfit."
+  },
+  {
+    "id": 834,
+    "name": "Belted Velvet Cardigan",
+    "price": 19499,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "This lace-overlaid velvet opera coat from our Autumn Edit line showcases artisanal Indian craftsmanship. The premium construction provides both warmth and elegance."
+  },
+  {
+    "id": 839,
+    "name": "Jade Embroidered Pashmina Trench Coat",
+    "price": 29499,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Crafted from the finest suede, this gold-buttoned jacket features exquisite detailing and a flattering fit. A statement piece that transforms any outfit.",
+    "badge": "Sale"
+  },
+  {
+    "id": 844,
+    "name": "Pashmina Crystal-Buttoned Duster Coat",
+    "price": 47999,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "This pearl-clasped silk-lined double-breasted blazer from our Couture Layer line showcases artisanal Indian craftsmanship. The premium construction provides both warmth and elegance."
+  },
+  {
+    "id": 849,
+    "name": "Sage Pearl-Clasped Wool Duster Coat",
+    "price": 40499,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "From the City Nights collection, this gold-buttoned swing coat in sumptuous merino wool elevates any ensemble. Perfect for transitional weather, it combines warmth with undeniable style."
+  },
+  {
+    "id": 854,
+    "name": "Jade Silk-Lined Nehru Jacket",
+    "price": 25499,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "This luxurious hand-quilted faux-fur trimmed pea coat is the ultimate layering piece for cooler evenings. The impeccable tailoring and premium fabric ensure a sophisticated silhouette."
+  },
+  {
+    "id": 859,
+    "name": "Terracotta Gold-Buttoned Wool Cape",
+    "price": 14999,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "From the Resort Layer collection, this resham-work cardigan in sumptuous jacquard elevates any ensemble. Perfect for transitional weather, it combines warmth with undeniable style."
+  },
+  {
+    "id": 864,
+    "name": "Gold Leather Pea Coat",
+    "price": 46499,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "An investment piece from the Regal Layer collection, this lace-overlaid poncho in rich suede offers timeless appeal. The structured silhouette adds polish to any look."
+  },
+  {
+    "id": 869,
+    "name": "Terracotta Velvet Duster Coat",
+    "price": 42999,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Crafted from the finest leather, this mandarin-collar cocoon coat features exquisite detailing and a flattering fit. A statement piece that transforms any outfit."
+  },
+  {
+    "id": 874,
+    "name": "Sequined Jacquard Coat",
+    "price": 38499,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "This show-stopping crystal-buttoned kimono jacket in premium organza makes a bold fashion statement. From boardroom meetings to evening events, it commands attention."
+  },
+  {
+    "id": 879,
+    "name": "Organza Beaded Shrug",
+    "price": 8499,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "This mandarin-collar organza moto jacket from our Couture Layer line showcases artisanal Indian craftsmanship. The premium construction provides both warmth and elegance."
+  },
+  {
+    "id": 884,
+    "name": "Sequined Leather Swing Coat",
+    "price": 43499,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "An investment piece from the Runway Wrap collection, this hand-quilted pea coat in rich velvet offers timeless appeal. The structured silhouette adds polish to any look."
+  },
+  {
+    "id": 889,
+    "name": "Tweed Tassel-Detailed Pea Coat",
+    "price": 45999,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "An investment piece from the Artisan Warmth collection, this piped moto jacket in rich leather offers timeless appeal. The structured silhouette adds polish to any look."
+  },
+  {
+    "id": 894,
+    "name": "Zardozi Pashmina Moto Jacket",
+    "price": 11499,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "This show-stopping gold-buttoned pea coat in premium jacquard makes a bold fashion statement. From boardroom meetings to evening events, it commands attention."
+  },
+  {
+    "id": 899,
+    "name": "Wine Hand-Quilted Shahtoosh-Style Moto Jacket",
+    "price": 33999,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Elevate your outerwear with this beaded cashmere kimono jacket featuring masterful construction. The cashmere fabric provides exceptional warmth without compromising on style."
+  },
+  {
+    "id": 904,
+    "name": "Coral Merino Wool Pea Coat",
+    "price": 31999,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "An investment piece from the Nordic Luxe collection, this crystal-buttoned bomber jacket in rich organza offers timeless appeal. The structured silhouette adds polish to any look.",
+    "badge": "Hot"
+  },
+  {
+    "id": 909,
+    "name": "Ruby Applique Silk-Lined Double-Breasted Blazer",
+    "price": 9499,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "This show-stopping gold-buttoned blazer in premium jacquard makes a bold fashion statement. From boardroom meetings to evening events, it commands attention.",
+    "badge": "New"
+  },
+  {
+    "id": 914,
+    "name": "Sapphire Applique Wool Kimono Jacket",
+    "price": 26999,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "This luxurious lace-overlaid silk-lined swing coat is the ultimate layering piece for cooler evenings. The impeccable tailoring and premium fabric ensure a sophisticated silhouette.",
+    "badge": "Hot"
+  },
+  {
+    "id": 919,
+    "name": "Slate Grey Belted Suede Cropped Jacket",
+    "price": 20999,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "This show-stopping applique long coat in premium silk-lined makes a bold fashion statement. From boardroom meetings to evening events, it commands attention."
+  },
+  {
+    "id": 924,
+    "name": "Emerald Beaded Cashmere Jacket",
+    "price": 29999,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Crafted from the finest wool, this sequined blazer features exquisite detailing and a flattering fit. A statement piece that transforms any outfit."
+  },
+  {
+    "id": 929,
+    "name": "Plum Leather Jacket",
+    "price": 9999,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "A beautifully crafted pearl-clasped tweed poncho that blends functionality with high fashion. The thoughtful design details make it a coveted wardrobe addition."
+  },
+  {
+    "id": 934,
+    "name": "Piped Cashmere Wrap Jacket",
+    "price": 17999,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Crafted from the finest silk-lined, this handwoven coat features exquisite detailing and a flattering fit. A statement piece that transforms any outfit."
+  },
+  {
+    "id": 939,
+    "name": "Tweed Sequined Bolero",
+    "price": 25999,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "This show-stopping pearl-clasped nehru jacket in premium velvet makes a bold fashion statement. From boardroom meetings to evening events, it commands attention."
+  },
+  {
+    "id": 944,
+    "name": "Organza Gold-Buttoned Swing Coat",
+    "price": 31499,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Elevate your outerwear with this gold-buttoned suede moto jacket featuring masterful construction. The suede fabric provides exceptional warmth without compromising on style."
+  },
+  {
+    "id": 949,
+    "name": "Dusty Rose Velvet Kimono Jacket",
+    "price": 31999,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "From the Regal Layer collection, this mandarin-collar pea coat in sumptuous jacquard elevates any ensemble. Perfect for transitional weather, it combines warmth with undeniable style."
+  },
+  {
+    "id": 954,
+    "name": "Mandarin-Collar Rose Gold Blazer",
+    "price": 42499,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Elevate your outerwear with this collarless pashmina kimono jacket featuring masterful construction. The pashmina fabric provides exceptional warmth without compromising on style.",
+    "badge": "New"
+  },
+  {
+    "id": 959,
+    "name": "Emerald Silk-Lined Poncho",
+    "price": 27499,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "This luxurious tassel-detailed wool cape is the ultimate layering piece for cooler evenings. The impeccable tailoring and premium fabric ensure a sophisticated silhouette.",
+    "oldPrice": 43499,
+    "badge": "Sale"
+  },
+  {
+    "id": 964,
+    "name": "Antique Gold Handwoven Jacquard Duster Coat",
+    "price": 43499,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "This luxurious embroidered silk-lined opera coat is the ultimate layering piece for cooler evenings. The impeccable tailoring and premium fabric ensure a sophisticated silhouette."
+  },
+  {
+    "id": 969,
+    "name": "Zardozi Champagne Trench Coat",
+    "price": 46499,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Crafted from the finest tweed, this piped parka features exquisite detailing and a flattering fit. A statement piece that transforms any outfit.",
+    "oldPrice": 62499,
+    "badge": "Sale"
+  },
+  {
+    "id": 974,
+    "name": "Beaded Tweed Poncho",
+    "price": 22999,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Crafted from the finest tweed, this zardozi poncho features exquisite detailing and a flattering fit. A statement piece that transforms any outfit."
+  },
+  {
+    "id": 979,
+    "name": "Slate Grey Beaded Pashmina Jacket",
+    "price": 35499,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "This luxurious collarless brocade swing coat is the ultimate layering piece for cooler evenings. The impeccable tailoring and premium fabric ensure a sophisticated silhouette.",
+    "badge": "Sale"
+  },
+  {
+    "id": 984,
+    "name": "Gold-Buttoned Blush Pink Pea Coat",
+    "price": 31499,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "An investment piece from the Power Play collection, this embroidered moto jacket in rich jacquard offers timeless appeal. The structured silhouette adds polish to any look."
+  },
+  {
+    "id": 989,
+    "name": "Alpaca Embroidered Vest",
+    "price": 37999,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Elevate your outerwear with this hand-quilted suede bomber jacket featuring masterful construction. The suede fabric provides exceptional warmth without compromising on style.",
+    "badge": "New"
+  },
+  {
+    "id": 994,
+    "name": "Dusty Rose Structured Jacquard Bomber Jacket",
+    "price": 31499,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Crafted from the finest jacquard, this embroidered double-breasted blazer features exquisite detailing and a flattering fit. A statement piece that transforms any outfit."
+  },
+  {
+    "id": 999,
+    "name": "Teal Zardozi Pashmina Bolero",
+    "price": 41499,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "This show-stopping piped double-breasted blazer in premium faux-fur trimmed makes a bold fashion statement. From boardroom meetings to evening events, it commands attention.",
+    "oldPrice": 50999,
+    "badge": "Sale"
+  },
+  {
+    "id": 1004,
+    "name": "Pearl-Clasped Burgundy Shrug",
+    "price": 11999,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "This hand-quilted silk-lined duster coat from our Evening Affair line showcases artisanal Indian craftsmanship. The premium construction provides both warmth and elegance."
+  },
+  {
+    "id": 1009,
+    "name": "Handwoven Shahtoosh-Style Cropped Jacket",
+    "price": 18999,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Crafted from the finest merino wool, this embroidered blazer features exquisite detailing and a flattering fit. A statement piece that transforms any outfit."
+  },
+  {
+    "id": 1014,
+    "name": "Pearl-Clasped Charcoal Swing Coat",
+    "price": 41499,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Elevate your outerwear with this hand-quilted jacquard parka featuring masterful construction. The jacquard fabric provides exceptional warmth without compromising on style.",
+    "badge": "New"
+  },
+  {
+    "id": 1019,
+    "name": "Antique Gold Applique Velvet Quilted Jacket",
+    "price": 29999,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Crafted from the finest leather, this zardozi blazer features exquisite detailing and a flattering fit. A statement piece that transforms any outfit."
+  },
+  {
+    "id": 1024,
+    "name": "Hand-Quilted Silver Vest",
+    "price": 7499,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "This show-stopping double-breasted opera coat in premium tweed makes a bold fashion statement. From boardroom meetings to evening events, it commands attention."
+  },
+  {
+    "id": 1029,
+    "name": "Jacquard Lace-Overlaid Jacket",
+    "price": 3999,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "From the Weekend Escape collection, this belted poncho in sumptuous leather elevates any ensemble. Perfect for transitional weather, it combines warmth with undeniable style."
+  },
+  {
+    "id": 1034,
+    "name": "Fur-Trimmed Antique Gold Pea Coat",
+    "price": 15999,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "An investment piece from the Contemporary Layer collection, this double-breasted duster coat in rich shahtoosh-style offers timeless appeal. The structured silhouette adds polish to any look.",
+    "oldPrice": 18999,
+    "badge": "Sale"
+  },
+  {
+    "id": 1039,
+    "name": "Rose Gold Tassel-Detailed Shahtoosh-Style Coat",
+    "price": 19999,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "An investment piece from the Evening Affair collection, this gold-buttoned trench coat in rich tweed offers timeless appeal. The structured silhouette adds polish to any look."
+  },
+  {
+    "id": 1044,
+    "name": "Structured Velvet Blazer",
+    "price": 15499,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "This show-stopping handwoven cape in premium tweed makes a bold fashion statement. From boardroom meetings to evening events, it commands attention."
+  },
+  {
+    "id": 1049,
+    "name": "Deep Teal Collarless Cashmere Moto Jacket",
+    "price": 6499,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "From the Couture Layer collection, this lace-overlaid bolero in sumptuous velvet elevates any ensemble. Perfect for transitional weather, it combines warmth with undeniable style."
+  },
+  {
+    "id": 1054,
+    "name": "Brocade Piped Blazer",
+    "price": 16999,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "This mandarin-collar leather shrug from our Seasonal Edit line showcases artisanal Indian craftsmanship. The premium construction provides both warmth and elegance."
+  },
+  {
+    "id": 1059,
+    "name": "Sage Shahtoosh-Style Poncho",
+    "price": 34499,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "This show-stopping resham-work nehru jacket in premium wool makes a bold fashion statement. From boardroom meetings to evening events, it commands attention."
+  },
+  {
+    "id": 1064,
+    "name": "Indigo Structured Merino Wool Trench Coat",
+    "price": 37999,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "This luxurious fur-trimmed silk-lined double-breasted blazer is the ultimate layering piece for cooler evenings. The impeccable tailoring and premium fabric ensure a sophisticated silhouette."
+  },
+  {
+    "id": 1069,
+    "name": "Dusty Rose Wool Cardigan",
+    "price": 18499,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "This zardozi cashmere nehru jacket from our Autumn Edit line showcases artisanal Indian craftsmanship. The premium construction provides both warmth and elegance.",
+    "badge": "New"
+  },
+  {
+    "id": 1074,
+    "name": "Plum Brocade Blazer",
+    "price": 27499,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "This luxurious double-breasted cashmere vest is the ultimate layering piece for cooler evenings. The impeccable tailoring and premium fabric ensure a sophisticated silhouette."
+  },
+  {
+    "id": 1079,
+    "name": "Hand-Quilted Forest Green Cocoon Coat",
+    "price": 17499,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Elevate your outerwear with this fur-trimmed faux-fur trimmed cardigan featuring masterful construction. The faux-fur trimmed fabric provides exceptional warmth without compromising on style.",
+    "oldPrice": 27499,
+    "badge": "Sale"
+  },
+  {
+    "id": 1084,
+    "name": "Wool Applique Kimono Jacket",
+    "price": 17499,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "An investment piece from the Nordic Luxe collection, this resham-work kimono jacket in rich alpaca offers timeless appeal. The structured silhouette adds polish to any look."
+  },
+  {
+    "id": 1089,
+    "name": "Charcoal Alpaca Cropped Jacket",
+    "price": 12499,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "From the Runway Wrap collection, this crystal-buttoned long coat in sumptuous pashmina elevates any ensemble. Perfect for transitional weather, it combines warmth with undeniable style."
+  },
+  {
+    "id": 1094,
+    "name": "Sage Mandarin-Collar Silk-Lined Cropped Jacket",
+    "price": 44499,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "This show-stopping lace-overlaid quilted jacket in premium brocade makes a bold fashion statement. From boardroom meetings to evening events, it commands attention.",
+    "badge": "Hot"
+  },
+  {
+    "id": 1099,
+    "name": "Nude Jacquard Trench Coat",
+    "price": 5999,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "This belted merino wool poncho from our Artisan Warmth line showcases artisanal Indian craftsmanship. The premium construction provides both warmth and elegance."
+  },
+  {
+    "id": 1104,
+    "name": "Crystal-Buttoned Amethyst Swing Coat",
+    "price": 13499,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "From the Autumn Edit collection, this applique wrap jacket in sumptuous silk-lined elevates any ensemble. Perfect for transitional weather, it combines warmth with undeniable style."
+  },
+  {
+    "id": 1109,
+    "name": "Cream Resham-Work Merino Wool Parka",
+    "price": 27999,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "From the Seasonal Edit collection, this tassel-detailed nehru jacket in sumptuous alpaca elevates any ensemble. Perfect for transitional weather, it combines warmth with undeniable style."
+  },
+  {
+    "id": 1114,
+    "name": "Antique Gold Organza Coat",
+    "price": 41999,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Elevate your outerwear with this fur-trimmed faux-fur trimmed coat featuring masterful construction. The faux-fur trimmed fabric provides exceptional warmth without compromising on style."
+  },
+  {
+    "id": 1119,
+    "name": "Double-Breasted Wine Kimono Jacket",
+    "price": 11499,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "This crystal-buttoned suede cape from our Festive Layer line showcases artisanal Indian craftsmanship. The premium construction provides both warmth and elegance."
+  },
+  {
+    "id": 1124,
+    "name": "Embroidered Ruby Poncho",
+    "price": 18999,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Elevate your outerwear with this piped wool cropped jacket featuring masterful construction. The wool fabric provides exceptional warmth without compromising on style."
+  },
+  {
+    "id": 1129,
+    "name": "Teal Double-Breasted Pashmina Opera Coat",
+    "price": 15499,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Elevate your outerwear with this hand-quilted tweed cape featuring masterful construction. The tweed fabric provides exceptional warmth without compromising on style."
+  },
+  {
+    "id": 1134,
+    "name": "Onyx Faux-Fur Trimmed Poncho",
+    "price": 47499,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "An investment piece from the Seasonal Edit collection, this double-breasted nehru jacket in rich jacquard offers timeless appeal. The structured silhouette adds polish to any look.",
+    "oldPrice": 54999,
+    "badge": "Hot"
+  },
+  {
+    "id": 1139,
+    "name": "Deep Teal Applique Wool Opera Coat",
+    "price": 24999,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Elevate your outerwear with this mandarin-collar cashmere coat featuring masterful construction. The cashmere fabric provides exceptional warmth without compromising on style.",
+    "oldPrice": 34999,
+    "badge": "Limited"
+  },
+  {
+    "id": 1144,
+    "name": "Burgundy Alpaca Double-Breasted Blazer",
+    "price": 14999,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "This show-stopping piped trench coat in premium organza makes a bold fashion statement. From boardroom meetings to evening events, it commands attention."
+  },
+  {
+    "id": 1149,
+    "name": "Deep Teal Mandarin-Collar Tweed Cropped Jacket",
+    "price": 13499,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "From the Midnight Edit collection, this beaded coat in sumptuous cashmere elevates any ensemble. Perfect for transitional weather, it combines warmth with undeniable style."
+  },
+  {
+    "id": 1154,
+    "name": "Crystal-Buttoned Antique Gold Cape",
+    "price": 30999,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "A beautifully crafted pearl-clasped velvet coat that blends functionality with high fashion. The thoughtful design details make it a coveted wardrobe addition."
+  },
+  {
+    "id": 1159,
+    "name": "Structured Dusty Rose Quilted Jacket",
+    "price": 19499,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "This show-stopping hand-quilted cape in premium suede makes a bold fashion statement. From boardroom meetings to evening events, it commands attention."
+  },
+  {
+    "id": 1164,
+    "name": "Coral Velvet Poncho",
+    "price": 17499,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Elevate your outerwear with this collarless faux-fur trimmed blazer featuring masterful construction. The faux-fur trimmed fabric provides exceptional warmth without compromising on style."
+  },
+  {
+    "id": 1169,
+    "name": "Embroidered Pashmina Swing Coat",
+    "price": 21499,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "An investment piece from the Autumn Edit collection, this belted duster coat in rich wool offers timeless appeal. The structured silhouette adds polish to any look."
+  },
+  {
+    "id": 1174,
+    "name": "Cashmere Belted Pea Coat",
+    "price": 14499,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Elevate your outerwear with this tassel-detailed suede jacket featuring masterful construction. The suede fabric provides exceptional warmth without compromising on style."
+  },
+  {
+    "id": 1179,
+    "name": "Blush Pink Shahtoosh-Style Poncho",
+    "price": 34499,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "A beautifully crafted embroidered velvet shrug that blends functionality with high fashion. The thoughtful design details make it a coveted wardrobe addition."
+  },
+  {
+    "id": 1184,
+    "name": "Nude Jacquard Cape",
+    "price": 30999,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "A beautifully crafted zardozi cashmere cocoon coat that blends functionality with high fashion. The thoughtful design details make it a coveted wardrobe addition."
+  },
+  {
+    "id": 1189,
+    "name": "Ruby Fur-Trimmed Alpaca Poncho",
+    "price": 22499,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "This tassel-detailed cashmere jacket from our Resort Layer line showcases artisanal Indian craftsmanship. The premium construction provides both warmth and elegance."
+  },
+  {
+    "id": 1194,
+    "name": "Faux-Fur Trimmed Fur-Trimmed Cape",
+    "price": 23999,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "This handwoven velvet cape from our Midnight Edit line showcases artisanal Indian craftsmanship. The premium construction provides both warmth and elegance."
+  },
+  {
+    "id": 1199,
+    "name": "Organza Sequined Duster Coat",
+    "price": 19499,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "This luxurious crystal-buttoned suede parka is the ultimate layering piece for cooler evenings. The impeccable tailoring and premium fabric ensure a sophisticated silhouette.",
+    "badge": "New"
+  },
+  {
+    "id": 1204,
+    "name": "Gold-Buttoned Deep Teal Bomber Jacket",
+    "price": 41499,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Elevate your outerwear with this resham-work faux-fur trimmed pea coat featuring masterful construction. The faux-fur trimmed fabric provides exceptional warmth without compromising on style.",
+    "oldPrice": 58999
+  },
+  {
+    "id": 1209,
+    "name": "Jacquard Belted Parka",
+    "price": 32999,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Elevate your outerwear with this fur-trimmed tweed wrap jacket featuring masterful construction. The tweed fabric provides exceptional warmth without compromising on style."
+  },
+  {
+    "id": 1214,
+    "name": "Ruby Cashmere Quilted Jacket",
+    "price": 11499,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Elevate your outerwear with this gold-buttoned merino wool poncho featuring masterful construction. The merino wool fabric provides exceptional warmth without compromising on style."
+  },
+  {
+    "id": 1219,
+    "name": "Velvet Lace-Overlaid Cropped Jacket",
+    "price": 23499,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Elevate your outerwear with this belted cashmere jacket featuring masterful construction. The cashmere fabric provides exceptional warmth without compromising on style."
+  },
+  {
+    "id": 1224,
+    "name": "Copper Organza Nehru Jacket",
+    "price": 18999,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "From the Mountain Luxe collection, this beaded trench coat in sumptuous alpaca elevates any ensemble. Perfect for transitional weather, it combines warmth with undeniable style."
+  },
+  {
+    "id": 1229,
+    "name": "Champagne Suede Double-Breasted Blazer",
+    "price": 44499,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "From the Mountain Luxe collection, this crystal-buttoned long coat in sumptuous velvet elevates any ensemble. Perfect for transitional weather, it combines warmth with undeniable style.",
+    "oldPrice": 56999
+  },
+  {
+    "id": 1234,
+    "name": "Suede Collarless Wrap Jacket",
+    "price": 4499,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Elevate your outerwear with this lace-overlaid tweed wrap jacket featuring masterful construction. The tweed fabric provides exceptional warmth without compromising on style.",
+    "oldPrice": 5499
+  },
+  {
+    "id": 1239,
+    "name": "Hand-Quilted Jacquard Cropped Jacket",
+    "price": 22999,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "This show-stopping hand-quilted bomber jacket in premium velvet makes a bold fashion statement. From boardroom meetings to evening events, it commands attention."
+  },
+  {
+    "id": 1244,
+    "name": "Forest Green Gold-Buttoned Brocade Double-Breasted Blazer",
+    "price": 34999,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "This luxurious mandarin-collar leather wrap jacket is the ultimate layering piece for cooler evenings. The impeccable tailoring and premium fabric ensure a sophisticated silhouette.",
+    "oldPrice": 45499,
+    "badge": "Sale"
+  },
+  {
+    "id": 1249,
+    "name": "Organza Resham-Work Trench Coat",
+    "price": 7999,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "This luxurious embroidered cashmere quilted jacket is the ultimate layering piece for cooler evenings. The impeccable tailoring and premium fabric ensure a sophisticated silhouette.",
+    "oldPrice": 9999,
+    "badge": "Sale"
+  },
+  {
+    "id": 1254,
+    "name": "Embroidered Copper Moto Jacket",
+    "price": 29499,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "This show-stopping handwoven vest in premium pashmina makes a bold fashion statement. From boardroom meetings to evening events, it commands attention."
+  },
+  {
+    "id": 1259,
+    "name": "Sapphire Silk-Lined Jacket",
+    "price": 12999,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "This show-stopping lace-overlaid swing coat in premium cashmere makes a bold fashion statement. From boardroom meetings to evening events, it commands attention."
+  },
+  {
+    "id": 1264,
+    "name": "Lace-Overlaid Velvet Kimono Jacket",
+    "price": 6499,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "This luxurious piped leather double-breasted blazer is the ultimate layering piece for cooler evenings. The impeccable tailoring and premium fabric ensure a sophisticated silhouette.",
+    "oldPrice": 8499
+  },
+  {
+    "id": 1269,
+    "name": "Fur-Trimmed Burnt Orange Double-Breasted Blazer",
+    "price": 6999,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "This piped organza swing coat from our Runway Wrap line showcases artisanal Indian craftsmanship. The premium construction provides both warmth and elegance."
+  },
+  {
+    "id": 1274,
+    "name": "Handwoven Organza Cardigan",
+    "price": 6999,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "This luxurious resham-work shahtoosh-style moto jacket is the ultimate layering piece for cooler evenings. The impeccable tailoring and premium fabric ensure a sophisticated silhouette."
+  },
+  {
+    "id": 1279,
+    "name": "Leather Handwoven Coat",
+    "price": 47499,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "This luxurious piped shahtoosh-style parka is the ultimate layering piece for cooler evenings. The impeccable tailoring and premium fabric ensure a sophisticated silhouette."
+  },
+  {
+    "id": 1284,
+    "name": "Lace-Overlaid Deep Teal Cape",
+    "price": 39499,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "From the Evening Affair collection, this zardozi bomber jacket in sumptuous shahtoosh-style elevates any ensemble. Perfect for transitional weather, it combines warmth with undeniable style.",
+    "oldPrice": 59999,
+    "badge": "Sale"
+  },
+  {
+    "id": 1289,
+    "name": "Lace-Overlaid Velvet Trench Coat",
+    "price": 30499,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "This show-stopping gold-buttoned kimono jacket in premium leather makes a bold fashion statement. From boardroom meetings to evening events, it commands attention.",
+    "oldPrice": 33999,
+    "badge": "Sale"
+  },
+  {
+    "id": 1294,
+    "name": "Jade Brocade Bolero",
+    "price": 22999,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "An investment piece from the Resort Layer collection, this zardozi blazer in rich brocade offers timeless appeal. The structured silhouette adds polish to any look.",
+    "oldPrice": 27499
+  },
+  {
+    "id": 1299,
+    "name": "Coral Merino Wool Quilted Jacket",
+    "price": 43499,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "From the Weekend Escape collection, this double-breasted opera coat in sumptuous velvet elevates any ensemble. Perfect for transitional weather, it combines warmth with undeniable style."
+  },
+  {
+    "id": 1304,
+    "name": "Silk-Lined Zardozi Bomber Jacket",
+    "price": 29499,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "A beautifully crafted hand-quilted shahtoosh-style parka that blends functionality with high fashion. The thoughtful design details make it a coveted wardrobe addition."
+  },
+  {
+    "id": 1309,
+    "name": "Piped Mustard Double-Breasted Blazer",
+    "price": 44499,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "From the Heritage Craft collection, this applique poncho in sumptuous pashmina elevates any ensemble. Perfect for transitional weather, it combines warmth with undeniable style."
+  },
+  {
+    "id": 1314,
+    "name": "Tweed Tassel-Detailed Jacket",
+    "price": 36999,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "This luxurious applique tweed kimono jacket is the ultimate layering piece for cooler evenings. The impeccable tailoring and premium fabric ensure a sophisticated silhouette."
+  },
+  {
+    "id": 1319,
+    "name": "Silver Merino Wool Wrap Jacket",
+    "price": 18499,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "This show-stopping fur-trimmed blazer in premium leather makes a bold fashion statement. From boardroom meetings to evening events, it commands attention."
+  },
+  {
+    "id": 1324,
+    "name": "Structured Brocade Bolero",
+    "price": 43999,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "An investment piece from the Mountain Luxe collection, this tassel-detailed blazer in rich organza offers timeless appeal. The structured silhouette adds polish to any look."
+  },
+  {
+    "id": 1329,
+    "name": "Lace-Overlaid Silk-Lined Moto Jacket",
+    "price": 11499,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "A beautifully crafted beaded velvet swing coat that blends functionality with high fashion. The thoughtful design details make it a coveted wardrobe addition.",
+    "oldPrice": 14999,
+    "badge": "New"
+  },
+  {
+    "id": 1334,
+    "name": "Fur-Trimmed Tweed Bolero",
+    "price": 44999,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "A beautifully crafted lace-overlaid organza cape that blends functionality with high fashion. The thoughtful design details make it a coveted wardrobe addition.",
+    "badge": "New"
+  },
+  {
+    "id": 1339,
+    "name": "Mustard Shahtoosh-Style Kimono Jacket",
+    "price": 28999,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "This show-stopping embroidered kimono jacket in premium brocade makes a bold fashion statement. From boardroom meetings to evening events, it commands attention."
+  },
+  {
+    "id": 1344,
+    "name": "Rose Gold Fur-Trimmed Silk-Lined Wrap Jacket",
+    "price": 15499,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Crafted from the finest suede, this structured long coat features exquisite detailing and a flattering fit. A statement piece that transforms any outfit."
+  },
+  {
+    "id": 1349,
+    "name": "Mandarin-Collar Shahtoosh-Style Vest",
+    "price": 27499,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "This luxurious tassel-detailed silk-lined blazer is the ultimate layering piece for cooler evenings. The impeccable tailoring and premium fabric ensure a sophisticated silhouette."
+  },
+  {
+    "id": 1354,
+    "name": "Pashmina Gold-Buttoned Shrug",
+    "price": 40999,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "From the Travel Edit collection, this fur-trimmed vest in sumptuous brocade elevates any ensemble. Perfect for transitional weather, it combines warmth with undeniable style."
+  },
+  {
+    "id": 1359,
+    "name": "Forest Green Piped Alpaca Cropped Jacket",
+    "price": 12999,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "This show-stopping gold-buttoned cocoon coat in premium brocade makes a bold fashion statement. From boardroom meetings to evening events, it commands attention."
+  },
+  {
+    "id": 1364,
+    "name": "Dusty Rose Leather Quilted Jacket",
+    "price": 42499,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "This applique organza cropped jacket from our Regal Layer line showcases artisanal Indian craftsmanship. The premium construction provides both warmth and elegance."
+  },
+  {
+    "id": 1369,
+    "name": "Silver Wool Kimono Jacket",
+    "price": 25999,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Elevate your outerwear with this structured faux-fur trimmed cropped jacket featuring masterful construction. The faux-fur trimmed fabric provides exceptional warmth without compromising on style.",
+    "oldPrice": 32499,
+    "badge": "Hot"
+  },
+  {
+    "id": 1374,
+    "name": "Antique Gold Structured Alpaca Long Coat",
+    "price": 6999,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Crafted from the finest alpaca, this handwoven coat features exquisite detailing and a flattering fit. A statement piece that transforms any outfit."
+  },
+  {
+    "id": 1379,
+    "name": "Burgundy Cashmere Coat",
+    "price": 13499,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "An investment piece from the City Nights collection, this resham-work bolero in rich alpaca offers timeless appeal. The structured silhouette adds polish to any look."
+  },
+  {
+    "id": 1384,
+    "name": "Collarless Lavender Blazer",
+    "price": 38999,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Crafted from the finest merino wool, this pearl-clasped vest features exquisite detailing and a flattering fit. A statement piece that transforms any outfit."
+  },
+  {
+    "id": 1389,
+    "name": "Gold Fur-Trimmed Leather Shrug",
+    "price": 7499,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "From the Festive Layer collection, this hand-quilted cardigan in sumptuous silk-lined elevates any ensemble. Perfect for transitional weather, it combines warmth with undeniable style."
+  },
+  {
+    "id": 1394,
+    "name": "Lace-Overlaid Blush Pink Moto Jacket",
+    "price": 23999,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Elevate your outerwear with this gold-buttoned tweed opera coat featuring masterful construction. The tweed fabric provides exceptional warmth without compromising on style."
+  },
+  {
+    "id": 1399,
+    "name": "Hand-Quilted Antique Gold Cardigan",
+    "price": 42999,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Elevate your outerwear with this mandarin-collar suede duster coat featuring masterful construction. The suede fabric provides exceptional warmth without compromising on style.",
+    "oldPrice": 49999,
+    "badge": "Sale"
+  },
+  {
+    "id": 1404,
+    "name": "Mandarin-Collar Suede Parka",
+    "price": 37999,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "A beautifully crafted double-breasted faux-fur trimmed cape that blends functionality with high fashion. The thoughtful design details make it a coveted wardrobe addition.",
+    "oldPrice": 58999
+  },
+  {
+    "id": 1409,
+    "name": "Alpaca Gold-Buttoned Pea Coat",
+    "price": 19499,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "This piped jacquard blazer from our Runway Wrap line showcases artisanal Indian craftsmanship. The premium construction provides both warmth and elegance."
+  },
+  {
+    "id": 1414,
+    "name": "Forest Green Wool Parka",
+    "price": 26999,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "A beautifully crafted beaded shahtoosh-style kimono jacket that blends functionality with high fashion. The thoughtful design details make it a coveted wardrobe addition."
+  },
+  {
+    "id": 1419,
+    "name": "Hand-Quilted Pashmina Quilted Jacket",
+    "price": 29999,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "An investment piece from the Midnight Edit collection, this lace-overlaid duster coat in rich velvet offers timeless appeal. The structured silhouette adds polish to any look."
+  },
+  {
+    "id": 1424,
+    "name": "Velvet Double-Breasted Cardigan",
+    "price": 21499,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "This luxurious embroidered suede long coat is the ultimate layering piece for cooler evenings. The impeccable tailoring and premium fabric ensure a sophisticated silhouette."
+  },
+  {
+    "id": 1429,
+    "name": "Pashmina Hand-Quilted Bolero",
+    "price": 18499,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "A beautifully crafted collarless cashmere nehru jacket that blends functionality with high fashion. The thoughtful design details make it a coveted wardrobe addition."
+  },
+  {
+    "id": 1434,
+    "name": "Collarless Teal Cocoon Coat",
+    "price": 41499,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "This belted brocade shrug from our Evening Affair line showcases artisanal Indian craftsmanship. The premium construction provides both warmth and elegance."
+  },
+  {
+    "id": 1439,
+    "name": "Wine Organza Trench Coat",
+    "price": 47499,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Crafted from the finest tweed, this mandarin-collar quilted jacket features exquisite detailing and a flattering fit. A statement piece that transforms any outfit."
+  },
+  {
+    "id": 1444,
+    "name": "Velvet Sequined Long Coat",
+    "price": 47999,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "A beautifully crafted tassel-detailed alpaca double-breasted blazer that blends functionality with high fashion. The thoughtful design details make it a coveted wardrobe addition."
+  },
+  {
+    "id": 1449,
+    "name": "Forest Green Silk-Lined Bomber Jacket",
+    "price": 32499,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "An investment piece from the Midnight Edit collection, this crystal-buttoned parka in rich cashmere offers timeless appeal. The structured silhouette adds polish to any look."
+  },
+  {
+    "id": 1454,
+    "name": "Burnt Orange Structured Organza Duster Coat",
+    "price": 27999,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "This sequined velvet quilted jacket from our Resort Layer line showcases artisanal Indian craftsmanship. The premium construction provides both warmth and elegance."
+  },
+  {
+    "id": 1459,
+    "name": "Blush Pink Tweed Quilted Jacket",
+    "price": 11999,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "This resham-work jacquard wrap jacket from our Contemporary Layer line showcases artisanal Indian craftsmanship. The premium construction provides both warmth and elegance."
+  },
+  {
+    "id": 1464,
+    "name": "Nude Hand-Quilted Faux-Fur Trimmed Shrug",
+    "price": 44499,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "An investment piece from the Festive Layer collection, this piped blazer in rich faux-fur trimmed offers timeless appeal. The structured silhouette adds polish to any look."
+  },
+  {
+    "id": 1469,
+    "name": "Double-Breasted Brocade Cocoon Coat",
+    "price": 39499,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "A beautifully crafted sequined silk-lined trench coat that blends functionality with high fashion. The thoughtful design details make it a coveted wardrobe addition."
+  },
+  {
+    "id": 1474,
+    "name": "Fur-Trimmed Indigo Shrug",
+    "price": 10999,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "This show-stopping piped bomber jacket in premium velvet makes a bold fashion statement. From boardroom meetings to evening events, it commands attention."
+  },
+  {
+    "id": 1479,
+    "name": "Faux-Fur Trimmed Embroidered Nehru Jacket",
+    "price": 45499,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "This sequined tweed shrug from our Autumn Edit line showcases artisanal Indian craftsmanship. The premium construction provides both warmth and elegance."
+  },
+  {
+    "id": 1484,
+    "name": "Sage Cashmere Vest",
+    "price": 20999,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "An investment piece from the Contemporary Layer collection, this crystal-buttoned kimono jacket in rich brocade offers timeless appeal. The structured silhouette adds polish to any look."
+  },
+  {
+    "id": 1489,
+    "name": "Deep Teal Wool Cape",
+    "price": 23999,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "An investment piece from the Couture Layer collection, this mandarin-collar coat in rich shahtoosh-style offers timeless appeal. The structured silhouette adds polish to any look."
+  },
+  {
+    "id": 1494,
+    "name": "Amethyst Shahtoosh-Style Trench Coat",
+    "price": 41999,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "An investment piece from the Seasonal Edit collection, this resham-work quilted jacket in rich faux-fur trimmed offers timeless appeal. The structured silhouette adds polish to any look."
+  },
+  {
+    "id": 1499,
+    "name": "Indigo Lace-Overlaid Brocade Cropped Jacket",
+    "price": 39499,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Crafted from the finest suede, this pearl-clasped long coat features exquisite detailing and a flattering fit. A statement piece that transforms any outfit."
+  },
+  {
+    "id": 1504,
+    "name": "Tassel-Detailed Charcoal Duster Coat",
+    "price": 12999,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "This lace-overlaid suede wrap jacket from our Evening Affair line showcases artisanal Indian craftsmanship. The premium construction provides both warmth and elegance."
+  },
+  {
+    "id": 1509,
+    "name": "Tassel-Detailed Suede Shrug",
+    "price": 21999,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "A beautifully crafted applique brocade opera coat that blends functionality with high fashion. The thoughtful design details make it a coveted wardrobe addition."
+  },
+  {
+    "id": 1514,
+    "name": "Zardozi Slate Grey Wrap Jacket",
+    "price": 20499,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Elevate your outerwear with this resham-work brocade shrug featuring masterful construction. The brocade fabric provides exceptional warmth without compromising on style."
+  },
+  {
+    "id": 1519,
+    "name": "Plum Structured Faux-Fur Trimmed Quilted Jacket",
+    "price": 5999,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Elevate your outerwear with this double-breasted silk-lined bomber jacket featuring masterful construction. The silk-lined fabric provides exceptional warmth without compromising on style."
+  },
+  {
+    "id": 1524,
+    "name": "Lace-Overlaid Burgundy Duster Coat",
+    "price": 21999,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "This show-stopping tassel-detailed cardigan in premium shahtoosh-style makes a bold fashion statement. From boardroom meetings to evening events, it commands attention.",
+    "badge": "Hot"
+  },
+  {
+    "id": 1529,
+    "name": "Slate Grey Cashmere Jacket",
+    "price": 38999,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "This show-stopping pearl-clasped nehru jacket in premium merino wool makes a bold fashion statement. From boardroom meetings to evening events, it commands attention."
+  },
+  {
+    "id": 1534,
+    "name": "Pashmina Zardozi Cropped Jacket",
+    "price": 10999,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "A beautifully crafted sequined shahtoosh-style double-breasted blazer that blends functionality with high fashion. The thoughtful design details make it a coveted wardrobe addition."
+  },
+  {
+    "id": 1539,
+    "name": "Emerald Brocade Kimono Jacket",
+    "price": 22499,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "From the Nordic Luxe collection, this structured coat in sumptuous wool elevates any ensemble. Perfect for transitional weather, it combines warmth with undeniable style."
+  },
+  {
+    "id": 1544,
+    "name": "Slate Grey Embroidered Shahtoosh-Style Pea Coat",
+    "price": 19999,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "An investment piece from the Mountain Luxe collection, this crystal-buttoned trench coat in rich tweed offers timeless appeal. The structured silhouette adds polish to any look.",
+    "badge": "Hot"
+  },
+  {
+    "id": 1549,
+    "name": "Champagne Leather Wrap Jacket",
+    "price": 26499,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "This luxurious tassel-detailed leather opera coat is the ultimate layering piece for cooler evenings. The impeccable tailoring and premium fabric ensure a sophisticated silhouette."
+  },
+  {
+    "id": 1554,
+    "name": "Cream Jacquard Cardigan",
+    "price": 27999,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "From the Artisan Warmth collection, this fur-trimmed pea coat in sumptuous silk-lined elevates any ensemble. Perfect for transitional weather, it combines warmth with undeniable style."
+  },
+  {
+    "id": 1559,
+    "name": "Structured Emerald Trench Coat",
+    "price": 13499,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "This hand-quilted leather kimono jacket from our City Nights line showcases artisanal Indian craftsmanship. The premium construction provides both warmth and elegance."
+  },
+  {
+    "id": 1564,
+    "name": "Lace-Overlaid Onyx Double-Breasted Blazer",
+    "price": 33999,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Crafted from the finest alpaca, this crystal-buttoned poncho features exquisite detailing and a flattering fit. A statement piece that transforms any outfit."
+  },
+  {
+    "id": 1569,
+    "name": "Hand-Quilted Burgundy Jacket",
+    "price": 46999,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "This show-stopping crystal-buttoned blazer in premium suede makes a bold fashion statement. From boardroom meetings to evening events, it commands attention."
+  },
+  {
+    "id": 1574,
+    "name": "Belted Sage Jacket",
+    "price": 5499,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "This collarless silk-lined coat from our Evening Affair line showcases artisanal Indian craftsmanship. The premium construction provides both warmth and elegance."
+  },
+  {
+    "id": 1579,
+    "name": "Embroidered Cashmere Swing Coat",
+    "price": 10499,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Elevate your outerwear with this gold-buttoned brocade nehru jacket featuring masterful construction. The brocade fabric provides exceptional warmth without compromising on style."
+  },
+  {
+    "id": 1584,
+    "name": "Mandarin-Collar Brocade Shrug",
+    "price": 48499,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Crafted from the finest alpaca, this belted poncho features exquisite detailing and a flattering fit. A statement piece that transforms any outfit."
+  },
+  {
+    "id": 1589,
+    "name": "Sequined Mustard Double-Breasted Blazer",
+    "price": 16499,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "This luxurious handwoven velvet cardigan is the ultimate layering piece for cooler evenings. The impeccable tailoring and premium fabric ensure a sophisticated silhouette."
+  },
+  {
+    "id": 1594,
+    "name": "Nude Organza Quilted Jacket",
+    "price": 14499,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "An investment piece from the Couture Layer collection, this tassel-detailed quilted jacket in rich faux-fur trimmed offers timeless appeal. The structured silhouette adds polish to any look.",
+    "oldPrice": 18999,
+    "badge": "New"
+  },
+  {
+    "id": 1599,
+    "name": "Velvet Gold-Buttoned Moto Jacket",
+    "price": 29999,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "A beautifully crafted mandarin-collar faux-fur trimmed swing coat that blends functionality with high fashion. The thoughtful design details make it a coveted wardrobe addition.",
+    "badge": "Sale"
+  },
+  {
+    "id": 1604,
+    "name": "Ruby Piped Tweed Shrug",
+    "price": 5999,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "A beautifully crafted lace-overlaid faux-fur trimmed opera coat that blends functionality with high fashion. The thoughtful design details make it a coveted wardrobe addition."
+  },
+  {
+    "id": 1609,
+    "name": "Slate Grey Suede Cardigan",
+    "price": 42499,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "This show-stopping crystal-buttoned quilted jacket in premium leather makes a bold fashion statement. From boardroom meetings to evening events, it commands attention.",
+    "badge": "Limited"
+  },
+  {
+    "id": 1614,
+    "name": "Wool Zardozi Swing Coat",
+    "price": 21499,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "This luxurious applique cashmere coat is the ultimate layering piece for cooler evenings. The impeccable tailoring and premium fabric ensure a sophisticated silhouette."
+  },
+  {
+    "id": 1619,
+    "name": "Faux-Fur Trimmed Lace-Overlaid Duster Coat",
+    "price": 25499,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "This luxurious hand-quilted velvet nehru jacket is the ultimate layering piece for cooler evenings. The impeccable tailoring and premium fabric ensure a sophisticated silhouette."
+  },
+  {
+    "id": 1624,
+    "name": "Resham-Work Alpaca Trench Coat",
+    "price": 19499,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "This tassel-detailed cashmere vest from our Regal Layer line showcases artisanal Indian craftsmanship. The premium construction provides both warmth and elegance.",
+    "oldPrice": 26999,
+    "badge": "New"
+  },
+  {
+    "id": 1629,
+    "name": "Sequined Jacquard Bomber Jacket",
+    "price": 24999,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "From the Power Play collection, this embroidered poncho in sumptuous leather elevates any ensemble. Perfect for transitional weather, it combines warmth with undeniable style."
+  },
+  {
+    "id": 1634,
+    "name": "Velvet Hand-Quilted Parka",
+    "price": 19499,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "An investment piece from the Resort Layer collection, this piped bomber jacket in rich velvet offers timeless appeal. The structured silhouette adds polish to any look."
+  },
+  {
+    "id": 1639,
+    "name": "Belted Sage Shrug",
+    "price": 20499,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Crafted from the finest suede, this resham-work trench coat features exquisite detailing and a flattering fit. A statement piece that transforms any outfit.",
+    "badge": "Hot"
+  },
+  {
+    "id": 1644,
+    "name": "Pearl-Clasped Lavender Vest",
+    "price": 5999,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "A beautifully crafted belted silk-lined shrug that blends functionality with high fashion. The thoughtful design details make it a coveted wardrobe addition."
+  },
+  {
+    "id": 1649,
+    "name": "Pearl-Clasped Emerald Cardigan",
+    "price": 31999,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "This mandarin-collar organza blazer from our Heritage Craft line showcases artisanal Indian craftsmanship. The premium construction provides both warmth and elegance."
+  },
+  {
+    "id": 1654,
+    "name": "Lace-Overlaid Organza Trench Coat",
+    "price": 18499,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "A beautifully crafted fur-trimmed cashmere cropped jacket that blends functionality with high fashion. The thoughtful design details make it a coveted wardrobe addition."
+  },
+  {
+    "id": 1659,
+    "name": "Applique Dusty Rose Poncho",
+    "price": 14999,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Crafted from the finest pashmina, this hand-quilted bomber jacket features exquisite detailing and a flattering fit. A statement piece that transforms any outfit.",
+    "badge": "Sale"
+  },
+  {
+    "id": 1664,
+    "name": "Mustard Structured Pashmina Shrug",
+    "price": 38999,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Elevate your outerwear with this fur-trimmed suede jacket featuring masterful construction. The suede fabric provides exceptional warmth without compromising on style."
+  },
+  {
+    "id": 1669,
+    "name": "Copper Belted Cashmere Bomber Jacket",
+    "price": 33499,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "From the Power Play collection, this zardozi wrap jacket in sumptuous merino wool elevates any ensemble. Perfect for transitional weather, it combines warmth with undeniable style."
+  },
+  {
+    "id": 1674,
+    "name": "Suede Tassel-Detailed Kimono Jacket",
+    "price": 30499,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "This mandarin-collar jacquard trench coat from our Autumn Edit line showcases artisanal Indian craftsmanship. The premium construction provides both warmth and elegance."
+  },
+  {
+    "id": 1679,
+    "name": "Pashmina Beaded Duster Coat",
+    "price": 39499,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Crafted from the finest velvet, this applique cropped jacket features exquisite detailing and a flattering fit. A statement piece that transforms any outfit."
+  },
+  {
+    "id": 1684,
+    "name": "Nude Suede Shrug",
+    "price": 9999,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "A beautifully crafted resham-work organza swing coat that blends functionality with high fashion. The thoughtful design details make it a coveted wardrobe addition."
+  },
+  {
+    "id": 1689,
+    "name": "Sequined Brocade Wrap Jacket",
+    "price": 42499,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "This collarless brocade poncho from our Resort Layer line showcases artisanal Indian craftsmanship. The premium construction provides both warmth and elegance.",
+    "oldPrice": 59499
+  },
+  {
+    "id": 1694,
+    "name": "Embroidered Faux-Fur Trimmed Cocoon Coat",
+    "price": 27999,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Crafted from the finest silk-lined, this hand-quilted blazer features exquisite detailing and a flattering fit. A statement piece that transforms any outfit."
+  },
+  {
+    "id": 1699,
+    "name": "Jacquard Zardozi Double-Breasted Blazer",
+    "price": 27499,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "This show-stopping resham-work coat in premium pashmina makes a bold fashion statement. From boardroom meetings to evening events, it commands attention."
+  },
+  {
+    "id": 1704,
+    "name": "Hand-Quilted Pashmina Bomber Jacket",
+    "price": 6499,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "This mandarin-collar cashmere cardigan from our Festive Layer line showcases artisanal Indian craftsmanship. The premium construction provides both warmth and elegance."
+  },
+  {
+    "id": 1709,
+    "name": "Pearl White Faux-Fur Trimmed Bomber Jacket",
+    "price": 27999,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Crafted from the finest jacquard, this mandarin-collar bomber jacket features exquisite detailing and a flattering fit. A statement piece that transforms any outfit.",
+    "badge": "Sale"
+  },
+  {
+    "id": 1714,
+    "name": "Midnight Blue Suede Moto Jacket",
+    "price": 43999,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "This show-stopping belted opera coat in premium cashmere makes a bold fashion statement. From boardroom meetings to evening events, it commands attention."
+  },
+  {
+    "id": 1719,
+    "name": "Pearl-Clasped Silk-Lined Bolero",
+    "price": 37999,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "This show-stopping beaded duster coat in premium tweed makes a bold fashion statement. From boardroom meetings to evening events, it commands attention."
+  },
+  {
+    "id": 1724,
+    "name": "Organza Gold-Buttoned Parka",
+    "price": 36999,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "An investment piece from the Mountain Luxe collection, this structured pea coat in rich velvet offers timeless appeal. The structured silhouette adds polish to any look."
+  },
+  {
+    "id": 1729,
+    "name": "Ruby Faux-Fur Trimmed Double-Breasted Blazer",
+    "price": 13499,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "This lace-overlaid leather nehru jacket from our Contemporary Layer line showcases artisanal Indian craftsmanship. The premium construction provides both warmth and elegance.",
+    "oldPrice": 15499
+  },
+  {
+    "id": 1734,
+    "name": "Amethyst Gold-Buttoned Cashmere Double-Breasted Blazer",
+    "price": 6499,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "An investment piece from the Artisan Warmth collection, this structured moto jacket in rich jacquard offers timeless appeal. The structured silhouette adds polish to any look.",
+    "badge": "New"
+  },
+  {
+    "id": 1739,
+    "name": "Cream Wool Coat",
+    "price": 18999,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "An investment piece from the Runway Wrap collection, this double-breasted blazer in rich tweed offers timeless appeal. The structured silhouette adds polish to any look."
+  },
+  {
+    "id": 1744,
+    "name": "Beaded Alpaca Pea Coat",
+    "price": 31499,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "A beautifully crafted applique jacquard coat that blends functionality with high fashion. The thoughtful design details make it a coveted wardrobe addition."
+  },
+  {
+    "id": 1749,
+    "name": "Leather Mandarin-Collar Trench Coat",
+    "price": 43999,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "A beautifully crafted beaded alpaca bomber jacket that blends functionality with high fashion. The thoughtful design details make it a coveted wardrobe addition."
+  },
+  {
+    "id": 1754,
+    "name": "Blush Pink Applique Merino Wool Duster Coat",
+    "price": 17999,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "This zardozi merino wool parka from our Resort Layer line showcases artisanal Indian craftsmanship. The premium construction provides both warmth and elegance."
+  },
+  {
+    "id": 1759,
+    "name": "Charcoal Silk-Lined Swing Coat",
+    "price": 48499,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Crafted from the finest cashmere, this gold-buttoned shrug features exquisite detailing and a flattering fit. A statement piece that transforms any outfit."
+  },
+  {
+    "id": 1764,
+    "name": "Lace-Overlaid Nude Swing Coat",
+    "price": 38999,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "From the Autumn Edit collection, this applique duster coat in sumptuous silk-lined elevates any ensemble. Perfect for transitional weather, it combines warmth with undeniable style."
+  },
+  {
+    "id": 1769,
+    "name": "Forest Green Zardozi Pashmina Bolero",
+    "price": 38999,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "A beautifully crafted applique tweed double-breasted blazer that blends functionality with high fashion. The thoughtful design details make it a coveted wardrobe addition.",
+    "oldPrice": 51499,
+    "badge": "Sale"
+  },
+  {
+    "id": 1774,
+    "name": "Deep Teal Organza Cocoon Coat",
+    "price": 36499,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Crafted from the finest organza, this beaded coat features exquisite detailing and a flattering fit. A statement piece that transforms any outfit."
+  },
+  {
+    "id": 1779,
+    "name": "Nude Cashmere Jacket",
+    "price": 13499,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "This applique suede wrap jacket from our Autumn Edit line showcases artisanal Indian craftsmanship. The premium construction provides both warmth and elegance."
+  },
+  {
+    "id": 1784,
+    "name": "Lavender Faux-Fur Trimmed Double-Breasted Blazer",
+    "price": 37499,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "An investment piece from the Winter Luxe collection, this pearl-clasped poncho in rich brocade offers timeless appeal. The structured silhouette adds polish to any look.",
+    "badge": "New"
+  },
+  {
+    "id": 1789,
+    "name": "Dusty Rose Double-Breasted Wool Parka",
+    "price": 17499,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "An investment piece from the Festive Layer collection, this crystal-buttoned parka in rich silk-lined offers timeless appeal. The structured silhouette adds polish to any look."
+  },
+  {
+    "id": 1794,
+    "name": "Alpaca Gold-Buttoned Cape",
+    "price": 45999,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Crafted from the finest leather, this collarless kimono jacket features exquisite detailing and a flattering fit. A statement piece that transforms any outfit.",
+    "badge": "Hot"
+  },
+  {
+    "id": 1799,
+    "name": "Forest Green Belted Suede Kimono Jacket",
+    "price": 49499,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "This show-stopping piped trench coat in premium merino wool makes a bold fashion statement. From boardroom meetings to evening events, it commands attention.",
+    "oldPrice": 58499
+  },
+  {
+    "id": 1804,
+    "name": "Slate Grey Lace-Overlaid Wool Parka",
+    "price": 19999,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "This show-stopping tassel-detailed bolero in premium cashmere makes a bold fashion statement. From boardroom meetings to evening events, it commands attention."
+  },
+  {
+    "id": 1809,
+    "name": "Cashmere Crystal-Buttoned Shrug",
+    "price": 13499,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "An investment piece from the Power Play collection, this handwoven coat in rich brocade offers timeless appeal. The structured silhouette adds polish to any look."
+  },
+  {
+    "id": 1814,
+    "name": "Beaded Sage Bomber Jacket",
+    "price": 31999,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "This luxurious lace-overlaid organza bomber jacket is the ultimate layering piece for cooler evenings. The impeccable tailoring and premium fabric ensure a sophisticated silhouette."
+  },
+  {
+    "id": 1819,
+    "name": "Emerald Faux-Fur Trimmed Parka",
+    "price": 4499,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "From the Twilight collection, this zardozi long coat in sumptuous jacquard elevates any ensemble. Perfect for transitional weather, it combines warmth with undeniable style."
+  },
+  {
+    "id": 1824,
+    "name": "Sequined Velvet Poncho",
+    "price": 23499,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "An investment piece from the Evening Affair collection, this handwoven cropped jacket in rich alpaca offers timeless appeal. The structured silhouette adds polish to any look.",
+    "oldPrice": 32499,
+    "badge": "Sale"
+  },
+  {
+    "id": 1829,
+    "name": "Wool Handwoven Long Coat",
+    "price": 18999,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "An investment piece from the Winter Luxe collection, this resham-work cardigan in rich organza offers timeless appeal. The structured silhouette adds polish to any look."
+  },
+  {
+    "id": 1834,
+    "name": "Faux-Fur Trimmed Resham-Work Pea Coat",
+    "price": 11499,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "This sequined organza wrap jacket from our Festive Layer line showcases artisanal Indian craftsmanship. The premium construction provides both warmth and elegance."
+  },
+  {
+    "id": 1839,
+    "name": "Onyx Crystal-Buttoned Silk-Lined Cropped Jacket",
+    "price": 33499,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "A beautifully crafted handwoven wool nehru jacket that blends functionality with high fashion. The thoughtful design details make it a coveted wardrobe addition.",
+    "oldPrice": 46499,
+    "badge": "Sale"
+  },
+  {
+    "id": 1844,
+    "name": "Pearl White Pashmina Pea Coat",
+    "price": 15999,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "An investment piece from the Midnight Edit collection, this applique long coat in rich faux-fur trimmed offers timeless appeal. The structured silhouette adds polish to any look."
+  },
+  {
+    "id": 1849,
+    "name": "Beaded Cashmere Nehru Jacket",
+    "price": 39499,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "This embroidered cashmere long coat from our Festive Layer line showcases artisanal Indian craftsmanship. The premium construction provides both warmth and elegance.",
+    "badge": "Limited"
+  },
+  {
+    "id": 1854,
+    "name": "Midnight Blue Double-Breasted Tweed Cocoon Coat",
+    "price": 10999,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "This luxurious beaded wool bomber jacket is the ultimate layering piece for cooler evenings. The impeccable tailoring and premium fabric ensure a sophisticated silhouette."
+  },
+  {
+    "id": 1859,
+    "name": "Fur-Trimmed Cream Long Coat",
+    "price": 5999,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "An investment piece from the Heritage Craft collection, this belted wrap jacket in rich pashmina offers timeless appeal. The structured silhouette adds polish to any look.",
+    "badge": "Sale"
+  },
+  {
+    "id": 1864,
+    "name": "Jacquard Handwoven Opera Coat",
+    "price": 38499,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "This structured leather parka from our Couture Layer line showcases artisanal Indian craftsmanship. The premium construction provides both warmth and elegance."
+  },
+  {
+    "id": 1869,
+    "name": "Applique Silk-Lined Opera Coat",
+    "price": 27999,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "This show-stopping applique shrug in premium tweed makes a bold fashion statement. From boardroom meetings to evening events, it commands attention."
+  },
+  {
+    "id": 1874,
+    "name": "Pashmina Handwoven Bomber Jacket",
+    "price": 7499,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "From the Mountain Luxe collection, this embroidered coat in sumptuous tweed elevates any ensemble. Perfect for transitional weather, it combines warmth with undeniable style."
+  },
+  {
+    "id": 1879,
+    "name": "Zardozi Alpaca Cocoon Coat",
+    "price": 32499,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "This luxurious belted cashmere jacket is the ultimate layering piece for cooler evenings. The impeccable tailoring and premium fabric ensure a sophisticated silhouette."
+  },
+  {
+    "id": 1884,
+    "name": "Blush Pink Belted Pashmina Swing Coat",
+    "price": 21499,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "From the Power Play collection, this belted cape in sumptuous organza elevates any ensemble. Perfect for transitional weather, it combines warmth with undeniable style."
+  },
+  {
+    "id": 1889,
+    "name": "Amethyst Zardozi Wool Bomber Jacket",
+    "price": 49499,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "This handwoven wool swing coat from our Twilight line showcases artisanal Indian craftsmanship. The premium construction provides both warmth and elegance."
+  },
+  {
+    "id": 1894,
+    "name": "Slate Grey Suede Bolero",
+    "price": 33999,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "An investment piece from the Midnight Edit collection, this structured jacket in rich wool offers timeless appeal. The structured silhouette adds polish to any look."
+  },
+  {
+    "id": 1899,
+    "name": "Charcoal Tweed Trench Coat",
+    "price": 28499,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Crafted from the finest brocade, this sequined nehru jacket features exquisite detailing and a flattering fit. A statement piece that transforms any outfit.",
+    "oldPrice": 32499
+  },
+  {
+    "id": 1904,
+    "name": "Coral Silk-Lined Cardigan",
+    "price": 14499,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "This hand-quilted tweed poncho from our Resort Layer line showcases artisanal Indian craftsmanship. The premium construction provides both warmth and elegance."
+  },
+  {
+    "id": 1909,
+    "name": "Silver Piped Jacquard Cropped Jacket",
+    "price": 11999,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Elevate your outerwear with this pearl-clasped faux-fur trimmed trench coat featuring masterful construction. The faux-fur trimmed fabric provides exceptional warmth without compromising on style.",
+    "oldPrice": 16999,
+    "badge": "New"
+  },
+  {
+    "id": 1914,
+    "name": "Mustard Shahtoosh-Style Bolero",
+    "price": 7999,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Crafted from the finest leather, this hand-quilted double-breasted blazer features exquisite detailing and a flattering fit. A statement piece that transforms any outfit.",
+    "oldPrice": 9499
+  },
+  {
+    "id": 1919,
+    "name": "Beaded Dusty Rose Moto Jacket",
+    "price": 15499,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "A beautifully crafted collarless alpaca nehru jacket that blends functionality with high fashion. The thoughtful design details make it a coveted wardrobe addition."
+  },
+  {
+    "id": 1924,
+    "name": "Nude Mandarin-Collar Alpaca Blazer",
+    "price": 24499,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Elevate your outerwear with this belted pashmina long coat featuring masterful construction. The pashmina fabric provides exceptional warmth without compromising on style."
+  },
+  {
+    "id": 1929,
+    "name": "Suede Beaded Nehru Jacket",
+    "price": 24499,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "This show-stopping applique blazer in premium leather makes a bold fashion statement. From boardroom meetings to evening events, it commands attention.",
+    "badge": "Limited"
+  },
+  {
+    "id": 1934,
+    "name": "Emerald Crystal-Buttoned Wool Parka",
+    "price": 25999,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "A beautifully crafted tassel-detailed pashmina kimono jacket that blends functionality with high fashion. The thoughtful design details make it a coveted wardrobe addition.",
+    "oldPrice": 29499,
+    "badge": "Limited"
+  },
+  {
+    "id": 1939,
+    "name": "Midnight Blue Hand-Quilted Brocade Duster Coat",
+    "price": 48999,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "This show-stopping double-breasted coat in premium alpaca makes a bold fashion statement. From boardroom meetings to evening events, it commands attention."
+  },
+  {
+    "id": 1944,
+    "name": "Zardozi Sapphire Opera Coat",
+    "price": 10499,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "This collarless tweed wrap jacket from our Autumn Edit line showcases artisanal Indian craftsmanship. The premium construction provides both warmth and elegance."
+  },
+  {
+    "id": 1949,
+    "name": "Deep Teal Faux-Fur Trimmed Nehru Jacket",
+    "price": 5999,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Crafted from the finest leather, this gold-buttoned duster coat features exquisite detailing and a flattering fit. A statement piece that transforms any outfit."
+  },
+  {
+    "id": 1954,
+    "name": "Velvet Collarless Kimono Jacket",
+    "price": 44499,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "An investment piece from the Festive Layer collection, this pearl-clasped pea coat in rich tweed offers timeless appeal. The structured silhouette adds polish to any look."
+  },
+  {
+    "id": 1959,
+    "name": "Beaded Slate Grey Trench Coat",
+    "price": 9999,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Crafted from the finest merino wool, this zardozi bomber jacket features exquisite detailing and a flattering fit. A statement piece that transforms any outfit."
+  },
+  {
+    "id": 1964,
+    "name": "Deep Teal Collarless Brocade Bomber Jacket",
+    "price": 33499,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "From the Evening Affair collection, this mandarin-collar wrap jacket in sumptuous merino wool elevates any ensemble. Perfect for transitional weather, it combines warmth with undeniable style.",
+    "oldPrice": 49999,
+    "badge": "Limited"
+  },
+  {
+    "id": 1969,
+    "name": "Sequined Alpaca Bomber Jacket",
+    "price": 46499,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Crafted from the finest faux-fur trimmed, this zardozi coat features exquisite detailing and a flattering fit. A statement piece that transforms any outfit."
+  },
+  {
+    "id": 1974,
+    "name": "Structured Champagne Swing Coat",
+    "price": 11999,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "From the Travel Edit collection, this resham-work cape in sumptuous suede elevates any ensemble. Perfect for transitional weather, it combines warmth with undeniable style."
+  },
+  {
+    "id": 1979,
+    "name": "Lace-Overlaid Jacquard Coat",
+    "price": 43999,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Crafted from the finest velvet, this crystal-buttoned long coat features exquisite detailing and a flattering fit. A statement piece that transforms any outfit."
+  },
+  {
+    "id": 1984,
+    "name": "Midnight Blue Hand-Quilted Jacquard Long Coat",
+    "price": 40499,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "A beautifully crafted belted shahtoosh-style jacket that blends functionality with high fashion. The thoughtful design details make it a coveted wardrobe addition."
+  },
+  {
+    "id": 1989,
+    "name": "Tassel-Detailed Leather Wrap Jacket",
+    "price": 24999,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "An investment piece from the Evening Affair collection, this beaded jacket in rich cashmere offers timeless appeal. The structured silhouette adds polish to any look.",
+    "badge": "Limited"
+  },
+  {
+    "id": 1994,
+    "name": "Fur-Trimmed Silk-Lined Long Coat",
+    "price": 34499,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "This mandarin-collar pashmina vest from our Winter Luxe line showcases artisanal Indian craftsmanship. The premium construction provides both warmth and elegance."
+  },
+  {
+    "id": 1999,
+    "name": "Hand-Quilted Alpaca Shrug",
+    "price": 34499,
+    "category": "Outerwear",
+    "images": [],
+    "emoji": "🧥",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "This show-stopping zardozi duster coat in premium cashmere makes a bold fashion statement. From boardroom meetings to evening events, it commands attention.",
+    "oldPrice": 49499,
+    "badge": "Limited"
+  }
+]

@@ -1,0 +1,6556 @@
+[
+  {
+    "id": 3,
+    "name": "Gold-Threaded Ivory Palazzo Pants",
+    "price": 22999,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "These applique-detailed midi skirt from the Relaxed Luxe collection feature a contemporary design in rich brocade. Versatile enough for office wear or weekend outings."
+  },
+  {
+    "id": 8,
+    "name": "Brocade Hand-Printed Tiered Skirt",
+    "price": 20999,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Elevate your bottoms collection with these hand-printed pleated skirt in sumptuous velvet. The refined construction and premium finishing ensure lasting elegance."
+  },
+  {
+    "id": 13,
+    "name": "Zari-Border Indigo Pencil Skirt",
+    "price": 23999,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "These pintucked pencil skirt from the Essential Luxe collection feature a contemporary design in rich tweed. Versatile enough for office wear or weekend outings."
+  },
+  {
+    "id": 18,
+    "name": "Knife-Pleated Modal Paperbag Waist Pants",
+    "price": 18999,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Crafted from premium silk, these mirror-work dhoti pants showcase meticulous attention to detail. The elegant drape and comfortable fit make them a wardrobe staple."
+  },
+  {
+    "id": 23,
+    "name": "Coral Gold-Threaded Modal Draped Skirt",
+    "price": 16999,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "From the Artisan Weave collection, these zari-border midi skirt in luxurious linen feature impeccable tailoring. They pair beautifully with blouses and tops for a refined look."
+  },
+  {
+    "id": 28,
+    "name": "Ombre-Dyed Satin Flared Pants",
+    "price": 11999,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "These ikat midi skirt from the Tailored Edit collection feature a contemporary design in rich modal. Versatile enough for office wear or weekend outings.",
+    "oldPrice": 14499
+  },
+  {
+    "id": 33,
+    "name": "Emerald Zari-Border Tweed Culottes",
+    "price": 21499,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "These hand-printed palazzo pants from the Urban Grace collection feature a contemporary design in rich silk. Versatile enough for office wear or weekend outings.",
+    "badge": "Sale"
+  },
+  {
+    "id": 38,
+    "name": "Smocked-Waist Cotton-Silk A-Line Skirt",
+    "price": 8999,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Artfully tailored gold-threaded linen midi skirt that combine Indian textile heritage with modern design sensibility. The premium construction ensures a perfect drape."
+  },
+  {
+    "id": 43,
+    "name": "Champagne Pintucked Denim-Silk Tiered Skirt",
+    "price": 9999,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Crafted from premium linen, these sequin-hem tulip skirt showcase meticulous attention to detail. The elegant drape and comfortable fit make them a wardrobe staple."
+  },
+  {
+    "id": 48,
+    "name": "Zari-Border Amethyst Layered Skirt",
+    "price": 22499,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "These stunning smocked-waist cotton-silk cargo trousers from our Weekend Luxe line blend traditional Indian textiles with contemporary silhouettes. Perfect for both formal and casual styling.",
+    "oldPrice": 35999,
+    "badge": "Sale"
+  },
+  {
+    "id": 53,
+    "name": "Sequin-Hem Pearl White Midi Skirt",
+    "price": 4999,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "These stunning hand-printed velvet palazzo pants from our Modern Classic line blend traditional Indian textiles with contemporary silhouettes. Perfect for both formal and casual styling.",
+    "oldPrice": 7499,
+    "badge": "New"
+  },
+  {
+    "id": 58,
+    "name": "Belted Plum Dhoti Pants",
+    "price": 6999,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Artfully tailored hand-printed crepe straight-leg trousers that combine Indian textile heritage with modern design sensibility. The premium construction ensures a perfect drape."
+  },
+  {
+    "id": 63,
+    "name": "Embroidered Blush Pink Midi Skirt",
+    "price": 8999,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "A luxurious pair of block-printed chanderi flared pants designed for the modern Indian woman. The comfortable waistline and flowing silhouette flatter every figure."
+  },
+  {
+    "id": 68,
+    "name": "Embroidered Crepe Cigarette Pants",
+    "price": 22499,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "From the Day Edit collection, these pleated a-line skirt in luxurious cotton-silk feature impeccable tailoring. They pair beautifully with blouses and tops for a refined look.",
+    "oldPrice": 25999,
+    "badge": "Sale"
+  },
+  {
+    "id": 73,
+    "name": "Ikat Jacquard A-Line Skirt",
+    "price": 3499,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "A luxurious pair of block-printed silk cargo trousers designed for the modern Indian woman. The comfortable waistline and flowing silhouette flatter every figure."
+  },
+  {
+    "id": 78,
+    "name": "Pintucked Satin Layered Skirt",
+    "price": 2499,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Crafted from premium silk, these zari-border culottes showcase meticulous attention to detail. The elegant drape and comfortable fit make them a wardrobe staple."
+  },
+  {
+    "id": 83,
+    "name": "Crepe Lace-Paneled Paperbag Waist Pants",
+    "price": 24499,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "From the Weekend Luxe collection, these zari-border dhoti pants in luxurious silk feature impeccable tailoring. They pair beautifully with blouses and tops for a refined look.",
+    "badge": "Limited"
+  },
+  {
+    "id": 88,
+    "name": "Charcoal Tie-Dyed Chanderi A-Line Skirt",
+    "price": 17999,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Elevate your bottoms collection with these ikat harem pants in sumptuous cotton-silk. The refined construction and premium finishing ensure lasting elegance."
+  },
+  {
+    "id": 93,
+    "name": "Indigo Modal Wide-Leg Trousers",
+    "price": 15999,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "These hand-printed flared pants from the Urban Grace collection feature a contemporary design in rich linen. Versatile enough for office wear or weekend outings.",
+    "oldPrice": 20499,
+    "badge": "Limited"
+  },
+  {
+    "id": 98,
+    "name": "Lavender Ikat Georgette Cargo Trousers",
+    "price": 7499,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "These applique-detailed pencil skirt from the Free Flow collection feature a contemporary design in rich tweed. Versatile enough for office wear or weekend outings."
+  },
+  {
+    "id": 103,
+    "name": "Lace-Paneled Tussar Midi Skirt",
+    "price": 9999,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Crafted from premium tweed, these bandhani cargo trousers showcase meticulous attention to detail. The elegant drape and comfortable fit make them a wardrobe staple."
+  },
+  {
+    "id": 108,
+    "name": "Block-Printed Linen Straight-Leg Trousers",
+    "price": 19499,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Elevate your bottoms collection with these belted bootcut trousers in sumptuous jacquard. The refined construction and premium finishing ensure lasting elegance.",
+    "oldPrice": 24499,
+    "badge": "Sale"
+  },
+  {
+    "id": 113,
+    "name": "Tussar Embroidered Paperbag Waist Pants",
+    "price": 23499,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Artfully tailored tailored wool-blend wide-leg trousers that combine Indian textile heritage with modern design sensibility. The premium construction ensures a perfect drape."
+  },
+  {
+    "id": 118,
+    "name": "Copper Sequin-Hem Tussar Tiered Skirt",
+    "price": 23999,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Artfully tailored high-waisted wool-blend wrap skirt that combine Indian textile heritage with modern design sensibility. The premium construction ensures a perfect drape."
+  },
+  {
+    "id": 123,
+    "name": "Pleated Wine Flared Pants",
+    "price": 3999,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "A luxurious pair of ombre-dyed chanderi paperbag waist pants designed for the modern Indian woman. The comfortable waistline and flowing silhouette flatter every figure.",
+    "oldPrice": 5499
+  },
+  {
+    "id": 128,
+    "name": "High-Waisted Linen Pencil Skirt",
+    "price": 22999,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Artfully tailored hand-printed tweed a-line skirt that combine Indian textile heritage with modern design sensibility. The premium construction ensures a perfect drape."
+  },
+  {
+    "id": 133,
+    "name": "Ikat Lavender Dhoti Pants",
+    "price": 3499,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "These sequin-hem tapered trousers from the Heritage Weave collection feature a contemporary design in rich crepe. Versatile enough for office wear or weekend outings."
+  },
+  {
+    "id": 138,
+    "name": "Cream Wool-Blend Cigarette Pants",
+    "price": 5999,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "From the Free Flow collection, these knife-pleated layered skirt in luxurious satin feature impeccable tailoring. They pair beautifully with blouses and tops for a refined look.",
+    "badge": "New"
+  },
+  {
+    "id": 143,
+    "name": "Smocked-Waist Cream Peg Trousers",
+    "price": 4999,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Elevate your bottoms collection with these high-waisted cigarette pants in sumptuous silk. The refined construction and premium finishing ensure lasting elegance."
+  },
+  {
+    "id": 148,
+    "name": "Amethyst Chanderi Paperbag Waist Pants",
+    "price": 14499,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "These gold-threaded midi skirt from the Evening Luxe collection feature a contemporary design in rich cotton-silk. Versatile enough for office wear or weekend outings."
+  },
+  {
+    "id": 153,
+    "name": "Lace-Paneled Wine Pencil Skirt",
+    "price": 5999,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "These stunning applique-detailed jacquard dhoti pants from our Day Edit line blend traditional Indian textiles with contemporary silhouettes. Perfect for both formal and casual styling."
+  },
+  {
+    "id": 158,
+    "name": "Modal Smocked-Waist Flared Pants",
+    "price": 16499,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Elevate your bottoms collection with these ombre-dyed peg trousers in sumptuous modal. The refined construction and premium finishing ensure lasting elegance."
+  },
+  {
+    "id": 163,
+    "name": "Forest Green Knife-Pleated Tussar Jogger Pants",
+    "price": 13499,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "A luxurious pair of belted modal straight-leg trousers designed for the modern Indian woman. The comfortable waistline and flowing silhouette flatter every figure.",
+    "badge": "Hot"
+  },
+  {
+    "id": 168,
+    "name": "Smocked-Waist Plum Cigarette Pants",
+    "price": 5499,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "From the Evening Luxe collection, these gold-threaded culottes in luxurious tussar feature impeccable tailoring. They pair beautifully with blouses and tops for a refined look."
+  },
+  {
+    "id": 173,
+    "name": "Tailored Cotton-Silk Layered Skirt",
+    "price": 3499,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "These pintucked tapered trousers from the Curated Classics collection feature a contemporary design in rich georgette. Versatile enough for office wear or weekend outings."
+  },
+  {
+    "id": 178,
+    "name": "Velvet Pintucked Cigarette Pants",
+    "price": 24499,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Elevate your bottoms collection with these zari-border pencil skirt in sumptuous crepe. The refined construction and premium finishing ensure lasting elegance.",
+    "badge": "Hot"
+  },
+  {
+    "id": 183,
+    "name": "Linen Embroidered Harem Pants",
+    "price": 23499,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Artfully tailored knife-pleated crepe high-waist pants that combine Indian textile heritage with modern design sensibility. The premium construction ensures a perfect drape.",
+    "oldPrice": 34499
+  },
+  {
+    "id": 188,
+    "name": "Smocked-Waist Gold Cargo Trousers",
+    "price": 22499,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "From the Evening Luxe collection, these sequin-hem pencil skirt in luxurious wool-blend feature impeccable tailoring. They pair beautifully with blouses and tops for a refined look."
+  },
+  {
+    "id": 193,
+    "name": "Tie-Dyed Silver Layered Skirt",
+    "price": 18499,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "From the Heritage Weave collection, these mirror-work midi skirt in luxurious chanderi feature impeccable tailoring. They pair beautifully with blouses and tops for a refined look."
+  },
+  {
+    "id": 198,
+    "name": "High-Waisted Satin Tulip Skirt",
+    "price": 2999,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Artfully tailored hand-printed silk paperbag waist pants that combine Indian textile heritage with modern design sensibility. The premium construction ensures a perfect drape.",
+    "badge": "Sale"
+  },
+  {
+    "id": 203,
+    "name": "Midnight Blue Jacquard Jogger Pants",
+    "price": 10499,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Elevate your bottoms collection with these zari-border tulip skirt in sumptuous tussar. The refined construction and premium finishing ensure lasting elegance.",
+    "oldPrice": 12499,
+    "badge": "Sale"
+  },
+  {
+    "id": 208,
+    "name": "Coral Zari-Border Jacquard Pleated Skirt",
+    "price": 17499,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Crafted from premium wool-blend, these tailored tiered skirt showcase meticulous attention to detail. The elegant drape and comfortable fit make them a wardrobe staple.",
+    "oldPrice": 27499,
+    "badge": "New"
+  },
+  {
+    "id": 213,
+    "name": "Dusty Rose Modal Dhoti Pants",
+    "price": 6499,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Crafted from premium modal, these embroidered draped skirt showcase meticulous attention to detail. The elegant drape and comfortable fit make them a wardrobe staple."
+  },
+  {
+    "id": 218,
+    "name": "Jade Velvet Draped Skirt",
+    "price": 2499,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "These bandhani tapered trousers from the Relaxed Luxe collection feature a contemporary design in rich georgette. Versatile enough for office wear or weekend outings."
+  },
+  {
+    "id": 223,
+    "name": "Bandhani Velvet Pencil Skirt",
+    "price": 12999,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "These sequin-hem jacquard straight-leg trousers offer a perfect blend of comfort and sophistication. The flattering cut and premium fabric make them ideal for any occasion."
+  },
+  {
+    "id": 228,
+    "name": "Indigo Ombre-Dyed Chanderi Culottes",
+    "price": 12499,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "From the Day Edit collection, these tailored high-waist pants in luxurious chanderi feature impeccable tailoring. They pair beautifully with blouses and tops for a refined look."
+  },
+  {
+    "id": 233,
+    "name": "Dusty Rose Pleated Georgette Jogger Pants",
+    "price": 19499,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "These applique-detailed brocade pencil skirt offer a perfect blend of comfort and sophistication. The flattering cut and premium fabric make them ideal for any occasion."
+  },
+  {
+    "id": 238,
+    "name": "Belted Denim-Silk Harem Pants",
+    "price": 3499,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "From the Resort Collection collection, these sequin-hem palazzo pants in luxurious silk feature impeccable tailoring. They pair beautifully with blouses and tops for a refined look.",
+    "oldPrice": 4499,
+    "badge": "Sale"
+  },
+  {
+    "id": 243,
+    "name": "Block-Printed Denim-Silk Palazzo Pants",
+    "price": 22999,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Elevate your bottoms collection with these mirror-work tulip skirt in sumptuous jacquard. The refined construction and premium finishing ensure lasting elegance."
+  },
+  {
+    "id": 248,
+    "name": "Burnt Orange Chanderi Tapered Trousers",
+    "price": 24499,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "From the Urban Grace collection, these tie-dyed culottes in luxurious denim-silk feature impeccable tailoring. They pair beautifully with blouses and tops for a refined look."
+  },
+  {
+    "id": 253,
+    "name": "Mauve Tailored Silk Maxi Skirt",
+    "price": 22999,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "These ombre-dyed modal a-line skirt offer a perfect blend of comfort and sophistication. The flattering cut and premium fabric make them ideal for any occasion."
+  },
+  {
+    "id": 258,
+    "name": "Blush Pink Linen Layered Skirt",
+    "price": 3499,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "These high-waisted satin peg trousers offer a perfect blend of comfort and sophistication. The flattering cut and premium fabric make them ideal for any occasion."
+  },
+  {
+    "id": 263,
+    "name": "Linen Mirror-Work Pleated Skirt",
+    "price": 20499,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Artfully tailored knife-pleated modal wide-leg trousers that combine Indian textile heritage with modern design sensibility. The premium construction ensures a perfect drape.",
+    "badge": "Limited"
+  },
+  {
+    "id": 268,
+    "name": "Applique-Detailed Pearl White Bootcut Trousers",
+    "price": 11999,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "These stunning tailored tussar a-line skirt from our Urban Grace line blend traditional Indian textiles with contemporary silhouettes. Perfect for both formal and casual styling.",
+    "oldPrice": 16499,
+    "badge": "Sale"
+  },
+  {
+    "id": 273,
+    "name": "Sequin-Hem Brocade Culottes",
+    "price": 12499,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "A luxurious pair of ombre-dyed linen palazzo pants designed for the modern Indian woman. The comfortable waistline and flowing silhouette flatter every figure."
+  },
+  {
+    "id": 278,
+    "name": "Chanderi Ikat Wide-Leg Trousers",
+    "price": 17499,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "A luxurious pair of smocked-waist crepe jogger pants designed for the modern Indian woman. The comfortable waistline and flowing silhouette flatter every figure.",
+    "badge": "Sale"
+  },
+  {
+    "id": 283,
+    "name": "Onyx Applique-Detailed Jacquard High-Waist Pants",
+    "price": 12499,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "From the Contemporary collection, these block-printed harem pants in luxurious satin feature impeccable tailoring. They pair beautifully with blouses and tops for a refined look.",
+    "oldPrice": 17499
+  },
+  {
+    "id": 288,
+    "name": "Tailored Wine Straight-Leg Trousers",
+    "price": 9999,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Crafted from premium tussar, these ikat paperbag waist pants showcase meticulous attention to detail. The elegant drape and comfortable fit make them a wardrobe staple."
+  },
+  {
+    "id": 293,
+    "name": "Embroidered Jacquard Midi Skirt",
+    "price": 3499,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Elevate your bottoms collection with these tailored harem pants in sumptuous crepe. The refined construction and premium finishing ensure lasting elegance."
+  },
+  {
+    "id": 298,
+    "name": "Nude Sequin-Hem Linen Tiered Skirt",
+    "price": 15499,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "A luxurious pair of smocked-waist chanderi tulip skirt designed for the modern Indian woman. The comfortable waistline and flowing silhouette flatter every figure."
+  },
+  {
+    "id": 303,
+    "name": "Sapphire Tailored Linen Harem Pants",
+    "price": 16999,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "A luxurious pair of hand-printed silk palazzo pants designed for the modern Indian woman. The comfortable waistline and flowing silhouette flatter every figure.",
+    "oldPrice": 26999,
+    "badge": "Limited"
+  },
+  {
+    "id": 308,
+    "name": "Applique-Detailed Wool-Blend Dhoti Pants",
+    "price": 13999,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "These pleated silk bootcut trousers offer a perfect blend of comfort and sophistication. The flattering cut and premium fabric make them ideal for any occasion."
+  },
+  {
+    "id": 313,
+    "name": "Chanderi Mirror-Work Wide-Leg Trousers",
+    "price": 9499,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "A luxurious pair of hand-printed jacquard tulip skirt designed for the modern Indian woman. The comfortable waistline and flowing silhouette flatter every figure."
+  },
+  {
+    "id": 318,
+    "name": "Tailored Crepe Bootcut Trousers",
+    "price": 8499,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "These ombre-dyed palazzo pants from the Relaxed Luxe collection feature a contemporary design in rich cotton-silk. Versatile enough for office wear or weekend outings."
+  },
+  {
+    "id": 323,
+    "name": "Teal Embroidered Silk Draped Skirt",
+    "price": 22999,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "These stunning applique-detailed chanderi palazzo pants from our Contemporary line blend traditional Indian textiles with contemporary silhouettes. Perfect for both formal and casual styling."
+  },
+  {
+    "id": 328,
+    "name": "Georgette Mirror-Work Wrap Skirt",
+    "price": 18499,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Crafted from premium tweed, these tailored tiered skirt showcase meticulous attention to detail. The elegant drape and comfortable fit make them a wardrobe staple."
+  },
+  {
+    "id": 333,
+    "name": "Sage Zari-Border Cotton-Silk Straight-Leg Trousers",
+    "price": 2499,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "From the Resort Collection collection, these applique-detailed wrap skirt in luxurious tussar feature impeccable tailoring. They pair beautifully with blouses and tops for a refined look."
+  },
+  {
+    "id": 338,
+    "name": "Tussar Sequin-Hem Pleated Skirt",
+    "price": 11999,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Elevate your bottoms collection with these pleated a-line skirt in sumptuous wool-blend. The refined construction and premium finishing ensure lasting elegance."
+  },
+  {
+    "id": 343,
+    "name": "Tie-Dyed Georgette Paperbag Waist Pants",
+    "price": 20999,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "These applique-detailed brocade pencil skirt offer a perfect blend of comfort and sophistication. The flattering cut and premium fabric make them ideal for any occasion."
+  },
+  {
+    "id": 348,
+    "name": "Embroidered Linen Paperbag Waist Pants",
+    "price": 7999,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Elevate your bottoms collection with these smocked-waist pencil skirt in sumptuous wool-blend. The refined construction and premium finishing ensure lasting elegance."
+  },
+  {
+    "id": 353,
+    "name": "Burnt Orange Tie-Dyed Tussar Layered Skirt",
+    "price": 24999,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Crafted from premium crepe, these embroidered high-waist pants showcase meticulous attention to detail. The elegant drape and comfortable fit make them a wardrobe staple.",
+    "oldPrice": 33999,
+    "badge": "Sale"
+  },
+  {
+    "id": 358,
+    "name": "Sage Embroidered Modal High-Waist Pants",
+    "price": 5499,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Elevate your bottoms collection with these zari-border tapered trousers in sumptuous denim-silk. The refined construction and premium finishing ensure lasting elegance.",
+    "oldPrice": 8499,
+    "badge": "Sale"
+  },
+  {
+    "id": 363,
+    "name": "Pintucked Slate Grey Straight-Leg Trousers",
+    "price": 19499,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "These zari-border georgette draped skirt offer a perfect blend of comfort and sophistication. The flattering cut and premium fabric make them ideal for any occasion.",
+    "badge": "Limited"
+  },
+  {
+    "id": 368,
+    "name": "Ikat Satin Pleated Skirt",
+    "price": 16999,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "These stunning block-printed tweed pleated skirt from our Studio Edit line blend traditional Indian textiles with contemporary silhouettes. Perfect for both formal and casual styling."
+  },
+  {
+    "id": 373,
+    "name": "Coral Knife-Pleated Georgette Culottes",
+    "price": 9999,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Elevate your bottoms collection with these belted harem pants in sumptuous brocade. The refined construction and premium finishing ensure lasting elegance."
+  },
+  {
+    "id": 378,
+    "name": "Crepe Belted Layered Skirt",
+    "price": 8499,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "These stunning hand-printed velvet cigarette pants from our Day Edit line blend traditional Indian textiles with contemporary silhouettes. Perfect for both formal and casual styling."
+  },
+  {
+    "id": 383,
+    "name": "Cotton-Silk Smocked-Waist Maxi Skirt",
+    "price": 17999,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "These stunning lace-paneled chanderi tiered skirt from our Festive Flair line blend traditional Indian textiles with contemporary silhouettes. Perfect for both formal and casual styling."
+  },
+  {
+    "id": 388,
+    "name": "Gold Knife-Pleated Tweed Jogger Pants",
+    "price": 20499,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "A luxurious pair of sequin-hem modal tapered trousers designed for the modern Indian woman. The comfortable waistline and flowing silhouette flatter every figure.",
+    "badge": "Hot"
+  },
+  {
+    "id": 393,
+    "name": "Satin Gold-Threaded Tapered Trousers",
+    "price": 10499,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Elevate your bottoms collection with these pleated bootcut trousers in sumptuous georgette. The refined construction and premium finishing ensure lasting elegance."
+  },
+  {
+    "id": 398,
+    "name": "Smocked-Waist Tussar Palazzo Pants",
+    "price": 10499,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "These ombre-dyed paperbag waist pants from the Urban Grace collection feature a contemporary design in rich chanderi. Versatile enough for office wear or weekend outings."
+  },
+  {
+    "id": 403,
+    "name": "Gold Tie-Dyed Satin Pencil Skirt",
+    "price": 14999,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Crafted from premium jacquard, these mirror-work a-line skirt showcase meticulous attention to detail. The elegant drape and comfortable fit make them a wardrobe staple."
+  },
+  {
+    "id": 408,
+    "name": "Sapphire Chanderi Tiered Skirt",
+    "price": 8999,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Artfully tailored smocked-waist jacquard pencil skirt that combine Indian textile heritage with modern design sensibility. The premium construction ensures a perfect drape.",
+    "oldPrice": 11499,
+    "badge": "Sale"
+  },
+  {
+    "id": 413,
+    "name": "Hand-Printed Tussar Pleated Skirt",
+    "price": 24499,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Crafted from premium velvet, these ikat pencil skirt showcase meticulous attention to detail. The elegant drape and comfortable fit make them a wardrobe staple."
+  },
+  {
+    "id": 418,
+    "name": "Lace-Paneled Mustard Wrap Skirt",
+    "price": 18499,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Elevate your bottoms collection with these smocked-waist tulip skirt in sumptuous tweed. The refined construction and premium finishing ensure lasting elegance."
+  },
+  {
+    "id": 423,
+    "name": "Gold-Threaded Silk Cigarette Pants",
+    "price": 22499,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Artfully tailored ombre-dyed velvet wrap skirt that combine Indian textile heritage with modern design sensibility. The premium construction ensures a perfect drape."
+  },
+  {
+    "id": 428,
+    "name": "Sequin-Hem Satin Wide-Leg Trousers",
+    "price": 17999,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "These stunning applique-detailed georgette layered skirt from our Runway Edit line blend traditional Indian textiles with contemporary silhouettes. Perfect for both formal and casual styling."
+  },
+  {
+    "id": 433,
+    "name": "Tussar Knife-Pleated Cargo Trousers",
+    "price": 15999,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "These zari-border straight-leg trousers from the Festive Flair collection feature a contemporary design in rich denim-silk. Versatile enough for office wear or weekend outings.",
+    "oldPrice": 18999,
+    "badge": "Limited"
+  },
+  {
+    "id": 438,
+    "name": "Applique-Detailed Pearl White Dhoti Pants",
+    "price": 17999,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Elevate your bottoms collection with these ombre-dyed flared pants in sumptuous chanderi. The refined construction and premium finishing ensure lasting elegance."
+  },
+  {
+    "id": 443,
+    "name": "Jade Cotton-Silk Palazzo Pants",
+    "price": 14499,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Elevate your bottoms collection with these bandhani midi skirt in sumptuous satin. The refined construction and premium finishing ensure lasting elegance.",
+    "oldPrice": 16999,
+    "badge": "Limited"
+  },
+  {
+    "id": 448,
+    "name": "Tussar Belted Layered Skirt",
+    "price": 18999,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "These zari-border wool-blend pencil skirt offer a perfect blend of comfort and sophistication. The flattering cut and premium fabric make them ideal for any occasion.",
+    "oldPrice": 29499,
+    "badge": "Sale"
+  },
+  {
+    "id": 453,
+    "name": "Copper Denim-Silk Dhoti Pants",
+    "price": 4999,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Elevate your bottoms collection with these high-waisted high-waist pants in sumptuous crepe. The refined construction and premium finishing ensure lasting elegance.",
+    "oldPrice": 6499,
+    "badge": "Sale"
+  },
+  {
+    "id": 458,
+    "name": "High-Waisted Linen Layered Skirt",
+    "price": 15499,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "A luxurious pair of belted satin high-waist pants designed for the modern Indian woman. The comfortable waistline and flowing silhouette flatter every figure.",
+    "oldPrice": 19999
+  },
+  {
+    "id": 463,
+    "name": "Hand-Printed Deep Teal Midi Skirt",
+    "price": 8499,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "These stunning belted tweed tiered skirt from our Weekend Luxe line blend traditional Indian textiles with contemporary silhouettes. Perfect for both formal and casual styling."
+  },
+  {
+    "id": 468,
+    "name": "Mustard Georgette Jogger Pants",
+    "price": 7999,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "These tie-dyed dhoti pants from the Day Edit collection feature a contemporary design in rich tweed. Versatile enough for office wear or weekend outings."
+  },
+  {
+    "id": 473,
+    "name": "Champagne Jacquard Wide-Leg Trousers",
+    "price": 17999,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Crafted from premium linen, these embroidered layered skirt showcase meticulous attention to detail. The elegant drape and comfortable fit make them a wardrobe staple."
+  },
+  {
+    "id": 478,
+    "name": "Onyx Silk Jogger Pants",
+    "price": 17499,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Elevate your bottoms collection with these embroidered pencil skirt in sumptuous brocade. The refined construction and premium finishing ensure lasting elegance."
+  },
+  {
+    "id": 483,
+    "name": "Velvet Embroidered Peg Trousers",
+    "price": 21999,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "From the Capsule collection, these embroidered peg trousers in luxurious velvet feature impeccable tailoring. They pair beautifully with blouses and tops for a refined look."
+  },
+  {
+    "id": 488,
+    "name": "Sapphire Zari-Border Wool-Blend Layered Skirt",
+    "price": 19499,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "These pintucked tiered skirt from the Relaxed Luxe collection feature a contemporary design in rich denim-silk. Versatile enough for office wear or weekend outings.",
+    "badge": "Sale"
+  },
+  {
+    "id": 493,
+    "name": "Charcoal Tweed Maxi Skirt",
+    "price": 14499,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "These stunning pintucked linen palazzo pants from our Free Flow line blend traditional Indian textiles with contemporary silhouettes. Perfect for both formal and casual styling.",
+    "oldPrice": 19999,
+    "badge": "Sale"
+  },
+  {
+    "id": 498,
+    "name": "Deep Teal Mirror-Work Wool-Blend Harem Pants",
+    "price": 21999,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "These knife-pleated denim-silk a-line skirt offer a perfect blend of comfort and sophistication. The flattering cut and premium fabric make them ideal for any occasion."
+  },
+  {
+    "id": 503,
+    "name": "Dusty Rose Modal High-Waist Pants",
+    "price": 19499,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Elevate your bottoms collection with these ikat high-waist pants in sumptuous crepe. The refined construction and premium finishing ensure lasting elegance."
+  },
+  {
+    "id": 508,
+    "name": "Modal Sequin-Hem Palazzo Pants",
+    "price": 23999,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "These stunning ikat georgette cigarette pants from our Free Flow line blend traditional Indian textiles with contemporary silhouettes. Perfect for both formal and casual styling."
+  },
+  {
+    "id": 513,
+    "name": "Knife-Pleated Ruby Cigarette Pants",
+    "price": 19999,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "These stunning embroidered crepe flared pants from our Artisan Weave line blend traditional Indian textiles with contemporary silhouettes. Perfect for both formal and casual styling."
+  },
+  {
+    "id": 518,
+    "name": "Coral Silk Jogger Pants",
+    "price": 15499,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Crafted from premium wool-blend, these hand-printed maxi skirt showcase meticulous attention to detail. The elegant drape and comfortable fit make them a wardrobe staple."
+  },
+  {
+    "id": 523,
+    "name": "Emerald Ombre-Dyed Wool-Blend A-Line Skirt",
+    "price": 12499,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "From the Free Flow collection, these hand-printed jogger pants in luxurious denim-silk feature impeccable tailoring. They pair beautifully with blouses and tops for a refined look."
+  },
+  {
+    "id": 528,
+    "name": "Sapphire Wool-Blend Pencil Skirt",
+    "price": 4999,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "These belted tweed pleated skirt offer a perfect blend of comfort and sophistication. The flattering cut and premium fabric make them ideal for any occasion."
+  },
+  {
+    "id": 533,
+    "name": "Slate Grey Linen Cargo Trousers",
+    "price": 16999,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "These stunning belted wool-blend wide-leg trousers from our Heritage Weave line blend traditional Indian textiles with contemporary silhouettes. Perfect for both formal and casual styling.",
+    "oldPrice": 26499
+  },
+  {
+    "id": 538,
+    "name": "Applique-Detailed Champagne Dhoti Pants",
+    "price": 10999,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "These embroidered peg trousers from the Tailored Edit collection feature a contemporary design in rich chanderi. Versatile enough for office wear or weekend outings."
+  },
+  {
+    "id": 543,
+    "name": "Knife-Pleated Champagne Midi Skirt",
+    "price": 15999,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "A luxurious pair of applique-detailed silk draped skirt designed for the modern Indian woman. The comfortable waistline and flowing silhouette flatter every figure.",
+    "badge": "New"
+  },
+  {
+    "id": 548,
+    "name": "Pearl White Tie-Dyed Brocade Pencil Skirt",
+    "price": 5499,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Elevate your bottoms collection with these bandhani dhoti pants in sumptuous tussar. The refined construction and premium finishing ensure lasting elegance."
+  },
+  {
+    "id": 553,
+    "name": "Block-Printed Chanderi Peg Trousers",
+    "price": 15499,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Elevate your bottoms collection with these gold-threaded jogger pants in sumptuous tweed. The refined construction and premium finishing ensure lasting elegance."
+  },
+  {
+    "id": 558,
+    "name": "Lace-Paneled Georgette Midi Skirt",
+    "price": 15499,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "From the Festive Flair collection, these knife-pleated palazzo pants in luxurious silk feature impeccable tailoring. They pair beautifully with blouses and tops for a refined look."
+  },
+  {
+    "id": 563,
+    "name": "Tweed Embroidered Tiered Skirt",
+    "price": 15499,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "These stunning block-printed wool-blend peg trousers from our Saturday Edit line blend traditional Indian textiles with contemporary silhouettes. Perfect for both formal and casual styling."
+  },
+  {
+    "id": 568,
+    "name": "Coral Pintucked Jacquard Culottes",
+    "price": 9999,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Artfully tailored ombre-dyed jacquard peg trousers that combine Indian textile heritage with modern design sensibility. The premium construction ensures a perfect drape."
+  },
+  {
+    "id": 573,
+    "name": "Wine Ombre-Dyed Modal Pencil Skirt",
+    "price": 14499,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "A luxurious pair of ombre-dyed georgette a-line skirt designed for the modern Indian woman. The comfortable waistline and flowing silhouette flatter every figure."
+  },
+  {
+    "id": 578,
+    "name": "Terracotta Smocked-Waist Brocade Layered Skirt",
+    "price": 15499,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "These pintucked jacquard maxi skirt offer a perfect blend of comfort and sophistication. The flattering cut and premium fabric make them ideal for any occasion.",
+    "oldPrice": 18999,
+    "badge": "Sale"
+  },
+  {
+    "id": 583,
+    "name": "Bandhani Jacquard Pencil Skirt",
+    "price": 1999,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "These lace-paneled wool-blend maxi skirt offer a perfect blend of comfort and sophistication. The flattering cut and premium fabric make them ideal for any occasion."
+  },
+  {
+    "id": 588,
+    "name": "Silk Gold-Threaded Harem Pants",
+    "price": 16999,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Elevate your bottoms collection with these block-printed culottes in sumptuous velvet. The refined construction and premium finishing ensure lasting elegance."
+  },
+  {
+    "id": 593,
+    "name": "Knife-Pleated Wool-Blend Pleated Skirt",
+    "price": 22999,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Elevate your bottoms collection with these gold-threaded wrap skirt in sumptuous georgette. The refined construction and premium finishing ensure lasting elegance.",
+    "oldPrice": 29999,
+    "badge": "Limited"
+  },
+  {
+    "id": 598,
+    "name": "Wine Brocade Peg Trousers",
+    "price": 8999,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "From the Relaxed Luxe collection, these smocked-waist cargo trousers in luxurious velvet feature impeccable tailoring. They pair beautifully with blouses and tops for a refined look."
+  },
+  {
+    "id": 603,
+    "name": "Terracotta Linen Pleated Skirt",
+    "price": 12499,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "These lace-paneled tulip skirt from the Studio Edit collection feature a contemporary design in rich cotton-silk. Versatile enough for office wear or weekend outings."
+  },
+  {
+    "id": 608,
+    "name": "Antique Gold Denim-Silk High-Waist Pants",
+    "price": 24999,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "A luxurious pair of knife-pleated tussar midi skirt designed for the modern Indian woman. The comfortable waistline and flowing silhouette flatter every figure."
+  },
+  {
+    "id": 613,
+    "name": "Block-Printed Cotton-Silk A-Line Skirt",
+    "price": 21499,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "These pintucked cigarette pants from the Artisan Weave collection feature a contemporary design in rich linen. Versatile enough for office wear or weekend outings."
+  },
+  {
+    "id": 618,
+    "name": "Hand-Printed Copper Dhoti Pants",
+    "price": 17499,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "These bandhani brocade maxi skirt offer a perfect blend of comfort and sophistication. The flattering cut and premium fabric make them ideal for any occasion."
+  },
+  {
+    "id": 623,
+    "name": "Belted Georgette Palazzo Pants",
+    "price": 17999,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "These stunning sequin-hem silk cigarette pants from our Modern Classic line blend traditional Indian textiles with contemporary silhouettes. Perfect for both formal and casual styling."
+  },
+  {
+    "id": 628,
+    "name": "Velvet Ombre-Dyed Tulip Skirt",
+    "price": 18999,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "These bandhani tiered skirt from the Weekend Luxe collection feature a contemporary design in rich georgette. Versatile enough for office wear or weekend outings."
+  },
+  {
+    "id": 633,
+    "name": "Tussar Knife-Pleated Layered Skirt",
+    "price": 22499,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "A luxurious pair of sequin-hem wool-blend tapered trousers designed for the modern Indian woman. The comfortable waistline and flowing silhouette flatter every figure.",
+    "oldPrice": 31499,
+    "badge": "Sale"
+  },
+  {
+    "id": 638,
+    "name": "Pearl White Silk Paperbag Waist Pants",
+    "price": 18999,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "A luxurious pair of embroidered wool-blend tapered trousers designed for the modern Indian woman. The comfortable waistline and flowing silhouette flatter every figure."
+  },
+  {
+    "id": 643,
+    "name": "Emerald Georgette High-Waist Pants",
+    "price": 22499,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "These stunning embroidered velvet draped skirt from our Power Silhouette line blend traditional Indian textiles with contemporary silhouettes. Perfect for both formal and casual styling."
+  },
+  {
+    "id": 648,
+    "name": "Pleated Coral Straight-Leg Trousers",
+    "price": 4999,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Elevate your bottoms collection with these tie-dyed straight-leg trousers in sumptuous cotton-silk. The refined construction and premium finishing ensure lasting elegance."
+  },
+  {
+    "id": 653,
+    "name": "Tussar Hand-Printed Bootcut Trousers",
+    "price": 4999,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Elevate your bottoms collection with these embroidered peg trousers in sumptuous chanderi. The refined construction and premium finishing ensure lasting elegance."
+  },
+  {
+    "id": 658,
+    "name": "Tailored Midnight Blue High-Waist Pants",
+    "price": 14999,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "These hand-printed tweed pleated skirt offer a perfect blend of comfort and sophistication. The flattering cut and premium fabric make them ideal for any occasion.",
+    "oldPrice": 22499,
+    "badge": "Sale"
+  },
+  {
+    "id": 663,
+    "name": "Indigo Tie-Dyed Denim-Silk Paperbag Waist Pants",
+    "price": 17999,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Elevate your bottoms collection with these block-printed culottes in sumptuous cotton-silk. The refined construction and premium finishing ensure lasting elegance."
+  },
+  {
+    "id": 668,
+    "name": "Tweed Knife-Pleated Midi Skirt",
+    "price": 11999,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "These stunning embroidered tussar peg trousers from our Evening Luxe line blend traditional Indian textiles with contemporary silhouettes. Perfect for both formal and casual styling."
+  },
+  {
+    "id": 673,
+    "name": "Ombre-Dyed Satin Paperbag Waist Pants",
+    "price": 5999,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Elevate your bottoms collection with these hand-printed high-waist pants in sumptuous satin. The refined construction and premium finishing ensure lasting elegance."
+  },
+  {
+    "id": 678,
+    "name": "Dusty Rose Tie-Dyed Silk Maxi Skirt",
+    "price": 19499,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "These stunning hand-printed velvet bootcut trousers from our Curated Classics line blend traditional Indian textiles with contemporary silhouettes. Perfect for both formal and casual styling."
+  },
+  {
+    "id": 683,
+    "name": "Cotton-Silk Belted A-Line Skirt",
+    "price": 15499,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "These bandhani jogger pants from the Relaxed Luxe collection feature a contemporary design in rich crepe. Versatile enough for office wear or weekend outings.",
+    "oldPrice": 18999
+  },
+  {
+    "id": 688,
+    "name": "Pearl White Satin Bootcut Trousers",
+    "price": 3999,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Elevate your bottoms collection with these gold-threaded cargo trousers in sumptuous wool-blend. The refined construction and premium finishing ensure lasting elegance.",
+    "badge": "Hot"
+  },
+  {
+    "id": 693,
+    "name": "Bandhani Ivory Midi Skirt",
+    "price": 12999,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Elevate your bottoms collection with these smocked-waist draped skirt in sumptuous linen. The refined construction and premium finishing ensure lasting elegance."
+  },
+  {
+    "id": 698,
+    "name": "Pintucked Indigo Tiered Skirt",
+    "price": 3499,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Crafted from premium linen, these pintucked tapered trousers showcase meticulous attention to detail. The elegant drape and comfortable fit make them a wardrobe staple."
+  },
+  {
+    "id": 703,
+    "name": "Embroidered Crepe Straight-Leg Trousers",
+    "price": 23499,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Elevate your bottoms collection with these knife-pleated tiered skirt in sumptuous velvet. The refined construction and premium finishing ensure lasting elegance."
+  },
+  {
+    "id": 708,
+    "name": "Sage Applique-Detailed Linen Bootcut Trousers",
+    "price": 23999,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "These sequin-hem draped skirt from the Free Flow collection feature a contemporary design in rich brocade. Versatile enough for office wear or weekend outings.",
+    "oldPrice": 26999,
+    "badge": "New"
+  },
+  {
+    "id": 713,
+    "name": "High-Waisted Midnight Blue Tiered Skirt",
+    "price": 24999,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Elevate your bottoms collection with these knife-pleated a-line skirt in sumptuous brocade. The refined construction and premium finishing ensure lasting elegance."
+  },
+  {
+    "id": 718,
+    "name": "Jacquard Smocked-Waist Maxi Skirt",
+    "price": 16499,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Artfully tailored bandhani cotton-silk jogger pants that combine Indian textile heritage with modern design sensibility. The premium construction ensures a perfect drape.",
+    "badge": "Limited"
+  },
+  {
+    "id": 723,
+    "name": "Sage Lace-Paneled Jacquard Dhoti Pants",
+    "price": 2999,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "These stunning tie-dyed cotton-silk dhoti pants from our Tailored Edit line blend traditional Indian textiles with contemporary silhouettes. Perfect for both formal and casual styling."
+  },
+  {
+    "id": 728,
+    "name": "Block-Printed Nude Jogger Pants",
+    "price": 9999,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Artfully tailored mirror-work georgette tiered skirt that combine Indian textile heritage with modern design sensibility. The premium construction ensures a perfect drape."
+  },
+  {
+    "id": 733,
+    "name": "Cream Belted Wool-Blend Maxi Skirt",
+    "price": 21999,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "These applique-detailed pencil skirt from the Saturday Edit collection feature a contemporary design in rich satin. Versatile enough for office wear or weekend outings."
+  },
+  {
+    "id": 738,
+    "name": "Sapphire Velvet Wrap Skirt",
+    "price": 12499,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "From the Festive Flair collection, these mirror-work tapered trousers in luxurious silk feature impeccable tailoring. They pair beautifully with blouses and tops for a refined look.",
+    "oldPrice": 16499,
+    "badge": "New"
+  },
+  {
+    "id": 743,
+    "name": "Sapphire Wool-Blend Harem Pants",
+    "price": 21999,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "From the Festive Flair collection, these block-printed tiered skirt in luxurious satin feature impeccable tailoring. They pair beautifully with blouses and tops for a refined look."
+  },
+  {
+    "id": 748,
+    "name": "Tailored Georgette Midi Skirt",
+    "price": 11499,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "These knife-pleated crepe pencil skirt offer a perfect blend of comfort and sophistication. The flattering cut and premium fabric make them ideal for any occasion."
+  },
+  {
+    "id": 753,
+    "name": "Bandhani Teal Layered Skirt",
+    "price": 14999,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Crafted from premium denim-silk, these block-printed cigarette pants showcase meticulous attention to detail. The elegant drape and comfortable fit make them a wardrobe staple.",
+    "badge": "Hot"
+  },
+  {
+    "id": 758,
+    "name": "Bandhani Jacquard Straight-Leg Trousers",
+    "price": 4499,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "These stunning belted modal tiered skirt from our Saturday Edit line blend traditional Indian textiles with contemporary silhouettes. Perfect for both formal and casual styling."
+  },
+  {
+    "id": 763,
+    "name": "Pleated Cream Jogger Pants",
+    "price": 4999,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "These stunning ikat jacquard dhoti pants from our Studio Edit line blend traditional Indian textiles with contemporary silhouettes. Perfect for both formal and casual styling.",
+    "badge": "New"
+  },
+  {
+    "id": 768,
+    "name": "Midnight Blue Belted Linen Maxi Skirt",
+    "price": 6999,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "These smocked-waist brocade wide-leg trousers offer a perfect blend of comfort and sophistication. The flattering cut and premium fabric make them ideal for any occasion."
+  },
+  {
+    "id": 773,
+    "name": "Wine Modal Pencil Skirt",
+    "price": 17499,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Crafted from premium brocade, these pleated high-waist pants showcase meticulous attention to detail. The elegant drape and comfortable fit make them a wardrobe staple."
+  },
+  {
+    "id": 778,
+    "name": "Dusty Rose Satin Draped Skirt",
+    "price": 23999,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "From the Power Silhouette collection, these lace-paneled wrap skirt in luxurious tussar feature impeccable tailoring. They pair beautifully with blouses and tops for a refined look."
+  },
+  {
+    "id": 783,
+    "name": "Mauve Brocade High-Waist Pants",
+    "price": 23999,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Crafted from premium jacquard, these belted high-waist pants showcase meticulous attention to detail. The elegant drape and comfortable fit make them a wardrobe staple."
+  },
+  {
+    "id": 788,
+    "name": "Embroidered Satin Wide-Leg Trousers",
+    "price": 2499,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "These stunning applique-detailed tweed tiered skirt from our Free Flow line blend traditional Indian textiles with contemporary silhouettes. Perfect for both formal and casual styling.",
+    "badge": "Limited"
+  },
+  {
+    "id": 793,
+    "name": "Embroidered Mustard Jogger Pants",
+    "price": 13499,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Elevate your bottoms collection with these zari-border culottes in sumptuous denim-silk. The refined construction and premium finishing ensure lasting elegance."
+  },
+  {
+    "id": 798,
+    "name": "Tie-Dyed Cotton-Silk Palazzo Pants",
+    "price": 8999,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "From the Power Silhouette collection, these hand-printed wrap skirt in luxurious crepe feature impeccable tailoring. They pair beautifully with blouses and tops for a refined look."
+  },
+  {
+    "id": 803,
+    "name": "Terracotta Pintucked Jacquard Dhoti Pants",
+    "price": 7999,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "These smocked-waist wool-blend tapered trousers offer a perfect blend of comfort and sophistication. The flattering cut and premium fabric make them ideal for any occasion."
+  },
+  {
+    "id": 808,
+    "name": "Smocked-Waist Georgette Palazzo Pants",
+    "price": 18499,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "From the Free Flow collection, these gold-threaded tulip skirt in luxurious tweed feature impeccable tailoring. They pair beautifully with blouses and tops for a refined look."
+  },
+  {
+    "id": 813,
+    "name": "Copper Velvet Palazzo Pants",
+    "price": 22499,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "These high-waisted pencil skirt from the Runway Edit collection feature a contemporary design in rich satin. Versatile enough for office wear or weekend outings.",
+    "oldPrice": 33499,
+    "badge": "Limited"
+  },
+  {
+    "id": 818,
+    "name": "Crepe Tie-Dyed Dhoti Pants",
+    "price": 15499,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "These stunning high-waisted satin cigarette pants from our Relaxed Luxe line blend traditional Indian textiles with contemporary silhouettes. Perfect for both formal and casual styling."
+  },
+  {
+    "id": 823,
+    "name": "Wine Zari-Border Wool-Blend Palazzo Pants",
+    "price": 12999,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "A luxurious pair of hand-printed denim-silk high-waist pants designed for the modern Indian woman. The comfortable waistline and flowing silhouette flatter every figure."
+  },
+  {
+    "id": 828,
+    "name": "Ruby Tweed Culottes",
+    "price": 16499,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "These high-waisted cotton-silk dhoti pants offer a perfect blend of comfort and sophistication. The flattering cut and premium fabric make them ideal for any occasion.",
+    "oldPrice": 19999,
+    "badge": "Sale"
+  },
+  {
+    "id": 833,
+    "name": "Ombre-Dyed Silver High-Waist Pants",
+    "price": 18499,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "These stunning high-waisted cotton-silk flared pants from our Weekend Luxe line blend traditional Indian textiles with contemporary silhouettes. Perfect for both formal and casual styling."
+  },
+  {
+    "id": 838,
+    "name": "Applique-Detailed Wool-Blend Tulip Skirt",
+    "price": 12499,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "These mirror-work crepe pleated skirt offer a perfect blend of comfort and sophistication. The flattering cut and premium fabric make them ideal for any occasion."
+  },
+  {
+    "id": 843,
+    "name": "Silk Hand-Printed Maxi Skirt",
+    "price": 14499,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Artfully tailored high-waisted georgette paperbag waist pants that combine Indian textile heritage with modern design sensibility. The premium construction ensures a perfect drape.",
+    "oldPrice": 19499,
+    "badge": "Sale"
+  },
+  {
+    "id": 848,
+    "name": "Block-Printed Chanderi Pencil Skirt",
+    "price": 7999,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "These stunning bandhani silk tiered skirt from our Modern Classic line blend traditional Indian textiles with contemporary silhouettes. Perfect for both formal and casual styling."
+  },
+  {
+    "id": 853,
+    "name": "Tweed Pleated High-Waist Pants",
+    "price": 12999,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "These high-waisted brocade pleated skirt offer a perfect blend of comfort and sophistication. The flattering cut and premium fabric make them ideal for any occasion."
+  },
+  {
+    "id": 858,
+    "name": "Slate Grey Wool-Blend Maxi Skirt",
+    "price": 5499,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "These stunning ombre-dyed linen bootcut trousers from our Power Silhouette line blend traditional Indian textiles with contemporary silhouettes. Perfect for both formal and casual styling."
+  },
+  {
+    "id": 863,
+    "name": "Gold-Threaded Cream Paperbag Waist Pants",
+    "price": 13999,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "These tie-dyed silk a-line skirt offer a perfect blend of comfort and sophistication. The flattering cut and premium fabric make them ideal for any occasion."
+  },
+  {
+    "id": 868,
+    "name": "Teal Lace-Paneled Tweed Paperbag Waist Pants",
+    "price": 21499,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Artfully tailored high-waisted silk culottes that combine Indian textile heritage with modern design sensibility. The premium construction ensures a perfect drape."
+  },
+  {
+    "id": 873,
+    "name": "Hand-Printed Wool-Blend Tulip Skirt",
+    "price": 12499,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "These knife-pleated chanderi harem pants offer a perfect blend of comfort and sophistication. The flattering cut and premium fabric make them ideal for any occasion."
+  },
+  {
+    "id": 878,
+    "name": "Belted Nude Maxi Skirt",
+    "price": 21499,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "From the Contemporary collection, these zari-border tiered skirt in luxurious tweed feature impeccable tailoring. They pair beautifully with blouses and tops for a refined look."
+  },
+  {
+    "id": 883,
+    "name": "Tie-Dyed Cotton-Silk Midi Skirt",
+    "price": 2999,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "From the Power Silhouette collection, these hand-printed dhoti pants in luxurious georgette feature impeccable tailoring. They pair beautifully with blouses and tops for a refined look."
+  },
+  {
+    "id": 888,
+    "name": "Bandhani Onyx Draped Skirt",
+    "price": 15999,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "These sequin-hem modal bootcut trousers offer a perfect blend of comfort and sophistication. The flattering cut and premium fabric make them ideal for any occasion."
+  },
+  {
+    "id": 893,
+    "name": "Mirror-Work Mauve Palazzo Pants",
+    "price": 23499,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Crafted from premium wool-blend, these hand-printed tulip skirt showcase meticulous attention to detail. The elegant drape and comfortable fit make them a wardrobe staple.",
+    "oldPrice": 28499,
+    "badge": "New"
+  },
+  {
+    "id": 898,
+    "name": "Silver Cotton-Silk Flared Pants",
+    "price": 17499,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "These applique-detailed wrap skirt from the Studio Edit collection feature a contemporary design in rich satin. Versatile enough for office wear or weekend outings."
+  },
+  {
+    "id": 903,
+    "name": "Ivory Embroidered Velvet Dhoti Pants",
+    "price": 19999,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Elevate your bottoms collection with these block-printed wide-leg trousers in sumptuous wool-blend. The refined construction and premium finishing ensure lasting elegance."
+  },
+  {
+    "id": 908,
+    "name": "High-Waisted Teal A-Line Skirt",
+    "price": 12499,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "These tailored crepe wrap skirt offer a perfect blend of comfort and sophistication. The flattering cut and premium fabric make them ideal for any occasion."
+  },
+  {
+    "id": 913,
+    "name": "Zari-Border Brocade Cargo Trousers",
+    "price": 4499,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Artfully tailored sequin-hem georgette tiered skirt that combine Indian textile heritage with modern design sensibility. The premium construction ensures a perfect drape."
+  },
+  {
+    "id": 918,
+    "name": "Terracotta Pintucked Satin Bootcut Trousers",
+    "price": 9499,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "These applique-detailed flared pants from the Contemporary collection feature a contemporary design in rich silk. Versatile enough for office wear or weekend outings."
+  },
+  {
+    "id": 923,
+    "name": "Indigo Lace-Paneled Satin Flared Pants",
+    "price": 16499,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "A luxurious pair of pintucked crepe wrap skirt designed for the modern Indian woman. The comfortable waistline and flowing silhouette flatter every figure."
+  },
+  {
+    "id": 928,
+    "name": "Slate Grey Crepe Pencil Skirt",
+    "price": 18499,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "These mirror-work paperbag waist pants from the Evening Luxe collection feature a contemporary design in rich denim-silk. Versatile enough for office wear or weekend outings."
+  },
+  {
+    "id": 933,
+    "name": "Silk Tailored Tiered Skirt",
+    "price": 11999,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "These lace-paneled linen tiered skirt offer a perfect blend of comfort and sophistication. The flattering cut and premium fabric make them ideal for any occasion.",
+    "badge": "New"
+  },
+  {
+    "id": 938,
+    "name": "Charcoal Smocked-Waist Chanderi Harem Pants",
+    "price": 5499,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "From the Studio Edit collection, these tie-dyed palazzo pants in luxurious silk feature impeccable tailoring. They pair beautifully with blouses and tops for a refined look."
+  },
+  {
+    "id": 943,
+    "name": "Pleated Satin Peg Trousers",
+    "price": 2999,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "A luxurious pair of tie-dyed cotton-silk pleated skirt designed for the modern Indian woman. The comfortable waistline and flowing silhouette flatter every figure."
+  },
+  {
+    "id": 948,
+    "name": "Lace-Paneled Silver Cargo Trousers",
+    "price": 20499,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Crafted from premium denim-silk, these pintucked midi skirt showcase meticulous attention to detail. The elegant drape and comfortable fit make them a wardrobe staple.",
+    "oldPrice": 30499,
+    "badge": "Sale"
+  },
+  {
+    "id": 953,
+    "name": "Applique-Detailed Nude Maxi Skirt",
+    "price": 13999,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Elevate your bottoms collection with these mirror-work dhoti pants in sumptuous silk. The refined construction and premium finishing ensure lasting elegance."
+  },
+  {
+    "id": 958,
+    "name": "Brocade Knife-Pleated Bootcut Trousers",
+    "price": 11999,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "These stunning sequin-hem crepe wide-leg trousers from our Essential Luxe line blend traditional Indian textiles with contemporary silhouettes. Perfect for both formal and casual styling."
+  },
+  {
+    "id": 963,
+    "name": "Mirror-Work Satin Midi Skirt",
+    "price": 24499,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "These stunning tailored velvet tapered trousers from our Relaxed Luxe line blend traditional Indian textiles with contemporary silhouettes. Perfect for both formal and casual styling.",
+    "badge": "New"
+  },
+  {
+    "id": 968,
+    "name": "Midnight Blue Sequin-Hem Wool-Blend Cargo Trousers",
+    "price": 8499,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "From the Festive Flair collection, these mirror-work flared pants in luxurious linen feature impeccable tailoring. They pair beautifully with blouses and tops for a refined look.",
+    "badge": "Sale"
+  },
+  {
+    "id": 973,
+    "name": "Velvet Gold-Threaded Paperbag Waist Pants",
+    "price": 6999,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Artfully tailored embroidered tweed high-waist pants that combine Indian textile heritage with modern design sensibility. The premium construction ensures a perfect drape."
+  },
+  {
+    "id": 978,
+    "name": "Tweed Smocked-Waist Harem Pants",
+    "price": 19999,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Elevate your bottoms collection with these pintucked cigarette pants in sumptuous wool-blend. The refined construction and premium finishing ensure lasting elegance."
+  },
+  {
+    "id": 983,
+    "name": "Brocade Pleated Tulip Skirt",
+    "price": 23999,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "A luxurious pair of hand-printed chanderi pencil skirt designed for the modern Indian woman. The comfortable waistline and flowing silhouette flatter every figure."
+  },
+  {
+    "id": 988,
+    "name": "Jacquard Gold-Threaded Draped Skirt",
+    "price": 17999,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "These zari-border straight-leg trousers from the Capsule collection feature a contemporary design in rich satin. Versatile enough for office wear or weekend outings."
+  },
+  {
+    "id": 993,
+    "name": "Jade Block-Printed Tussar Dhoti Pants",
+    "price": 9499,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Artfully tailored high-waisted chanderi harem pants that combine Indian textile heritage with modern design sensibility. The premium construction ensures a perfect drape.",
+    "badge": "Hot"
+  },
+  {
+    "id": 998,
+    "name": "Ivory Denim-Silk Paperbag Waist Pants",
+    "price": 3499,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "A luxurious pair of belted crepe draped skirt designed for the modern Indian woman. The comfortable waistline and flowing silhouette flatter every figure."
+  },
+  {
+    "id": 1003,
+    "name": "Lace-Paneled Chanderi Flared Pants",
+    "price": 24499,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Elevate your bottoms collection with these ombre-dyed harem pants in sumptuous brocade. The refined construction and premium finishing ensure lasting elegance.",
+    "oldPrice": 29999
+  },
+  {
+    "id": 1008,
+    "name": "Smocked-Waist Amethyst Cigarette Pants",
+    "price": 3499,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "These hand-printed pleated skirt from the Evening Luxe collection feature a contemporary design in rich wool-blend. Versatile enough for office wear or weekend outings.",
+    "badge": "Hot"
+  },
+  {
+    "id": 1013,
+    "name": "Georgette Applique-Detailed A-Line Skirt",
+    "price": 17999,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "A luxurious pair of knife-pleated brocade tulip skirt designed for the modern Indian woman. The comfortable waistline and flowing silhouette flatter every figure.",
+    "badge": "New"
+  },
+  {
+    "id": 1018,
+    "name": "Block-Printed Chanderi A-Line Skirt",
+    "price": 1999,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "These stunning high-waisted crepe flared pants from our Modern Classic line blend traditional Indian textiles with contemporary silhouettes. Perfect for both formal and casual styling."
+  },
+  {
+    "id": 1023,
+    "name": "Smocked-Waist Silver Tulip Skirt",
+    "price": 7499,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Crafted from premium brocade, these sequin-hem pleated skirt showcase meticulous attention to detail. The elegant drape and comfortable fit make them a wardrobe staple."
+  },
+  {
+    "id": 1028,
+    "name": "Block-Printed Linen Wide-Leg Trousers",
+    "price": 20999,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Crafted from premium tussar, these knife-pleated jogger pants showcase meticulous attention to detail. The elegant drape and comfortable fit make them a wardrobe staple.",
+    "oldPrice": 30999,
+    "badge": "New"
+  },
+  {
+    "id": 1033,
+    "name": "Rose Gold Tussar Straight-Leg Trousers",
+    "price": 9499,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "From the Urban Grace collection, these high-waisted paperbag waist pants in luxurious cotton-silk feature impeccable tailoring. They pair beautifully with blouses and tops for a refined look."
+  },
+  {
+    "id": 1038,
+    "name": "Georgette Hand-Printed Draped Skirt",
+    "price": 17499,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "These pintucked jacquard high-waist pants offer a perfect blend of comfort and sophistication. The flattering cut and premium fabric make them ideal for any occasion."
+  },
+  {
+    "id": 1043,
+    "name": "Smocked-Waist Coral Tapered Trousers",
+    "price": 22999,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "These knife-pleated jacquard pencil skirt offer a perfect blend of comfort and sophistication. The flattering cut and premium fabric make them ideal for any occasion."
+  },
+  {
+    "id": 1048,
+    "name": "Champagne Knife-Pleated Chanderi Maxi Skirt",
+    "price": 4999,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "A luxurious pair of block-printed wool-blend pleated skirt designed for the modern Indian woman. The comfortable waistline and flowing silhouette flatter every figure."
+  },
+  {
+    "id": 1053,
+    "name": "Modal Bandhani Cigarette Pants",
+    "price": 7999,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "These belted maxi skirt from the Urban Grace collection feature a contemporary design in rich linen. Versatile enough for office wear or weekend outings.",
+    "oldPrice": 10999,
+    "badge": "Sale"
+  },
+  {
+    "id": 1058,
+    "name": "Denim-Silk Zari-Border A-Line Skirt",
+    "price": 18999,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "These stunning bandhani georgette palazzo pants from our Artisan Weave line blend traditional Indian textiles with contemporary silhouettes. Perfect for both formal and casual styling.",
+    "oldPrice": 24999
+  },
+  {
+    "id": 1063,
+    "name": "Velvet Gold-Threaded High-Waist Pants",
+    "price": 9999,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "These stunning pintucked jacquard cigarette pants from our Saturday Edit line blend traditional Indian textiles with contemporary silhouettes. Perfect for both formal and casual styling."
+  },
+  {
+    "id": 1068,
+    "name": "Mauve Bandhani Tussar Tiered Skirt",
+    "price": 18999,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Elevate your bottoms collection with these ombre-dyed cigarette pants in sumptuous crepe. The refined construction and premium finishing ensure lasting elegance."
+  },
+  {
+    "id": 1073,
+    "name": "Applique-Detailed Jacquard Wide-Leg Trousers",
+    "price": 10499,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Crafted from premium cotton-silk, these pleated wrap skirt showcase meticulous attention to detail. The elegant drape and comfortable fit make them a wardrobe staple."
+  },
+  {
+    "id": 1078,
+    "name": "Mirror-Work Tussar A-Line Skirt",
+    "price": 4999,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "These block-printed chanderi tiered skirt offer a perfect blend of comfort and sophistication. The flattering cut and premium fabric make them ideal for any occasion."
+  },
+  {
+    "id": 1083,
+    "name": "Antique Gold Tweed Wide-Leg Trousers",
+    "price": 18499,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Artfully tailored tie-dyed velvet palazzo pants that combine Indian textile heritage with modern design sensibility. The premium construction ensures a perfect drape."
+  },
+  {
+    "id": 1088,
+    "name": "Belted Ivory Draped Skirt",
+    "price": 24499,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "These smocked-waist tweed tiered skirt offer a perfect blend of comfort and sophistication. The flattering cut and premium fabric make them ideal for any occasion.",
+    "oldPrice": 27999,
+    "badge": "Sale"
+  },
+  {
+    "id": 1093,
+    "name": "Antique Gold Wool-Blend Peg Trousers",
+    "price": 17999,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "A luxurious pair of belted chanderi tulip skirt designed for the modern Indian woman. The comfortable waistline and flowing silhouette flatter every figure."
+  },
+  {
+    "id": 1098,
+    "name": "Sequin-Hem Jacquard Cigarette Pants",
+    "price": 19999,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "From the Modern Classic collection, these gold-threaded straight-leg trousers in luxurious denim-silk feature impeccable tailoring. They pair beautifully with blouses and tops for a refined look.",
+    "oldPrice": 25499,
+    "badge": "Sale"
+  },
+  {
+    "id": 1103,
+    "name": "Ruby Georgette Paperbag Waist Pants",
+    "price": 2999,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Crafted from premium cotton-silk, these applique-detailed high-waist pants showcase meticulous attention to detail. The elegant drape and comfortable fit make them a wardrobe staple."
+  },
+  {
+    "id": 1108,
+    "name": "Forest Green Jacquard Tiered Skirt",
+    "price": 20499,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "A luxurious pair of high-waisted velvet draped skirt designed for the modern Indian woman. The comfortable waistline and flowing silhouette flatter every figure.",
+    "oldPrice": 24999,
+    "badge": "New"
+  },
+  {
+    "id": 1113,
+    "name": "Amethyst Hand-Printed Tussar Harem Pants",
+    "price": 6999,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "These stunning sequin-hem cotton-silk maxi skirt from our Power Silhouette line blend traditional Indian textiles with contemporary silhouettes. Perfect for both formal and casual styling."
+  },
+  {
+    "id": 1118,
+    "name": "Tailored Silk Pleated Skirt",
+    "price": 24499,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Crafted from premium velvet, these bandhani peg trousers showcase meticulous attention to detail. The elegant drape and comfortable fit make them a wardrobe staple."
+  },
+  {
+    "id": 1123,
+    "name": "Linen Embroidered Wide-Leg Trousers",
+    "price": 13999,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "From the Relaxed Luxe collection, these pleated tulip skirt in luxurious georgette feature impeccable tailoring. They pair beautifully with blouses and tops for a refined look."
+  },
+  {
+    "id": 1128,
+    "name": "Pleated Silk Straight-Leg Trousers",
+    "price": 17499,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Crafted from premium jacquard, these ikat tapered trousers showcase meticulous attention to detail. The elegant drape and comfortable fit make them a wardrobe staple."
+  },
+  {
+    "id": 1133,
+    "name": "Emerald Silk Pencil Skirt",
+    "price": 16999,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "These embroidered denim-silk pencil skirt offer a perfect blend of comfort and sophistication. The flattering cut and premium fabric make them ideal for any occasion.",
+    "oldPrice": 25999
+  },
+  {
+    "id": 1138,
+    "name": "Lavender Mirror-Work Velvet Cargo Trousers",
+    "price": 9499,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Crafted from premium crepe, these embroidered pencil skirt showcase meticulous attention to detail. The elegant drape and comfortable fit make them a wardrobe staple."
+  },
+  {
+    "id": 1143,
+    "name": "Modal High-Waisted Bootcut Trousers",
+    "price": 18999,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "These lace-paneled palazzo pants from the Free Flow collection feature a contemporary design in rich silk. Versatile enough for office wear or weekend outings."
+  },
+  {
+    "id": 1148,
+    "name": "Wool-Blend Pintucked Maxi Skirt",
+    "price": 20499,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "These bandhani culottes from the Saturday Edit collection feature a contemporary design in rich linen. Versatile enough for office wear or weekend outings."
+  },
+  {
+    "id": 1153,
+    "name": "Pearl White Embroidered Cotton-Silk Peg Trousers",
+    "price": 7499,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Artfully tailored applique-detailed cotton-silk culottes that combine Indian textile heritage with modern design sensibility. The premium construction ensures a perfect drape."
+  },
+  {
+    "id": 1158,
+    "name": "Onyx Pleated Modal A-Line Skirt",
+    "price": 21999,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "A luxurious pair of bandhani velvet wide-leg trousers designed for the modern Indian woman. The comfortable waistline and flowing silhouette flatter every figure.",
+    "badge": "Sale"
+  },
+  {
+    "id": 1163,
+    "name": "Charcoal Satin Harem Pants",
+    "price": 24499,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "These stunning bandhani georgette bootcut trousers from our Contemporary line blend traditional Indian textiles with contemporary silhouettes. Perfect for both formal and casual styling."
+  },
+  {
+    "id": 1168,
+    "name": "Cream Mirror-Work Chanderi Midi Skirt",
+    "price": 9999,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "From the Festive Flair collection, these hand-printed cargo trousers in luxurious chanderi feature impeccable tailoring. They pair beautifully with blouses and tops for a refined look."
+  },
+  {
+    "id": 1173,
+    "name": "Silver Tweed Midi Skirt",
+    "price": 23499,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Artfully tailored applique-detailed velvet palazzo pants that combine Indian textile heritage with modern design sensibility. The premium construction ensures a perfect drape."
+  },
+  {
+    "id": 1178,
+    "name": "Wine Jacquard Bootcut Trousers",
+    "price": 23499,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Artfully tailored sequin-hem brocade midi skirt that combine Indian textile heritage with modern design sensibility. The premium construction ensures a perfect drape."
+  },
+  {
+    "id": 1183,
+    "name": "Block-Printed Georgette Tulip Skirt",
+    "price": 21499,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "From the Resort Collection collection, these tie-dyed tulip skirt in luxurious linen feature impeccable tailoring. They pair beautifully with blouses and tops for a refined look."
+  },
+  {
+    "id": 1188,
+    "name": "Embroidered Burnt Orange Wide-Leg Trousers",
+    "price": 3499,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Artfully tailored tailored velvet wrap skirt that combine Indian textile heritage with modern design sensibility. The premium construction ensures a perfect drape."
+  },
+  {
+    "id": 1193,
+    "name": "Rose Gold Belted Denim-Silk Wide-Leg Trousers",
+    "price": 16499,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "From the Artisan Weave collection, these high-waisted tapered trousers in luxurious georgette feature impeccable tailoring. They pair beautifully with blouses and tops for a refined look."
+  },
+  {
+    "id": 1198,
+    "name": "Pintucked Modal Tapered Trousers",
+    "price": 12999,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "From the Relaxed Luxe collection, these smocked-waist wrap skirt in luxurious jacquard feature impeccable tailoring. They pair beautifully with blouses and tops for a refined look."
+  },
+  {
+    "id": 1203,
+    "name": "Midnight Blue Georgette Flared Pants",
+    "price": 3999,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Elevate your bottoms collection with these embroidered wide-leg trousers in sumptuous georgette. The refined construction and premium finishing ensure lasting elegance."
+  },
+  {
+    "id": 1208,
+    "name": "Smocked-Waist Georgette Midi Skirt",
+    "price": 2999,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "These belted cargo trousers from the Relaxed Luxe collection feature a contemporary design in rich crepe. Versatile enough for office wear or weekend outings."
+  },
+  {
+    "id": 1213,
+    "name": "High-Waisted Nude Culottes",
+    "price": 10499,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "These ombre-dyed paperbag waist pants from the Artisan Weave collection feature a contemporary design in rich jacquard. Versatile enough for office wear or weekend outings."
+  },
+  {
+    "id": 1218,
+    "name": "Belted Tweed Wrap Skirt",
+    "price": 24499,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Crafted from premium brocade, these tailored tapered trousers showcase meticulous attention to detail. The elegant drape and comfortable fit make them a wardrobe staple.",
+    "badge": "Limited"
+  },
+  {
+    "id": 1223,
+    "name": "Sequin-Hem Tweed High-Waist Pants",
+    "price": 6499,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Artfully tailored hand-printed tweed bootcut trousers that combine Indian textile heritage with modern design sensibility. The premium construction ensures a perfect drape."
+  },
+  {
+    "id": 1228,
+    "name": "Smocked-Waist Wool-Blend Jogger Pants",
+    "price": 2499,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Crafted from premium satin, these hand-printed tiered skirt showcase meticulous attention to detail. The elegant drape and comfortable fit make them a wardrobe staple."
+  },
+  {
+    "id": 1233,
+    "name": "Sapphire Linen Maxi Skirt",
+    "price": 6499,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Artfully tailored belted linen midi skirt that combine Indian textile heritage with modern design sensibility. The premium construction ensures a perfect drape."
+  },
+  {
+    "id": 1238,
+    "name": "Satin Block-Printed Midi Skirt",
+    "price": 3499,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "These stunning applique-detailed georgette pencil skirt from our Essential Luxe line blend traditional Indian textiles with contemporary silhouettes. Perfect for both formal and casual styling."
+  },
+  {
+    "id": 1243,
+    "name": "High-Waisted Chanderi Peg Trousers",
+    "price": 12499,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Crafted from premium silk, these pleated flared pants showcase meticulous attention to detail. The elegant drape and comfortable fit make them a wardrobe staple."
+  },
+  {
+    "id": 1248,
+    "name": "Knife-Pleated Georgette High-Waist Pants",
+    "price": 15999,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Elevate your bottoms collection with these pleated tiered skirt in sumptuous tussar. The refined construction and premium finishing ensure lasting elegance."
+  },
+  {
+    "id": 1253,
+    "name": "Sage Block-Printed Chanderi Layered Skirt",
+    "price": 6499,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "A luxurious pair of tie-dyed georgette wrap skirt designed for the modern Indian woman. The comfortable waistline and flowing silhouette flatter every figure."
+  },
+  {
+    "id": 1258,
+    "name": "Deep Teal Tussar Cargo Trousers",
+    "price": 20499,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "These high-waisted brocade a-line skirt offer a perfect blend of comfort and sophistication. The flattering cut and premium fabric make them ideal for any occasion."
+  },
+  {
+    "id": 1263,
+    "name": "Chanderi Pleated Pleated Skirt",
+    "price": 13999,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Crafted from premium silk, these gold-threaded pencil skirt showcase meticulous attention to detail. The elegant drape and comfortable fit make them a wardrobe staple."
+  },
+  {
+    "id": 1268,
+    "name": "Knife-Pleated Velvet Draped Skirt",
+    "price": 3999,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Artfully tailored sequin-hem crepe high-waist pants that combine Indian textile heritage with modern design sensibility. The premium construction ensures a perfect drape.",
+    "oldPrice": 4499,
+    "badge": "Sale"
+  },
+  {
+    "id": 1273,
+    "name": "Tussar Embroidered Peg Trousers",
+    "price": 19499,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "These hand-printed wide-leg trousers from the Artisan Weave collection feature a contemporary design in rich wool-blend. Versatile enough for office wear or weekend outings.",
+    "oldPrice": 25999,
+    "badge": "Sale"
+  },
+  {
+    "id": 1278,
+    "name": "Terracotta Zari-Border Linen Cargo Trousers",
+    "price": 13499,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "From the Contemporary collection, these embroidered maxi skirt in luxurious velvet feature impeccable tailoring. They pair beautifully with blouses and tops for a refined look."
+  },
+  {
+    "id": 1283,
+    "name": "Midnight Blue Crepe Wide-Leg Trousers",
+    "price": 9499,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Crafted from premium tweed, these tie-dyed flared pants showcase meticulous attention to detail. The elegant drape and comfortable fit make them a wardrobe staple."
+  },
+  {
+    "id": 1288,
+    "name": "Bandhani Onyx Maxi Skirt",
+    "price": 13499,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "These stunning high-waisted jacquard bootcut trousers from our Essential Luxe line blend traditional Indian textiles with contemporary silhouettes. Perfect for both formal and casual styling."
+  },
+  {
+    "id": 1293,
+    "name": "Ikat Mustard High-Waist Pants",
+    "price": 23499,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "These hand-printed dhoti pants from the Essential Luxe collection feature a contemporary design in rich georgette. Versatile enough for office wear or weekend outings."
+  },
+  {
+    "id": 1298,
+    "name": "High-Waisted Tweed Harem Pants",
+    "price": 3499,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "These stunning hand-printed satin flared pants from our Contemporary line blend traditional Indian textiles with contemporary silhouettes. Perfect for both formal and casual styling."
+  },
+  {
+    "id": 1303,
+    "name": "Lavender Knife-Pleated Crepe Pleated Skirt",
+    "price": 18499,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "From the Capsule collection, these ikat cargo trousers in luxurious modal feature impeccable tailoring. They pair beautifully with blouses and tops for a refined look.",
+    "oldPrice": 27999,
+    "badge": "Sale"
+  },
+  {
+    "id": 1308,
+    "name": "Tailored Dusty Rose Tiered Skirt",
+    "price": 6999,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Crafted from premium chanderi, these zari-border jogger pants showcase meticulous attention to detail. The elegant drape and comfortable fit make them a wardrobe staple."
+  },
+  {
+    "id": 1313,
+    "name": "Georgette Mirror-Work Bootcut Trousers",
+    "price": 20999,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "A luxurious pair of smocked-waist brocade culottes designed for the modern Indian woman. The comfortable waistline and flowing silhouette flatter every figure.",
+    "oldPrice": 27999
+  },
+  {
+    "id": 1318,
+    "name": "Georgette Gold-Threaded Pleated Skirt",
+    "price": 4499,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Elevate your bottoms collection with these zari-border maxi skirt in sumptuous crepe. The refined construction and premium finishing ensure lasting elegance.",
+    "oldPrice": 5499
+  },
+  {
+    "id": 1323,
+    "name": "Cream Tie-Dyed Satin Palazzo Pants",
+    "price": 15499,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "From the Runway Edit collection, these bandhani flared pants in luxurious tussar feature impeccable tailoring. They pair beautifully with blouses and tops for a refined look.",
+    "oldPrice": 16999
+  },
+  {
+    "id": 1328,
+    "name": "Belted Rose Gold Cigarette Pants",
+    "price": 10999,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "These zari-border a-line skirt from the Contemporary collection feature a contemporary design in rich georgette. Versatile enough for office wear or weekend outings."
+  },
+  {
+    "id": 1333,
+    "name": "Tailored Plum Pleated Skirt",
+    "price": 23999,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "These stunning sequin-hem brocade a-line skirt from our Capsule line blend traditional Indian textiles with contemporary silhouettes. Perfect for both formal and casual styling."
+  },
+  {
+    "id": 1338,
+    "name": "Plum Belted Velvet Harem Pants",
+    "price": 22999,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Artfully tailored block-printed brocade flared pants that combine Indian textile heritage with modern design sensibility. The premium construction ensures a perfect drape."
+  },
+  {
+    "id": 1343,
+    "name": "Emerald Tailored Silk Maxi Skirt",
+    "price": 23999,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "These stunning ombre-dyed wool-blend cigarette pants from our Day Edit line blend traditional Indian textiles with contemporary silhouettes. Perfect for both formal and casual styling."
+  },
+  {
+    "id": 1348,
+    "name": "Mustard Velvet Peg Trousers",
+    "price": 7999,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Artfully tailored hand-printed brocade tapered trousers that combine Indian textile heritage with modern design sensibility. The premium construction ensures a perfect drape."
+  },
+  {
+    "id": 1353,
+    "name": "Tussar Smocked-Waist Midi Skirt",
+    "price": 14999,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "From the Tailored Edit collection, these zari-border tapered trousers in luxurious denim-silk feature impeccable tailoring. They pair beautifully with blouses and tops for a refined look."
+  },
+  {
+    "id": 1358,
+    "name": "Hand-Printed Silver High-Waist Pants",
+    "price": 21999,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "These stunning ombre-dyed modal bootcut trousers from our Urban Grace line blend traditional Indian textiles with contemporary silhouettes. Perfect for both formal and casual styling."
+  },
+  {
+    "id": 1363,
+    "name": "Wine Chanderi Wrap Skirt",
+    "price": 14999,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Crafted from premium tweed, these pintucked palazzo pants showcase meticulous attention to detail. The elegant drape and comfortable fit make them a wardrobe staple."
+  },
+  {
+    "id": 1368,
+    "name": "Gold-Threaded Jacquard Cargo Trousers",
+    "price": 2999,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "A luxurious pair of block-printed linen jogger pants designed for the modern Indian woman. The comfortable waistline and flowing silhouette flatter every figure."
+  },
+  {
+    "id": 1373,
+    "name": "Ikat Indigo Culottes",
+    "price": 24999,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "These pintucked tussar palazzo pants offer a perfect blend of comfort and sophistication. The flattering cut and premium fabric make them ideal for any occasion."
+  },
+  {
+    "id": 1378,
+    "name": "Pleated Satin Wide-Leg Trousers",
+    "price": 22999,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "From the Modern Classic collection, these applique-detailed pleated skirt in luxurious chanderi feature impeccable tailoring. They pair beautifully with blouses and tops for a refined look."
+  },
+  {
+    "id": 1383,
+    "name": "Ivory Gold-Threaded Georgette Layered Skirt",
+    "price": 2499,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "These high-waisted high-waist pants from the Runway Edit collection feature a contemporary design in rich georgette. Versatile enough for office wear or weekend outings."
+  },
+  {
+    "id": 1388,
+    "name": "Silver Tussar Culottes",
+    "price": 1999,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "These stunning knife-pleated cotton-silk jogger pants from our Modern Classic line blend traditional Indian textiles with contemporary silhouettes. Perfect for both formal and casual styling."
+  },
+  {
+    "id": 1393,
+    "name": "Slate Grey Tie-Dyed Wool-Blend Harem Pants",
+    "price": 3999,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "These hand-printed linen peg trousers offer a perfect blend of comfort and sophistication. The flattering cut and premium fabric make them ideal for any occasion."
+  },
+  {
+    "id": 1398,
+    "name": "Pearl White Ikat Velvet Wrap Skirt",
+    "price": 15999,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "These hand-printed cigarette pants from the Capsule collection feature a contemporary design in rich satin. Versatile enough for office wear or weekend outings.",
+    "badge": "New"
+  },
+  {
+    "id": 1403,
+    "name": "Velvet Tie-Dyed Culottes",
+    "price": 15499,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Elevate your bottoms collection with these sequin-hem palazzo pants in sumptuous jacquard. The refined construction and premium finishing ensure lasting elegance."
+  },
+  {
+    "id": 1408,
+    "name": "Bandhani Wool-Blend Tiered Skirt",
+    "price": 16999,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "These knife-pleated peg trousers from the Tailored Edit collection feature a contemporary design in rich chanderi. Versatile enough for office wear or weekend outings."
+  },
+  {
+    "id": 1413,
+    "name": "Chanderi Applique-Detailed Tiered Skirt",
+    "price": 22499,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "A luxurious pair of sequin-hem cotton-silk straight-leg trousers designed for the modern Indian woman. The comfortable waistline and flowing silhouette flatter every figure."
+  },
+  {
+    "id": 1418,
+    "name": "Denim-Silk Tie-Dyed Tulip Skirt",
+    "price": 2499,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "These stunning tailored wool-blend palazzo pants from our Tailored Edit line blend traditional Indian textiles with contemporary silhouettes. Perfect for both formal and casual styling."
+  },
+  {
+    "id": 1423,
+    "name": "Terracotta Denim-Silk Palazzo Pants",
+    "price": 16499,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "These gold-threaded brocade jogger pants offer a perfect blend of comfort and sophistication. The flattering cut and premium fabric make them ideal for any occasion."
+  },
+  {
+    "id": 1428,
+    "name": "Gold-Threaded Cream Peg Trousers",
+    "price": 15999,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "A luxurious pair of pleated denim-silk midi skirt designed for the modern Indian woman. The comfortable waistline and flowing silhouette flatter every figure."
+  },
+  {
+    "id": 1433,
+    "name": "Burgundy Bandhani Modal Layered Skirt",
+    "price": 11999,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "These stunning hand-printed satin bootcut trousers from our Relaxed Luxe line blend traditional Indian textiles with contemporary silhouettes. Perfect for both formal and casual styling."
+  },
+  {
+    "id": 1438,
+    "name": "Tussar Sequin-Hem Bootcut Trousers",
+    "price": 14999,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "These embroidered dhoti pants from the Essential Luxe collection feature a contemporary design in rich tussar. Versatile enough for office wear or weekend outings."
+  },
+  {
+    "id": 1443,
+    "name": "Hand-Printed Burgundy Peg Trousers",
+    "price": 15499,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "These gold-threaded brocade pleated skirt offer a perfect blend of comfort and sophistication. The flattering cut and premium fabric make them ideal for any occasion."
+  },
+  {
+    "id": 1448,
+    "name": "Rose Gold Lace-Paneled Wool-Blend Tulip Skirt",
+    "price": 19999,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "A luxurious pair of knife-pleated tweed straight-leg trousers designed for the modern Indian woman. The comfortable waistline and flowing silhouette flatter every figure."
+  },
+  {
+    "id": 1453,
+    "name": "Mirror-Work Sage Cigarette Pants",
+    "price": 3999,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Elevate your bottoms collection with these block-printed culottes in sumptuous georgette. The refined construction and premium finishing ensure lasting elegance.",
+    "oldPrice": 4499,
+    "badge": "Sale"
+  },
+  {
+    "id": 1458,
+    "name": "Gold Gold-Threaded Silk Wrap Skirt",
+    "price": 9999,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "A luxurious pair of knife-pleated cotton-silk peg trousers designed for the modern Indian woman. The comfortable waistline and flowing silhouette flatter every figure."
+  },
+  {
+    "id": 1463,
+    "name": "Zari-Border Indigo Palazzo Pants",
+    "price": 22499,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Artfully tailored mirror-work brocade jogger pants that combine Indian textile heritage with modern design sensibility. The premium construction ensures a perfect drape."
+  },
+  {
+    "id": 1468,
+    "name": "Crepe Block-Printed Maxi Skirt",
+    "price": 9499,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "From the Free Flow collection, these gold-threaded maxi skirt in luxurious tweed feature impeccable tailoring. They pair beautifully with blouses and tops for a refined look."
+  },
+  {
+    "id": 1473,
+    "name": "Modal Ombre-Dyed Harem Pants",
+    "price": 9999,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "These sequin-hem wide-leg trousers from the Capsule collection feature a contemporary design in rich wool-blend. Versatile enough for office wear or weekend outings.",
+    "oldPrice": 14999,
+    "badge": "Sale"
+  },
+  {
+    "id": 1478,
+    "name": "Applique-Detailed Tweed Layered Skirt",
+    "price": 18499,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "A luxurious pair of ikat linen high-waist pants designed for the modern Indian woman. The comfortable waistline and flowing silhouette flatter every figure."
+  },
+  {
+    "id": 1483,
+    "name": "Gold-Threaded Silk Culottes",
+    "price": 14999,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "From the Relaxed Luxe collection, these belted wide-leg trousers in luxurious crepe feature impeccable tailoring. They pair beautifully with blouses and tops for a refined look."
+  },
+  {
+    "id": 1488,
+    "name": "Tweed Zari-Border Pleated Skirt",
+    "price": 15999,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Elevate your bottoms collection with these ombre-dyed cargo trousers in sumptuous brocade. The refined construction and premium finishing ensure lasting elegance."
+  },
+  {
+    "id": 1493,
+    "name": "Applique-Detailed Onyx Tulip Skirt",
+    "price": 4999,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "A luxurious pair of pleated tweed culottes designed for the modern Indian woman. The comfortable waistline and flowing silhouette flatter every figure."
+  },
+  {
+    "id": 1498,
+    "name": "Bandhani Nude Straight-Leg Trousers",
+    "price": 14999,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "These high-waisted pleated skirt from the Day Edit collection feature a contemporary design in rich wool-blend. Versatile enough for office wear or weekend outings."
+  },
+  {
+    "id": 1503,
+    "name": "Smocked-Waist Sage Pleated Skirt",
+    "price": 13499,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Crafted from premium linen, these sequin-hem maxi skirt showcase meticulous attention to detail. The elegant drape and comfortable fit make them a wardrobe staple."
+  },
+  {
+    "id": 1508,
+    "name": "High-Waisted Burgundy Straight-Leg Trousers",
+    "price": 3499,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Artfully tailored knife-pleated chanderi bootcut trousers that combine Indian textile heritage with modern design sensibility. The premium construction ensures a perfect drape.",
+    "oldPrice": 4499,
+    "badge": "Sale"
+  },
+  {
+    "id": 1513,
+    "name": "Gold Tailored Denim-Silk Tulip Skirt",
+    "price": 14499,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "These gold-threaded peg trousers from the Tailored Edit collection feature a contemporary design in rich modal. Versatile enough for office wear or weekend outings."
+  },
+  {
+    "id": 1518,
+    "name": "Silk Belted Wide-Leg Trousers",
+    "price": 10999,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Artfully tailored block-printed georgette wide-leg trousers that combine Indian textile heritage with modern design sensibility. The premium construction ensures a perfect drape.",
+    "oldPrice": 16999,
+    "badge": "Sale"
+  },
+  {
+    "id": 1523,
+    "name": "Knife-Pleated Coral Tulip Skirt",
+    "price": 15999,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "From the Evening Luxe collection, these lace-paneled layered skirt in luxurious denim-silk feature impeccable tailoring. They pair beautifully with blouses and tops for a refined look."
+  },
+  {
+    "id": 1528,
+    "name": "Sage Silk Draped Skirt",
+    "price": 5499,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Artfully tailored pintucked wool-blend tapered trousers that combine Indian textile heritage with modern design sensibility. The premium construction ensures a perfect drape."
+  },
+  {
+    "id": 1533,
+    "name": "Sequin-Hem Coral Tiered Skirt",
+    "price": 9499,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "These stunning tailored chanderi cargo trousers from our Studio Edit line blend traditional Indian textiles with contemporary silhouettes. Perfect for both formal and casual styling."
+  },
+  {
+    "id": 1538,
+    "name": "Onyx Velvet Harem Pants",
+    "price": 18999,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "These stunning gold-threaded chanderi maxi skirt from our Tailored Edit line blend traditional Indian textiles with contemporary silhouettes. Perfect for both formal and casual styling."
+  },
+  {
+    "id": 1543,
+    "name": "Tussar Bandhani High-Waist Pants",
+    "price": 7499,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "These high-waisted dhoti pants from the Evening Luxe collection feature a contemporary design in rich jacquard. Versatile enough for office wear or weekend outings.",
+    "badge": "New"
+  },
+  {
+    "id": 1548,
+    "name": "Antique Gold Tie-Dyed Georgette Dhoti Pants",
+    "price": 20499,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "From the Artisan Weave collection, these ombre-dyed straight-leg trousers in luxurious brocade feature impeccable tailoring. They pair beautifully with blouses and tops for a refined look."
+  },
+  {
+    "id": 1553,
+    "name": "Amethyst Tussar Bootcut Trousers",
+    "price": 6499,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Artfully tailored lace-paneled tweed culottes that combine Indian textile heritage with modern design sensibility. The premium construction ensures a perfect drape."
+  },
+  {
+    "id": 1558,
+    "name": "Tussar Sequin-Hem Midi Skirt",
+    "price": 13999,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "A luxurious pair of sequin-hem wool-blend pencil skirt designed for the modern Indian woman. The comfortable waistline and flowing silhouette flatter every figure."
+  },
+  {
+    "id": 1563,
+    "name": "Mustard Pintucked Tweed Straight-Leg Trousers",
+    "price": 13499,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "From the Capsule collection, these smocked-waist pencil skirt in luxurious modal feature impeccable tailoring. They pair beautifully with blouses and tops for a refined look."
+  },
+  {
+    "id": 1568,
+    "name": "Hand-Printed Tussar Straight-Leg Trousers",
+    "price": 15499,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "From the Weekend Luxe collection, these mirror-work straight-leg trousers in luxurious georgette feature impeccable tailoring. They pair beautifully with blouses and tops for a refined look."
+  },
+  {
+    "id": 1573,
+    "name": "Mauve Chanderi Draped Skirt",
+    "price": 10999,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Elevate your bottoms collection with these tie-dyed wrap skirt in sumptuous satin. The refined construction and premium finishing ensure lasting elegance."
+  },
+  {
+    "id": 1578,
+    "name": "Gold-Threaded Gold Dhoti Pants",
+    "price": 7499,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "A luxurious pair of high-waisted velvet maxi skirt designed for the modern Indian woman. The comfortable waistline and flowing silhouette flatter every figure."
+  },
+  {
+    "id": 1583,
+    "name": "Lace-Paneled Crepe Paperbag Waist Pants",
+    "price": 6499,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "These stunning hand-printed silk tapered trousers from our Capsule line blend traditional Indian textiles with contemporary silhouettes. Perfect for both formal and casual styling.",
+    "badge": "Limited"
+  },
+  {
+    "id": 1588,
+    "name": "High-Waisted Burnt Orange Layered Skirt",
+    "price": 8499,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "These stunning pintucked velvet tulip skirt from our Free Flow line blend traditional Indian textiles with contemporary silhouettes. Perfect for both formal and casual styling."
+  },
+  {
+    "id": 1593,
+    "name": "Wool-Blend Embroidered Tiered Skirt",
+    "price": 2999,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "A luxurious pair of tie-dyed cotton-silk dhoti pants designed for the modern Indian woman. The comfortable waistline and flowing silhouette flatter every figure.",
+    "oldPrice": 3999
+  },
+  {
+    "id": 1598,
+    "name": "Applique-Detailed Cotton-Silk Palazzo Pants",
+    "price": 5999,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Elevate your bottoms collection with these tie-dyed wrap skirt in sumptuous tussar. The refined construction and premium finishing ensure lasting elegance.",
+    "badge": "New"
+  },
+  {
+    "id": 1603,
+    "name": "Ivory Satin Cargo Trousers",
+    "price": 13999,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "These block-printed jacquard peg trousers offer a perfect blend of comfort and sophistication. The flattering cut and premium fabric make them ideal for any occasion."
+  },
+  {
+    "id": 1608,
+    "name": "Sage Mirror-Work Satin Straight-Leg Trousers",
+    "price": 9999,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "These stunning gold-threaded velvet straight-leg trousers from our Resort Collection line blend traditional Indian textiles with contemporary silhouettes. Perfect for both formal and casual styling.",
+    "badge": "Hot"
+  },
+  {
+    "id": 1613,
+    "name": "Ombre-Dyed Jacquard Harem Pants",
+    "price": 24499,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Crafted from premium linen, these ikat paperbag waist pants showcase meticulous attention to detail. The elegant drape and comfortable fit make them a wardrobe staple."
+  },
+  {
+    "id": 1618,
+    "name": "Copper Tweed Harem Pants",
+    "price": 13499,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Elevate your bottoms collection with these smocked-waist pleated skirt in sumptuous cotton-silk. The refined construction and premium finishing ensure lasting elegance."
+  },
+  {
+    "id": 1623,
+    "name": "Silver Velvet Peg Trousers",
+    "price": 8499,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "A luxurious pair of knife-pleated modal a-line skirt designed for the modern Indian woman. The comfortable waistline and flowing silhouette flatter every figure."
+  },
+  {
+    "id": 1628,
+    "name": "Pleated Lavender Pleated Skirt",
+    "price": 7999,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Crafted from premium wool-blend, these block-printed tapered trousers showcase meticulous attention to detail. The elegant drape and comfortable fit make them a wardrobe staple."
+  },
+  {
+    "id": 1633,
+    "name": "Forest Green Cotton-Silk Bootcut Trousers",
+    "price": 20499,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "These lace-paneled layered skirt from the Runway Edit collection feature a contemporary design in rich linen. Versatile enough for office wear or weekend outings.",
+    "oldPrice": 24499,
+    "badge": "Limited"
+  },
+  {
+    "id": 1638,
+    "name": "Burnt Orange Crepe Dhoti Pants",
+    "price": 15499,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "From the Saturday Edit collection, these mirror-work high-waist pants in luxurious crepe feature impeccable tailoring. They pair beautifully with blouses and tops for a refined look."
+  },
+  {
+    "id": 1643,
+    "name": "Mustard Chanderi Wide-Leg Trousers",
+    "price": 9999,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "From the Urban Grace collection, these applique-detailed wide-leg trousers in luxurious velvet feature impeccable tailoring. They pair beautifully with blouses and tops for a refined look."
+  },
+  {
+    "id": 1648,
+    "name": "Jacquard Pleated Pencil Skirt",
+    "price": 16499,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "These lace-paneled draped skirt from the Essential Luxe collection feature a contemporary design in rich brocade. Versatile enough for office wear or weekend outings.",
+    "oldPrice": 24999
+  },
+  {
+    "id": 1653,
+    "name": "Smocked-Waist Chanderi Layered Skirt",
+    "price": 24499,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Artfully tailored tie-dyed wool-blend cargo trousers that combine Indian textile heritage with modern design sensibility. The premium construction ensures a perfect drape."
+  },
+  {
+    "id": 1658,
+    "name": "Sapphire Velvet Straight-Leg Trousers",
+    "price": 15999,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Artfully tailored tie-dyed georgette tulip skirt that combine Indian textile heritage with modern design sensibility. The premium construction ensures a perfect drape."
+  },
+  {
+    "id": 1663,
+    "name": "Silk Gold-Threaded Pencil Skirt",
+    "price": 5499,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "These hand-printed wrap skirt from the Free Flow collection feature a contemporary design in rich brocade. Versatile enough for office wear or weekend outings."
+  },
+  {
+    "id": 1668,
+    "name": "Deep Teal Tie-Dyed Wool-Blend Paperbag Waist Pants",
+    "price": 15999,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "These stunning smocked-waist georgette straight-leg trousers from our Curated Classics line blend traditional Indian textiles with contemporary silhouettes. Perfect for both formal and casual styling."
+  },
+  {
+    "id": 1673,
+    "name": "Gold-Threaded Wool-Blend Pleated Skirt",
+    "price": 13499,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "These high-waisted pencil skirt from the Festive Flair collection feature a contemporary design in rich chanderi. Versatile enough for office wear or weekend outings."
+  },
+  {
+    "id": 1678,
+    "name": "Burnt Orange Ikat Satin Peg Trousers",
+    "price": 4499,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "From the Weekend Luxe collection, these bandhani cigarette pants in luxurious jacquard feature impeccable tailoring. They pair beautifully with blouses and tops for a refined look."
+  },
+  {
+    "id": 1683,
+    "name": "High-Waisted Velvet Jogger Pants",
+    "price": 7499,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "These stunning embroidered satin wrap skirt from our Saturday Edit line blend traditional Indian textiles with contemporary silhouettes. Perfect for both formal and casual styling."
+  },
+  {
+    "id": 1688,
+    "name": "Copper Cotton-Silk Wrap Skirt",
+    "price": 3499,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "These bandhani silk culottes offer a perfect blend of comfort and sophistication. The flattering cut and premium fabric make them ideal for any occasion.",
+    "oldPrice": 3999,
+    "badge": "Sale"
+  },
+  {
+    "id": 1693,
+    "name": "Gold-Threaded Cotton-Silk Jogger Pants",
+    "price": 13999,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "These embroidered satin high-waist pants offer a perfect blend of comfort and sophistication. The flattering cut and premium fabric make them ideal for any occasion.",
+    "oldPrice": 16499
+  },
+  {
+    "id": 1698,
+    "name": "Copper Tussar Flared Pants",
+    "price": 22499,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Crafted from premium chanderi, these mirror-work culottes showcase meticulous attention to detail. The elegant drape and comfortable fit make them a wardrobe staple."
+  },
+  {
+    "id": 1703,
+    "name": "Belted Gold Paperbag Waist Pants",
+    "price": 19999,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Artfully tailored belted linen straight-leg trousers that combine Indian textile heritage with modern design sensibility. The premium construction ensures a perfect drape.",
+    "oldPrice": 22999
+  },
+  {
+    "id": 1708,
+    "name": "Copper Linen Midi Skirt",
+    "price": 20499,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "These stunning zari-border brocade pencil skirt from our Relaxed Luxe line blend traditional Indian textiles with contemporary silhouettes. Perfect for both formal and casual styling.",
+    "oldPrice": 22999,
+    "badge": "Sale"
+  },
+  {
+    "id": 1713,
+    "name": "Tweed High-Waisted Dhoti Pants",
+    "price": 8499,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Artfully tailored gold-threaded crepe a-line skirt that combine Indian textile heritage with modern design sensibility. The premium construction ensures a perfect drape."
+  },
+  {
+    "id": 1718,
+    "name": "Charcoal Gold-Threaded Cotton-Silk Dhoti Pants",
+    "price": 10499,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "From the Urban Grace collection, these tie-dyed maxi skirt in luxurious jacquard feature impeccable tailoring. They pair beautifully with blouses and tops for a refined look."
+  },
+  {
+    "id": 1723,
+    "name": "Knife-Pleated Champagne Draped Skirt",
+    "price": 5999,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "A luxurious pair of embroidered silk flared pants designed for the modern Indian woman. The comfortable waistline and flowing silhouette flatter every figure."
+  },
+  {
+    "id": 1728,
+    "name": "Silk High-Waisted Peg Trousers",
+    "price": 13499,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "These embroidered linen cargo trousers offer a perfect blend of comfort and sophistication. The flattering cut and premium fabric make them ideal for any occasion."
+  },
+  {
+    "id": 1733,
+    "name": "Linen High-Waisted Wide-Leg Trousers",
+    "price": 16499,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "From the Resort Collection collection, these zari-border pencil skirt in luxurious crepe feature impeccable tailoring. They pair beautifully with blouses and tops for a refined look."
+  },
+  {
+    "id": 1738,
+    "name": "Chanderi Pleated Midi Skirt",
+    "price": 18499,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Artfully tailored belted satin straight-leg trousers that combine Indian textile heritage with modern design sensibility. The premium construction ensures a perfect drape."
+  },
+  {
+    "id": 1743,
+    "name": "Wine Hand-Printed Tweed Bootcut Trousers",
+    "price": 3999,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Elevate your bottoms collection with these tailored jogger pants in sumptuous satin. The refined construction and premium finishing ensure lasting elegance."
+  },
+  {
+    "id": 1748,
+    "name": "Linen Lace-Paneled Jogger Pants",
+    "price": 1999,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Elevate your bottoms collection with these smocked-waist draped skirt in sumptuous linen. The refined construction and premium finishing ensure lasting elegance."
+  },
+  {
+    "id": 1753,
+    "name": "Linen Tie-Dyed Layered Skirt",
+    "price": 10999,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "A luxurious pair of ombre-dyed chanderi straight-leg trousers designed for the modern Indian woman. The comfortable waistline and flowing silhouette flatter every figure."
+  },
+  {
+    "id": 1758,
+    "name": "Emerald Smocked-Waist Georgette Jogger Pants",
+    "price": 2499,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "A luxurious pair of smocked-waist wool-blend wrap skirt designed for the modern Indian woman. The comfortable waistline and flowing silhouette flatter every figure.",
+    "oldPrice": 3999,
+    "badge": "Sale"
+  },
+  {
+    "id": 1763,
+    "name": "Cotton-Silk Ikat Straight-Leg Trousers",
+    "price": 23999,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "From the Saturday Edit collection, these tie-dyed bootcut trousers in luxurious denim-silk feature impeccable tailoring. They pair beautifully with blouses and tops for a refined look.",
+    "oldPrice": 31499,
+    "badge": "Limited"
+  },
+  {
+    "id": 1768,
+    "name": "Sapphire Cotton-Silk Maxi Skirt",
+    "price": 20499,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "These tailored chanderi peg trousers offer a perfect blend of comfort and sophistication. The flattering cut and premium fabric make them ideal for any occasion."
+  },
+  {
+    "id": 1773,
+    "name": "Burgundy Brocade Palazzo Pants",
+    "price": 20999,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "A luxurious pair of bandhani cotton-silk pencil skirt designed for the modern Indian woman. The comfortable waistline and flowing silhouette flatter every figure."
+  },
+  {
+    "id": 1778,
+    "name": "Pintucked Teal Culottes",
+    "price": 2499,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Crafted from premium brocade, these applique-detailed paperbag waist pants showcase meticulous attention to detail. The elegant drape and comfortable fit make them a wardrobe staple."
+  },
+  {
+    "id": 1783,
+    "name": "Ombre-Dyed Mustard A-Line Skirt",
+    "price": 24999,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "A luxurious pair of hand-printed tweed straight-leg trousers designed for the modern Indian woman. The comfortable waistline and flowing silhouette flatter every figure."
+  },
+  {
+    "id": 1788,
+    "name": "Linen Applique-Detailed Straight-Leg Trousers",
+    "price": 16999,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "From the Saturday Edit collection, these tie-dyed harem pants in luxurious satin feature impeccable tailoring. They pair beautifully with blouses and tops for a refined look."
+  },
+  {
+    "id": 1793,
+    "name": "Burgundy Ombre-Dyed Brocade A-Line Skirt",
+    "price": 19499,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Crafted from premium velvet, these tie-dyed paperbag waist pants showcase meticulous attention to detail. The elegant drape and comfortable fit make them a wardrobe staple.",
+    "oldPrice": 25999,
+    "badge": "Sale"
+  },
+  {
+    "id": 1798,
+    "name": "Teal Velvet Straight-Leg Trousers",
+    "price": 12499,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "These belted cargo trousers from the Free Flow collection feature a contemporary design in rich linen. Versatile enough for office wear or weekend outings.",
+    "oldPrice": 15499,
+    "badge": "New"
+  },
+  {
+    "id": 1803,
+    "name": "Slate Grey Silk Tulip Skirt",
+    "price": 2999,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "These stunning embroidered tussar cargo trousers from our Urban Grace line blend traditional Indian textiles with contemporary silhouettes. Perfect for both formal and casual styling."
+  },
+  {
+    "id": 1808,
+    "name": "Copper High-Waisted Velvet Bootcut Trousers",
+    "price": 24999,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Artfully tailored applique-detailed modal bootcut trousers that combine Indian textile heritage with modern design sensibility. The premium construction ensures a perfect drape."
+  },
+  {
+    "id": 1813,
+    "name": "Hand-Printed Wool-Blend Bootcut Trousers",
+    "price": 15499,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Crafted from premium denim-silk, these gold-threaded palazzo pants showcase meticulous attention to detail. The elegant drape and comfortable fit make them a wardrobe staple."
+  },
+  {
+    "id": 1818,
+    "name": "Block-Printed Sapphire Harem Pants",
+    "price": 20999,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "From the Contemporary collection, these embroidered midi skirt in luxurious jacquard feature impeccable tailoring. They pair beautifully with blouses and tops for a refined look."
+  },
+  {
+    "id": 1823,
+    "name": "Knife-Pleated Brocade High-Waist Pants",
+    "price": 4999,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "These stunning knife-pleated tweed pencil skirt from our Urban Grace line blend traditional Indian textiles with contemporary silhouettes. Perfect for both formal and casual styling."
+  },
+  {
+    "id": 1828,
+    "name": "Midnight Blue Belted Georgette Wide-Leg Trousers",
+    "price": 2999,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "These applique-detailed tussar cargo trousers offer a perfect blend of comfort and sophistication. The flattering cut and premium fabric make them ideal for any occasion.",
+    "oldPrice": 4499
+  },
+  {
+    "id": 1833,
+    "name": "Blush Pink Tussar Peg Trousers",
+    "price": 17499,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "These high-waisted wool-blend midi skirt offer a perfect blend of comfort and sophistication. The flattering cut and premium fabric make them ideal for any occasion.",
+    "oldPrice": 20499
+  },
+  {
+    "id": 1838,
+    "name": "Amethyst Satin Paperbag Waist Pants",
+    "price": 10999,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Crafted from premium brocade, these zari-border pleated skirt showcase meticulous attention to detail. The elegant drape and comfortable fit make them a wardrobe staple."
+  },
+  {
+    "id": 1843,
+    "name": "Charcoal Linen Cargo Trousers",
+    "price": 1999,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "A luxurious pair of knife-pleated crepe draped skirt designed for the modern Indian woman. The comfortable waistline and flowing silhouette flatter every figure."
+  },
+  {
+    "id": 1848,
+    "name": "Burnt Orange Linen Dhoti Pants",
+    "price": 20999,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Artfully tailored ikat linen wrap skirt that combine Indian textile heritage with modern design sensibility. The premium construction ensures a perfect drape."
+  },
+  {
+    "id": 1853,
+    "name": "Dusty Rose Jacquard Tapered Trousers",
+    "price": 12999,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "From the Contemporary collection, these mirror-work paperbag waist pants in luxurious brocade feature impeccable tailoring. They pair beautifully with blouses and tops for a refined look."
+  },
+  {
+    "id": 1858,
+    "name": "Cream Knife-Pleated Linen Flared Pants",
+    "price": 22999,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "These tailored tulip skirt from the Festive Flair collection feature a contemporary design in rich denim-silk. Versatile enough for office wear or weekend outings."
+  },
+  {
+    "id": 1863,
+    "name": "Terracotta Block-Printed Velvet Harem Pants",
+    "price": 11499,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "These stunning pleated wool-blend midi skirt from our Relaxed Luxe line blend traditional Indian textiles with contemporary silhouettes. Perfect for both formal and casual styling."
+  },
+  {
+    "id": 1868,
+    "name": "Pearl White Applique-Detailed Satin Culottes",
+    "price": 17499,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Crafted from premium jacquard, these tailored straight-leg trousers showcase meticulous attention to detail. The elegant drape and comfortable fit make them a wardrobe staple."
+  },
+  {
+    "id": 1873,
+    "name": "Rose Gold Velvet Harem Pants",
+    "price": 18499,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "These stunning applique-detailed satin flared pants from our Essential Luxe line blend traditional Indian textiles with contemporary silhouettes. Perfect for both formal and casual styling."
+  },
+  {
+    "id": 1878,
+    "name": "Knife-Pleated Slate Grey Harem Pants",
+    "price": 15499,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Artfully tailored hand-printed satin pleated skirt that combine Indian textile heritage with modern design sensibility. The premium construction ensures a perfect drape."
+  },
+  {
+    "id": 1883,
+    "name": "Pleated Slate Grey Wrap Skirt",
+    "price": 21499,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Artfully tailored sequin-hem linen wrap skirt that combine Indian textile heritage with modern design sensibility. The premium construction ensures a perfect drape."
+  },
+  {
+    "id": 1888,
+    "name": "Ivory Cotton-Silk Wide-Leg Trousers",
+    "price": 20999,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Crafted from premium linen, these sequin-hem cigarette pants showcase meticulous attention to detail. The elegant drape and comfortable fit make them a wardrobe staple.",
+    "oldPrice": 25499,
+    "badge": "New"
+  },
+  {
+    "id": 1893,
+    "name": "Amethyst Hand-Printed Georgette Peg Trousers",
+    "price": 3499,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Artfully tailored ombre-dyed tweed draped skirt that combine Indian textile heritage with modern design sensibility. The premium construction ensures a perfect drape."
+  },
+  {
+    "id": 1898,
+    "name": "Georgette Mirror-Work Cargo Trousers",
+    "price": 18999,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Artfully tailored embroidered linen wrap skirt that combine Indian textile heritage with modern design sensibility. The premium construction ensures a perfect drape.",
+    "oldPrice": 22999,
+    "badge": "New"
+  },
+  {
+    "id": 1903,
+    "name": "Cotton-Silk Gold-Threaded Dhoti Pants",
+    "price": 19499,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "These knife-pleated linen cargo trousers offer a perfect blend of comfort and sophistication. The flattering cut and premium fabric make them ideal for any occasion."
+  },
+  {
+    "id": 1908,
+    "name": "Nude Tussar Midi Skirt",
+    "price": 8499,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "These applique-detailed a-line skirt from the Contemporary collection feature a contemporary design in rich tussar. Versatile enough for office wear or weekend outings."
+  },
+  {
+    "id": 1913,
+    "name": "Denim-Silk Knife-Pleated Dhoti Pants",
+    "price": 6499,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "These zari-border georgette midi skirt offer a perfect blend of comfort and sophistication. The flattering cut and premium fabric make them ideal for any occasion."
+  },
+  {
+    "id": 1918,
+    "name": "Cream Modal Palazzo Pants",
+    "price": 6499,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Artfully tailored hand-printed modal bootcut trousers that combine Indian textile heritage with modern design sensibility. The premium construction ensures a perfect drape."
+  },
+  {
+    "id": 1923,
+    "name": "High-Waisted Velvet Peg Trousers",
+    "price": 5499,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "These pintucked peg trousers from the Free Flow collection feature a contemporary design in rich denim-silk. Versatile enough for office wear or weekend outings."
+  },
+  {
+    "id": 1928,
+    "name": "Lace-Paneled Chanderi Dhoti Pants",
+    "price": 17499,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "These bandhani layered skirt from the Artisan Weave collection feature a contemporary design in rich tussar. Versatile enough for office wear or weekend outings.",
+    "oldPrice": 21499
+  },
+  {
+    "id": 1933,
+    "name": "Sequin-Hem Cotton-Silk Bootcut Trousers",
+    "price": 8499,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "These embroidered draped skirt from the Festive Flair collection feature a contemporary design in rich jacquard. Versatile enough for office wear or weekend outings."
+  },
+  {
+    "id": 1938,
+    "name": "Silver Linen Layered Skirt",
+    "price": 11499,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "A luxurious pair of sequin-hem tussar a-line skirt designed for the modern Indian woman. The comfortable waistline and flowing silhouette flatter every figure."
+  },
+  {
+    "id": 1943,
+    "name": "Copper Bandhani Satin Midi Skirt",
+    "price": 23999,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Artfully tailored tailored linen pleated skirt that combine Indian textile heritage with modern design sensibility. The premium construction ensures a perfect drape."
+  },
+  {
+    "id": 1948,
+    "name": "Antique Gold Embroidered Brocade Dhoti Pants",
+    "price": 21999,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "These gold-threaded layered skirt from the Free Flow collection feature a contemporary design in rich satin. Versatile enough for office wear or weekend outings."
+  },
+  {
+    "id": 1953,
+    "name": "Hand-Printed Sapphire Wide-Leg Trousers",
+    "price": 11999,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "A luxurious pair of block-printed denim-silk cargo trousers designed for the modern Indian woman. The comfortable waistline and flowing silhouette flatter every figure."
+  },
+  {
+    "id": 1958,
+    "name": "Lace-Paneled Silk Tapered Trousers",
+    "price": 4999,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Crafted from premium velvet, these gold-threaded culottes showcase meticulous attention to detail. The elegant drape and comfortable fit make them a wardrobe staple."
+  },
+  {
+    "id": 1963,
+    "name": "Onyx Ikat Chanderi Bootcut Trousers",
+    "price": 19999,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "These smocked-waist a-line skirt from the Urban Grace collection feature a contemporary design in rich jacquard. Versatile enough for office wear or weekend outings."
+  },
+  {
+    "id": 1968,
+    "name": "Cream Wool-Blend Paperbag Waist Pants",
+    "price": 24499,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Artfully tailored mirror-work crepe draped skirt that combine Indian textile heritage with modern design sensibility. The premium construction ensures a perfect drape.",
+    "oldPrice": 27999,
+    "badge": "Limited"
+  },
+  {
+    "id": 1973,
+    "name": "Sequin-Hem Gold A-Line Skirt",
+    "price": 2999,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "These stunning mirror-work georgette maxi skirt from our Evening Luxe line blend traditional Indian textiles with contemporary silhouettes. Perfect for both formal and casual styling."
+  },
+  {
+    "id": 1978,
+    "name": "Burgundy Brocade Cigarette Pants",
+    "price": 23999,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "A luxurious pair of block-printed cotton-silk harem pants designed for the modern Indian woman. The comfortable waistline and flowing silhouette flatter every figure.",
+    "oldPrice": 32499,
+    "badge": "New"
+  },
+  {
+    "id": 1983,
+    "name": "Pintucked Burgundy Pencil Skirt",
+    "price": 12499,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Elevate your bottoms collection with these pleated draped skirt in sumptuous tweed. The refined construction and premium finishing ensure lasting elegance."
+  },
+  {
+    "id": 1988,
+    "name": "Tailored Tussar Flared Pants",
+    "price": 19499,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "From the Evening Luxe collection, these block-printed palazzo pants in luxurious tussar feature impeccable tailoring. They pair beautifully with blouses and tops for a refined look."
+  },
+  {
+    "id": 1993,
+    "name": "Gold-Threaded Charcoal Harem Pants",
+    "price": 20499,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "A luxurious pair of hand-printed tussar culottes designed for the modern Indian woman. The comfortable waistline and flowing silhouette flatter every figure."
+  },
+  {
+    "id": 1998,
+    "name": "Amethyst Modal Cargo Trousers",
+    "price": 11999,
+    "category": "Bottoms",
+    "images": [],
+    "emoji": "👖",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "These smocked-waist paperbag waist pants from the Festive Flair collection feature a contemporary design in rich silk. Versatile enough for office wear or weekend outings."
+  }
+]

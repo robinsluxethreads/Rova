@@ -1,0 +1,6559 @@
+[
+  {
+    "id": 1,
+    "name": "Coral Embroidered Jacquard Empire Waist Dress",
+    "price": 11999,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "An artfully designed thread-work bodycon dress that blends Indian craftsmanship with modern aesthetics. Made from the finest jacquard, it offers both comfort and undeniable style."
+  },
+  {
+    "id": 6,
+    "name": "Mukaish Chiffon Off-Shoulder Dress",
+    "price": 4499,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "A stunning resham bodycon dress crafted from premium crepe, designed to make a statement at any occasion. The luxurious fabric drapes beautifully, creating an effortlessly chic look."
+  },
+  {
+    "id": 11,
+    "name": "Sage Ruffled Crepe Midi Dress",
+    "price": 16499,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "An artfully designed sequined shirt dress that blends Indian craftsmanship with modern aesthetics. Made from the finest lace, it offers both comfort and undeniable style.",
+    "oldPrice": 20499,
+    "badge": "New"
+  },
+  {
+    "id": 16,
+    "name": "Cream Tulle Wrap Dress",
+    "price": 18999,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Inspired by royal Indian heritage, this pleated shirt dress in sumptuous charmeuse showcases artisanal craftsmanship. The charmeuse fabric ensures a comfortable yet sophisticated silhouette."
+  },
+  {
+    "id": 21,
+    "name": "Pearl White Crystal-Embellished Satin Ruched Dress",
+    "price": 17499,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "This exquisite metallic lace corset dress features intricate detailing and a flattering silhouette. Perfect for evening soirees and formal celebrations, it exudes timeless elegance."
+  },
+  {
+    "id": 26,
+    "name": "Velvet Paisley Halter Dress",
+    "price": 38999,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "An artfully designed ruffled midi dress that blends Indian craftsmanship with modern aesthetics. Made from the finest taffeta, it offers both comfort and undeniable style."
+  },
+  {
+    "id": 31,
+    "name": "Charcoal Satin Bodycon Dress",
+    "price": 40999,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "This show-stopping zardozi silk shift dress from the Divine line features a figure-flattering design. The silk fabric lends an air of sophistication to any evening event."
+  },
+  {
+    "id": 36,
+    "name": "Blush Pink Brocade Off-Shoulder Dress",
+    "price": 15999,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "An artfully designed sequined cocktail dress that blends Indian craftsmanship with modern aesthetics. Made from the finest mikado, it offers both comfort and undeniable style."
+  },
+  {
+    "id": 41,
+    "name": "Mukaish Terracotta Cocktail Dress",
+    "price": 37499,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "A stunning resham tiered dress crafted from premium chiffon, designed to make a statement at any occasion. The luxurious fabric drapes beautifully, creating an effortlessly chic look."
+  },
+  {
+    "id": 46,
+    "name": "Lavender Tulle A-Line Dress",
+    "price": 30999,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Elevate your wardrobe with this crystal-embellished taffeta cocktail dress from our Grandeur collection. Featuring meticulous craftsmanship and premium finishing, it transitions seamlessly from cocktail hour to dinner."
+  },
+  {
+    "id": 51,
+    "name": "Silk Resham High-Low Dress",
+    "price": 49499,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Designed for the modern woman, this hand-painted anarkali dress features a flattering cut in luxe mikado. The refined detailing and premium construction make it a wardrobe essential.",
+    "oldPrice": 73999,
+    "badge": "Limited"
+  },
+  {
+    "id": 56,
+    "name": "Copper Thread-Work Satin Fit & Flare Dress",
+    "price": 7499,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "An artfully designed gota patti shirt dress that blends Indian craftsmanship with modern aesthetics. Made from the finest lace, it offers both comfort and undeniable style."
+  },
+  {
+    "id": 61,
+    "name": "Terracotta Sequined Lace Shirt Dress",
+    "price": 7499,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "This exquisite pearl-adorned lace anarkali dress features intricate detailing and a flattering silhouette. Perfect for evening soirees and formal celebrations, it exudes timeless elegance."
+  },
+  {
+    "id": 66,
+    "name": "Ivory Beaded Silk Tunic Dress",
+    "price": 23499,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "A stunning pleated shirt dress crafted from premium chiffon, designed to make a statement at any occasion. The luxurious fabric drapes beautifully, creating an effortlessly chic look.",
+    "oldPrice": 28499,
+    "badge": "Sale"
+  },
+  {
+    "id": 71,
+    "name": "Organza Embroidered Empire Waist Dress",
+    "price": 20499,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Designed for the modern woman, this embroidered draped dress features a flattering cut in luxe velvet. The refined detailing and premium construction make it a wardrobe essential."
+  },
+  {
+    "id": 76,
+    "name": "Champagne Zardozi Georgette Maxi Dress",
+    "price": 38499,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "An artfully designed applique shift dress that blends Indian craftsmanship with modern aesthetics. Made from the finest tulle, it offers both comfort and undeniable style.",
+    "oldPrice": 49999
+  },
+  {
+    "id": 81,
+    "name": "Blush Pink Georgette Palazzo Dress",
+    "price": 12499,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "An artfully designed crystal-embellished asymmetric dress that blends Indian craftsmanship with modern aesthetics. Made from the finest tulle, it offers both comfort and undeniable style.",
+    "oldPrice": 13999,
+    "badge": "Sale"
+  },
+  {
+    "id": 86,
+    "name": "Dupioni Metallic Tunic Dress",
+    "price": 12999,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "This show-stopping zardozi silk asymmetric dress from the Luxuria line features a figure-flattering design. The silk fabric lends an air of sophistication to any evening event."
+  },
+  {
+    "id": 91,
+    "name": "Hand-Painted Brocade Corset Dress",
+    "price": 4999,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "This exquisite beaded tulle anarkali dress features intricate detailing and a flattering silhouette. Perfect for evening soirees and formal celebrations, it exudes timeless elegance.",
+    "oldPrice": 5999
+  },
+  {
+    "id": 96,
+    "name": "Paisley Velvet Wrap Dress",
+    "price": 10499,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "An artfully designed hand-painted peplum dress that blends Indian craftsmanship with modern aesthetics. Made from the finest organza, it offers both comfort and undeniable style.",
+    "oldPrice": 15999,
+    "badge": "Sale"
+  },
+  {
+    "id": 101,
+    "name": "Tulle Paisley Tiered Dress",
+    "price": 3499,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "A stunning gota patti halter dress crafted from premium charmeuse, designed to make a statement at any occasion. The luxurious fabric drapes beautifully, creating an effortlessly chic look."
+  },
+  {
+    "id": 106,
+    "name": "Sapphire Hand-Painted Chiffon Palazzo Dress",
+    "price": 17499,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Designed for the modern woman, this sequined palazzo dress features a flattering cut in luxe velvet. The refined detailing and premium construction make it a wardrobe essential."
+  },
+  {
+    "id": 111,
+    "name": "Floral Organza High-Low Dress",
+    "price": 7999,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "This exquisite floral mikado halter dress features intricate detailing and a flattering silhouette. Perfect for evening soirees and formal celebrations, it exudes timeless elegance."
+  },
+  {
+    "id": 116,
+    "name": "Silk Handcrafted High-Low Dress",
+    "price": 41999,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "An artfully designed floral off-shoulder dress that blends Indian craftsmanship with modern aesthetics. Made from the finest dupioni, it offers both comfort and undeniable style."
+  },
+  {
+    "id": 121,
+    "name": "Paisley Velvet Palazzo Dress",
+    "price": 33999,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "This exquisite ombre dupioni tiered dress features intricate detailing and a flattering silhouette. Perfect for evening soirees and formal celebrations, it exudes timeless elegance."
+  },
+  {
+    "id": 126,
+    "name": "Burnt Orange Metallic Chiffon Cocktail Dress",
+    "price": 14499,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "This exquisite mukaish dupioni wrap dress features intricate detailing and a flattering silhouette. Perfect for evening soirees and formal celebrations, it exudes timeless elegance."
+  },
+  {
+    "id": 131,
+    "name": "Gota Patti Dupioni Midi Dress",
+    "price": 19999,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "From the Sovereign collection, this jewel-tone dupioni tunic dress combines contemporary design with traditional Indian artistry. Each piece is carefully finished with attention to every detail."
+  },
+  {
+    "id": 136,
+    "name": "Pleated Lace Shirt Dress",
+    "price": 41499,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Designed for the modern woman, this embroidered fit & flare dress features a flattering cut in luxe silk. The refined detailing and premium construction make it a wardrobe essential.",
+    "oldPrice": 56499
+  },
+  {
+    "id": 141,
+    "name": "Charcoal Applique Organza Cocktail Dress",
+    "price": 30499,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "This show-stopping applique satin shirt dress from the Divine line features a figure-flattering design. The satin fabric lends an air of sophistication to any evening event."
+  },
+  {
+    "id": 146,
+    "name": "Paisley Dupioni Midi Dress",
+    "price": 4499,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "This show-stopping paisley organza shift dress from the Luxuria line features a figure-flattering design. The organza fabric lends an air of sophistication to any evening event."
+  },
+  {
+    "id": 151,
+    "name": "Jacquard Floral High-Low Dress",
+    "price": 19999,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Designed for the modern woman, this mukaish asymmetric dress features a flattering cut in luxe dupioni. The refined detailing and premium construction make it a wardrobe essential."
+  },
+  {
+    "id": 156,
+    "name": "Thread-Work Velvet Tunic Dress",
+    "price": 38499,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "This show-stopping jewel-tone dupioni kaftan dress from the Imperial line features a figure-flattering design. The dupioni fabric lends an air of sophistication to any evening event.",
+    "oldPrice": 45499,
+    "badge": "New"
+  },
+  {
+    "id": 161,
+    "name": "Mukaish Mikado Anarkali Dress",
+    "price": 13999,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Inspired by royal Indian heritage, this zardozi palazzo dress in sumptuous organza showcases artisanal craftsmanship. The organza fabric ensures a comfortable yet sophisticated silhouette."
+  },
+  {
+    "id": 166,
+    "name": "Lace Sequined Maxi Dress",
+    "price": 3999,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "This show-stopping hand-painted organza tiered dress from the Radiance line features a figure-flattering design. The organza fabric lends an air of sophistication to any evening event.",
+    "oldPrice": 4999,
+    "badge": "Sale"
+  },
+  {
+    "id": 171,
+    "name": "Terracotta Embroidered Silk Draped Dress",
+    "price": 38499,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Designed for the modern woman, this pearl-adorned high-low dress features a flattering cut in luxe lace. The refined detailing and premium construction make it a wardrobe essential."
+  },
+  {
+    "id": 176,
+    "name": "Antique Gold Brocade Shirt Dress",
+    "price": 46999,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Elevate your wardrobe with this pleated tulle midi dress from our Opulence collection. Featuring meticulous craftsmanship and premium finishing, it transitions seamlessly from cocktail hour to dinner.",
+    "oldPrice": 56499,
+    "badge": "New"
+  },
+  {
+    "id": 181,
+    "name": "Tulle Thread-Work Anarkali Dress",
+    "price": 18999,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "This exquisite applique mikado asymmetric dress features intricate detailing and a flattering silhouette. Perfect for evening soirees and formal celebrations, it exudes timeless elegance.",
+    "oldPrice": 21499,
+    "badge": "Limited"
+  },
+  {
+    "id": 186,
+    "name": "Ombre Jacquard Palazzo Dress",
+    "price": 20999,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Inspired by royal Indian heritage, this pearl-adorned tunic dress in sumptuous satin showcases artisanal craftsmanship. The satin fabric ensures a comfortable yet sophisticated silhouette."
+  },
+  {
+    "id": 191,
+    "name": "Charcoal Floral Satin Kaftan Dress",
+    "price": 9499,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "This show-stopping applique velvet peplum dress from the Timeless line features a figure-flattering design. The velvet fabric lends an air of sophistication to any evening event."
+  },
+  {
+    "id": 196,
+    "name": "Embroidered Slate Grey Tiered Dress",
+    "price": 10499,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "From the Grandeur collection, this handcrafted satin ruched dress combines contemporary design with traditional Indian artistry. Each piece is carefully finished with attention to every detail.",
+    "badge": "Limited"
+  },
+  {
+    "id": 201,
+    "name": "Ruby Velvet Fit & Flare Dress",
+    "price": 45999,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "This exquisite ombre charmeuse fit & flare dress features intricate detailing and a flattering silhouette. Perfect for evening soirees and formal celebrations, it exudes timeless elegance."
+  },
+  {
+    "id": 206,
+    "name": "Mikado Sequined Empire Waist Dress",
+    "price": 35499,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "This show-stopping handcrafted organza maxi dress from the Opulence line features a figure-flattering design. The organza fabric lends an air of sophistication to any evening event."
+  },
+  {
+    "id": 211,
+    "name": "Antique Gold Organza Shirt Dress",
+    "price": 13999,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "This show-stopping ombre silk peplum dress from the Prestige line features a figure-flattering design. The silk fabric lends an air of sophistication to any evening event."
+  },
+  {
+    "id": 216,
+    "name": "Jewel-Tone Teal Tiered Dress",
+    "price": 49499,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "From the Regal collection, this pleated taffeta ruched dress combines contemporary design with traditional Indian artistry. Each piece is carefully finished with attention to every detail."
+  },
+  {
+    "id": 221,
+    "name": "Taffeta Beaded A-Line Dress",
+    "price": 3999,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "From the Splendor collection, this crystal-embellished taffeta wrap dress combines contemporary design with traditional Indian artistry. Each piece is carefully finished with attention to every detail.",
+    "oldPrice": 6499,
+    "badge": "Sale"
+  },
+  {
+    "id": 226,
+    "name": "Jewel-Tone Gold Kaftan Dress",
+    "price": 35499,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "From the Enchanted collection, this mukaish brocade high-low dress combines contemporary design with traditional Indian artistry. Each piece is carefully finished with attention to every detail."
+  },
+  {
+    "id": 231,
+    "name": "Gold Crepe Sheath Dress",
+    "price": 26999,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "From the Sovereign collection, this zardozi brocade evening gown combines contemporary design with traditional Indian artistry. Each piece is carefully finished with attention to every detail."
+  },
+  {
+    "id": 236,
+    "name": "Onyx Charmeuse Anarkali Dress",
+    "price": 10499,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "This show-stopping handcrafted crepe midi dress from the Radiance line features a figure-flattering design. The crepe fabric lends an air of sophistication to any evening event."
+  },
+  {
+    "id": 241,
+    "name": "Chiffon Zardozi Cocktail Dress",
+    "price": 29999,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Elevate your wardrobe with this zardozi charmeuse anarkali dress from our Divine collection. Featuring meticulous craftsmanship and premium finishing, it transitions seamlessly from cocktail hour to dinner."
+  },
+  {
+    "id": 246,
+    "name": "Antique Gold Paisley Taffeta High-Low Dress",
+    "price": 33499,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Elevate your wardrobe with this resham silk halter dress from our Regal collection. Featuring meticulous craftsmanship and premium finishing, it transitions seamlessly from cocktail hour to dinner.",
+    "badge": "New"
+  },
+  {
+    "id": 251,
+    "name": "Amethyst Jewel-Tone Brocade High-Low Dress",
+    "price": 15999,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Inspired by royal Indian heritage, this applique a-line dress in sumptuous velvet showcases artisanal craftsmanship. The velvet fabric ensures a comfortable yet sophisticated silhouette.",
+    "oldPrice": 18499,
+    "badge": "Sale"
+  },
+  {
+    "id": 256,
+    "name": "Dupioni Crystal-Embellished Asymmetric Dress",
+    "price": 36499,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "A stunning ruffled draped dress crafted from premium charmeuse, designed to make a statement at any occasion. The luxurious fabric drapes beautifully, creating an effortlessly chic look."
+  },
+  {
+    "id": 261,
+    "name": "Nude Charmeuse Cocktail Dress",
+    "price": 18999,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Elevate your wardrobe with this zardozi georgette empire waist dress from our Opulence collection. Featuring meticulous craftsmanship and premium finishing, it transitions seamlessly from cocktail hour to dinner.",
+    "oldPrice": 21999
+  },
+  {
+    "id": 266,
+    "name": "Copper Brocade Tunic Dress",
+    "price": 35499,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "A stunning mukaish high-low dress crafted from premium silk, designed to make a statement at any occasion. The luxurious fabric drapes beautifully, creating an effortlessly chic look."
+  },
+  {
+    "id": 271,
+    "name": "Taffeta Gota Patti Sheath Dress",
+    "price": 24999,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "This show-stopping metallic satin midi dress from the Serenity line features a figure-flattering design. The satin fabric lends an air of sophistication to any evening event."
+  },
+  {
+    "id": 276,
+    "name": "Organza Resham Maxi Dress",
+    "price": 8999,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Designed for the modern woman, this pleated anarkali dress features a flattering cut in luxe jacquard. The refined detailing and premium construction make it a wardrobe essential."
+  },
+  {
+    "id": 281,
+    "name": "Indigo Hand-Painted Organza Cocktail Dress",
+    "price": 47499,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "An artfully designed ombre asymmetric dress that blends Indian craftsmanship with modern aesthetics. Made from the finest lace, it offers both comfort and undeniable style."
+  },
+  {
+    "id": 286,
+    "name": "Floral Emerald Cocktail Dress",
+    "price": 19499,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "An artfully designed crystal-embellished high-low dress that blends Indian craftsmanship with modern aesthetics. Made from the finest chiffon, it offers both comfort and undeniable style."
+  },
+  {
+    "id": 291,
+    "name": "Embroidered Lace Anarkali Dress",
+    "price": 16999,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "A stunning zardozi cocktail dress crafted from premium taffeta, designed to make a statement at any occasion. The luxurious fabric drapes beautifully, creating an effortlessly chic look."
+  },
+  {
+    "id": 296,
+    "name": "Jade Organza Maxi Dress",
+    "price": 32999,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Elevate your wardrobe with this floral lace tiered dress from our Celestial collection. Featuring meticulous craftsmanship and premium finishing, it transitions seamlessly from cocktail hour to dinner."
+  },
+  {
+    "id": 301,
+    "name": "Velvet Ruffled Bodycon Dress",
+    "price": 16999,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Inspired by royal Indian heritage, this hand-painted tunic dress in sumptuous jacquard showcases artisanal craftsmanship. The jacquard fabric ensures a comfortable yet sophisticated silhouette.",
+    "oldPrice": 25999
+  },
+  {
+    "id": 306,
+    "name": "Crystal-Embellished Velvet Palazzo Dress",
+    "price": 21999,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Elevate your wardrobe with this thread-work lace a-line dress from our Elegance collection. Featuring meticulous craftsmanship and premium finishing, it transitions seamlessly from cocktail hour to dinner."
+  },
+  {
+    "id": 311,
+    "name": "Metallic Forest Green Evening Gown",
+    "price": 3999,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Inspired by royal Indian heritage, this resham empire waist dress in sumptuous silk showcases artisanal craftsmanship. The silk fabric ensures a comfortable yet sophisticated silhouette."
+  },
+  {
+    "id": 316,
+    "name": "Velvet Thread-Work Evening Gown",
+    "price": 19499,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "From the Timeless collection, this mukaish satin high-low dress combines contemporary design with traditional Indian artistry. Each piece is carefully finished with attention to every detail."
+  },
+  {
+    "id": 321,
+    "name": "Taffeta Pearl-Adorned Maxi Dress",
+    "price": 27499,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "This show-stopping paisley georgette evening gown from the Luxuria line features a figure-flattering design. The georgette fabric lends an air of sophistication to any evening event.",
+    "oldPrice": 43499,
+    "badge": "Limited"
+  },
+  {
+    "id": 326,
+    "name": "Indigo Lace Kaftan Dress",
+    "price": 41499,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "From the Celestial collection, this metallic satin sheath dress combines contemporary design with traditional Indian artistry. Each piece is carefully finished with attention to every detail."
+  },
+  {
+    "id": 331,
+    "name": "Plum Floral Crepe Midi Dress",
+    "price": 47499,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "An artfully designed hand-painted empire waist dress that blends Indian craftsmanship with modern aesthetics. Made from the finest mikado, it offers both comfort and undeniable style."
+  },
+  {
+    "id": 336,
+    "name": "Embroidered Mustard A-Line Dress",
+    "price": 24999,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Elevate your wardrobe with this gota patti brocade ruched dress from our Elegance collection. Featuring meticulous craftsmanship and premium finishing, it transitions seamlessly from cocktail hour to dinner.",
+    "badge": "New"
+  },
+  {
+    "id": 341,
+    "name": "Charmeuse Embroidered Sheath Dress",
+    "price": 39499,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "From the Serenity collection, this sequined georgette shift dress combines contemporary design with traditional Indian artistry. Each piece is carefully finished with attention to every detail."
+  },
+  {
+    "id": 346,
+    "name": "Dupioni Crystal-Embellished Midi Dress",
+    "price": 21499,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "A stunning paisley tunic dress crafted from premium brocade, designed to make a statement at any occasion. The luxurious fabric drapes beautifully, creating an effortlessly chic look.",
+    "badge": "Hot"
+  },
+  {
+    "id": 351,
+    "name": "Paisley Dupioni A-Line Dress",
+    "price": 4499,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "A stunning pleated draped dress crafted from premium taffeta, designed to make a statement at any occasion. The luxurious fabric drapes beautifully, creating an effortlessly chic look."
+  },
+  {
+    "id": 356,
+    "name": "Paisley Taffeta Sheath Dress",
+    "price": 35999,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "A stunning paisley tiered dress crafted from premium organza, designed to make a statement at any occasion. The luxurious fabric drapes beautifully, creating an effortlessly chic look.",
+    "oldPrice": 51499,
+    "badge": "Limited"
+  },
+  {
+    "id": 361,
+    "name": "Jacquard Zardozi Fit & Flare Dress",
+    "price": 5999,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "An artfully designed mukaish tunic dress that blends Indian craftsmanship with modern aesthetics. Made from the finest velvet, it offers both comfort and undeniable style."
+  },
+  {
+    "id": 366,
+    "name": "Dupioni Beaded Anarkali Dress",
+    "price": 35499,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Inspired by royal Indian heritage, this sequined fit & flare dress in sumptuous crepe showcases artisanal craftsmanship. The crepe fabric ensures a comfortable yet sophisticated silhouette."
+  },
+  {
+    "id": 371,
+    "name": "Ruby Pearl-Adorned Georgette Shift Dress",
+    "price": 46499,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "This show-stopping jewel-tone taffeta evening gown from the Opulence line features a figure-flattering design. The taffeta fabric lends an air of sophistication to any evening event."
+  },
+  {
+    "id": 376,
+    "name": "Wine Pleated Silk Off-Shoulder Dress",
+    "price": 19499,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "This show-stopping paisley velvet peplum dress from the Divine line features a figure-flattering design. The velvet fabric lends an air of sophistication to any evening event."
+  },
+  {
+    "id": 381,
+    "name": "Crystal-Embellished Silk Corset Dress",
+    "price": 8999,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "From the Timeless collection, this gota patti mikado off-shoulder dress combines contemporary design with traditional Indian artistry. Each piece is carefully finished with attention to every detail.",
+    "badge": "Limited"
+  },
+  {
+    "id": 386,
+    "name": "Rose Gold Zardozi Organza Tiered Dress",
+    "price": 23999,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "From the Elysian collection, this ruffled velvet peplum dress combines contemporary design with traditional Indian artistry. Each piece is carefully finished with attention to every detail.",
+    "badge": "Sale"
+  },
+  {
+    "id": 391,
+    "name": "Mauve Tulle Tunic Dress",
+    "price": 37499,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Elevate your wardrobe with this jewel-tone charmeuse empire waist dress from our Grandeur collection. Featuring meticulous craftsmanship and premium finishing, it transitions seamlessly from cocktail hour to dinner."
+  },
+  {
+    "id": 396,
+    "name": "Indigo Crystal-Embellished Chiffon Off-Shoulder Dress",
+    "price": 3499,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "An artfully designed crystal-embellished maxi dress that blends Indian craftsmanship with modern aesthetics. Made from the finest satin, it offers both comfort and undeniable style."
+  },
+  {
+    "id": 401,
+    "name": "Ombre Lavender Fit & Flare Dress",
+    "price": 31999,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "An artfully designed pearl-adorned sheath dress that blends Indian craftsmanship with modern aesthetics. Made from the finest silk, it offers both comfort and undeniable style."
+  },
+  {
+    "id": 406,
+    "name": "Dupioni Metallic High-Low Dress",
+    "price": 41999,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "This exquisite metallic crepe high-low dress features intricate detailing and a flattering silhouette. Perfect for evening soirees and formal celebrations, it exudes timeless elegance."
+  },
+  {
+    "id": 411,
+    "name": "Ruby Silk Ruched Dress",
+    "price": 43999,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "This exquisite pearl-adorned crepe ruched dress features intricate detailing and a flattering silhouette. Perfect for evening soirees and formal celebrations, it exudes timeless elegance."
+  },
+  {
+    "id": 416,
+    "name": "Resham Organza Shift Dress",
+    "price": 7999,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "From the Divine collection, this pleated georgette peplum dress combines contemporary design with traditional Indian artistry. Each piece is carefully finished with attention to every detail."
+  },
+  {
+    "id": 421,
+    "name": "Dupioni Sequined Midi Dress",
+    "price": 20499,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Inspired by royal Indian heritage, this applique palazzo dress in sumptuous velvet showcases artisanal craftsmanship. The velvet fabric ensures a comfortable yet sophisticated silhouette."
+  },
+  {
+    "id": 426,
+    "name": "Terracotta Thread-Work Chiffon Fit & Flare Dress",
+    "price": 18999,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "An artfully designed gota patti shirt dress that blends Indian craftsmanship with modern aesthetics. Made from the finest tulle, it offers both comfort and undeniable style."
+  },
+  {
+    "id": 431,
+    "name": "Mustard Mikado Tunic Dress",
+    "price": 24999,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "This exquisite pearl-adorned tulle maxi dress features intricate detailing and a flattering silhouette. Perfect for evening soirees and formal celebrations, it exudes timeless elegance."
+  },
+  {
+    "id": 436,
+    "name": "Lace Zardozi Halter Dress",
+    "price": 21999,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "A stunning floral asymmetric dress crafted from premium georgette, designed to make a statement at any occasion. The luxurious fabric drapes beautifully, creating an effortlessly chic look.",
+    "oldPrice": 28499
+  },
+  {
+    "id": 441,
+    "name": "Crepe Paisley Fit & Flare Dress",
+    "price": 43499,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "From the Enchanted collection, this zardozi crepe midi dress combines contemporary design with traditional Indian artistry. Each piece is carefully finished with attention to every detail."
+  },
+  {
+    "id": 446,
+    "name": "Forest Green Georgette Cocktail Dress",
+    "price": 49499,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Elevate your wardrobe with this resham brocade shirt dress from our Majesty collection. Featuring meticulous craftsmanship and premium finishing, it transitions seamlessly from cocktail hour to dinner."
+  },
+  {
+    "id": 451,
+    "name": "Pearl White Velvet Palazzo Dress",
+    "price": 44999,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "This exquisite resham silk ruched dress features intricate detailing and a flattering silhouette. Perfect for evening soirees and formal celebrations, it exudes timeless elegance."
+  },
+  {
+    "id": 456,
+    "name": "Metallic Antique Gold Draped Dress",
+    "price": 7999,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Inspired by royal Indian heritage, this ombre anarkali dress in sumptuous georgette showcases artisanal craftsmanship. The georgette fabric ensures a comfortable yet sophisticated silhouette."
+  },
+  {
+    "id": 461,
+    "name": "Handcrafted Sapphire Anarkali Dress",
+    "price": 22499,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Inspired by royal Indian heritage, this handcrafted fit & flare dress in sumptuous lace showcases artisanal craftsmanship. The lace fabric ensures a comfortable yet sophisticated silhouette."
+  },
+  {
+    "id": 466,
+    "name": "Dupioni Mukaish Empire Waist Dress",
+    "price": 3999,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "An artfully designed paisley a-line dress that blends Indian craftsmanship with modern aesthetics. Made from the finest charmeuse, it offers both comfort and undeniable style."
+  },
+  {
+    "id": 471,
+    "name": "Organza Sequined Draped Dress",
+    "price": 31499,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Elevate your wardrobe with this beaded charmeuse bodycon dress from our Sovereign collection. Featuring meticulous craftsmanship and premium finishing, it transitions seamlessly from cocktail hour to dinner."
+  },
+  {
+    "id": 476,
+    "name": "Sage Applique Velvet High-Low Dress",
+    "price": 31499,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Inspired by royal Indian heritage, this ombre cocktail dress in sumptuous tulle showcases artisanal craftsmanship. The tulle fabric ensures a comfortable yet sophisticated silhouette."
+  },
+  {
+    "id": 481,
+    "name": "Velvet Jewel-Tone Off-Shoulder Dress",
+    "price": 22499,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Designed for the modern woman, this metallic kaftan dress features a flattering cut in luxe brocade. The refined detailing and premium construction make it a wardrobe essential."
+  },
+  {
+    "id": 486,
+    "name": "Blush Pink Resham Satin Asymmetric Dress",
+    "price": 40499,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "This exquisite pearl-adorned charmeuse palazzo dress features intricate detailing and a flattering silhouette. Perfect for evening soirees and formal celebrations, it exudes timeless elegance."
+  },
+  {
+    "id": 491,
+    "name": "Midnight Blue Embroidered Tulle Asymmetric Dress",
+    "price": 44499,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Inspired by royal Indian heritage, this paisley empire waist dress in sumptuous tulle showcases artisanal craftsmanship. The tulle fabric ensures a comfortable yet sophisticated silhouette."
+  },
+  {
+    "id": 496,
+    "name": "Paisley Jacquard Evening Gown",
+    "price": 32499,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Elevate your wardrobe with this resham dupioni halter dress from our Prestige collection. Featuring meticulous craftsmanship and premium finishing, it transitions seamlessly from cocktail hour to dinner."
+  },
+  {
+    "id": 501,
+    "name": "Amethyst Dupioni Shift Dress",
+    "price": 43999,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Inspired by royal Indian heritage, this jewel-tone off-shoulder dress in sumptuous lace showcases artisanal craftsmanship. The lace fabric ensures a comfortable yet sophisticated silhouette.",
+    "badge": "New"
+  },
+  {
+    "id": 506,
+    "name": "Chiffon Jewel-Tone Fit & Flare Dress",
+    "price": 27999,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "A stunning beaded wrap dress crafted from premium velvet, designed to make a statement at any occasion. The luxurious fabric drapes beautifully, creating an effortlessly chic look.",
+    "badge": "Hot"
+  },
+  {
+    "id": 511,
+    "name": "Plum Floral Taffeta Evening Gown",
+    "price": 34499,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Inspired by royal Indian heritage, this crystal-embellished off-shoulder dress in sumptuous crepe showcases artisanal craftsmanship. The crepe fabric ensures a comfortable yet sophisticated silhouette.",
+    "oldPrice": 54999,
+    "badge": "Sale"
+  },
+  {
+    "id": 516,
+    "name": "Brocade Paisley Tunic Dress",
+    "price": 48999,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Inspired by royal Indian heritage, this metallic ruched dress in sumptuous jacquard showcases artisanal craftsmanship. The jacquard fabric ensures a comfortable yet sophisticated silhouette."
+  },
+  {
+    "id": 521,
+    "name": "Lace Ombre Kaftan Dress",
+    "price": 15999,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Elevate your wardrobe with this floral crepe ruched dress from our Prestige collection. Featuring meticulous craftsmanship and premium finishing, it transitions seamlessly from cocktail hour to dinner."
+  },
+  {
+    "id": 526,
+    "name": "Resham Rose Gold Anarkali Dress",
+    "price": 4499,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Inspired by royal Indian heritage, this mukaish shirt dress in sumptuous organza showcases artisanal craftsmanship. The organza fabric ensures a comfortable yet sophisticated silhouette."
+  },
+  {
+    "id": 531,
+    "name": "Burgundy Silk Tiered Dress",
+    "price": 4499,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Elevate your wardrobe with this pearl-adorned chiffon cocktail dress from our Radiance collection. Featuring meticulous craftsmanship and premium finishing, it transitions seamlessly from cocktail hour to dinner."
+  },
+  {
+    "id": 536,
+    "name": "Crepe Applique Corset Dress",
+    "price": 25499,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "An artfully designed pearl-adorned tiered dress that blends Indian craftsmanship with modern aesthetics. Made from the finest organza, it offers both comfort and undeniable style."
+  },
+  {
+    "id": 541,
+    "name": "Velvet Zardozi Cocktail Dress",
+    "price": 16999,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "This show-stopping floral jacquard kaftan dress from the Maharani line features a figure-flattering design. The jacquard fabric lends an air of sophistication to any evening event."
+  },
+  {
+    "id": 546,
+    "name": "Crystal-Embellished Taffeta Tunic Dress",
+    "price": 21999,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "From the Prestige collection, this ombre georgette anarkali dress combines contemporary design with traditional Indian artistry. Each piece is carefully finished with attention to every detail."
+  },
+  {
+    "id": 551,
+    "name": "Gota Patti Dusty Rose Fit & Flare Dress",
+    "price": 42999,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "This exquisite pearl-adorned taffeta draped dress features intricate detailing and a flattering silhouette. Perfect for evening soirees and formal celebrations, it exudes timeless elegance."
+  },
+  {
+    "id": 556,
+    "name": "Paisley Terracotta Tiered Dress",
+    "price": 15999,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "This show-stopping jewel-tone mikado peplum dress from the Enchanted line features a figure-flattering design. The mikado fabric lends an air of sophistication to any evening event.",
+    "oldPrice": 19999
+  },
+  {
+    "id": 561,
+    "name": "Velvet Embroidered Kaftan Dress",
+    "price": 11999,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "An artfully designed pearl-adorned draped dress that blends Indian craftsmanship with modern aesthetics. Made from the finest mikado, it offers both comfort and undeniable style."
+  },
+  {
+    "id": 566,
+    "name": "Paisley Jacquard Cocktail Dress",
+    "price": 40499,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "A stunning sequined draped dress crafted from premium brocade, designed to make a statement at any occasion. The luxurious fabric drapes beautifully, creating an effortlessly chic look."
+  },
+  {
+    "id": 571,
+    "name": "Ruby Hand-Painted Silk Wrap Dress",
+    "price": 24999,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "From the Opulence collection, this metallic crepe sheath dress combines contemporary design with traditional Indian artistry. Each piece is carefully finished with attention to every detail."
+  },
+  {
+    "id": 576,
+    "name": "Pearl-Adorned Forest Green Palazzo Dress",
+    "price": 13499,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "A stunning hand-painted halter dress crafted from premium mikado, designed to make a statement at any occasion. The luxurious fabric drapes beautifully, creating an effortlessly chic look."
+  },
+  {
+    "id": 581,
+    "name": "Amethyst Paisley Tulle Kaftan Dress",
+    "price": 44999,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "This show-stopping thread-work organza tiered dress from the Serenity line features a figure-flattering design. The organza fabric lends an air of sophistication to any evening event."
+  },
+  {
+    "id": 586,
+    "name": "Lace Ombre Bodycon Dress",
+    "price": 24999,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "From the Grandeur collection, this resham georgette anarkali dress combines contemporary design with traditional Indian artistry. Each piece is carefully finished with attention to every detail."
+  },
+  {
+    "id": 591,
+    "name": "Organza Pleated Tunic Dress",
+    "price": 47499,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Designed for the modern woman, this resham anarkali dress features a flattering cut in luxe velvet. The refined detailing and premium construction make it a wardrobe essential."
+  },
+  {
+    "id": 596,
+    "name": "Ruffled Velvet Evening Gown",
+    "price": 35499,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "This exquisite floral taffeta draped dress features intricate detailing and a flattering silhouette. Perfect for evening soirees and formal celebrations, it exudes timeless elegance."
+  },
+  {
+    "id": 601,
+    "name": "Forest Green Chiffon Shift Dress",
+    "price": 37499,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Designed for the modern woman, this metallic tunic dress features a flattering cut in luxe charmeuse. The refined detailing and premium construction make it a wardrobe essential."
+  },
+  {
+    "id": 606,
+    "name": "Applique Chiffon Shift Dress",
+    "price": 41999,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Elevate your wardrobe with this hand-painted brocade shirt dress from our Luxuria collection. Featuring meticulous craftsmanship and premium finishing, it transitions seamlessly from cocktail hour to dinner."
+  },
+  {
+    "id": 611,
+    "name": "Beaded Coral Tunic Dress",
+    "price": 30999,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "From the Sovereign collection, this pleated chiffon midi dress combines contemporary design with traditional Indian artistry. Each piece is carefully finished with attention to every detail."
+  },
+  {
+    "id": 616,
+    "name": "Handcrafted Gold Peplum Dress",
+    "price": 38499,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "This exquisite metallic satin midi dress features intricate detailing and a flattering silhouette. Perfect for evening soirees and formal celebrations, it exudes timeless elegance."
+  },
+  {
+    "id": 621,
+    "name": "Beaded Crepe High-Low Dress",
+    "price": 11999,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "This exquisite embroidered charmeuse cocktail dress features intricate detailing and a flattering silhouette. Perfect for evening soirees and formal celebrations, it exudes timeless elegance."
+  },
+  {
+    "id": 626,
+    "name": "Charmeuse Embroidered Peplum Dress",
+    "price": 44999,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Designed for the modern woman, this zardozi shirt dress features a flattering cut in luxe lace. The refined detailing and premium construction make it a wardrobe essential."
+  },
+  {
+    "id": 631,
+    "name": "Antique Gold Brocade Asymmetric Dress",
+    "price": 12499,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Designed for the modern woman, this ombre fit & flare dress features a flattering cut in luxe mikado. The refined detailing and premium construction make it a wardrobe essential."
+  },
+  {
+    "id": 636,
+    "name": "Ruffled Lavender Fit & Flare Dress",
+    "price": 4999,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Elevate your wardrobe with this thread-work silk anarkali dress from our Majesty collection. Featuring meticulous craftsmanship and premium finishing, it transitions seamlessly from cocktail hour to dinner."
+  },
+  {
+    "id": 641,
+    "name": "Chiffon Gota Patti Anarkali Dress",
+    "price": 25999,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Elevate your wardrobe with this paisley satin a-line dress from our Regal collection. Featuring meticulous craftsmanship and premium finishing, it transitions seamlessly from cocktail hour to dinner."
+  },
+  {
+    "id": 646,
+    "name": "Floral Antique Gold Peplum Dress",
+    "price": 37999,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "A stunning zardozi peplum dress crafted from premium brocade, designed to make a statement at any occasion. The luxurious fabric drapes beautifully, creating an effortlessly chic look."
+  },
+  {
+    "id": 651,
+    "name": "Burgundy Mukaish Brocade Maxi Dress",
+    "price": 22499,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Elevate your wardrobe with this embroidered brocade bodycon dress from our Ethereal collection. Featuring meticulous craftsmanship and premium finishing, it transitions seamlessly from cocktail hour to dinner."
+  },
+  {
+    "id": 656,
+    "name": "Resham Ruby Anarkali Dress",
+    "price": 30999,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "This exquisite pleated charmeuse fit & flare dress features intricate detailing and a flattering silhouette. Perfect for evening soirees and formal celebrations, it exudes timeless elegance."
+  },
+  {
+    "id": 661,
+    "name": "Champagne Gota Patti Crepe Sheath Dress",
+    "price": 2999,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Inspired by royal Indian heritage, this resham asymmetric dress in sumptuous dupioni showcases artisanal craftsmanship. The dupioni fabric ensures a comfortable yet sophisticated silhouette."
+  },
+  {
+    "id": 666,
+    "name": "Hand-Painted Organza A-Line Dress",
+    "price": 41499,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Elevate your wardrobe with this ruffled organza fit & flare dress from our Maharani collection. Featuring meticulous craftsmanship and premium finishing, it transitions seamlessly from cocktail hour to dinner."
+  },
+  {
+    "id": 671,
+    "name": "Crystal-Embellished Organza Wrap Dress",
+    "price": 14499,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "This show-stopping metallic taffeta halter dress from the Grandeur line features a figure-flattering design. The taffeta fabric lends an air of sophistication to any evening event."
+  },
+  {
+    "id": 676,
+    "name": "Ivory Ruffled Mikado Asymmetric Dress",
+    "price": 19499,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Designed for the modern woman, this pleated empire waist dress features a flattering cut in luxe organza. The refined detailing and premium construction make it a wardrobe essential."
+  },
+  {
+    "id": 681,
+    "name": "Ivory Mukaish Velvet Asymmetric Dress",
+    "price": 38499,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "An artfully designed embroidered cocktail dress that blends Indian craftsmanship with modern aesthetics. Made from the finest chiffon, it offers both comfort and undeniable style."
+  },
+  {
+    "id": 686,
+    "name": "Terracotta Gota Patti Taffeta Peplum Dress",
+    "price": 8999,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Designed for the modern woman, this crystal-embellished peplum dress features a flattering cut in luxe brocade. The refined detailing and premium construction make it a wardrobe essential.",
+    "badge": "New"
+  },
+  {
+    "id": 691,
+    "name": "Hand-Painted Taffeta Kaftan Dress",
+    "price": 27499,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "An artfully designed ombre empire waist dress that blends Indian craftsmanship with modern aesthetics. Made from the finest chiffon, it offers both comfort and undeniable style.",
+    "oldPrice": 37499,
+    "badge": "Limited"
+  },
+  {
+    "id": 696,
+    "name": "Mukaish Georgette A-Line Dress",
+    "price": 15499,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "This exquisite mukaish organza fit & flare dress features intricate detailing and a flattering silhouette. Perfect for evening soirees and formal celebrations, it exudes timeless elegance."
+  },
+  {
+    "id": 701,
+    "name": "Dupioni Zardozi Bodycon Dress",
+    "price": 29499,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "From the Serenity collection, this ombre tulle asymmetric dress combines contemporary design with traditional Indian artistry. Each piece is carefully finished with attention to every detail."
+  },
+  {
+    "id": 706,
+    "name": "Metallic Chiffon Off-Shoulder Dress",
+    "price": 25499,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "An artfully designed resham evening gown that blends Indian craftsmanship with modern aesthetics. Made from the finest georgette, it offers both comfort and undeniable style."
+  },
+  {
+    "id": 711,
+    "name": "Handcrafted Mikado Peplum Dress",
+    "price": 37499,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Elevate your wardrobe with this metallic silk tiered dress from our Majesty collection. Featuring meticulous craftsmanship and premium finishing, it transitions seamlessly from cocktail hour to dinner.",
+    "oldPrice": 59499
+  },
+  {
+    "id": 716,
+    "name": "Nude Velvet Off-Shoulder Dress",
+    "price": 17499,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "This show-stopping metallic organza off-shoulder dress from the Imperial line features a figure-flattering design. The organza fabric lends an air of sophistication to any evening event."
+  },
+  {
+    "id": 721,
+    "name": "Pearl White Sequined Taffeta Palazzo Dress",
+    "price": 5999,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "From the Elegance collection, this metallic silk off-shoulder dress combines contemporary design with traditional Indian artistry. Each piece is carefully finished with attention to every detail."
+  },
+  {
+    "id": 726,
+    "name": "Satin Sequined Evening Gown",
+    "price": 16999,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "A stunning zardozi cocktail dress crafted from premium charmeuse, designed to make a statement at any occasion. The luxurious fabric drapes beautifully, creating an effortlessly chic look."
+  },
+  {
+    "id": 731,
+    "name": "Ivory Floral Brocade Fit & Flare Dress",
+    "price": 33999,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "An artfully designed ruffled kaftan dress that blends Indian craftsmanship with modern aesthetics. Made from the finest georgette, it offers both comfort and undeniable style."
+  },
+  {
+    "id": 736,
+    "name": "Applique Mustard Ruched Dress",
+    "price": 20999,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "This show-stopping zardozi crepe kaftan dress from the Serenity line features a figure-flattering design. The crepe fabric lends an air of sophistication to any evening event."
+  },
+  {
+    "id": 741,
+    "name": "Mikado Beaded Kaftan Dress",
+    "price": 24999,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Elevate your wardrobe with this metallic charmeuse high-low dress from our Opulence collection. Featuring meticulous craftsmanship and premium finishing, it transitions seamlessly from cocktail hour to dinner."
+  },
+  {
+    "id": 746,
+    "name": "Pearl-Adorned Deep Teal Evening Gown",
+    "price": 47999,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Designed for the modern woman, this handcrafted shift dress features a flattering cut in luxe silk. The refined detailing and premium construction make it a wardrobe essential."
+  },
+  {
+    "id": 751,
+    "name": "Handcrafted Rose Gold A-Line Dress",
+    "price": 3499,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "This show-stopping crystal-embellished tulle tiered dress from the Serenity line features a figure-flattering design. The tulle fabric lends an air of sophistication to any evening event."
+  },
+  {
+    "id": 756,
+    "name": "Pearl-Adorned Antique Gold Maxi Dress",
+    "price": 40499,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Elevate your wardrobe with this applique organza bodycon dress from our Opulence collection. Featuring meticulous craftsmanship and premium finishing, it transitions seamlessly from cocktail hour to dinner.",
+    "oldPrice": 50499,
+    "badge": "Sale"
+  },
+  {
+    "id": 761,
+    "name": "Plum Organza Halter Dress",
+    "price": 32499,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Designed for the modern woman, this handcrafted maxi dress features a flattering cut in luxe tulle. The refined detailing and premium construction make it a wardrobe essential."
+  },
+  {
+    "id": 766,
+    "name": "Terracotta Taffeta Fit & Flare Dress",
+    "price": 42999,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Elevate your wardrobe with this pearl-adorned tulle cocktail dress from our Prestige collection. Featuring meticulous craftsmanship and premium finishing, it transitions seamlessly from cocktail hour to dinner.",
+    "oldPrice": 52499,
+    "badge": "Hot"
+  },
+  {
+    "id": 771,
+    "name": "Metallic Burnt Orange Sheath Dress",
+    "price": 3999,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "This show-stopping floral dupioni empire waist dress from the Grandeur line features a figure-flattering design. The dupioni fabric lends an air of sophistication to any evening event."
+  },
+  {
+    "id": 776,
+    "name": "Lace Crystal-Embellished A-Line Dress",
+    "price": 10499,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Inspired by royal Indian heritage, this ruffled empire waist dress in sumptuous jacquard showcases artisanal craftsmanship. The jacquard fabric ensures a comfortable yet sophisticated silhouette."
+  },
+  {
+    "id": 781,
+    "name": "Copper Satin Palazzo Dress",
+    "price": 20499,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "This exquisite metallic georgette corset dress features intricate detailing and a flattering silhouette. Perfect for evening soirees and formal celebrations, it exudes timeless elegance."
+  },
+  {
+    "id": 786,
+    "name": "Handcrafted Silk Evening Gown",
+    "price": 14999,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "An artfully designed crystal-embellished high-low dress that blends Indian craftsmanship with modern aesthetics. Made from the finest dupioni, it offers both comfort and undeniable style."
+  },
+  {
+    "id": 791,
+    "name": "Burgundy Mukaish Velvet Peplum Dress",
+    "price": 21999,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "From the Timeless collection, this ruffled velvet palazzo dress combines contemporary design with traditional Indian artistry. Each piece is carefully finished with attention to every detail."
+  },
+  {
+    "id": 796,
+    "name": "Gold Jacquard Halter Dress",
+    "price": 7999,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "An artfully designed resham bodycon dress that blends Indian craftsmanship with modern aesthetics. Made from the finest georgette, it offers both comfort and undeniable style."
+  },
+  {
+    "id": 801,
+    "name": "Satin Resham Sheath Dress",
+    "price": 30499,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Elevate your wardrobe with this pearl-adorned organza halter dress from our Imperial collection. Featuring meticulous craftsmanship and premium finishing, it transitions seamlessly from cocktail hour to dinner."
+  },
+  {
+    "id": 806,
+    "name": "Wine Pearl-Adorned Taffeta Tiered Dress",
+    "price": 47499,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "A stunning pearl-adorned off-shoulder dress crafted from premium chiffon, designed to make a statement at any occasion. The luxurious fabric drapes beautifully, creating an effortlessly chic look."
+  },
+  {
+    "id": 811,
+    "name": "Rose Gold Metallic Chiffon Shirt Dress",
+    "price": 13499,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Designed for the modern woman, this metallic bodycon dress features a flattering cut in luxe mikado. The refined detailing and premium construction make it a wardrobe essential.",
+    "oldPrice": 19499,
+    "badge": "Sale"
+  },
+  {
+    "id": 816,
+    "name": "Hand-Painted Blush Pink A-Line Dress",
+    "price": 20499,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "An artfully designed thread-work a-line dress that blends Indian craftsmanship with modern aesthetics. Made from the finest silk, it offers both comfort and undeniable style.",
+    "oldPrice": 30499,
+    "badge": "Sale"
+  },
+  {
+    "id": 821,
+    "name": "Chiffon Ruffled Halter Dress",
+    "price": 26499,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "An artfully designed jewel-tone sheath dress that blends Indian craftsmanship with modern aesthetics. Made from the finest satin, it offers both comfort and undeniable style."
+  },
+  {
+    "id": 826,
+    "name": "Lavender Crystal-Embellished Crepe Shirt Dress",
+    "price": 30499,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "An artfully designed gota patti wrap dress that blends Indian craftsmanship with modern aesthetics. Made from the finest crepe, it offers both comfort and undeniable style.",
+    "oldPrice": 41999
+  },
+  {
+    "id": 831,
+    "name": "Beaded Amethyst Peplum Dress",
+    "price": 28499,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "An artfully designed handcrafted corset dress that blends Indian craftsmanship with modern aesthetics. Made from the finest organza, it offers both comfort and undeniable style."
+  },
+  {
+    "id": 836,
+    "name": "Tulle Jewel-Tone Bodycon Dress",
+    "price": 30999,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Inspired by royal Indian heritage, this metallic cocktail dress in sumptuous crepe showcases artisanal craftsmanship. The crepe fabric ensures a comfortable yet sophisticated silhouette."
+  },
+  {
+    "id": 841,
+    "name": "Coral Mikado Asymmetric Dress",
+    "price": 21999,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Elevate your wardrobe with this ruffled tulle ruched dress from our Regal collection. Featuring meticulous craftsmanship and premium finishing, it transitions seamlessly from cocktail hour to dinner."
+  },
+  {
+    "id": 846,
+    "name": "Beaded Deep Teal Sheath Dress",
+    "price": 19499,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Inspired by royal Indian heritage, this resham halter dress in sumptuous georgette showcases artisanal craftsmanship. The georgette fabric ensures a comfortable yet sophisticated silhouette."
+  },
+  {
+    "id": 851,
+    "name": "Lace Ombre Halter Dress",
+    "price": 28999,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "This show-stopping paisley chiffon fit & flare dress from the Radiance line features a figure-flattering design. The chiffon fabric lends an air of sophistication to any evening event.",
+    "oldPrice": 32499,
+    "badge": "Limited"
+  },
+  {
+    "id": 856,
+    "name": "Plum Floral Crepe Cocktail Dress",
+    "price": 5499,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "This exquisite jewel-tone brocade shift dress features intricate detailing and a flattering silhouette. Perfect for evening soirees and formal celebrations, it exudes timeless elegance."
+  },
+  {
+    "id": 861,
+    "name": "Hand-Painted Velvet Maxi Dress",
+    "price": 14999,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "From the Elegance collection, this pearl-adorned lace maxi dress combines contemporary design with traditional Indian artistry. Each piece is carefully finished with attention to every detail."
+  },
+  {
+    "id": 866,
+    "name": "Hand-Painted Emerald Anarkali Dress",
+    "price": 6999,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Inspired by royal Indian heritage, this ombre palazzo dress in sumptuous tulle showcases artisanal craftsmanship. The tulle fabric ensures a comfortable yet sophisticated silhouette."
+  },
+  {
+    "id": 871,
+    "name": "Copper Resham Satin Palazzo Dress",
+    "price": 10499,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "This show-stopping jewel-tone silk halter dress from the Majesty line features a figure-flattering design. The silk fabric lends an air of sophistication to any evening event.",
+    "badge": "New"
+  },
+  {
+    "id": 876,
+    "name": "Mukaish Midnight Blue Fit & Flare Dress",
+    "price": 6499,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "This show-stopping metallic taffeta empire waist dress from the Ethereal line features a figure-flattering design. The taffeta fabric lends an air of sophistication to any evening event."
+  },
+  {
+    "id": 881,
+    "name": "Sage Lace Asymmetric Dress",
+    "price": 41999,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "This show-stopping handcrafted taffeta tiered dress from the Regal line features a figure-flattering design. The taffeta fabric lends an air of sophistication to any evening event.",
+    "oldPrice": 66999,
+    "badge": "New"
+  },
+  {
+    "id": 886,
+    "name": "Onyx Floral Crepe Halter Dress",
+    "price": 40999,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "From the Serenity collection, this mukaish mikado corset dress combines contemporary design with traditional Indian artistry. Each piece is carefully finished with attention to every detail."
+  },
+  {
+    "id": 891,
+    "name": "Mustard Brocade Evening Gown",
+    "price": 39999,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "This exquisite paisley jacquard sheath dress features intricate detailing and a flattering silhouette. Perfect for evening soirees and formal celebrations, it exudes timeless elegance."
+  },
+  {
+    "id": 896,
+    "name": "Sapphire Crystal-Embellished Jacquard Midi Dress",
+    "price": 44999,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Elevate your wardrobe with this ruffled charmeuse wrap dress from our Elegance collection. Featuring meticulous craftsmanship and premium finishing, it transitions seamlessly from cocktail hour to dinner."
+  },
+  {
+    "id": 901,
+    "name": "Tulle Crystal-Embellished Tiered Dress",
+    "price": 33499,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Designed for the modern woman, this pearl-adorned high-low dress features a flattering cut in luxe tulle. The refined detailing and premium construction make it a wardrobe essential."
+  },
+  {
+    "id": 906,
+    "name": "Chiffon Pearl-Adorned Kaftan Dress",
+    "price": 28999,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "From the Maharani collection, this ruffled taffeta ruched dress combines contemporary design with traditional Indian artistry. Each piece is carefully finished with attention to every detail."
+  },
+  {
+    "id": 911,
+    "name": "Charcoal Jewel-Tone Brocade Wrap Dress",
+    "price": 34499,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "This exquisite handcrafted chiffon sheath dress features intricate detailing and a flattering silhouette. Perfect for evening soirees and formal celebrations, it exudes timeless elegance."
+  },
+  {
+    "id": 916,
+    "name": "Embroidered Brocade High-Low Dress",
+    "price": 47499,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "This exquisite beaded mikado a-line dress features intricate detailing and a flattering silhouette. Perfect for evening soirees and formal celebrations, it exudes timeless elegance."
+  },
+  {
+    "id": 921,
+    "name": "Velvet Hand-Painted Maxi Dress",
+    "price": 48499,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "An artfully designed ombre palazzo dress that blends Indian craftsmanship with modern aesthetics. Made from the finest dupioni, it offers both comfort and undeniable style.",
+    "oldPrice": 59999,
+    "badge": "New"
+  },
+  {
+    "id": 926,
+    "name": "Midnight Blue Satin Empire Waist Dress",
+    "price": 15499,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Inspired by royal Indian heritage, this handcrafted tiered dress in sumptuous satin showcases artisanal craftsmanship. The satin fabric ensures a comfortable yet sophisticated silhouette."
+  },
+  {
+    "id": 931,
+    "name": "Metallic Mauve Tunic Dress",
+    "price": 20499,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Elevate your wardrobe with this sequined velvet shift dress from our Opulence collection. Featuring meticulous craftsmanship and premium finishing, it transitions seamlessly from cocktail hour to dinner."
+  },
+  {
+    "id": 936,
+    "name": "Nude Pleated Velvet High-Low Dress",
+    "price": 14499,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "A stunning metallic wrap dress crafted from premium chiffon, designed to make a statement at any occasion. The luxurious fabric drapes beautifully, creating an effortlessly chic look.",
+    "oldPrice": 17999,
+    "badge": "Sale"
+  },
+  {
+    "id": 941,
+    "name": "Beaded Mikado High-Low Dress",
+    "price": 39999,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "This exquisite pearl-adorned crepe bodycon dress features intricate detailing and a flattering silhouette. Perfect for evening soirees and formal celebrations, it exudes timeless elegance."
+  },
+  {
+    "id": 946,
+    "name": "Mauve Applique Organza Sheath Dress",
+    "price": 40499,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "An artfully designed handcrafted ruched dress that blends Indian craftsmanship with modern aesthetics. Made from the finest tulle, it offers both comfort and undeniable style.",
+    "badge": "Sale"
+  },
+  {
+    "id": 951,
+    "name": "Sequined Crepe Corset Dress",
+    "price": 12499,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "This show-stopping applique satin shirt dress from the Prestige line features a figure-flattering design. The satin fabric lends an air of sophistication to any evening event."
+  },
+  {
+    "id": 956,
+    "name": "Jade Satin High-Low Dress",
+    "price": 49499,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "An artfully designed ruffled empire waist dress that blends Indian craftsmanship with modern aesthetics. Made from the finest organza, it offers both comfort and undeniable style."
+  },
+  {
+    "id": 961,
+    "name": "Slate Grey Ruffled Velvet Peplum Dress",
+    "price": 38499,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Designed for the modern woman, this zardozi palazzo dress features a flattering cut in luxe charmeuse. The refined detailing and premium construction make it a wardrobe essential."
+  },
+  {
+    "id": 966,
+    "name": "Dusty Rose Lace Sheath Dress",
+    "price": 41499,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "From the Enchanted collection, this ombre crepe draped dress combines contemporary design with traditional Indian artistry. Each piece is carefully finished with attention to every detail.",
+    "badge": "Hot"
+  },
+  {
+    "id": 971,
+    "name": "Ruffled Satin Midi Dress",
+    "price": 13499,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "A stunning sequined a-line dress crafted from premium mikado, designed to make a statement at any occasion. The luxurious fabric drapes beautifully, creating an effortlessly chic look."
+  },
+  {
+    "id": 976,
+    "name": "Crystal-Embellished Mustard Fit & Flare Dress",
+    "price": 5999,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "This exquisite floral crepe fit & flare dress features intricate detailing and a flattering silhouette. Perfect for evening soirees and formal celebrations, it exudes timeless elegance.",
+    "badge": "Hot"
+  },
+  {
+    "id": 981,
+    "name": "Charmeuse Metallic Tiered Dress",
+    "price": 24999,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "A stunning paisley off-shoulder dress crafted from premium organza, designed to make a statement at any occasion. The luxurious fabric drapes beautifully, creating an effortlessly chic look."
+  },
+  {
+    "id": 986,
+    "name": "Jacquard Thread-Work Shift Dress",
+    "price": 15999,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Designed for the modern woman, this metallic high-low dress features a flattering cut in luxe chiffon. The refined detailing and premium construction make it a wardrobe essential."
+  },
+  {
+    "id": 991,
+    "name": "Lace Handcrafted Shift Dress",
+    "price": 37999,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Designed for the modern woman, this thread-work anarkali dress features a flattering cut in luxe brocade. The refined detailing and premium construction make it a wardrobe essential."
+  },
+  {
+    "id": 996,
+    "name": "Silver Jacquard Sheath Dress",
+    "price": 5999,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "This exquisite mukaish charmeuse cocktail dress features intricate detailing and a flattering silhouette. Perfect for evening soirees and formal celebrations, it exudes timeless elegance.",
+    "badge": "Hot"
+  },
+  {
+    "id": 1001,
+    "name": "Brocade Ruffled Bodycon Dress",
+    "price": 24999,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Inspired by royal Indian heritage, this thread-work fit & flare dress in sumptuous brocade showcases artisanal craftsmanship. The brocade fabric ensures a comfortable yet sophisticated silhouette."
+  },
+  {
+    "id": 1006,
+    "name": "Embroidered Satin Halter Dress",
+    "price": 24999,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Designed for the modern woman, this paisley tunic dress features a flattering cut in luxe charmeuse. The refined detailing and premium construction make it a wardrobe essential."
+  },
+  {
+    "id": 1011,
+    "name": "Wine Jacquard Shift Dress",
+    "price": 41499,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Elevate your wardrobe with this applique velvet shirt dress from our Elegance collection. Featuring meticulous craftsmanship and premium finishing, it transitions seamlessly from cocktail hour to dinner."
+  },
+  {
+    "id": 1016,
+    "name": "Floral Jade Corset Dress",
+    "price": 4999,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Designed for the modern woman, this gota patti draped dress features a flattering cut in luxe satin. The refined detailing and premium construction make it a wardrobe essential."
+  },
+  {
+    "id": 1021,
+    "name": "Dupioni Applique Fit & Flare Dress",
+    "price": 15999,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Designed for the modern woman, this mukaish kaftan dress features a flattering cut in luxe organza. The refined detailing and premium construction make it a wardrobe essential."
+  },
+  {
+    "id": 1026,
+    "name": "Jewel-Tone Ivory Asymmetric Dress",
+    "price": 2999,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Elevate your wardrobe with this crystal-embellished taffeta bodycon dress from our Enchanted collection. Featuring meticulous craftsmanship and premium finishing, it transitions seamlessly from cocktail hour to dinner.",
+    "badge": "New"
+  },
+  {
+    "id": 1031,
+    "name": "Cream Metallic Jacquard Kaftan Dress",
+    "price": 44999,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "From the Elegance collection, this ombre georgette halter dress combines contemporary design with traditional Indian artistry. Each piece is carefully finished with attention to every detail."
+  },
+  {
+    "id": 1036,
+    "name": "Lace Pleated Off-Shoulder Dress",
+    "price": 21999,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Designed for the modern woman, this resham asymmetric dress features a flattering cut in luxe velvet. The refined detailing and premium construction make it a wardrobe essential."
+  },
+  {
+    "id": 1041,
+    "name": "Deep Teal Velvet High-Low Dress",
+    "price": 25499,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Elevate your wardrobe with this thread-work organza midi dress from our Imperial collection. Featuring meticulous craftsmanship and premium finishing, it transitions seamlessly from cocktail hour to dinner."
+  },
+  {
+    "id": 1046,
+    "name": "Wine Velvet Fit & Flare Dress",
+    "price": 29499,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "This show-stopping metallic brocade draped dress from the Luxuria line features a figure-flattering design. The brocade fabric lends an air of sophistication to any evening event."
+  },
+  {
+    "id": 1051,
+    "name": "Pleated Jacquard High-Low Dress",
+    "price": 15999,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "From the Maharani collection, this embroidered dupioni bodycon dress combines contemporary design with traditional Indian artistry. Each piece is carefully finished with attention to every detail."
+  },
+  {
+    "id": 1056,
+    "name": "Slate Grey Pearl-Adorned Mikado Shift Dress",
+    "price": 30999,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Elevate your wardrobe with this mukaish satin empire waist dress from our Divine collection. Featuring meticulous craftsmanship and premium finishing, it transitions seamlessly from cocktail hour to dinner."
+  },
+  {
+    "id": 1061,
+    "name": "Silk Hand-Painted High-Low Dress",
+    "price": 37499,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Designed for the modern woman, this paisley ruched dress features a flattering cut in luxe jacquard. The refined detailing and premium construction make it a wardrobe essential."
+  },
+  {
+    "id": 1066,
+    "name": "Jade Dupioni Shirt Dress",
+    "price": 4499,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "This show-stopping jewel-tone tulle empire waist dress from the Sovereign line features a figure-flattering design. The tulle fabric lends an air of sophistication to any evening event."
+  },
+  {
+    "id": 1071,
+    "name": "Wine Silk Wrap Dress",
+    "price": 35499,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Designed for the modern woman, this beaded off-shoulder dress features a flattering cut in luxe tulle. The refined detailing and premium construction make it a wardrobe essential."
+  },
+  {
+    "id": 1076,
+    "name": "Paisley Dusty Rose Palazzo Dress",
+    "price": 17999,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "This show-stopping handcrafted crepe midi dress from the Elegance line features a figure-flattering design. The crepe fabric lends an air of sophistication to any evening event."
+  },
+  {
+    "id": 1081,
+    "name": "Chiffon Resham Shift Dress",
+    "price": 26499,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Inspired by royal Indian heritage, this applique corset dress in sumptuous dupioni showcases artisanal craftsmanship. The dupioni fabric ensures a comfortable yet sophisticated silhouette."
+  },
+  {
+    "id": 1086,
+    "name": "Beaded Silk Ruched Dress",
+    "price": 32999,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "A stunning metallic empire waist dress crafted from premium jacquard, designed to make a statement at any occasion. The luxurious fabric drapes beautifully, creating an effortlessly chic look.",
+    "oldPrice": 45999
+  },
+  {
+    "id": 1091,
+    "name": "Jacquard Jewel-Tone Kaftan Dress",
+    "price": 17499,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Elevate your wardrobe with this sequined organza corset dress from our Enchanted collection. Featuring meticulous craftsmanship and premium finishing, it transitions seamlessly from cocktail hour to dinner."
+  },
+  {
+    "id": 1096,
+    "name": "Sage Velvet Midi Dress",
+    "price": 36499,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "This show-stopping applique organza wrap dress from the Opulence line features a figure-flattering design. The organza fabric lends an air of sophistication to any evening event.",
+    "oldPrice": 47499,
+    "badge": "Sale"
+  },
+  {
+    "id": 1101,
+    "name": "Sequined Charcoal Kaftan Dress",
+    "price": 36499,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Inspired by royal Indian heritage, this jewel-tone anarkali dress in sumptuous dupioni showcases artisanal craftsmanship. The dupioni fabric ensures a comfortable yet sophisticated silhouette."
+  },
+  {
+    "id": 1106,
+    "name": "Midnight Blue Mikado Peplum Dress",
+    "price": 2999,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "From the Grandeur collection, this ombre dupioni maxi dress combines contemporary design with traditional Indian artistry. Each piece is carefully finished with attention to every detail.",
+    "oldPrice": 3499
+  },
+  {
+    "id": 1111,
+    "name": "Emerald Hand-Painted Velvet Palazzo Dress",
+    "price": 35999,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "From the Sovereign collection, this ombre mikado shift dress combines contemporary design with traditional Indian artistry. Each piece is carefully finished with attention to every detail."
+  },
+  {
+    "id": 1116,
+    "name": "Charcoal Chiffon Tunic Dress",
+    "price": 35499,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Inspired by royal Indian heritage, this hand-painted ruched dress in sumptuous chiffon showcases artisanal craftsmanship. The chiffon fabric ensures a comfortable yet sophisticated silhouette."
+  },
+  {
+    "id": 1121,
+    "name": "Applique Gold Peplum Dress",
+    "price": 32499,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Designed for the modern woman, this handcrafted halter dress features a flattering cut in luxe jacquard. The refined detailing and premium construction make it a wardrobe essential."
+  },
+  {
+    "id": 1126,
+    "name": "Chiffon Thread-Work Off-Shoulder Dress",
+    "price": 37999,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "This exquisite sequined chiffon empire waist dress features intricate detailing and a flattering silhouette. Perfect for evening soirees and formal celebrations, it exudes timeless elegance."
+  },
+  {
+    "id": 1131,
+    "name": "Copper Silk Empire Waist Dress",
+    "price": 34499,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "This exquisite crystal-embellished crepe high-low dress features intricate detailing and a flattering silhouette. Perfect for evening soirees and formal celebrations, it exudes timeless elegance."
+  },
+  {
+    "id": 1136,
+    "name": "Terracotta Lace Kaftan Dress",
+    "price": 39999,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Inspired by royal Indian heritage, this embroidered cocktail dress in sumptuous chiffon showcases artisanal craftsmanship. The chiffon fabric ensures a comfortable yet sophisticated silhouette.",
+    "oldPrice": 57999,
+    "badge": "Sale"
+  },
+  {
+    "id": 1141,
+    "name": "Embroidered Onyx Tiered Dress",
+    "price": 38999,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "This show-stopping ombre dupioni palazzo dress from the Opulence line features a figure-flattering design. The dupioni fabric lends an air of sophistication to any evening event."
+  },
+  {
+    "id": 1146,
+    "name": "Crystal-Embellished Blush Pink Palazzo Dress",
+    "price": 25499,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "This exquisite metallic georgette tiered dress features intricate detailing and a flattering silhouette. Perfect for evening soirees and formal celebrations, it exudes timeless elegance."
+  },
+  {
+    "id": 1151,
+    "name": "Floral Onyx Cocktail Dress",
+    "price": 31999,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "An artfully designed beaded evening gown that blends Indian craftsmanship with modern aesthetics. Made from the finest satin, it offers both comfort and undeniable style."
+  },
+  {
+    "id": 1156,
+    "name": "Copper Sequined Charmeuse Asymmetric Dress",
+    "price": 12999,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "From the Elysian collection, this beaded satin bodycon dress combines contemporary design with traditional Indian artistry. Each piece is carefully finished with attention to every detail."
+  },
+  {
+    "id": 1161,
+    "name": "Mukaish Blush Pink Evening Gown",
+    "price": 29499,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "From the Imperial collection, this ombre lace ruched dress combines contemporary design with traditional Indian artistry. Each piece is carefully finished with attention to every detail."
+  },
+  {
+    "id": 1166,
+    "name": "Mukaish Crepe Bodycon Dress",
+    "price": 28499,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "An artfully designed thread-work maxi dress that blends Indian craftsmanship with modern aesthetics. Made from the finest jacquard, it offers both comfort and undeniable style."
+  },
+  {
+    "id": 1171,
+    "name": "Sequined Mikado Evening Gown",
+    "price": 7499,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "A stunning pleated bodycon dress crafted from premium dupioni, designed to make a statement at any occasion. The luxurious fabric drapes beautifully, creating an effortlessly chic look."
+  },
+  {
+    "id": 1176,
+    "name": "Silver Ruffled Dupioni Corset Dress",
+    "price": 6999,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "From the Elysian collection, this jewel-tone charmeuse tunic dress combines contemporary design with traditional Indian artistry. Each piece is carefully finished with attention to every detail.",
+    "badge": "Sale"
+  },
+  {
+    "id": 1181,
+    "name": "Sapphire Taffeta Shift Dress",
+    "price": 13999,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "From the Enchanted collection, this metallic mikado evening gown combines contemporary design with traditional Indian artistry. Each piece is carefully finished with attention to every detail.",
+    "oldPrice": 15999,
+    "badge": "Sale"
+  },
+  {
+    "id": 1186,
+    "name": "Teal Satin Bodycon Dress",
+    "price": 32999,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "This exquisite beaded brocade halter dress features intricate detailing and a flattering silhouette. Perfect for evening soirees and formal celebrations, it exudes timeless elegance."
+  },
+  {
+    "id": 1191,
+    "name": "Charmeuse Paisley A-Line Dress",
+    "price": 37499,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "A stunning ruffled off-shoulder dress crafted from premium organza, designed to make a statement at any occasion. The luxurious fabric drapes beautifully, creating an effortlessly chic look."
+  },
+  {
+    "id": 1196,
+    "name": "Rose Gold Charmeuse Halter Dress",
+    "price": 47999,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "From the Maharani collection, this thread-work brocade kaftan dress combines contemporary design with traditional Indian artistry. Each piece is carefully finished with attention to every detail."
+  },
+  {
+    "id": 1201,
+    "name": "Jade Ruffled Mikado Cocktail Dress",
+    "price": 23499,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "An artfully designed pleated fit & flare dress that blends Indian craftsmanship with modern aesthetics. Made from the finest mikado, it offers both comfort and undeniable style."
+  },
+  {
+    "id": 1206,
+    "name": "Metallic Midnight Blue Corset Dress",
+    "price": 36499,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Inspired by royal Indian heritage, this applique corset dress in sumptuous taffeta showcases artisanal craftsmanship. The taffeta fabric ensures a comfortable yet sophisticated silhouette.",
+    "oldPrice": 51499,
+    "badge": "New"
+  },
+  {
+    "id": 1211,
+    "name": "Paisley Velvet Anarkali Dress",
+    "price": 17999,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "From the Regal collection, this jewel-tone georgette draped dress combines contemporary design with traditional Indian artistry. Each piece is carefully finished with attention to every detail."
+  },
+  {
+    "id": 1216,
+    "name": "Plum Mikado High-Low Dress",
+    "price": 25999,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "An artfully designed mukaish off-shoulder dress that blends Indian craftsmanship with modern aesthetics. Made from the finest dupioni, it offers both comfort and undeniable style."
+  },
+  {
+    "id": 1221,
+    "name": "Sage Chiffon Anarkali Dress",
+    "price": 31499,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "From the Elysian collection, this applique silk shift dress combines contemporary design with traditional Indian artistry. Each piece is carefully finished with attention to every detail."
+  },
+  {
+    "id": 1226,
+    "name": "Rose Gold Mukaish Crepe Corset Dress",
+    "price": 27499,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "An artfully designed ruffled draped dress that blends Indian craftsmanship with modern aesthetics. Made from the finest brocade, it offers both comfort and undeniable style."
+  },
+  {
+    "id": 1231,
+    "name": "Lavender Silk Empire Waist Dress",
+    "price": 41499,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "A stunning zardozi kaftan dress crafted from premium organza, designed to make a statement at any occasion. The luxurious fabric drapes beautifully, creating an effortlessly chic look.",
+    "oldPrice": 64999,
+    "badge": "Sale"
+  },
+  {
+    "id": 1236,
+    "name": "Ruby Dupioni Anarkali Dress",
+    "price": 5499,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "An artfully designed ruffled draped dress that blends Indian craftsmanship with modern aesthetics. Made from the finest mikado, it offers both comfort and undeniable style.",
+    "oldPrice": 7999,
+    "badge": "New"
+  },
+  {
+    "id": 1241,
+    "name": "Champagne Mikado Fit & Flare Dress",
+    "price": 45499,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "This show-stopping sequined mikado wrap dress from the Regal line features a figure-flattering design. The mikado fabric lends an air of sophistication to any evening event.",
+    "oldPrice": 50999,
+    "badge": "New"
+  },
+  {
+    "id": 1246,
+    "name": "Resham Mauve Wrap Dress",
+    "price": 34999,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Designed for the modern woman, this mukaish high-low dress features a flattering cut in luxe silk. The refined detailing and premium construction make it a wardrobe essential."
+  },
+  {
+    "id": 1251,
+    "name": "Metallic Jacquard Anarkali Dress",
+    "price": 37499,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "A stunning beaded shirt dress crafted from premium charmeuse, designed to make a statement at any occasion. The luxurious fabric drapes beautifully, creating an effortlessly chic look."
+  },
+  {
+    "id": 1256,
+    "name": "Taffeta Beaded Maxi Dress",
+    "price": 28499,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Elevate your wardrobe with this ruffled dupioni palazzo dress from our Ethereal collection. Featuring meticulous craftsmanship and premium finishing, it transitions seamlessly from cocktail hour to dinner."
+  },
+  {
+    "id": 1261,
+    "name": "Jewel-Tone Brocade Halter Dress",
+    "price": 48499,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Designed for the modern woman, this jewel-tone high-low dress features a flattering cut in luxe dupioni. The refined detailing and premium construction make it a wardrobe essential."
+  },
+  {
+    "id": 1266,
+    "name": "Taffeta Pleated Bodycon Dress",
+    "price": 36499,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "This exquisite sequined crepe tiered dress features intricate detailing and a flattering silhouette. Perfect for evening soirees and formal celebrations, it exudes timeless elegance.",
+    "oldPrice": 44499,
+    "badge": "New"
+  },
+  {
+    "id": 1271,
+    "name": "Beaded Ivory Fit & Flare Dress",
+    "price": 3999,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "An artfully designed jewel-tone anarkali dress that blends Indian craftsmanship with modern aesthetics. Made from the finest georgette, it offers both comfort and undeniable style."
+  },
+  {
+    "id": 1276,
+    "name": "Beaded Dupioni Bodycon Dress",
+    "price": 6499,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Designed for the modern woman, this ruffled peplum dress features a flattering cut in luxe crepe. The refined detailing and premium construction make it a wardrobe essential."
+  },
+  {
+    "id": 1281,
+    "name": "Applique Gold High-Low Dress",
+    "price": 46499,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Inspired by royal Indian heritage, this metallic kaftan dress in sumptuous brocade showcases artisanal craftsmanship. The brocade fabric ensures a comfortable yet sophisticated silhouette."
+  },
+  {
+    "id": 1286,
+    "name": "Organza Handcrafted Kaftan Dress",
+    "price": 19499,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "An artfully designed jewel-tone draped dress that blends Indian craftsmanship with modern aesthetics. Made from the finest charmeuse, it offers both comfort and undeniable style.",
+    "oldPrice": 24499,
+    "badge": "Sale"
+  },
+  {
+    "id": 1291,
+    "name": "Onyx Ruffled Taffeta Empire Waist Dress",
+    "price": 22499,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "An artfully designed floral palazzo dress that blends Indian craftsmanship with modern aesthetics. Made from the finest georgette, it offers both comfort and undeniable style."
+  },
+  {
+    "id": 1296,
+    "name": "Hand-Painted Taffeta Fit & Flare Dress",
+    "price": 24999,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "This exquisite applique organza cocktail dress features intricate detailing and a flattering silhouette. Perfect for evening soirees and formal celebrations, it exudes timeless elegance.",
+    "oldPrice": 30999,
+    "badge": "Limited"
+  },
+  {
+    "id": 1301,
+    "name": "Terracotta Jacquard Shirt Dress",
+    "price": 10999,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "A stunning embroidered bodycon dress crafted from premium brocade, designed to make a statement at any occasion. The luxurious fabric drapes beautifully, creating an effortlessly chic look.",
+    "badge": "Hot"
+  },
+  {
+    "id": 1306,
+    "name": "Sapphire Pleated Silk Tiered Dress",
+    "price": 21999,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Elevate your wardrobe with this applique velvet high-low dress from our Ethereal collection. Featuring meticulous craftsmanship and premium finishing, it transitions seamlessly from cocktail hour to dinner."
+  },
+  {
+    "id": 1311,
+    "name": "Chiffon Gota Patti Tunic Dress",
+    "price": 34499,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "An artfully designed hand-painted ruched dress that blends Indian craftsmanship with modern aesthetics. Made from the finest brocade, it offers both comfort and undeniable style."
+  },
+  {
+    "id": 1316,
+    "name": "Georgette Sequined Anarkali Dress",
+    "price": 42499,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Designed for the modern woman, this jewel-tone asymmetric dress features a flattering cut in luxe satin. The refined detailing and premium construction make it a wardrobe essential."
+  },
+  {
+    "id": 1321,
+    "name": "Hand-Painted Jacquard A-Line Dress",
+    "price": 9999,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "An artfully designed beaded corset dress that blends Indian craftsmanship with modern aesthetics. Made from the finest jacquard, it offers both comfort and undeniable style."
+  },
+  {
+    "id": 1326,
+    "name": "Burnt Orange Ruffled Velvet Sheath Dress",
+    "price": 18499,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Elevate your wardrobe with this pleated brocade cocktail dress from our Divine collection. Featuring meticulous craftsmanship and premium finishing, it transitions seamlessly from cocktail hour to dinner."
+  },
+  {
+    "id": 1331,
+    "name": "Pearl-Adorned Lavender Fit & Flare Dress",
+    "price": 47499,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Elevate your wardrobe with this embroidered georgette maxi dress from our Serenity collection. Featuring meticulous craftsmanship and premium finishing, it transitions seamlessly from cocktail hour to dinner."
+  },
+  {
+    "id": 1336,
+    "name": "Silk Sequined Ruched Dress",
+    "price": 43999,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "From the Timeless collection, this ruffled silk anarkali dress combines contemporary design with traditional Indian artistry. Each piece is carefully finished with attention to every detail.",
+    "badge": "Limited"
+  },
+  {
+    "id": 1341,
+    "name": "Jade Thread-Work Crepe Kaftan Dress",
+    "price": 26999,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Designed for the modern woman, this resham shirt dress features a flattering cut in luxe silk. The refined detailing and premium construction make it a wardrobe essential."
+  },
+  {
+    "id": 1346,
+    "name": "Burnt Orange Tulle Draped Dress",
+    "price": 49999,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "This exquisite mukaish taffeta shirt dress features intricate detailing and a flattering silhouette. Perfect for evening soirees and formal celebrations, it exudes timeless elegance.",
+    "oldPrice": 63499,
+    "badge": "Sale"
+  },
+  {
+    "id": 1351,
+    "name": "Silver Tulle High-Low Dress",
+    "price": 17999,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "From the Celestial collection, this hand-painted silk empire waist dress combines contemporary design with traditional Indian artistry. Each piece is carefully finished with attention to every detail.",
+    "badge": "Hot"
+  },
+  {
+    "id": 1356,
+    "name": "Ivory Floral Chiffon Anarkali Dress",
+    "price": 33499,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Inspired by royal Indian heritage, this sequined cocktail dress in sumptuous taffeta showcases artisanal craftsmanship. The taffeta fabric ensures a comfortable yet sophisticated silhouette."
+  },
+  {
+    "id": 1361,
+    "name": "Beaded Organza Halter Dress",
+    "price": 42499,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "From the Maharani collection, this floral velvet draped dress combines contemporary design with traditional Indian artistry. Each piece is carefully finished with attention to every detail.",
+    "oldPrice": 47499,
+    "badge": "Sale"
+  },
+  {
+    "id": 1366,
+    "name": "Applique Georgette Sheath Dress",
+    "price": 46499,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "A stunning beaded fit & flare dress crafted from premium mikado, designed to make a statement at any occasion. The luxurious fabric drapes beautifully, creating an effortlessly chic look."
+  },
+  {
+    "id": 1371,
+    "name": "Crepe Paisley Kaftan Dress",
+    "price": 24499,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "This exquisite hand-painted taffeta palazzo dress features intricate detailing and a flattering silhouette. Perfect for evening soirees and formal celebrations, it exudes timeless elegance.",
+    "oldPrice": 30999
+  },
+  {
+    "id": 1376,
+    "name": "Beaded Champagne High-Low Dress",
+    "price": 25999,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Designed for the modern woman, this hand-painted kaftan dress features a flattering cut in luxe lace. The refined detailing and premium construction make it a wardrobe essential."
+  },
+  {
+    "id": 1381,
+    "name": "Applique Chiffon Corset Dress",
+    "price": 42999,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Inspired by royal Indian heritage, this sequined peplum dress in sumptuous taffeta showcases artisanal craftsmanship. The taffeta fabric ensures a comfortable yet sophisticated silhouette."
+  },
+  {
+    "id": 1386,
+    "name": "Gota Patti Taffeta Ruched Dress",
+    "price": 34999,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "An artfully designed ruffled draped dress that blends Indian craftsmanship with modern aesthetics. Made from the finest jacquard, it offers both comfort and undeniable style.",
+    "oldPrice": 43499,
+    "badge": "Sale"
+  },
+  {
+    "id": 1391,
+    "name": "Terracotta Silk Kaftan Dress",
+    "price": 18999,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "From the Celestial collection, this applique brocade maxi dress combines contemporary design with traditional Indian artistry. Each piece is carefully finished with attention to every detail.",
+    "oldPrice": 27499,
+    "badge": "Sale"
+  },
+  {
+    "id": 1396,
+    "name": "Emerald Taffeta Cocktail Dress",
+    "price": 40499,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "This exquisite mukaish tulle maxi dress features intricate detailing and a flattering silhouette. Perfect for evening soirees and formal celebrations, it exudes timeless elegance."
+  },
+  {
+    "id": 1401,
+    "name": "Crystal-Embellished Georgette Corset Dress",
+    "price": 28999,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Elevate your wardrobe with this floral taffeta palazzo dress from our Splendor collection. Featuring meticulous craftsmanship and premium finishing, it transitions seamlessly from cocktail hour to dinner.",
+    "oldPrice": 36999,
+    "badge": "Sale"
+  },
+  {
+    "id": 1406,
+    "name": "Lace Pleated Tunic Dress",
+    "price": 41499,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Designed for the modern woman, this paisley empire waist dress features a flattering cut in luxe velvet. The refined detailing and premium construction make it a wardrobe essential."
+  },
+  {
+    "id": 1411,
+    "name": "Applique Silver Palazzo Dress",
+    "price": 21999,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Elevate your wardrobe with this thread-work brocade fit & flare dress from our Regal collection. Featuring meticulous craftsmanship and premium finishing, it transitions seamlessly from cocktail hour to dinner."
+  },
+  {
+    "id": 1416,
+    "name": "Organza Pleated Halter Dress",
+    "price": 31999,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "From the Grandeur collection, this paisley tulle tiered dress combines contemporary design with traditional Indian artistry. Each piece is carefully finished with attention to every detail."
+  },
+  {
+    "id": 1421,
+    "name": "Coral Resham Crepe Cocktail Dress",
+    "price": 31499,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "An artfully designed applique wrap dress that blends Indian craftsmanship with modern aesthetics. Made from the finest organza, it offers both comfort and undeniable style.",
+    "badge": "Sale"
+  },
+  {
+    "id": 1426,
+    "name": "Thread-Work Amethyst High-Low Dress",
+    "price": 19499,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "This exquisite ruffled organza empire waist dress features intricate detailing and a flattering silhouette. Perfect for evening soirees and formal celebrations, it exudes timeless elegance."
+  },
+  {
+    "id": 1431,
+    "name": "Dupioni Zardozi A-Line Dress",
+    "price": 40499,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "An artfully designed thread-work midi dress that blends Indian craftsmanship with modern aesthetics. Made from the finest chiffon, it offers both comfort and undeniable style."
+  },
+  {
+    "id": 1436,
+    "name": "Slate Grey Beaded Satin A-Line Dress",
+    "price": 24499,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "This exquisite sequined satin high-low dress features intricate detailing and a flattering silhouette. Perfect for evening soirees and formal celebrations, it exudes timeless elegance."
+  },
+  {
+    "id": 1441,
+    "name": "Metallic Taffeta Maxi Dress",
+    "price": 28999,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "From the Timeless collection, this floral silk peplum dress combines contemporary design with traditional Indian artistry. Each piece is carefully finished with attention to every detail."
+  },
+  {
+    "id": 1446,
+    "name": "Organza Applique Halter Dress",
+    "price": 42499,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "A stunning thread-work empire waist dress crafted from premium georgette, designed to make a statement at any occasion. The luxurious fabric drapes beautifully, creating an effortlessly chic look."
+  },
+  {
+    "id": 1451,
+    "name": "Dupioni Paisley Shift Dress",
+    "price": 35999,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "A stunning floral halter dress crafted from premium brocade, designed to make a statement at any occasion. The luxurious fabric drapes beautifully, creating an effortlessly chic look."
+  },
+  {
+    "id": 1456,
+    "name": "Satin Floral Bodycon Dress",
+    "price": 5999,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "An artfully designed crystal-embellished draped dress that blends Indian craftsmanship with modern aesthetics. Made from the finest chiffon, it offers both comfort and undeniable style.",
+    "badge": "Limited"
+  },
+  {
+    "id": 1461,
+    "name": "Floral Charcoal Ruched Dress",
+    "price": 41999,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Elevate your wardrobe with this jewel-tone chiffon off-shoulder dress from our Ethereal collection. Featuring meticulous craftsmanship and premium finishing, it transitions seamlessly from cocktail hour to dinner.",
+    "badge": "Sale"
+  },
+  {
+    "id": 1466,
+    "name": "Dusty Rose Hand-Painted Crepe Tiered Dress",
+    "price": 25999,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "This exquisite handcrafted satin palazzo dress features intricate detailing and a flattering silhouette. Perfect for evening soirees and formal celebrations, it exudes timeless elegance."
+  },
+  {
+    "id": 1471,
+    "name": "Mikado Jewel-Tone Peplum Dress",
+    "price": 48999,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "This exquisite jewel-tone brocade empire waist dress features intricate detailing and a flattering silhouette. Perfect for evening soirees and formal celebrations, it exudes timeless elegance."
+  },
+  {
+    "id": 1476,
+    "name": "Georgette Paisley Tunic Dress",
+    "price": 46499,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "This show-stopping ruffled velvet empire waist dress from the Enchanted line features a figure-flattering design. The velvet fabric lends an air of sophistication to any evening event."
+  },
+  {
+    "id": 1481,
+    "name": "Dusty Rose Lace Corset Dress",
+    "price": 39999,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Designed for the modern woman, this ombre shirt dress features a flattering cut in luxe lace. The refined detailing and premium construction make it a wardrobe essential."
+  },
+  {
+    "id": 1486,
+    "name": "Pearl-Adorned Satin Off-Shoulder Dress",
+    "price": 32999,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "From the Majesty collection, this pleated organza evening gown combines contemporary design with traditional Indian artistry. Each piece is carefully finished with attention to every detail.",
+    "oldPrice": 40999
+  },
+  {
+    "id": 1491,
+    "name": "Jewel-Tone Copper Halter Dress",
+    "price": 18999,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "A stunning ombre midi dress crafted from premium charmeuse, designed to make a statement at any occasion. The luxurious fabric drapes beautifully, creating an effortlessly chic look."
+  },
+  {
+    "id": 1496,
+    "name": "Dusty Rose Pleated Brocade High-Low Dress",
+    "price": 14499,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "A stunning embroidered sheath dress crafted from premium charmeuse, designed to make a statement at any occasion. The luxurious fabric drapes beautifully, creating an effortlessly chic look."
+  },
+  {
+    "id": 1501,
+    "name": "Zardozi Taffeta Empire Waist Dress",
+    "price": 40499,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "From the Ethereal collection, this crystal-embellished lace halter dress combines contemporary design with traditional Indian artistry. Each piece is carefully finished with attention to every detail.",
+    "oldPrice": 48499,
+    "badge": "New"
+  },
+  {
+    "id": 1506,
+    "name": "Wine Velvet Shirt Dress",
+    "price": 14499,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "A stunning zardozi shirt dress crafted from premium chiffon, designed to make a statement at any occasion. The luxurious fabric drapes beautifully, creating an effortlessly chic look."
+  },
+  {
+    "id": 1511,
+    "name": "Pearl White Jacquard Sheath Dress",
+    "price": 15999,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "From the Elegance collection, this paisley organza evening gown combines contemporary design with traditional Indian artistry. Each piece is carefully finished with attention to every detail."
+  },
+  {
+    "id": 1516,
+    "name": "Embroidered Wine Evening Gown",
+    "price": 6499,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Elevate your wardrobe with this crystal-embellished lace kaftan dress from our Enchanted collection. Featuring meticulous craftsmanship and premium finishing, it transitions seamlessly from cocktail hour to dinner."
+  },
+  {
+    "id": 1521,
+    "name": "Dusty Rose Crepe Anarkali Dress",
+    "price": 28999,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Elevate your wardrobe with this pleated velvet a-line dress from our Enchanted collection. Featuring meticulous craftsmanship and premium finishing, it transitions seamlessly from cocktail hour to dinner."
+  },
+  {
+    "id": 1526,
+    "name": "Nude Sequined Dupioni Empire Waist Dress",
+    "price": 38499,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "This exquisite mukaish crepe off-shoulder dress features intricate detailing and a flattering silhouette. Perfect for evening soirees and formal celebrations, it exudes timeless elegance.",
+    "oldPrice": 43999
+  },
+  {
+    "id": 1531,
+    "name": "Satin Paisley Empire Waist Dress",
+    "price": 15499,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "A stunning embroidered shift dress crafted from premium velvet, designed to make a statement at any occasion. The luxurious fabric drapes beautifully, creating an effortlessly chic look."
+  },
+  {
+    "id": 1536,
+    "name": "Sapphire Applique Velvet Bodycon Dress",
+    "price": 14999,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Elevate your wardrobe with this sequined organza anarkali dress from our Ethereal collection. Featuring meticulous craftsmanship and premium finishing, it transitions seamlessly from cocktail hour to dinner.",
+    "oldPrice": 19499,
+    "badge": "Sale"
+  },
+  {
+    "id": 1541,
+    "name": "Pleated Taffeta High-Low Dress",
+    "price": 31499,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "From the Opulence collection, this pleated velvet kaftan dress combines contemporary design with traditional Indian artistry. Each piece is carefully finished with attention to every detail.",
+    "oldPrice": 35499,
+    "badge": "Sale"
+  },
+  {
+    "id": 1546,
+    "name": "Antique Gold Jacquard Shirt Dress",
+    "price": 14499,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Inspired by royal Indian heritage, this sequined corset dress in sumptuous charmeuse showcases artisanal craftsmanship. The charmeuse fabric ensures a comfortable yet sophisticated silhouette."
+  },
+  {
+    "id": 1551,
+    "name": "Floral Dusty Rose Asymmetric Dress",
+    "price": 8499,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "A stunning ruffled off-shoulder dress crafted from premium georgette, designed to make a statement at any occasion. The luxurious fabric drapes beautifully, creating an effortlessly chic look."
+  },
+  {
+    "id": 1556,
+    "name": "Ombre Dupioni Bodycon Dress",
+    "price": 42999,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Designed for the modern woman, this thread-work off-shoulder dress features a flattering cut in luxe satin. The refined detailing and premium construction make it a wardrobe essential.",
+    "oldPrice": 65999
+  },
+  {
+    "id": 1561,
+    "name": "Mustard Pleated Charmeuse Cocktail Dress",
+    "price": 34999,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "A stunning embroidered fit & flare dress crafted from premium organza, designed to make a statement at any occasion. The luxurious fabric drapes beautifully, creating an effortlessly chic look.",
+    "oldPrice": 54499
+  },
+  {
+    "id": 1566,
+    "name": "Organza Sequined Evening Gown",
+    "price": 33999,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "From the Maharani collection, this thread-work dupioni tiered dress combines contemporary design with traditional Indian artistry. Each piece is carefully finished with attention to every detail."
+  },
+  {
+    "id": 1571,
+    "name": "Amethyst Georgette Shirt Dress",
+    "price": 9999,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "An artfully designed ruffled evening gown that blends Indian craftsmanship with modern aesthetics. Made from the finest velvet, it offers both comfort and undeniable style.",
+    "badge": "Hot"
+  },
+  {
+    "id": 1576,
+    "name": "Embroidered Mauve Anarkali Dress",
+    "price": 16499,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "An artfully designed paisley sheath dress that blends Indian craftsmanship with modern aesthetics. Made from the finest silk, it offers both comfort and undeniable style.",
+    "oldPrice": 19999,
+    "badge": "Hot"
+  },
+  {
+    "id": 1581,
+    "name": "Silk Embroidered Draped Dress",
+    "price": 26999,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Designed for the modern woman, this applique anarkali dress features a flattering cut in luxe mikado. The refined detailing and premium construction make it a wardrobe essential."
+  },
+  {
+    "id": 1586,
+    "name": "Lavender Paisley Lace Asymmetric Dress",
+    "price": 44999,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "An artfully designed pleated midi dress that blends Indian craftsmanship with modern aesthetics. Made from the finest silk, it offers both comfort and undeniable style."
+  },
+  {
+    "id": 1591,
+    "name": "Deep Teal Dupioni Ruched Dress",
+    "price": 22999,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Elevate your wardrobe with this metallic silk kaftan dress from our Elysian collection. Featuring meticulous craftsmanship and premium finishing, it transitions seamlessly from cocktail hour to dinner."
+  },
+  {
+    "id": 1596,
+    "name": "Silk Jewel-Tone Halter Dress",
+    "price": 27499,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "This exquisite applique jacquard sheath dress features intricate detailing and a flattering silhouette. Perfect for evening soirees and formal celebrations, it exudes timeless elegance."
+  },
+  {
+    "id": 1601,
+    "name": "Onyx Organza Draped Dress",
+    "price": 35499,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Designed for the modern woman, this resham halter dress features a flattering cut in luxe chiffon. The refined detailing and premium construction make it a wardrobe essential."
+  },
+  {
+    "id": 1606,
+    "name": "Resham Organza Halter Dress",
+    "price": 28999,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "This show-stopping jewel-tone crepe kaftan dress from the Elegance line features a figure-flattering design. The crepe fabric lends an air of sophistication to any evening event."
+  },
+  {
+    "id": 1611,
+    "name": "Floral Teal Fit & Flare Dress",
+    "price": 21499,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "A stunning pearl-adorned off-shoulder dress crafted from premium jacquard, designed to make a statement at any occasion. The luxurious fabric drapes beautifully, creating an effortlessly chic look."
+  },
+  {
+    "id": 1616,
+    "name": "Embroidered Amethyst Off-Shoulder Dress",
+    "price": 10499,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Elevate your wardrobe with this metallic jacquard off-shoulder dress from our Radiance collection. Featuring meticulous craftsmanship and premium finishing, it transitions seamlessly from cocktail hour to dinner."
+  },
+  {
+    "id": 1621,
+    "name": "Gota Patti Chiffon Shift Dress",
+    "price": 38999,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "An artfully designed pleated shift dress that blends Indian craftsmanship with modern aesthetics. Made from the finest satin, it offers both comfort and undeniable style."
+  },
+  {
+    "id": 1626,
+    "name": "Ombre Ruby Sheath Dress",
+    "price": 13499,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "A stunning pleated tiered dress crafted from premium silk, designed to make a statement at any occasion. The luxurious fabric drapes beautifully, creating an effortlessly chic look.",
+    "oldPrice": 16499,
+    "badge": "Sale"
+  },
+  {
+    "id": 1631,
+    "name": "Zardozi Organza Peplum Dress",
+    "price": 3499,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "This show-stopping embroidered crepe corset dress from the Enchanted line features a figure-flattering design. The crepe fabric lends an air of sophistication to any evening event.",
+    "badge": "Hot"
+  },
+  {
+    "id": 1636,
+    "name": "Ruffled Coral Anarkali Dress",
+    "price": 11499,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "An artfully designed ruffled wrap dress that blends Indian craftsmanship with modern aesthetics. Made from the finest georgette, it offers both comfort and undeniable style."
+  },
+  {
+    "id": 1641,
+    "name": "Lavender Chiffon Empire Waist Dress",
+    "price": 16999,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "This show-stopping jewel-tone velvet bodycon dress from the Radiance line features a figure-flattering design. The velvet fabric lends an air of sophistication to any evening event."
+  },
+  {
+    "id": 1646,
+    "name": "Burgundy Silk Wrap Dress",
+    "price": 40999,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "A stunning resham kaftan dress crafted from premium lace, designed to make a statement at any occasion. The luxurious fabric drapes beautifully, creating an effortlessly chic look.",
+    "oldPrice": 45999,
+    "badge": "Hot"
+  },
+  {
+    "id": 1651,
+    "name": "Burgundy Lace Tunic Dress",
+    "price": 13999,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Designed for the modern woman, this applique halter dress features a flattering cut in luxe satin. The refined detailing and premium construction make it a wardrobe essential."
+  },
+  {
+    "id": 1656,
+    "name": "Teal Charmeuse High-Low Dress",
+    "price": 14999,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "This exquisite crystal-embellished taffeta ruched dress features intricate detailing and a flattering silhouette. Perfect for evening soirees and formal celebrations, it exudes timeless elegance."
+  },
+  {
+    "id": 1661,
+    "name": "Mauve Brocade Bodycon Dress",
+    "price": 49499,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Elevate your wardrobe with this gota patti brocade halter dress from our Majesty collection. Featuring meticulous craftsmanship and premium finishing, it transitions seamlessly from cocktail hour to dinner."
+  },
+  {
+    "id": 1666,
+    "name": "Mikado Paisley Off-Shoulder Dress",
+    "price": 39999,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "This exquisite handcrafted dupioni evening gown features intricate detailing and a flattering silhouette. Perfect for evening soirees and formal celebrations, it exudes timeless elegance.",
+    "oldPrice": 52499,
+    "badge": "Limited"
+  },
+  {
+    "id": 1671,
+    "name": "Jade Georgette Fit & Flare Dress",
+    "price": 31499,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "This show-stopping hand-painted jacquard off-shoulder dress from the Grandeur line features a figure-flattering design. The jacquard fabric lends an air of sophistication to any evening event.",
+    "oldPrice": 36999,
+    "badge": "Limited"
+  },
+  {
+    "id": 1676,
+    "name": "Dusty Rose Ombre Mikado Halter Dress",
+    "price": 2999,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Inspired by royal Indian heritage, this metallic empire waist dress in sumptuous lace showcases artisanal craftsmanship. The lace fabric ensures a comfortable yet sophisticated silhouette.",
+    "badge": "New"
+  },
+  {
+    "id": 1681,
+    "name": "Handcrafted Amethyst Shirt Dress",
+    "price": 14999,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "This show-stopping mukaish tulle kaftan dress from the Maharani line features a figure-flattering design. The tulle fabric lends an air of sophistication to any evening event."
+  },
+  {
+    "id": 1686,
+    "name": "Handcrafted Plum Halter Dress",
+    "price": 19999,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "An artfully designed beaded tiered dress that blends Indian craftsmanship with modern aesthetics. Made from the finest silk, it offers both comfort and undeniable style.",
+    "oldPrice": 31499
+  },
+  {
+    "id": 1691,
+    "name": "Ruffled Mikado Wrap Dress",
+    "price": 22999,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Designed for the modern woman, this gota patti evening gown features a flattering cut in luxe silk. The refined detailing and premium construction make it a wardrobe essential."
+  },
+  {
+    "id": 1696,
+    "name": "Pearl-Adorned Emerald Tiered Dress",
+    "price": 22499,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "A stunning handcrafted wrap dress crafted from premium jacquard, designed to make a statement at any occasion. The luxurious fabric drapes beautifully, creating an effortlessly chic look."
+  },
+  {
+    "id": 1701,
+    "name": "Ivory Pearl-Adorned Tulle Tiered Dress",
+    "price": 26999,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "An artfully designed applique tiered dress that blends Indian craftsmanship with modern aesthetics. Made from the finest crepe, it offers both comfort and undeniable style.",
+    "oldPrice": 40999,
+    "badge": "Sale"
+  },
+  {
+    "id": 1706,
+    "name": "Sapphire Mikado Draped Dress",
+    "price": 48499,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "This exquisite floral georgette tunic dress features intricate detailing and a flattering silhouette. Perfect for evening soirees and formal celebrations, it exudes timeless elegance."
+  },
+  {
+    "id": 1711,
+    "name": "Indigo Gota Patti Charmeuse Kaftan Dress",
+    "price": 15499,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "This exquisite thread-work taffeta empire waist dress features intricate detailing and a flattering silhouette. Perfect for evening soirees and formal celebrations, it exudes timeless elegance."
+  },
+  {
+    "id": 1716,
+    "name": "Tulle Embroidered Midi Dress",
+    "price": 2999,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "This exquisite beaded brocade tunic dress features intricate detailing and a flattering silhouette. Perfect for evening soirees and formal celebrations, it exudes timeless elegance."
+  },
+  {
+    "id": 1721,
+    "name": "Onyx Tulle Off-Shoulder Dress",
+    "price": 18999,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "This show-stopping gota patti charmeuse maxi dress from the Elysian line features a figure-flattering design. The charmeuse fabric lends an air of sophistication to any evening event."
+  },
+  {
+    "id": 1726,
+    "name": "Embroidered Charcoal High-Low Dress",
+    "price": 37499,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "This exquisite sequined dupioni shift dress features intricate detailing and a flattering silhouette. Perfect for evening soirees and formal celebrations, it exudes timeless elegance.",
+    "oldPrice": 53499,
+    "badge": "Sale"
+  },
+  {
+    "id": 1731,
+    "name": "Blush Pink Velvet Draped Dress",
+    "price": 23999,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "From the Elegance collection, this applique lace wrap dress combines contemporary design with traditional Indian artistry. Each piece is carefully finished with attention to every detail."
+  },
+  {
+    "id": 1736,
+    "name": "Satin Mukaish Midi Dress",
+    "price": 29999,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "From the Serenity collection, this crystal-embellished lace cocktail dress combines contemporary design with traditional Indian artistry. Each piece is carefully finished with attention to every detail."
+  },
+  {
+    "id": 1741,
+    "name": "Antique Gold Crepe Ruched Dress",
+    "price": 25999,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "This show-stopping beaded jacquard sheath dress from the Grandeur line features a figure-flattering design. The jacquard fabric lends an air of sophistication to any evening event.",
+    "badge": "Hot"
+  },
+  {
+    "id": 1746,
+    "name": "Mukaish Plum Tiered Dress",
+    "price": 12499,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Elevate your wardrobe with this handcrafted chiffon off-shoulder dress from our Imperial collection. Featuring meticulous craftsmanship and premium finishing, it transitions seamlessly from cocktail hour to dinner."
+  },
+  {
+    "id": 1751,
+    "name": "Zardozi Mikado Shift Dress",
+    "price": 4499,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Elevate your wardrobe with this pleated tulle cocktail dress from our Prestige collection. Featuring meticulous craftsmanship and premium finishing, it transitions seamlessly from cocktail hour to dinner."
+  },
+  {
+    "id": 1756,
+    "name": "Metallic Silk Tiered Dress",
+    "price": 15499,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "This show-stopping jewel-tone tulle bodycon dress from the Enchanted line features a figure-flattering design. The tulle fabric lends an air of sophistication to any evening event.",
+    "oldPrice": 20499,
+    "badge": "Hot"
+  },
+  {
+    "id": 1761,
+    "name": "Handcrafted Pearl White Tiered Dress",
+    "price": 43499,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Inspired by royal Indian heritage, this mukaish empire waist dress in sumptuous charmeuse showcases artisanal craftsmanship. The charmeuse fabric ensures a comfortable yet sophisticated silhouette.",
+    "badge": "Hot"
+  },
+  {
+    "id": 1766,
+    "name": "Thread-Work Slate Grey Wrap Dress",
+    "price": 26499,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Inspired by royal Indian heritage, this sequined a-line dress in sumptuous chiffon showcases artisanal craftsmanship. The chiffon fabric ensures a comfortable yet sophisticated silhouette.",
+    "oldPrice": 35999
+  },
+  {
+    "id": 1771,
+    "name": "Resham Crepe Palazzo Dress",
+    "price": 32999,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Elevate your wardrobe with this metallic lace tiered dress from our Elysian collection. Featuring meticulous craftsmanship and premium finishing, it transitions seamlessly from cocktail hour to dinner."
+  },
+  {
+    "id": 1776,
+    "name": "Ruffled Midnight Blue Cocktail Dress",
+    "price": 28999,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "From the Serenity collection, this floral velvet sheath dress combines contemporary design with traditional Indian artistry. Each piece is carefully finished with attention to every detail."
+  },
+  {
+    "id": 1781,
+    "name": "Sage Dupioni Midi Dress",
+    "price": 38999,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "An artfully designed ruffled empire waist dress that blends Indian craftsmanship with modern aesthetics. Made from the finest velvet, it offers both comfort and undeniable style."
+  },
+  {
+    "id": 1786,
+    "name": "Taffeta Hand-Painted Maxi Dress",
+    "price": 38499,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "An artfully designed beaded empire waist dress that blends Indian craftsmanship with modern aesthetics. Made from the finest brocade, it offers both comfort and undeniable style."
+  },
+  {
+    "id": 1791,
+    "name": "Chiffon Pearl-Adorned Evening Gown",
+    "price": 41499,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Inspired by royal Indian heritage, this gota patti peplum dress in sumptuous satin showcases artisanal craftsmanship. The satin fabric ensures a comfortable yet sophisticated silhouette."
+  },
+  {
+    "id": 1796,
+    "name": "Paisley Crepe Corset Dress",
+    "price": 47499,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "A stunning zardozi sheath dress crafted from premium charmeuse, designed to make a statement at any occasion. The luxurious fabric drapes beautifully, creating an effortlessly chic look."
+  },
+  {
+    "id": 1801,
+    "name": "Coral Organza Bodycon Dress",
+    "price": 40999,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "From the Radiance collection, this pearl-adorned jacquard tunic dress combines contemporary design with traditional Indian artistry. Each piece is carefully finished with attention to every detail."
+  },
+  {
+    "id": 1806,
+    "name": "Hand-Painted Chiffon Shift Dress",
+    "price": 44999,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Elevate your wardrobe with this crystal-embellished charmeuse bodycon dress from our Imperial collection. Featuring meticulous craftsmanship and premium finishing, it transitions seamlessly from cocktail hour to dinner."
+  },
+  {
+    "id": 1811,
+    "name": "Embroidered Ruby Tunic Dress",
+    "price": 15999,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Designed for the modern woman, this metallic evening gown features a flattering cut in luxe tulle. The refined detailing and premium construction make it a wardrobe essential."
+  },
+  {
+    "id": 1816,
+    "name": "Gota Patti Charmeuse Halter Dress",
+    "price": 4999,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Elevate your wardrobe with this thread-work tulle bodycon dress from our Luxuria collection. Featuring meticulous craftsmanship and premium finishing, it transitions seamlessly from cocktail hour to dinner."
+  },
+  {
+    "id": 1821,
+    "name": "Cream Organza Evening Gown",
+    "price": 24999,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Elevate your wardrobe with this floral taffeta tiered dress from our Enchanted collection. Featuring meticulous craftsmanship and premium finishing, it transitions seamlessly from cocktail hour to dinner."
+  },
+  {
+    "id": 1826,
+    "name": "Jacquard Hand-Painted Tiered Dress",
+    "price": 47999,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "This exquisite pleated georgette high-low dress features intricate detailing and a flattering silhouette. Perfect for evening soirees and formal celebrations, it exudes timeless elegance."
+  },
+  {
+    "id": 1831,
+    "name": "Organza Hand-Painted Tunic Dress",
+    "price": 6999,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "This show-stopping beaded lace shirt dress from the Enchanted line features a figure-flattering design. The lace fabric lends an air of sophistication to any evening event.",
+    "oldPrice": 10499,
+    "badge": "Limited"
+  },
+  {
+    "id": 1836,
+    "name": "Dupioni Ombre Draped Dress",
+    "price": 30499,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "This exquisite ruffled taffeta midi dress features intricate detailing and a flattering silhouette. Perfect for evening soirees and formal celebrations, it exudes timeless elegance.",
+    "oldPrice": 46499,
+    "badge": "Sale"
+  },
+  {
+    "id": 1841,
+    "name": "Charmeuse Jewel-Tone Anarkali Dress",
+    "price": 5499,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "This exquisite thread-work mikado peplum dress features intricate detailing and a flattering silhouette. Perfect for evening soirees and formal celebrations, it exudes timeless elegance."
+  },
+  {
+    "id": 1846,
+    "name": "Burgundy Zardozi Mikado Corset Dress",
+    "price": 34499,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "This exquisite mukaish charmeuse bodycon dress features intricate detailing and a flattering silhouette. Perfect for evening soirees and formal celebrations, it exudes timeless elegance.",
+    "oldPrice": 41999
+  },
+  {
+    "id": 1851,
+    "name": "Hand-Painted Charmeuse High-Low Dress",
+    "price": 22999,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "From the Serenity collection, this metallic velvet a-line dress combines contemporary design with traditional Indian artistry. Each piece is carefully finished with attention to every detail."
+  },
+  {
+    "id": 1856,
+    "name": "Lace Zardozi Sheath Dress",
+    "price": 39999,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Designed for the modern woman, this pearl-adorned corset dress features a flattering cut in luxe velvet. The refined detailing and premium construction make it a wardrobe essential."
+  },
+  {
+    "id": 1861,
+    "name": "Amethyst Zardozi Brocade A-Line Dress",
+    "price": 16999,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Inspired by royal Indian heritage, this jewel-tone shirt dress in sumptuous mikado showcases artisanal craftsmanship. The mikado fabric ensures a comfortable yet sophisticated silhouette.",
+    "oldPrice": 25499,
+    "badge": "Sale"
+  },
+  {
+    "id": 1866,
+    "name": "Thread-Work Tulle Off-Shoulder Dress",
+    "price": 27999,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Inspired by royal Indian heritage, this pearl-adorned fit & flare dress in sumptuous chiffon showcases artisanal craftsmanship. The chiffon fabric ensures a comfortable yet sophisticated silhouette."
+  },
+  {
+    "id": 1871,
+    "name": "Gota Patti Mikado Corset Dress",
+    "price": 46999,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "From the Prestige collection, this thread-work organza halter dress combines contemporary design with traditional Indian artistry. Each piece is carefully finished with attention to every detail."
+  },
+  {
+    "id": 1876,
+    "name": "Handcrafted Lace Midi Dress",
+    "price": 18499,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "A stunning applique sheath dress crafted from premium mikado, designed to make a statement at any occasion. The luxurious fabric drapes beautifully, creating an effortlessly chic look."
+  },
+  {
+    "id": 1881,
+    "name": "Slate Grey Dupioni Draped Dress",
+    "price": 4999,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Designed for the modern woman, this crystal-embellished halter dress features a flattering cut in luxe organza. The refined detailing and premium construction make it a wardrobe essential.",
+    "oldPrice": 5999,
+    "badge": "Sale"
+  },
+  {
+    "id": 1886,
+    "name": "Taffeta Resham A-Line Dress",
+    "price": 35999,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "From the Sovereign collection, this crystal-embellished lace palazzo dress combines contemporary design with traditional Indian artistry. Each piece is carefully finished with attention to every detail."
+  },
+  {
+    "id": 1891,
+    "name": "Antique Gold Beaded Crepe Evening Gown",
+    "price": 49499,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Elevate your wardrobe with this ruffled crepe peplum dress from our Elegance collection. Featuring meticulous craftsmanship and premium finishing, it transitions seamlessly from cocktail hour to dinner."
+  },
+  {
+    "id": 1896,
+    "name": "Metallic Lace Anarkali Dress",
+    "price": 41499,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Designed for the modern woman, this crystal-embellished off-shoulder dress features a flattering cut in luxe mikado. The refined detailing and premium construction make it a wardrobe essential."
+  },
+  {
+    "id": 1901,
+    "name": "Satin Metallic Evening Gown",
+    "price": 17499,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "An artfully designed ombre ruched dress that blends Indian craftsmanship with modern aesthetics. Made from the finest jacquard, it offers both comfort and undeniable style."
+  },
+  {
+    "id": 1906,
+    "name": "Emerald Silk Sheath Dress",
+    "price": 32999,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "An artfully designed metallic evening gown that blends Indian craftsmanship with modern aesthetics. Made from the finest georgette, it offers both comfort and undeniable style."
+  },
+  {
+    "id": 1911,
+    "name": "Charmeuse Beaded Fit & Flare Dress",
+    "price": 21499,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "From the Enchanted collection, this jewel-tone organza midi dress combines contemporary design with traditional Indian artistry. Each piece is carefully finished with attention to every detail."
+  },
+  {
+    "id": 1916,
+    "name": "Zardozi Silver High-Low Dress",
+    "price": 13999,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "A stunning zardozi high-low dress crafted from premium taffeta, designed to make a statement at any occasion. The luxurious fabric drapes beautifully, creating an effortlessly chic look.",
+    "oldPrice": 19999,
+    "badge": "Sale"
+  },
+  {
+    "id": 1921,
+    "name": "Silk Thread-Work Cocktail Dress",
+    "price": 18499,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "This show-stopping metallic dupioni evening gown from the Royal Heritage line features a figure-flattering design. The dupioni fabric lends an air of sophistication to any evening event."
+  },
+  {
+    "id": 1926,
+    "name": "Onyx Satin Asymmetric Dress",
+    "price": 20999,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Designed for the modern woman, this zardozi midi dress features a flattering cut in luxe velvet. The refined detailing and premium construction make it a wardrobe essential."
+  },
+  {
+    "id": 1931,
+    "name": "Brocade Ruffled Tunic Dress",
+    "price": 30499,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Designed for the modern woman, this applique tiered dress features a flattering cut in luxe lace. The refined detailing and premium construction make it a wardrobe essential."
+  },
+  {
+    "id": 1936,
+    "name": "Forest Green Gota Patti Crepe Wrap Dress",
+    "price": 10999,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "This exquisite mukaish crepe asymmetric dress features intricate detailing and a flattering silhouette. Perfect for evening soirees and formal celebrations, it exudes timeless elegance."
+  },
+  {
+    "id": 1941,
+    "name": "Rose Gold Beaded Dupioni Draped Dress",
+    "price": 31999,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "This show-stopping floral silk sheath dress from the Splendor line features a figure-flattering design. The silk fabric lends an air of sophistication to any evening event."
+  },
+  {
+    "id": 1946,
+    "name": "Coral Charmeuse High-Low Dress",
+    "price": 25499,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "This show-stopping embroidered chiffon tiered dress from the Opulence line features a figure-flattering design. The chiffon fabric lends an air of sophistication to any evening event."
+  },
+  {
+    "id": 1951,
+    "name": "Mukaish Gold Cocktail Dress",
+    "price": 30999,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "An artfully designed zardozi wrap dress that blends Indian craftsmanship with modern aesthetics. Made from the finest tulle, it offers both comfort and undeniable style.",
+    "badge": "Sale"
+  },
+  {
+    "id": 1956,
+    "name": "Thread-Work Georgette Tunic Dress",
+    "price": 38999,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Inspired by royal Indian heritage, this ruffled draped dress in sumptuous crepe showcases artisanal craftsmanship. The crepe fabric ensures a comfortable yet sophisticated silhouette.",
+    "oldPrice": 50999,
+    "badge": "New"
+  },
+  {
+    "id": 1961,
+    "name": "Dupioni Floral Midi Dress",
+    "price": 29499,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Inspired by royal Indian heritage, this beaded tiered dress in sumptuous velvet showcases artisanal craftsmanship. The velvet fabric ensures a comfortable yet sophisticated silhouette."
+  },
+  {
+    "id": 1966,
+    "name": "Zardozi Deep Teal High-Low Dress",
+    "price": 47999,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Inspired by royal Indian heritage, this ruffled cocktail dress in sumptuous satin showcases artisanal craftsmanship. The satin fabric ensures a comfortable yet sophisticated silhouette."
+  },
+  {
+    "id": 1971,
+    "name": "Tulle Paisley Halter Dress",
+    "price": 24999,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Inspired by royal Indian heritage, this zardozi ruched dress in sumptuous crepe showcases artisanal craftsmanship. The crepe fabric ensures a comfortable yet sophisticated silhouette."
+  },
+  {
+    "id": 1976,
+    "name": "Rose Gold Zardozi Brocade Halter Dress",
+    "price": 26499,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Elevate your wardrobe with this handcrafted tulle kaftan dress from our Elegance collection. Featuring meticulous craftsmanship and premium finishing, it transitions seamlessly from cocktail hour to dinner."
+  },
+  {
+    "id": 1981,
+    "name": "Floral Blush Pink Draped Dress",
+    "price": 16999,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Designed for the modern woman, this metallic halter dress features a flattering cut in luxe satin. The refined detailing and premium construction make it a wardrobe essential."
+  },
+  {
+    "id": 1986,
+    "name": "Indigo Jacquard Tiered Dress",
+    "price": 30499,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Elevate your wardrobe with this gota patti tulle bodycon dress from our Enchanted collection. Featuring meticulous craftsmanship and premium finishing, it transitions seamlessly from cocktail hour to dinner."
+  },
+  {
+    "id": 1991,
+    "name": "Teal Jacquard Maxi Dress",
+    "price": 9999,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "This show-stopping ombre crepe fit & flare dress from the Timeless line features a figure-flattering design. The crepe fabric lends an air of sophistication to any evening event."
+  },
+  {
+    "id": 1996,
+    "name": "Ruby Brocade Ruched Dress",
+    "price": 8999,
+    "category": "Dresses",
+    "images": [],
+    "emoji": "👗",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "An artfully designed handcrafted empire waist dress that blends Indian craftsmanship with modern aesthetics. Made from the finest tulle, it offers both comfort and undeniable style."
+  }
+]

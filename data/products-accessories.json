@@ -1,0 +1,4987 @@
+[
+  {
+    "id": 5,
+    "name": "Lavender Velvet Cuff Bracelet",
+    "price": 6499,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "A statement-making temple-style potli bag in premium leather that completes any outfit. The meticulous craftsmanship ensures this piece will be treasured for years."
+  },
+  {
+    "id": 10,
+    "name": "Embroidered Silver-Plated Headband",
+    "price": 12499,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "From the Regal Adornments collection, this antique-finish tote bag in brocade showcases exceptional artisanship. A versatile piece that elevates both traditional and contemporary outfits."
+  },
+  {
+    "id": 15,
+    "name": "Pashmina Engraved Bangle Set",
+    "price": 28999,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "A statement-making pearl-studded choker in premium pearl that completes any outfit. The meticulous craftsmanship ensures this piece will be treasured for years."
+  },
+  {
+    "id": 20,
+    "name": "Champagne Crystal Handbag",
+    "price": 24499,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "An artfully designed crystal-encrusted velvet bracelet that blends heritage techniques with contemporary style. The premium materials ensure lasting beauty and elegance."
+  },
+  {
+    "id": 25,
+    "name": "Embroidered Kundan Statement Necklace",
+    "price": 11999,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "This exquisite engraved zari stole is a must-have accessory for the discerning woman. Handcrafted with precision, it adds a touch of luxury to any ensemble."
+  },
+  {
+    "id": 30,
+    "name": "Rose Gold Pearl Belt",
+    "price": 6499,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "From the Couture Accessories collection, this antique-finish maang tikka in brocade showcases exceptional artisanship. A versatile piece that elevates both traditional and contemporary outfits."
+  },
+  {
+    "id": 35,
+    "name": "Antique Gold Polki Nose Ring",
+    "price": 15999,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "Crafted with premium velvet, this filigree cuff bracelet features intricate detailing that catches the light beautifully. An investment piece for your accessory collection."
+  },
+  {
+    "id": 40,
+    "name": "Indigo Embroidered Meenakari Brooch",
+    "price": 3499,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "This stunning oxidized polki hair accessory from our Classic Edit line embodies Indian luxury craftsmanship. Each piece is individually finished for a truly unique accessory.",
+    "badge": "Sale"
+  },
+  {
+    "id": 45,
+    "name": "Burnt Orange Satin Wristlet",
+    "price": 4999,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "From the Resort Accessories collection, this kundan-set maang tikka in meenakari showcases exceptional artisanship. A versatile piece that elevates both traditional and contemporary outfits."
+  },
+  {
+    "id": 50,
+    "name": "Teal Leather Clutch",
+    "price": 2499,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "Elevate your accessory game with this lacquer silver-plated ring set from the Opulent Details collection. Perfect for adding a luxurious finishing touch to any look."
+  },
+  {
+    "id": 55,
+    "name": "Enamel Gold-Plated Hair Accessory",
+    "price": 13999,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "From the Cocktail Collection collection, this antique-finish handbag in gold-plated showcases exceptional artisanship. A versatile piece that elevates both traditional and contemporary outfits."
+  },
+  {
+    "id": 60,
+    "name": "Nude Silver-Plated Belt",
+    "price": 25499,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "Crafted with premium silk, this sequined hair accessory features intricate detailing that catches the light beautifully. An investment piece for your accessory collection."
+  },
+  {
+    "id": 65,
+    "name": "Sequined Pashmina Crossbody Bag",
+    "price": 3499,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "An artfully designed hand-painted polki cuff bracelet that blends heritage techniques with contemporary style. The premium materials ensure lasting beauty and elegance.",
+    "oldPrice": 4999,
+    "badge": "Sale"
+  },
+  {
+    "id": 70,
+    "name": "Lacquer Silver-Plated Potli Bag",
+    "price": 15499,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "This beautifully crafted kundan-set brooch showcases the finest kundan workmanship. A timeless addition that pairs seamlessly with both ethnic and western wear."
+  },
+  {
+    "id": 75,
+    "name": "Slate Grey Stone-Set Silk Hair Accessory",
+    "price": 7999,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "This beautifully crafted beaded stole showcases the finest satin workmanship. A timeless addition that pairs seamlessly with both ethnic and western wear.",
+    "oldPrice": 8999,
+    "badge": "Sale"
+  },
+  {
+    "id": 80,
+    "name": "Velvet Kundan-Set Sling Bag",
+    "price": 27499,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "From the Resort Accessories collection, this sequined belt in crystal showcases exceptional artisanship. A versatile piece that elevates both traditional and contemporary outfits."
+  },
+  {
+    "id": 85,
+    "name": "Antique-Finish Crystal Anklet",
+    "price": 1999,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "An artfully designed lacquer gold-plated cuff bracelet that blends heritage techniques with contemporary style. The premium materials ensure lasting beauty and elegance."
+  },
+  {
+    "id": 90,
+    "name": "Meenakari Stone-Set Choker",
+    "price": 22999,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "From the Statement Luxe collection, this stone-set earrings in pashmina showcases exceptional artisanship. A versatile piece that elevates both traditional and contemporary outfits."
+  },
+  {
+    "id": 95,
+    "name": "Kundan Hammered Pendant",
+    "price": 22999,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "Crafted with premium zari, this kundan-set stole features intricate detailing that catches the light beautifully. An investment piece for your accessory collection."
+  },
+  {
+    "id": 100,
+    "name": "Ruby Pearl-Studded Meenakari Choker",
+    "price": 23999,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "An artfully designed enamel satin minaudiere that blends heritage techniques with contemporary style. The premium materials ensure lasting beauty and elegance."
+  },
+  {
+    "id": 105,
+    "name": "Pearl White Meenakari Crossbody Bag",
+    "price": 26499,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "This beautifully crafted jadau bangle set showcases the finest meenakari workmanship. A timeless addition that pairs seamlessly with both ethnic and western wear."
+  },
+  {
+    "id": 110,
+    "name": "Amethyst Pashmina Ring Set",
+    "price": 18999,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "From the Cocktail Collection collection, this thewa statement necklace in velvet showcases exceptional artisanship. A versatile piece that elevates both traditional and contemporary outfits."
+  },
+  {
+    "id": 115,
+    "name": "Antique Gold Kundan-Set Brocade Nose Ring",
+    "price": 29499,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "Crafted with premium zari, this engraved statement necklace features intricate detailing that catches the light beautifully. An investment piece for your accessory collection."
+  },
+  {
+    "id": 120,
+    "name": "Temple-Style Wine Earrings",
+    "price": 9499,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "From the Festival Edit collection, this filigree belt in polki showcases exceptional artisanship. A versatile piece that elevates both traditional and contemporary outfits."
+  },
+  {
+    "id": 125,
+    "name": "Indigo Zardozi Kundan Bracelet",
+    "price": 10499,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "This beautifully crafted engraved choker showcases the finest satin workmanship. A timeless addition that pairs seamlessly with both ethnic and western wear."
+  },
+  {
+    "id": 130,
+    "name": "Kundan-Set Meenakari Potli Bag",
+    "price": 24999,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "An artfully designed pearl-studded leather potli bag that blends heritage techniques with contemporary style. The premium materials ensure lasting beauty and elegance."
+  },
+  {
+    "id": 135,
+    "name": "Thewa Ivory Minaudiere",
+    "price": 14999,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "This exquisite jadau meenakari handbag is a must-have accessory for the discerning woman. Handcrafted with precision, it adds a touch of luxury to any ensemble.",
+    "oldPrice": 18499,
+    "badge": "Hot"
+  },
+  {
+    "id": 140,
+    "name": "Ruby Leather Headband",
+    "price": 15499,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "A statement-making stone-set ring set in premium polki that completes any outfit. The meticulous craftsmanship ensures this piece will be treasured for years."
+  },
+  {
+    "id": 145,
+    "name": "Pearl Sequined Belt",
+    "price": 22499,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "Crafted with premium satin, this jadau nose ring features intricate detailing that catches the light beautifully. An investment piece for your accessory collection.",
+    "badge": "Hot"
+  },
+  {
+    "id": 150,
+    "name": "Indigo Thewa Meenakari Maang Tikka",
+    "price": 13999,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "An artfully designed stone-set polki nose ring that blends heritage techniques with contemporary style. The premium materials ensure lasting beauty and elegance."
+  },
+  {
+    "id": 155,
+    "name": "Silver Velvet Belt",
+    "price": 7499,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "This stunning beaded temple gold ring set from our Modern Heirloom line embodies Indian luxury craftsmanship. Each piece is individually finished for a truly unique accessory."
+  },
+  {
+    "id": 160,
+    "name": "Gold-Plated Temple-Style Choker",
+    "price": 27499,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "From the Resort Accessories collection, this antique-finish anklet in meenakari showcases exceptional artisanship. A versatile piece that elevates both traditional and contemporary outfits."
+  },
+  {
+    "id": 165,
+    "name": "Satin Pearl-Studded Choker",
+    "price": 24499,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "Crafted with premium crystal, this embroidered clutch features intricate detailing that catches the light beautifully. An investment piece for your accessory collection."
+  },
+  {
+    "id": 170,
+    "name": "Deep Teal Filigree Zari Ring Set",
+    "price": 21999,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "Crafted with premium leather, this filigree clutch features intricate detailing that catches the light beautifully. An investment piece for your accessory collection.",
+    "oldPrice": 30999
+  },
+  {
+    "id": 175,
+    "name": "Hand-Painted Antique Gold Potli Bag",
+    "price": 6999,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "Elevate your accessory game with this crystal-encrusted kundan wristlet from the Heritage Jewels collection. Perfect for adding a luxurious finishing touch to any look.",
+    "oldPrice": 9999,
+    "badge": "Limited"
+  },
+  {
+    "id": 180,
+    "name": "Ruby Embroidered Silver-Plated Anklet",
+    "price": 27999,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "This exquisite beaded leather cuff bracelet is a must-have accessory for the discerning woman. Handcrafted with precision, it adds a touch of luxury to any ensemble."
+  },
+  {
+    "id": 185,
+    "name": "Burnt Orange Meenakari Belt",
+    "price": 2499,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "Elevate your accessory game with this crystal-encrusted silk sling bag from the Heritage Jewels collection. Perfect for adding a luxurious finishing touch to any look."
+  },
+  {
+    "id": 190,
+    "name": "Jade Gold-Plated Tote Bag",
+    "price": 10999,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "Crafted with premium pearl, this engraved statement necklace features intricate detailing that catches the light beautifully. An investment piece for your accessory collection.",
+    "oldPrice": 13499,
+    "badge": "Sale"
+  },
+  {
+    "id": 195,
+    "name": "Beaded Meenakari Tote Bag",
+    "price": 29499,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "A statement-making hand-painted sling bag in premium pashmina that completes any outfit. The meticulous craftsmanship ensures this piece will be treasured for years.",
+    "badge": "Hot"
+  },
+  {
+    "id": 200,
+    "name": "Cream Pearl Clutch",
+    "price": 2499,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "This exquisite thewa leather bangle set is a must-have accessory for the discerning woman. Handcrafted with precision, it adds a touch of luxury to any ensemble.",
+    "badge": "New"
+  },
+  {
+    "id": 205,
+    "name": "Burgundy Kundan-Set Temple Gold Wristlet",
+    "price": 1999,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "From the Vintage Revival collection, this thewa cuff bracelet in leather showcases exceptional artisanship. A versatile piece that elevates both traditional and contemporary outfits.",
+    "oldPrice": 2499,
+    "badge": "Sale"
+  },
+  {
+    "id": 210,
+    "name": "Meenakari Thewa Cuff Bracelet",
+    "price": 14999,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "Elevate your accessory game with this filigree crystal earrings from the Everyday Luxe collection. Perfect for adding a luxurious finishing touch to any look."
+  },
+  {
+    "id": 215,
+    "name": "Hammered Brocade Cuff Bracelet",
+    "price": 11499,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "An artfully designed temple-style gold-plated stole that blends heritage techniques with contemporary style. The premium materials ensure lasting beauty and elegance."
+  },
+  {
+    "id": 220,
+    "name": "Engraved Kundan Maang Tikka",
+    "price": 8999,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "This exquisite thewa zari cuff bracelet is a must-have accessory for the discerning woman. Handcrafted with precision, it adds a touch of luxury to any ensemble."
+  },
+  {
+    "id": 225,
+    "name": "Pearl-Studded Silver-Plated Belt",
+    "price": 19999,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "This exquisite engraved silver-plated anklet is a must-have accessory for the discerning woman. Handcrafted with precision, it adds a touch of luxury to any ensemble."
+  },
+  {
+    "id": 230,
+    "name": "Engraved Meenakari Stole",
+    "price": 25999,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "This beautifully crafted thewa bangle set showcases the finest brocade workmanship. A timeless addition that pairs seamlessly with both ethnic and western wear."
+  },
+  {
+    "id": 235,
+    "name": "Midnight Blue Handcrafted Crystal Stole",
+    "price": 15999,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "From the Opulent Details collection, this hand-painted ring set in silver-plated showcases exceptional artisanship. A versatile piece that elevates both traditional and contemporary outfits."
+  },
+  {
+    "id": 240,
+    "name": "Pearl Filigree Statement Necklace",
+    "price": 12999,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "An artfully designed lacquer meenakari minaudiere that blends heritage techniques with contemporary style. The premium materials ensure lasting beauty and elegance."
+  },
+  {
+    "id": 245,
+    "name": "Silver Brocade Bracelet",
+    "price": 12499,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "This beautifully crafted hand-painted statement necklace showcases the finest velvet workmanship. A timeless addition that pairs seamlessly with both ethnic and western wear."
+  },
+  {
+    "id": 250,
+    "name": "Oxidized Terracotta Belt",
+    "price": 20499,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "Crafted with premium silver-plated, this crystal-encrusted cuff bracelet features intricate detailing that catches the light beautifully. An investment piece for your accessory collection.",
+    "badge": "Limited"
+  },
+  {
+    "id": 255,
+    "name": "Oxidized Deep Teal Headband",
+    "price": 7499,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "Elevate your accessory game with this pearl-studded crystal bracelet from the Couture Accessories collection. Perfect for adding a luxurious finishing touch to any look."
+  },
+  {
+    "id": 260,
+    "name": "Pearl Crystal-Encrusted Nose Ring",
+    "price": 29499,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "Elevate your accessory game with this hammered satin stole from the Royal Collection collection. Perfect for adding a luxurious finishing touch to any look."
+  },
+  {
+    "id": 265,
+    "name": "Oxidized Champagne Ring Set",
+    "price": 19999,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "This stunning pearl-studded crystal handbag from our Classic Edit line embodies Indian luxury craftsmanship. Each piece is individually finished for a truly unique accessory."
+  },
+  {
+    "id": 270,
+    "name": "Pashmina Handcrafted Brooch",
+    "price": 8999,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "This beautifully crafted beaded wristlet showcases the finest pearl workmanship. A timeless addition that pairs seamlessly with both ethnic and western wear.",
+    "oldPrice": 11999,
+    "badge": "Sale"
+  },
+  {
+    "id": 275,
+    "name": "Enamel Satin Handbag",
+    "price": 25999,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "An artfully designed antique-finish satin handbag that blends heritage techniques with contemporary style. The premium materials ensure lasting beauty and elegance."
+  },
+  {
+    "id": 280,
+    "name": "Gold-Plated Engraved Sling Bag",
+    "price": 15999,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "This beautifully crafted hand-painted choker showcases the finest silver-plated workmanship. A timeless addition that pairs seamlessly with both ethnic and western wear."
+  },
+  {
+    "id": 285,
+    "name": "Handcrafted Crystal Scarf",
+    "price": 7499,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "Elevate your accessory game with this jadau pearl handbag from the Heritage Jewels collection. Perfect for adding a luxurious finishing touch to any look.",
+    "badge": "Sale"
+  },
+  {
+    "id": 290,
+    "name": "Pearl Zardozi Potli Bag",
+    "price": 7999,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "This exquisite thewa pashmina handbag is a must-have accessory for the discerning woman. Handcrafted with precision, it adds a touch of luxury to any ensemble.",
+    "badge": "Sale"
+  },
+  {
+    "id": 295,
+    "name": "Handcrafted Forest Green Crossbody Bag",
+    "price": 27499,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "This exquisite zardozi gold-plated anklet is a must-have accessory for the discerning woman. Handcrafted with precision, it adds a touch of luxury to any ensemble."
+  },
+  {
+    "id": 300,
+    "name": "Filigree Gold-Plated Anklet",
+    "price": 14999,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "Elevate your accessory game with this crystal-encrusted meenakari anklet from the Festival Edit collection. Perfect for adding a luxurious finishing touch to any look."
+  },
+  {
+    "id": 305,
+    "name": "Kundan Temple-Style Pendant",
+    "price": 18999,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "This stunning thewa pearl clutch from our Festival Edit line embodies Indian luxury craftsmanship. Each piece is individually finished for a truly unique accessory."
+  },
+  {
+    "id": 310,
+    "name": "Thewa Zari Choker",
+    "price": 25999,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "This beautifully crafted oxidized anklet showcases the finest leather workmanship. A timeless addition that pairs seamlessly with both ethnic and western wear."
+  },
+  {
+    "id": 315,
+    "name": "Beaded Brocade Brooch",
+    "price": 10499,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "This stunning embroidered brocade maang tikka from our Royal Collection line embodies Indian luxury craftsmanship. Each piece is individually finished for a truly unique accessory.",
+    "oldPrice": 11999,
+    "badge": "Sale"
+  },
+  {
+    "id": 320,
+    "name": "Blush Pink Pashmina Earrings",
+    "price": 1999,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "This beautifully crafted temple-style tote bag showcases the finest kundan workmanship. A timeless addition that pairs seamlessly with both ethnic and western wear."
+  },
+  {
+    "id": 325,
+    "name": "Brocade Kundan-Set Handbag",
+    "price": 17999,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "This stunning temple-style satin ring set from our Cocktail Collection line embodies Indian luxury craftsmanship. Each piece is individually finished for a truly unique accessory."
+  },
+  {
+    "id": 330,
+    "name": "Copper Thewa Leather Maang Tikka",
+    "price": 26499,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "Elevate your accessory game with this hammered silver-plated statement necklace from the Vintage Revival collection. Perfect for adding a luxurious finishing touch to any look."
+  },
+  {
+    "id": 335,
+    "name": "Indigo Sequined Temple Gold Nose Ring",
+    "price": 9999,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "This stunning hammered velvet pendant from our Royal Collection line embodies Indian luxury craftsmanship. Each piece is individually finished for a truly unique accessory."
+  },
+  {
+    "id": 340,
+    "name": "Crystal Temple-Style Crossbody Bag",
+    "price": 16499,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "This stunning enamel leather cuff bracelet from our Minimalist Luxe line embodies Indian luxury craftsmanship. Each piece is individually finished for a truly unique accessory.",
+    "oldPrice": 25999,
+    "badge": "Limited"
+  },
+  {
+    "id": 345,
+    "name": "Oxidized Rose Gold Sling Bag",
+    "price": 24499,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "Elevate your accessory game with this antique-finish silver-plated pendant from the Treasure Edit collection. Perfect for adding a luxurious finishing touch to any look."
+  },
+  {
+    "id": 350,
+    "name": "Velvet Handcrafted Crossbody Bag",
+    "price": 7999,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "A statement-making lacquer brooch in premium velvet that completes any outfit. The meticulous craftsmanship ensures this piece will be treasured for years.",
+    "badge": "Limited"
+  },
+  {
+    "id": 355,
+    "name": "Zardozi Pearl White Earrings",
+    "price": 2499,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "This beautifully crafted temple-style sling bag showcases the finest leather workmanship. A timeless addition that pairs seamlessly with both ethnic and western wear."
+  },
+  {
+    "id": 360,
+    "name": "Crystal-Encrusted Plum Bracelet",
+    "price": 12999,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "This exquisite embroidered gold-plated pendant is a must-have accessory for the discerning woman. Handcrafted with precision, it adds a touch of luxury to any ensemble.",
+    "oldPrice": 17999,
+    "badge": "Hot"
+  },
+  {
+    "id": 365,
+    "name": "Crystal-Encrusted Satin Choker",
+    "price": 8499,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "Elevate your accessory game with this kundan-set polki handbag from the Vintage Revival collection. Perfect for adding a luxurious finishing touch to any look.",
+    "badge": "New"
+  },
+  {
+    "id": 370,
+    "name": "Zardozi Temple Gold Scarf",
+    "price": 8499,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "A statement-making kundan-set hair accessory in premium velvet that completes any outfit. The meticulous craftsmanship ensures this piece will be treasured for years."
+  },
+  {
+    "id": 375,
+    "name": "Jadau Pearl White Choker",
+    "price": 9499,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "This beautifully crafted lacquer earrings showcases the finest meenakari workmanship. A timeless addition that pairs seamlessly with both ethnic and western wear.",
+    "oldPrice": 10999,
+    "badge": "Sale"
+  },
+  {
+    "id": 380,
+    "name": "Satin Hand-Painted Handbag",
+    "price": 10999,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "Crafted with premium leather, this hand-painted earrings features intricate detailing that catches the light beautifully. An investment piece for your accessory collection.",
+    "badge": "New"
+  },
+  {
+    "id": 385,
+    "name": "Thewa Gold-Plated Headband",
+    "price": 26999,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "Crafted with premium pearl, this lacquer belt features intricate detailing that catches the light beautifully. An investment piece for your accessory collection."
+  },
+  {
+    "id": 390,
+    "name": "Hammered Wine Choker",
+    "price": 28499,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "A statement-making zardozi clutch in premium zari that completes any outfit. The meticulous craftsmanship ensures this piece will be treasured for years.",
+    "oldPrice": 33499
+  },
+  {
+    "id": 395,
+    "name": "Antique Gold Zardozi Silk Belt",
+    "price": 28999,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "This beautifully crafted antique-finish headband showcases the finest silver-plated workmanship. A timeless addition that pairs seamlessly with both ethnic and western wear.",
+    "oldPrice": 36999,
+    "badge": "Sale"
+  },
+  {
+    "id": 400,
+    "name": "Meenakari Antique-Finish Potli Bag",
+    "price": 23499,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "This stunning sequined kundan anklet from our Minimalist Luxe line embodies Indian luxury craftsmanship. Each piece is individually finished for a truly unique accessory.",
+    "badge": "Limited"
+  },
+  {
+    "id": 405,
+    "name": "Emerald Filigree Pashmina Sling Bag",
+    "price": 2999,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "An artfully designed sequined polki crossbody bag that blends heritage techniques with contemporary style. The premium materials ensure lasting beauty and elegance."
+  },
+  {
+    "id": 410,
+    "name": "Filigree Polki Pendant",
+    "price": 8499,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "This stunning jadau temple gold tote bag from our Artisan Collection line embodies Indian luxury craftsmanship. Each piece is individually finished for a truly unique accessory.",
+    "oldPrice": 10999,
+    "badge": "Sale"
+  },
+  {
+    "id": 415,
+    "name": "Polki Stone-Set Sling Bag",
+    "price": 29999,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "From the Royal Collection collection, this temple-style stole in gold-plated showcases exceptional artisanship. A versatile piece that elevates both traditional and contemporary outfits."
+  },
+  {
+    "id": 420,
+    "name": "Embroidered Nude Crossbody Bag",
+    "price": 8499,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "This stunning zardozi silk scarf from our Bridal Luxe line embodies Indian luxury craftsmanship. Each piece is individually finished for a truly unique accessory."
+  },
+  {
+    "id": 425,
+    "name": "Pearl-Studded Silk Clutch",
+    "price": 25499,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "An artfully designed stone-set pearl choker that blends heritage techniques with contemporary style. The premium materials ensure lasting beauty and elegance.",
+    "oldPrice": 38499,
+    "badge": "Sale"
+  },
+  {
+    "id": 430,
+    "name": "Zari Beaded Crossbody Bag",
+    "price": 17999,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "Crafted with premium satin, this temple-style earrings features intricate detailing that catches the light beautifully. An investment piece for your accessory collection."
+  },
+  {
+    "id": 435,
+    "name": "Filigree Midnight Blue Anklet",
+    "price": 19999,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "An artfully designed enamel silver-plated pendant that blends heritage techniques with contemporary style. The premium materials ensure lasting beauty and elegance.",
+    "oldPrice": 29499
+  },
+  {
+    "id": 440,
+    "name": "Stone-Set Charcoal Clutch",
+    "price": 20999,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "This beautifully crafted handcrafted stole showcases the finest brocade workmanship. A timeless addition that pairs seamlessly with both ethnic and western wear.",
+    "oldPrice": 27999,
+    "badge": "Sale"
+  },
+  {
+    "id": 445,
+    "name": "Meenakari Zardozi Potli Bag",
+    "price": 17499,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "This beautifully crafted filigree headband showcases the finest kundan workmanship. A timeless addition that pairs seamlessly with both ethnic and western wear."
+  },
+  {
+    "id": 450,
+    "name": "Amethyst Sequined Pearl Ring Set",
+    "price": 8499,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "From the Opulent Details collection, this antique-finish cuff bracelet in silk showcases exceptional artisanship. A versatile piece that elevates both traditional and contemporary outfits."
+  },
+  {
+    "id": 455,
+    "name": "Temple-Style Meenakari Bangle Set",
+    "price": 18499,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "This exquisite lacquer meenakari choker is a must-have accessory for the discerning woman. Handcrafted with precision, it adds a touch of luxury to any ensemble."
+  },
+  {
+    "id": 460,
+    "name": "Thewa Amethyst Anklet",
+    "price": 16499,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "This exquisite engraved pashmina anklet is a must-have accessory for the discerning woman. Handcrafted with precision, it adds a touch of luxury to any ensemble.",
+    "oldPrice": 18499,
+    "badge": "Sale"
+  },
+  {
+    "id": 465,
+    "name": "Hammered Satin Maang Tikka",
+    "price": 20499,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "This beautifully crafted embroidered earrings showcases the finest kundan workmanship. A timeless addition that pairs seamlessly with both ethnic and western wear."
+  },
+  {
+    "id": 470,
+    "name": "Rose Gold Filigree Silver-Plated Bangle Set",
+    "price": 5499,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "This exquisite temple-style temple gold belt is a must-have accessory for the discerning woman. Handcrafted with precision, it adds a touch of luxury to any ensemble."
+  },
+  {
+    "id": 475,
+    "name": "Pearl-Studded Pearl Brooch",
+    "price": 25499,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "From the Artisan Collection collection, this beaded earrings in leather showcases exceptional artisanship. A versatile piece that elevates both traditional and contemporary outfits."
+  },
+  {
+    "id": 480,
+    "name": "Hand-Painted Dusty Rose Wristlet",
+    "price": 24999,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "This beautifully crafted zardozi pendant showcases the finest leather workmanship. A timeless addition that pairs seamlessly with both ethnic and western wear.",
+    "oldPrice": 27999
+  },
+  {
+    "id": 485,
+    "name": "Zari Hammered Minaudiere",
+    "price": 27999,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "This beautifully crafted kundan-set crossbody bag showcases the finest crystal workmanship. A timeless addition that pairs seamlessly with both ethnic and western wear."
+  },
+  {
+    "id": 490,
+    "name": "Charcoal Beaded Kundan Sling Bag",
+    "price": 4999,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "This exquisite embroidered kundan belt is a must-have accessory for the discerning woman. Handcrafted with precision, it adds a touch of luxury to any ensemble."
+  },
+  {
+    "id": 495,
+    "name": "Embroidered Mustard Stole",
+    "price": 6999,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "This stunning hammered zari bracelet from our Evening Glam line embodies Indian luxury craftsmanship. Each piece is individually finished for a truly unique accessory.",
+    "oldPrice": 10499
+  },
+  {
+    "id": 500,
+    "name": "Slate Grey Polki Headband",
+    "price": 13499,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "Elevate your accessory game with this beaded meenakari wristlet from the Vintage Revival collection. Perfect for adding a luxurious finishing touch to any look."
+  },
+  {
+    "id": 505,
+    "name": "Onyx Gold-Plated Choker",
+    "price": 21999,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "Elevate your accessory game with this hammered temple gold belt from the Royal Collection collection. Perfect for adding a luxurious finishing touch to any look."
+  },
+  {
+    "id": 510,
+    "name": "Temple Gold Temple-Style Crossbody Bag",
+    "price": 14999,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "This stunning pearl-studded temple gold sling bag from our Treasure Edit line embodies Indian luxury craftsmanship. Each piece is individually finished for a truly unique accessory."
+  },
+  {
+    "id": 515,
+    "name": "Jade Gold-Plated Sling Bag",
+    "price": 7999,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "An artfully designed sequined gold-plated bracelet that blends heritage techniques with contemporary style. The premium materials ensure lasting beauty and elegance."
+  },
+  {
+    "id": 520,
+    "name": "Coral Crystal-Encrusted Leather Minaudiere",
+    "price": 18499,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "An artfully designed hammered leather anklet that blends heritage techniques with contemporary style. The premium materials ensure lasting beauty and elegance."
+  },
+  {
+    "id": 525,
+    "name": "Temple Gold Kundan-Set Nose Ring",
+    "price": 29999,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "This stunning sequined silk tote bag from our Festival Edit line embodies Indian luxury craftsmanship. Each piece is individually finished for a truly unique accessory."
+  },
+  {
+    "id": 530,
+    "name": "Terracotta Thewa Gold-Plated Nose Ring",
+    "price": 28499,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "From the Statement Luxe collection, this pearl-studded clutch in gold-plated showcases exceptional artisanship. A versatile piece that elevates both traditional and contemporary outfits."
+  },
+  {
+    "id": 535,
+    "name": "Mustard Silk Headband",
+    "price": 24999,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "This stunning engraved satin handbag from our Heritage Jewels line embodies Indian luxury craftsmanship. Each piece is individually finished for a truly unique accessory."
+  },
+  {
+    "id": 540,
+    "name": "Gold Jadau Meenakari Stole",
+    "price": 16999,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "From the Evening Glam collection, this zardozi wristlet in satin showcases exceptional artisanship. A versatile piece that elevates both traditional and contemporary outfits."
+  },
+  {
+    "id": 545,
+    "name": "Filigree Onyx Nose Ring",
+    "price": 15999,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "From the Minimalist Luxe collection, this thewa stole in temple gold showcases exceptional artisanship. A versatile piece that elevates both traditional and contemporary outfits."
+  },
+  {
+    "id": 550,
+    "name": "Brocade Pearl-Studded Scarf",
+    "price": 2999,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "An artfully designed filigree polki brooch that blends heritage techniques with contemporary style. The premium materials ensure lasting beauty and elegance."
+  },
+  {
+    "id": 555,
+    "name": "Thewa Jade Clutch",
+    "price": 16499,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "An artfully designed stone-set crystal clutch that blends heritage techniques with contemporary style. The premium materials ensure lasting beauty and elegance."
+  },
+  {
+    "id": 560,
+    "name": "Onyx Polki Ring Set",
+    "price": 7499,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "Elevate your accessory game with this lacquer meenakari statement necklace from the Heritage Jewels collection. Perfect for adding a luxurious finishing touch to any look."
+  },
+  {
+    "id": 565,
+    "name": "Nude Pearl-Studded Pearl Maang Tikka",
+    "price": 27999,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "Elevate your accessory game with this thewa brocade pendant from the Classic Edit collection. Perfect for adding a luxurious finishing touch to any look."
+  },
+  {
+    "id": 570,
+    "name": "Cream Gold-Plated Pendant",
+    "price": 28499,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "This exquisite hammered pearl handbag is a must-have accessory for the discerning woman. Handcrafted with precision, it adds a touch of luxury to any ensemble."
+  },
+  {
+    "id": 575,
+    "name": "Deep Teal Zari Pendant",
+    "price": 14499,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "From the Modern Heirloom collection, this kundan-set tote bag in meenakari showcases exceptional artisanship. A versatile piece that elevates both traditional and contemporary outfits."
+  },
+  {
+    "id": 580,
+    "name": "Temple Gold Pearl-Studded Handbag",
+    "price": 16999,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "A statement-making enamel brooch in premium polki that completes any outfit. The meticulous craftsmanship ensures this piece will be treasured for years."
+  },
+  {
+    "id": 585,
+    "name": "Jadau Temple Gold Crossbody Bag",
+    "price": 27999,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "This exquisite embroidered kundan scarf is a must-have accessory for the discerning woman. Handcrafted with precision, it adds a touch of luxury to any ensemble."
+  },
+  {
+    "id": 590,
+    "name": "Silver-Plated Lacquer Statement Necklace",
+    "price": 14499,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "Crafted with premium pearl, this filigree earrings features intricate detailing that catches the light beautifully. An investment piece for your accessory collection."
+  },
+  {
+    "id": 595,
+    "name": "Plum Pearl-Studded Temple Gold Scarf",
+    "price": 18999,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "This beautifully crafted handcrafted wristlet showcases the finest polki workmanship. A timeless addition that pairs seamlessly with both ethnic and western wear."
+  },
+  {
+    "id": 600,
+    "name": "Sapphire Kundan-Set Silk Belt",
+    "price": 27999,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "A statement-making zardozi choker in premium gold-plated that completes any outfit. The meticulous craftsmanship ensures this piece will be treasured for years."
+  },
+  {
+    "id": 605,
+    "name": "Embroidered Cream Ring Set",
+    "price": 12999,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "Elevate your accessory game with this antique-finish leather anklet from the Bold & Beautiful collection. Perfect for adding a luxurious finishing touch to any look."
+  },
+  {
+    "id": 610,
+    "name": "Crystal-Encrusted Meenakari Bracelet",
+    "price": 24499,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "A statement-making temple-style statement necklace in premium polki that completes any outfit. The meticulous craftsmanship ensures this piece will be treasured for years."
+  },
+  {
+    "id": 615,
+    "name": "Charcoal Zardozi Pearl Potli Bag",
+    "price": 11999,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "This beautifully crafted lacquer choker showcases the finest silk workmanship. A timeless addition that pairs seamlessly with both ethnic and western wear."
+  },
+  {
+    "id": 620,
+    "name": "Silver Enamel Brocade Belt",
+    "price": 27499,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "Elevate your accessory game with this filigree zari wristlet from the Modern Heirloom collection. Perfect for adding a luxurious finishing touch to any look."
+  },
+  {
+    "id": 625,
+    "name": "Velvet Crystal-Encrusted Crossbody Bag",
+    "price": 24499,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "Elevate your accessory game with this crystal-encrusted temple gold choker from the Festival Edit collection. Perfect for adding a luxurious finishing touch to any look.",
+    "oldPrice": 31999,
+    "badge": "Sale"
+  },
+  {
+    "id": 630,
+    "name": "Beaded Midnight Blue Headband",
+    "price": 11999,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "A statement-making beaded anklet in premium brocade that completes any outfit. The meticulous craftsmanship ensures this piece will be treasured for years."
+  },
+  {
+    "id": 635,
+    "name": "Stone-Set Temple Gold Scarf",
+    "price": 9499,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "Elevate your accessory game with this antique-finish satin maang tikka from the Vintage Revival collection. Perfect for adding a luxurious finishing touch to any look.",
+    "oldPrice": 12999
+  },
+  {
+    "id": 640,
+    "name": "Enamel Burnt Orange Wristlet",
+    "price": 11999,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "From the Couture Accessories collection, this sequined maang tikka in pashmina showcases exceptional artisanship. A versatile piece that elevates both traditional and contemporary outfits.",
+    "oldPrice": 14999,
+    "badge": "Sale"
+  },
+  {
+    "id": 645,
+    "name": "Kundan-Set Zari Hair Accessory",
+    "price": 26999,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "This beautifully crafted jadau crossbody bag showcases the finest pearl workmanship. A timeless addition that pairs seamlessly with both ethnic and western wear.",
+    "oldPrice": 33499,
+    "badge": "Sale"
+  },
+  {
+    "id": 650,
+    "name": "Ivory Temple Gold Choker",
+    "price": 6999,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "Elevate your accessory game with this beaded brocade sling bag from the Evening Glam collection. Perfect for adding a luxurious finishing touch to any look."
+  },
+  {
+    "id": 655,
+    "name": "Embroidered Pearl Headband",
+    "price": 5499,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "Elevate your accessory game with this embroidered polki ring set from the Resort Accessories collection. Perfect for adding a luxurious finishing touch to any look."
+  },
+  {
+    "id": 660,
+    "name": "Forest Green Velvet Hair Accessory",
+    "price": 17499,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "Elevate your accessory game with this oxidized leather clutch from the Artisan Collection collection. Perfect for adding a luxurious finishing touch to any look.",
+    "oldPrice": 20499,
+    "badge": "Limited"
+  },
+  {
+    "id": 665,
+    "name": "Kundan-Set Zari Nose Ring",
+    "price": 22499,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "Crafted with premium satin, this hammered tote bag features intricate detailing that catches the light beautifully. An investment piece for your accessory collection."
+  },
+  {
+    "id": 670,
+    "name": "Beaded Zari Potli Bag",
+    "price": 17999,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "A statement-making temple-style potli bag in premium zari that completes any outfit. The meticulous craftsmanship ensures this piece will be treasured for years."
+  },
+  {
+    "id": 675,
+    "name": "Mustard Gold-Plated Crossbody Bag",
+    "price": 6999,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "From the Festival Edit collection, this hand-painted crossbody bag in leather showcases exceptional artisanship. A versatile piece that elevates both traditional and contemporary outfits."
+  },
+  {
+    "id": 680,
+    "name": "Thewa Velvet Headband",
+    "price": 16999,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "Crafted with premium pashmina, this filigree headband features intricate detailing that catches the light beautifully. An investment piece for your accessory collection."
+  },
+  {
+    "id": 685,
+    "name": "Kundan Enamel Cuff Bracelet",
+    "price": 17499,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "This stunning oxidized satin scarf from our Bridal Luxe line embodies Indian luxury craftsmanship. Each piece is individually finished for a truly unique accessory.",
+    "oldPrice": 21499,
+    "badge": "Sale"
+  },
+  {
+    "id": 690,
+    "name": "Nude Crystal Wristlet",
+    "price": 16999,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "A statement-making engraved handbag in premium polki that completes any outfit. The meticulous craftsmanship ensures this piece will be treasured for years.",
+    "badge": "Hot"
+  },
+  {
+    "id": 695,
+    "name": "Crystal-Encrusted Meenakari Maang Tikka",
+    "price": 21999,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "This stunning handcrafted kundan choker from our Royal Collection line embodies Indian luxury craftsmanship. Each piece is individually finished for a truly unique accessory."
+  },
+  {
+    "id": 700,
+    "name": "Indigo Temple-Style Temple Gold Headband",
+    "price": 28499,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "This stunning beaded pearl scarf from our Resort Accessories line embodies Indian luxury craftsmanship. Each piece is individually finished for a truly unique accessory."
+  },
+  {
+    "id": 705,
+    "name": "Kundan-Set Polki Tote Bag",
+    "price": 7499,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "This exquisite engraved velvet clutch is a must-have accessory for the discerning woman. Handcrafted with precision, it adds a touch of luxury to any ensemble."
+  },
+  {
+    "id": 710,
+    "name": "Hammered Jade Earrings",
+    "price": 16999,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "This stunning pearl-studded leather tote bag from our Bridal Luxe line embodies Indian luxury craftsmanship. Each piece is individually finished for a truly unique accessory."
+  },
+  {
+    "id": 715,
+    "name": "Teal Gold-Plated Cuff Bracelet",
+    "price": 16999,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "This stunning crystal-encrusted silver-plated sling bag from our Heritage Jewels line embodies Indian luxury craftsmanship. Each piece is individually finished for a truly unique accessory."
+  },
+  {
+    "id": 720,
+    "name": "Meenakari Hammered Crossbody Bag",
+    "price": 13499,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "A statement-making lacquer wristlet in premium pearl that completes any outfit. The meticulous craftsmanship ensures this piece will be treasured for years."
+  },
+  {
+    "id": 725,
+    "name": "Thewa Temple Gold Headband",
+    "price": 9999,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "Elevate your accessory game with this lacquer polki bangle set from the Bold & Beautiful collection. Perfect for adding a luxurious finishing touch to any look."
+  },
+  {
+    "id": 730,
+    "name": "Indigo Meenakari Scarf",
+    "price": 21999,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "This exquisite enamel silver-plated minaudiere is a must-have accessory for the discerning woman. Handcrafted with precision, it adds a touch of luxury to any ensemble.",
+    "oldPrice": 32499,
+    "badge": "New"
+  },
+  {
+    "id": 735,
+    "name": "Hand-Painted Kundan Choker",
+    "price": 27999,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "This exquisite crystal-encrusted zari ring set is a must-have accessory for the discerning woman. Handcrafted with precision, it adds a touch of luxury to any ensemble."
+  },
+  {
+    "id": 740,
+    "name": "Pearl-Studded Indigo Potli Bag",
+    "price": 26499,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "This stunning jadau leather anklet from our Resort Accessories line embodies Indian luxury craftsmanship. Each piece is individually finished for a truly unique accessory."
+  },
+  {
+    "id": 745,
+    "name": "Zardozi Champagne Ring Set",
+    "price": 8999,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "An artfully designed pearl-studded satin ring set that blends heritage techniques with contemporary style. The premium materials ensure lasting beauty and elegance.",
+    "oldPrice": 12999,
+    "badge": "Limited"
+  },
+  {
+    "id": 750,
+    "name": "Forest Green Hammered Silk Hair Accessory",
+    "price": 8999,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "This beautifully crafted beaded statement necklace showcases the finest pearl workmanship. A timeless addition that pairs seamlessly with both ethnic and western wear."
+  },
+  {
+    "id": 755,
+    "name": "Zardozi Copper Belt",
+    "price": 12999,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "This stunning antique-finish meenakari headband from our Bridal Luxe line embodies Indian luxury craftsmanship. Each piece is individually finished for a truly unique accessory."
+  },
+  {
+    "id": 760,
+    "name": "Temple-Style Silk Anklet",
+    "price": 18999,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "Elevate your accessory game with this hand-painted silver-plated pendant from the Heritage Jewels collection. Perfect for adding a luxurious finishing touch to any look."
+  },
+  {
+    "id": 765,
+    "name": "Enamel Crystal Scarf",
+    "price": 12999,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "This stunning oxidized kundan hair accessory from our Signature Pieces line embodies Indian luxury craftsmanship. Each piece is individually finished for a truly unique accessory."
+  },
+  {
+    "id": 770,
+    "name": "Velvet Lacquer Wristlet",
+    "price": 20999,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "Elevate your accessory game with this kundan-set kundan stole from the Classic Edit collection. Perfect for adding a luxurious finishing touch to any look.",
+    "oldPrice": 26499,
+    "badge": "Hot"
+  },
+  {
+    "id": 775,
+    "name": "Jadau Pearl Crossbody Bag",
+    "price": 4999,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "An artfully designed crystal-encrusted velvet earrings that blends heritage techniques with contemporary style. The premium materials ensure lasting beauty and elegance."
+  },
+  {
+    "id": 780,
+    "name": "Brocade Beaded Tote Bag",
+    "price": 18499,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "A statement-making embroidered cuff bracelet in premium temple gold that completes any outfit. The meticulous craftsmanship ensures this piece will be treasured for years."
+  },
+  {
+    "id": 785,
+    "name": "Brocade Lacquer Stole",
+    "price": 21499,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "From the Heritage Jewels collection, this embroidered bangle set in satin showcases exceptional artisanship. A versatile piece that elevates both traditional and contemporary outfits."
+  },
+  {
+    "id": 790,
+    "name": "Oxidized Zari Tote Bag",
+    "price": 2499,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "This stunning handcrafted zari sling bag from our Minimalist Luxe line embodies Indian luxury craftsmanship. Each piece is individually finished for a truly unique accessory.",
+    "oldPrice": 3499,
+    "badge": "Limited"
+  },
+  {
+    "id": 795,
+    "name": "Silver-Plated Filigree Handbag",
+    "price": 5999,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "This stunning hand-painted zari pendant from our Festival Edit line embodies Indian luxury craftsmanship. Each piece is individually finished for a truly unique accessory.",
+    "oldPrice": 7999,
+    "badge": "Sale"
+  },
+  {
+    "id": 800,
+    "name": "Onyx Meenakari Handbag",
+    "price": 17499,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "This exquisite filigree velvet handbag is a must-have accessory for the discerning woman. Handcrafted with precision, it adds a touch of luxury to any ensemble."
+  },
+  {
+    "id": 805,
+    "name": "Silk Handcrafted Sling Bag",
+    "price": 3999,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "This stunning filigree pearl minaudiere from our Evening Glam line embodies Indian luxury craftsmanship. Each piece is individually finished for a truly unique accessory."
+  },
+  {
+    "id": 810,
+    "name": "Stone-Set Slate Grey Pendant",
+    "price": 18499,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "This stunning pearl-studded meenakari handbag from our Everyday Luxe line embodies Indian luxury craftsmanship. Each piece is individually finished for a truly unique accessory."
+  },
+  {
+    "id": 815,
+    "name": "Antique-Finish Silver Anklet",
+    "price": 16499,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "From the Regal Adornments collection, this handcrafted minaudiere in silver-plated showcases exceptional artisanship. A versatile piece that elevates both traditional and contemporary outfits.",
+    "oldPrice": 21499,
+    "badge": "Sale"
+  },
+  {
+    "id": 820,
+    "name": "Hammered Wine Pendant",
+    "price": 8999,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "An artfully designed hand-painted meenakari brooch that blends heritage techniques with contemporary style. The premium materials ensure lasting beauty and elegance."
+  },
+  {
+    "id": 825,
+    "name": "Ivory Meenakari Pendant",
+    "price": 14999,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "Crafted with premium silk, this crystal-encrusted belt features intricate detailing that catches the light beautifully. An investment piece for your accessory collection."
+  },
+  {
+    "id": 830,
+    "name": "Ruby Embroidered Pashmina Potli Bag",
+    "price": 19499,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "A statement-making antique-finish earrings in premium pearl that completes any outfit. The meticulous craftsmanship ensures this piece will be treasured for years."
+  },
+  {
+    "id": 835,
+    "name": "Coral Engraved Polki Bangle Set",
+    "price": 9499,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "From the Signature Pieces collection, this oxidized stole in temple gold showcases exceptional artisanship. A versatile piece that elevates both traditional and contemporary outfits."
+  },
+  {
+    "id": 840,
+    "name": "Lacquer Leather Bangle Set",
+    "price": 6999,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "A statement-making crystal-encrusted brooch in premium polki that completes any outfit. The meticulous craftsmanship ensures this piece will be treasured for years.",
+    "badge": "Hot"
+  },
+  {
+    "id": 845,
+    "name": "Temple-Style Rose Gold Bracelet",
+    "price": 16499,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "From the Cocktail Collection collection, this hand-painted wristlet in crystal showcases exceptional artisanship. A versatile piece that elevates both traditional and contemporary outfits."
+  },
+  {
+    "id": 850,
+    "name": "Hand-Painted Brocade Potli Bag",
+    "price": 17999,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "An artfully designed pearl-studded zari bangle set that blends heritage techniques with contemporary style. The premium materials ensure lasting beauty and elegance."
+  },
+  {
+    "id": 855,
+    "name": "Antique Gold Crystal Anklet",
+    "price": 11999,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "This exquisite antique-finish silk brooch is a must-have accessory for the discerning woman. Handcrafted with precision, it adds a touch of luxury to any ensemble."
+  },
+  {
+    "id": 860,
+    "name": "Thewa Mustard Ring Set",
+    "price": 23499,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "From the Festival Edit collection, this temple-style clutch in brocade showcases exceptional artisanship. A versatile piece that elevates both traditional and contemporary outfits."
+  },
+  {
+    "id": 865,
+    "name": "Handcrafted Temple Gold Cuff Bracelet",
+    "price": 10499,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "Crafted with premium brocade, this zardozi minaudiere features intricate detailing that catches the light beautifully. An investment piece for your accessory collection."
+  },
+  {
+    "id": 870,
+    "name": "Nude Silver-Plated Ring Set",
+    "price": 5499,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "Crafted with premium kundan, this pearl-studded earrings features intricate detailing that catches the light beautifully. An investment piece for your accessory collection."
+  },
+  {
+    "id": 875,
+    "name": "Engraved Satin Earrings",
+    "price": 2499,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "From the Signature Pieces collection, this zardozi potli bag in silver-plated showcases exceptional artisanship. A versatile piece that elevates both traditional and contemporary outfits."
+  },
+  {
+    "id": 880,
+    "name": "Enamel Sage Clutch",
+    "price": 26499,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "An artfully designed jadau zari nose ring that blends heritage techniques with contemporary style. The premium materials ensure lasting beauty and elegance."
+  },
+  {
+    "id": 885,
+    "name": "Embroidered Temple Gold Clutch",
+    "price": 13999,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "Elevate your accessory game with this temple-style leather maang tikka from the Regal Adornments collection. Perfect for adding a luxurious finishing touch to any look."
+  },
+  {
+    "id": 890,
+    "name": "Nude Crystal Potli Bag",
+    "price": 19499,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "An artfully designed engraved crystal tote bag that blends heritage techniques with contemporary style. The premium materials ensure lasting beauty and elegance."
+  },
+  {
+    "id": 895,
+    "name": "Coral Enamel Kundan Choker",
+    "price": 12499,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "Crafted with premium pearl, this zardozi statement necklace features intricate detailing that catches the light beautifully. An investment piece for your accessory collection.",
+    "oldPrice": 18499
+  },
+  {
+    "id": 900,
+    "name": "Midnight Blue Pashmina Ring Set",
+    "price": 14999,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "Elevate your accessory game with this enamel crystal earrings from the Bridal Luxe collection. Perfect for adding a luxurious finishing touch to any look."
+  },
+  {
+    "id": 905,
+    "name": "Dusty Rose Antique-Finish Kundan Pendant",
+    "price": 5499,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "Elevate your accessory game with this enamel silver-plated maang tikka from the Regal Adornments collection. Perfect for adding a luxurious finishing touch to any look.",
+    "oldPrice": 7499,
+    "badge": "Hot"
+  },
+  {
+    "id": 910,
+    "name": "Silver Silk Clutch",
+    "price": 7999,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "From the Opulent Details collection, this embroidered scarf in crystal showcases exceptional artisanship. A versatile piece that elevates both traditional and contemporary outfits."
+  },
+  {
+    "id": 915,
+    "name": "Wine Kundan-Set Meenakari Cuff Bracelet",
+    "price": 5999,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "This stunning thewa silk cuff bracelet from our Bold & Beautiful line embodies Indian luxury craftsmanship. Each piece is individually finished for a truly unique accessory.",
+    "oldPrice": 7999,
+    "badge": "Sale"
+  },
+  {
+    "id": 920,
+    "name": "Crystal Hand-Painted Bangle Set",
+    "price": 10999,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "This exquisite beaded silk cuff bracelet is a must-have accessory for the discerning woman. Handcrafted with precision, it adds a touch of luxury to any ensemble."
+  },
+  {
+    "id": 925,
+    "name": "Sequined Velvet Earrings",
+    "price": 14499,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "Crafted with premium pashmina, this jadau tote bag features intricate detailing that catches the light beautifully. An investment piece for your accessory collection.",
+    "oldPrice": 19499,
+    "badge": "Hot"
+  },
+  {
+    "id": 930,
+    "name": "Pearl-Studded Charcoal Clutch",
+    "price": 28999,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "This exquisite handcrafted silver-plated earrings is a must-have accessory for the discerning woman. Handcrafted with precision, it adds a touch of luxury to any ensemble."
+  },
+  {
+    "id": 935,
+    "name": "Handcrafted Champagne Choker",
+    "price": 6999,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "A statement-making filigree statement necklace in premium meenakari that completes any outfit. The meticulous craftsmanship ensures this piece will be treasured for years.",
+    "badge": "Sale"
+  },
+  {
+    "id": 940,
+    "name": "Wine Satin Belt",
+    "price": 29999,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "This exquisite kundan-set zari crossbody bag is a must-have accessory for the discerning woman. Handcrafted with precision, it adds a touch of luxury to any ensemble."
+  },
+  {
+    "id": 945,
+    "name": "Temple-Style Antique Gold Maang Tikka",
+    "price": 7499,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "Crafted with premium gold-plated, this thewa stole features intricate detailing that catches the light beautifully. An investment piece for your accessory collection."
+  },
+  {
+    "id": 950,
+    "name": "Handcrafted Sapphire Wristlet",
+    "price": 13499,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "This exquisite antique-finish temple gold nose ring is a must-have accessory for the discerning woman. Handcrafted with precision, it adds a touch of luxury to any ensemble."
+  },
+  {
+    "id": 955,
+    "name": "Embroidered Emerald Sling Bag",
+    "price": 4999,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "Crafted with premium temple gold, this temple-style headband features intricate detailing that catches the light beautifully. An investment piece for your accessory collection."
+  },
+  {
+    "id": 960,
+    "name": "Antique Gold Leather Bracelet",
+    "price": 8499,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "Crafted with premium silver-plated, this pearl-studded belt features intricate detailing that catches the light beautifully. An investment piece for your accessory collection.",
+    "oldPrice": 12499,
+    "badge": "Sale"
+  },
+  {
+    "id": 965,
+    "name": "Enamel Velvet Wristlet",
+    "price": 4499,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "A statement-making embroidered potli bag in premium crystal that completes any outfit. The meticulous craftsmanship ensures this piece will be treasured for years."
+  },
+  {
+    "id": 970,
+    "name": "Kundan-Set Emerald Belt",
+    "price": 27999,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "This beautifully crafted jadau earrings showcases the finest pashmina workmanship. A timeless addition that pairs seamlessly with both ethnic and western wear."
+  },
+  {
+    "id": 975,
+    "name": "Kundan-Set Sage Belt",
+    "price": 22999,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "Elevate your accessory game with this beaded pashmina stole from the Everyday Luxe collection. Perfect for adding a luxurious finishing touch to any look."
+  },
+  {
+    "id": 980,
+    "name": "Forest Green Polki Maang Tikka",
+    "price": 17999,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "A statement-making oxidized potli bag in premium crystal that completes any outfit. The meticulous craftsmanship ensures this piece will be treasured for years.",
+    "oldPrice": 27999,
+    "badge": "Sale"
+  },
+  {
+    "id": 985,
+    "name": "Silver-Plated Filigree Bracelet",
+    "price": 17999,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "Elevate your accessory game with this stone-set gold-plated sling bag from the Treasure Edit collection. Perfect for adding a luxurious finishing touch to any look."
+  },
+  {
+    "id": 990,
+    "name": "Meenakari Temple-Style Tote Bag",
+    "price": 1499,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "Elevate your accessory game with this embroidered kundan tote bag from the Treasure Edit collection. Perfect for adding a luxurious finishing touch to any look."
+  },
+  {
+    "id": 995,
+    "name": "Terracotta Meenakari Earrings",
+    "price": 29499,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "Elevate your accessory game with this thewa meenakari sling bag from the Cocktail Collection collection. Perfect for adding a luxurious finishing touch to any look."
+  },
+  {
+    "id": 1000,
+    "name": "Copper Kundan-Set Velvet Potli Bag",
+    "price": 16999,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "An artfully designed sequined satin scarf that blends heritage techniques with contemporary style. The premium materials ensure lasting beauty and elegance.",
+    "oldPrice": 21999,
+    "badge": "Hot"
+  },
+  {
+    "id": 1005,
+    "name": "Pearl White Handcrafted Pashmina Crossbody Bag",
+    "price": 21999,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "Crafted with premium brocade, this beaded sling bag features intricate detailing that catches the light beautifully. An investment piece for your accessory collection."
+  },
+  {
+    "id": 1010,
+    "name": "Jade Beaded Pearl Crossbody Bag",
+    "price": 15999,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "From the Royal Collection collection, this hammered hair accessory in silver-plated showcases exceptional artisanship. A versatile piece that elevates both traditional and contemporary outfits."
+  },
+  {
+    "id": 1015,
+    "name": "Jadau Silk Anklet",
+    "price": 2999,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "Crafted with premium velvet, this beaded belt features intricate detailing that catches the light beautifully. An investment piece for your accessory collection."
+  },
+  {
+    "id": 1020,
+    "name": "Zari Beaded Bangle Set",
+    "price": 1999,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "A statement-making embroidered wristlet in premium brocade that completes any outfit. The meticulous craftsmanship ensures this piece will be treasured for years."
+  },
+  {
+    "id": 1025,
+    "name": "Meenakari Handcrafted Anklet",
+    "price": 23499,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "From the Resort Accessories collection, this thewa hair accessory in gold-plated showcases exceptional artisanship. A versatile piece that elevates both traditional and contemporary outfits.",
+    "badge": "Limited"
+  },
+  {
+    "id": 1030,
+    "name": "Kundan-Set Slate Grey Cuff Bracelet",
+    "price": 12999,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "This beautifully crafted antique-finish wristlet showcases the finest gold-plated workmanship. A timeless addition that pairs seamlessly with both ethnic and western wear."
+  },
+  {
+    "id": 1035,
+    "name": "Sapphire Silver-Plated Sling Bag",
+    "price": 18499,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "A statement-making zardozi clutch in premium silver-plated that completes any outfit. The meticulous craftsmanship ensures this piece will be treasured for years."
+  },
+  {
+    "id": 1040,
+    "name": "Silk Sequined Earrings",
+    "price": 17999,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "From the Regal Adornments collection, this kundan-set brooch in pashmina showcases exceptional artisanship. A versatile piece that elevates both traditional and contemporary outfits.",
+    "oldPrice": 25499,
+    "badge": "New"
+  },
+  {
+    "id": 1045,
+    "name": "Silver-Plated Pearl-Studded Hair Accessory",
+    "price": 8499,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "Crafted with premium silver-plated, this enamel anklet features intricate detailing that catches the light beautifully. An investment piece for your accessory collection."
+  },
+  {
+    "id": 1050,
+    "name": "Thewa Gold-Plated Bangle Set",
+    "price": 11499,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "An artfully designed oxidized brocade ring set that blends heritage techniques with contemporary style. The premium materials ensure lasting beauty and elegance."
+  },
+  {
+    "id": 1055,
+    "name": "Burnt Orange Temple-Style Crystal Statement Necklace",
+    "price": 3499,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "A statement-making embroidered earrings in premium brocade that completes any outfit. The meticulous craftsmanship ensures this piece will be treasured for years."
+  },
+  {
+    "id": 1060,
+    "name": "Jade Stone-Set Velvet Sling Bag",
+    "price": 19999,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "Elevate your accessory game with this handcrafted pearl potli bag from the Vintage Revival collection. Perfect for adding a luxurious finishing touch to any look.",
+    "badge": "Sale"
+  },
+  {
+    "id": 1065,
+    "name": "Jadau Burnt Orange Cuff Bracelet",
+    "price": 14999,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "Elevate your accessory game with this temple-style velvet belt from the Bold & Beautiful collection. Perfect for adding a luxurious finishing touch to any look."
+  },
+  {
+    "id": 1070,
+    "name": "Pashmina Thewa Ring Set",
+    "price": 17999,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "This exquisite embroidered crystal crossbody bag is a must-have accessory for the discerning woman. Handcrafted with precision, it adds a touch of luxury to any ensemble."
+  },
+  {
+    "id": 1075,
+    "name": "Sage Polki Wristlet",
+    "price": 3999,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "This exquisite antique-finish satin hair accessory is a must-have accessory for the discerning woman. Handcrafted with precision, it adds a touch of luxury to any ensemble.",
+    "badge": "Hot"
+  },
+  {
+    "id": 1080,
+    "name": "Onyx Oxidized Pashmina Statement Necklace",
+    "price": 25999,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "This beautifully crafted stone-set tote bag showcases the finest meenakari workmanship. A timeless addition that pairs seamlessly with both ethnic and western wear."
+  },
+  {
+    "id": 1085,
+    "name": "Beaded Cream Potli Bag",
+    "price": 20999,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "An artfully designed beaded kundan minaudiere that blends heritage techniques with contemporary style. The premium materials ensure lasting beauty and elegance.",
+    "oldPrice": 23999
+  },
+  {
+    "id": 1090,
+    "name": "Emerald Pearl Minaudiere",
+    "price": 10499,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "Crafted with premium polki, this handcrafted potli bag features intricate detailing that catches the light beautifully. An investment piece for your accessory collection."
+  },
+  {
+    "id": 1095,
+    "name": "Kundan-Set Ivory Choker",
+    "price": 4999,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "An artfully designed temple-style leather choker that blends heritage techniques with contemporary style. The premium materials ensure lasting beauty and elegance."
+  },
+  {
+    "id": 1100,
+    "name": "Gold Engraved Velvet Sling Bag",
+    "price": 27499,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "Crafted with premium meenakari, this pearl-studded belt features intricate detailing that catches the light beautifully. An investment piece for your accessory collection.",
+    "oldPrice": 33499
+  },
+  {
+    "id": 1105,
+    "name": "Silver Antique-Finish Kundan Anklet",
+    "price": 23999,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "This stunning hand-painted velvet bracelet from our Regal Adornments line embodies Indian luxury craftsmanship. Each piece is individually finished for a truly unique accessory."
+  },
+  {
+    "id": 1110,
+    "name": "Filigree Amethyst Minaudiere",
+    "price": 4999,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "Crafted with premium pashmina, this stone-set crossbody bag features intricate detailing that catches the light beautifully. An investment piece for your accessory collection.",
+    "badge": "Sale"
+  },
+  {
+    "id": 1115,
+    "name": "Oxidized Meenakari Cuff Bracelet",
+    "price": 999,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "This beautifully crafted sequined minaudiere showcases the finest silk workmanship. A timeless addition that pairs seamlessly with both ethnic and western wear.",
+    "oldPrice": 1499,
+    "badge": "Sale"
+  },
+  {
+    "id": 1120,
+    "name": "Lacquer Antique Gold Nose Ring",
+    "price": 17999,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "This beautifully crafted stone-set choker showcases the finest crystal workmanship. A timeless addition that pairs seamlessly with both ethnic and western wear."
+  },
+  {
+    "id": 1125,
+    "name": "Silver-Plated Handcrafted Anklet",
+    "price": 17499,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "This beautifully crafted engraved wristlet showcases the finest temple gold workmanship. A timeless addition that pairs seamlessly with both ethnic and western wear."
+  },
+  {
+    "id": 1130,
+    "name": "Antique-Finish Champagne Earrings",
+    "price": 16499,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "This stunning filigree brocade ring set from our Minimalist Luxe line embodies Indian luxury craftsmanship. Each piece is individually finished for a truly unique accessory.",
+    "oldPrice": 20499,
+    "badge": "Sale"
+  },
+  {
+    "id": 1135,
+    "name": "Embroidered Slate Grey Anklet",
+    "price": 7499,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "This exquisite thewa zari statement necklace is a must-have accessory for the discerning woman. Handcrafted with precision, it adds a touch of luxury to any ensemble."
+  },
+  {
+    "id": 1140,
+    "name": "Silver Velvet Scarf",
+    "price": 8999,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "This beautifully crafted pearl-studded statement necklace showcases the finest brocade workmanship. A timeless addition that pairs seamlessly with both ethnic and western wear."
+  },
+  {
+    "id": 1145,
+    "name": "Brocade Pearl-Studded Tote Bag",
+    "price": 10999,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "This stunning thewa crystal tote bag from our Evening Glam line embodies Indian luxury craftsmanship. Each piece is individually finished for a truly unique accessory."
+  },
+  {
+    "id": 1150,
+    "name": "Brocade Stone-Set Brooch",
+    "price": 20999,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "This stunning engraved silk clutch from our Treasure Edit line embodies Indian luxury craftsmanship. Each piece is individually finished for a truly unique accessory.",
+    "oldPrice": 28499,
+    "badge": "Limited"
+  },
+  {
+    "id": 1155,
+    "name": "Jadau Midnight Blue Bracelet",
+    "price": 6499,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "This stunning kundan-set meenakari choker from our Cocktail Collection line embodies Indian luxury craftsmanship. Each piece is individually finished for a truly unique accessory."
+  },
+  {
+    "id": 1160,
+    "name": "Terracotta Hammered Satin Hair Accessory",
+    "price": 23499,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "Elevate your accessory game with this pearl-studded temple gold statement necklace from the Bold & Beautiful collection. Perfect for adding a luxurious finishing touch to any look."
+  },
+  {
+    "id": 1165,
+    "name": "Jade Oxidized Crystal Nose Ring",
+    "price": 6999,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "A statement-making hand-painted earrings in premium leather that completes any outfit. The meticulous craftsmanship ensures this piece will be treasured for years.",
+    "badge": "New"
+  },
+  {
+    "id": 1170,
+    "name": "Leather Hammered Handbag",
+    "price": 26499,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "An artfully designed pearl-studded brocade bangle set that blends heritage techniques with contemporary style. The premium materials ensure lasting beauty and elegance."
+  },
+  {
+    "id": 1175,
+    "name": "Enamel Teal Bracelet",
+    "price": 16999,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "Crafted with premium brocade, this engraved headband features intricate detailing that catches the light beautifully. An investment piece for your accessory collection."
+  },
+  {
+    "id": 1180,
+    "name": "Velvet Engraved Stole",
+    "price": 5499,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "From the Treasure Edit collection, this handcrafted bangle set in satin showcases exceptional artisanship. A versatile piece that elevates both traditional and contemporary outfits."
+  },
+  {
+    "id": 1185,
+    "name": "Beaded Meenakari Pendant",
+    "price": 20499,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "An artfully designed jadau zari clutch that blends heritage techniques with contemporary style. The premium materials ensure lasting beauty and elegance."
+  },
+  {
+    "id": 1190,
+    "name": "Handcrafted Temple Gold Potli Bag",
+    "price": 2499,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "This exquisite zardozi meenakari scarf is a must-have accessory for the discerning woman. Handcrafted with precision, it adds a touch of luxury to any ensemble."
+  },
+  {
+    "id": 1195,
+    "name": "Meenakari Pearl-Studded Choker",
+    "price": 1499,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "An artfully designed handcrafted crystal scarf that blends heritage techniques with contemporary style. The premium materials ensure lasting beauty and elegance."
+  },
+  {
+    "id": 1200,
+    "name": "Temple Gold Zardozi Scarf",
+    "price": 28999,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "Elevate your accessory game with this beaded kundan pendant from the Minimalist Luxe collection. Perfect for adding a luxurious finishing touch to any look."
+  },
+  {
+    "id": 1205,
+    "name": "Jadau Slate Grey Nose Ring",
+    "price": 12999,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "A statement-making zardozi anklet in premium silver-plated that completes any outfit. The meticulous craftsmanship ensures this piece will be treasured for years."
+  },
+  {
+    "id": 1210,
+    "name": "Oxidized Pashmina Maang Tikka",
+    "price": 28499,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "A statement-making oxidized potli bag in premium silver-plated that completes any outfit. The meticulous craftsmanship ensures this piece will be treasured for years."
+  },
+  {
+    "id": 1215,
+    "name": "Hand-Painted Midnight Blue Bracelet",
+    "price": 1999,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "An artfully designed zardozi kundan handbag that blends heritage techniques with contemporary style. The premium materials ensure lasting beauty and elegance."
+  },
+  {
+    "id": 1220,
+    "name": "Silver-Plated Beaded Wristlet",
+    "price": 16999,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "This exquisite lacquer satin choker is a must-have accessory for the discerning woman. Handcrafted with precision, it adds a touch of luxury to any ensemble.",
+    "oldPrice": 20999
+  },
+  {
+    "id": 1225,
+    "name": "Indigo Oxidized Temple Gold Maang Tikka",
+    "price": 10499,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "An artfully designed kundan-set satin sling bag that blends heritage techniques with contemporary style. The premium materials ensure lasting beauty and elegance."
+  },
+  {
+    "id": 1230,
+    "name": "Engraved Burnt Orange Statement Necklace",
+    "price": 7499,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "An artfully designed filigree crystal sling bag that blends heritage techniques with contemporary style. The premium materials ensure lasting beauty and elegance."
+  },
+  {
+    "id": 1235,
+    "name": "Mustard Stone-Set Satin Ring Set",
+    "price": 7499,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "An artfully designed stone-set polki headband that blends heritage techniques with contemporary style. The premium materials ensure lasting beauty and elegance."
+  },
+  {
+    "id": 1240,
+    "name": "Antique Gold Antique-Finish Silver-Plated Crossbody Bag",
+    "price": 7499,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "Crafted with premium meenakari, this jadau pendant features intricate detailing that catches the light beautifully. An investment piece for your accessory collection."
+  },
+  {
+    "id": 1245,
+    "name": "Sage Zardozi Crystal Earrings",
+    "price": 4499,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "From the Opulent Details collection, this enamel hair accessory in polki showcases exceptional artisanship. A versatile piece that elevates both traditional and contemporary outfits."
+  },
+  {
+    "id": 1250,
+    "name": "Cream Pearl Cuff Bracelet",
+    "price": 6499,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "Elevate your accessory game with this kundan-set kundan clutch from the Festival Edit collection. Perfect for adding a luxurious finishing touch to any look.",
+    "oldPrice": 9999,
+    "badge": "Limited"
+  },
+  {
+    "id": 1255,
+    "name": "Beaded Coral Crossbody Bag",
+    "price": 28499,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "This exquisite thewa silk sling bag is a must-have accessory for the discerning woman. Handcrafted with precision, it adds a touch of luxury to any ensemble.",
+    "oldPrice": 39499
+  },
+  {
+    "id": 1260,
+    "name": "Gold Pearl-Studded Kundan Brooch",
+    "price": 10499,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "Crafted with premium pashmina, this handcrafted bracelet features intricate detailing that catches the light beautifully. An investment piece for your accessory collection."
+  },
+  {
+    "id": 1265,
+    "name": "Handcrafted Lavender Earrings",
+    "price": 19499,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "From the Cocktail Collection collection, this oxidized scarf in silver-plated showcases exceptional artisanship. A versatile piece that elevates both traditional and contemporary outfits."
+  },
+  {
+    "id": 1270,
+    "name": "Jadau Brocade Choker",
+    "price": 12499,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "Crafted with premium satin, this pearl-studded tote bag features intricate detailing that catches the light beautifully. An investment piece for your accessory collection.",
+    "oldPrice": 15999,
+    "badge": "New"
+  },
+  {
+    "id": 1275,
+    "name": "Silk Beaded Scarf",
+    "price": 29999,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "An artfully designed handcrafted meenakari choker that blends heritage techniques with contemporary style. The premium materials ensure lasting beauty and elegance."
+  },
+  {
+    "id": 1280,
+    "name": "Kundan-Set Pearl Choker",
+    "price": 16999,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "A statement-making zardozi cuff bracelet in premium zari that completes any outfit. The meticulous craftsmanship ensures this piece will be treasured for years."
+  },
+  {
+    "id": 1285,
+    "name": "Zari Embroidered Brooch",
+    "price": 24499,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "This stunning sequined leather potli bag from our Statement Luxe line embodies Indian luxury craftsmanship. Each piece is individually finished for a truly unique accessory."
+  },
+  {
+    "id": 1290,
+    "name": "Hand-Painted Blush Pink Handbag",
+    "price": 23999,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "This beautifully crafted engraved minaudiere showcases the finest temple gold workmanship. A timeless addition that pairs seamlessly with both ethnic and western wear."
+  },
+  {
+    "id": 1295,
+    "name": "Gold Thewa Polki Nose Ring",
+    "price": 27999,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "This exquisite jadau silk choker is a must-have accessory for the discerning woman. Handcrafted with precision, it adds a touch of luxury to any ensemble."
+  },
+  {
+    "id": 1300,
+    "name": "Copper Pashmina Stole",
+    "price": 5999,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "Elevate your accessory game with this hammered silver-plated statement necklace from the Cocktail Collection collection. Perfect for adding a luxurious finishing touch to any look.",
+    "oldPrice": 8999
+  },
+  {
+    "id": 1305,
+    "name": "Kundan-Set Kundan Sling Bag",
+    "price": 4999,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "From the Regal Adornments collection, this handcrafted cuff bracelet in silk showcases exceptional artisanship. A versatile piece that elevates both traditional and contemporary outfits."
+  },
+  {
+    "id": 1310,
+    "name": "Oxidized Polki Nose Ring",
+    "price": 8999,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "This beautifully crafted oxidized bangle set showcases the finest zari workmanship. A timeless addition that pairs seamlessly with both ethnic and western wear.",
+    "oldPrice": 9999,
+    "badge": "Sale"
+  },
+  {
+    "id": 1315,
+    "name": "Rose Gold Zari Minaudiere",
+    "price": 4499,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "Elevate your accessory game with this pearl-studded kundan stole from the Cocktail Collection collection. Perfect for adding a luxurious finishing touch to any look.",
+    "oldPrice": 5999,
+    "badge": "Sale"
+  },
+  {
+    "id": 1320,
+    "name": "Copper Pashmina Crossbody Bag",
+    "price": 11999,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "A statement-making jadau pendant in premium leather that completes any outfit. The meticulous craftsmanship ensures this piece will be treasured for years.",
+    "oldPrice": 14999,
+    "badge": "Hot"
+  },
+  {
+    "id": 1325,
+    "name": "Sage Gold-Plated Bracelet",
+    "price": 14999,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "This beautifully crafted stone-set crossbody bag showcases the finest temple gold workmanship. A timeless addition that pairs seamlessly with both ethnic and western wear.",
+    "oldPrice": 16499,
+    "badge": "Sale"
+  },
+  {
+    "id": 1330,
+    "name": "Forest Green Crystal Bangle Set",
+    "price": 10999,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "A statement-making crystal-encrusted statement necklace in premium leather that completes any outfit. The meticulous craftsmanship ensures this piece will be treasured for years.",
+    "oldPrice": 16499,
+    "badge": "Limited"
+  },
+  {
+    "id": 1335,
+    "name": "Emerald Enamel Leather Earrings",
+    "price": 24999,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "Crafted with premium brocade, this stone-set scarf features intricate detailing that catches the light beautifully. An investment piece for your accessory collection.",
+    "oldPrice": 27999,
+    "badge": "New"
+  },
+  {
+    "id": 1340,
+    "name": "Silver-Plated Kundan-Set Brooch",
+    "price": 28999,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "This stunning jadau gold-plated clutch from our Minimalist Luxe line embodies Indian luxury craftsmanship. Each piece is individually finished for a truly unique accessory."
+  },
+  {
+    "id": 1345,
+    "name": "Ivory Leather Cuff Bracelet",
+    "price": 2999,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "Crafted with premium gold-plated, this thewa maang tikka features intricate detailing that catches the light beautifully. An investment piece for your accessory collection.",
+    "oldPrice": 3499,
+    "badge": "Hot"
+  },
+  {
+    "id": 1350,
+    "name": "Satin Temple-Style Potli Bag",
+    "price": 6499,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "From the Heritage Jewels collection, this handcrafted pendant in pashmina showcases exceptional artisanship. A versatile piece that elevates both traditional and contemporary outfits.",
+    "oldPrice": 9499,
+    "badge": "Sale"
+  },
+  {
+    "id": 1355,
+    "name": "Filigree Slate Grey Minaudiere",
+    "price": 6999,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "Elevate your accessory game with this thewa pearl handbag from the Modern Heirloom collection. Perfect for adding a luxurious finishing touch to any look.",
+    "oldPrice": 7999,
+    "badge": "Sale"
+  },
+  {
+    "id": 1360,
+    "name": "Sequined Crystal Wristlet",
+    "price": 4499,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "An artfully designed crystal-encrusted silk nose ring that blends heritage techniques with contemporary style. The premium materials ensure lasting beauty and elegance.",
+    "oldPrice": 6499
+  },
+  {
+    "id": 1365,
+    "name": "Silk Oxidized Brooch",
+    "price": 29999,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "This beautifully crafted jadau pendant showcases the finest satin workmanship. A timeless addition that pairs seamlessly with both ethnic and western wear."
+  },
+  {
+    "id": 1370,
+    "name": "Teal Pashmina Wristlet",
+    "price": 23999,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "A statement-making sequined stole in premium silver-plated that completes any outfit. The meticulous craftsmanship ensures this piece will be treasured for years."
+  },
+  {
+    "id": 1375,
+    "name": "Lacquer Charcoal Earrings",
+    "price": 28999,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "A statement-making jadau maang tikka in premium leather that completes any outfit. The meticulous craftsmanship ensures this piece will be treasured for years.",
+    "badge": "Limited"
+  },
+  {
+    "id": 1380,
+    "name": "Indigo Engraved Brocade Tote Bag",
+    "price": 18499,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "An artfully designed kundan-set velvet tote bag that blends heritage techniques with contemporary style. The premium materials ensure lasting beauty and elegance.",
+    "oldPrice": 25999,
+    "badge": "Sale"
+  },
+  {
+    "id": 1385,
+    "name": "Hand-Painted Gold Bangle Set",
+    "price": 10499,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "A statement-making handcrafted choker in premium meenakari that completes any outfit. The meticulous craftsmanship ensures this piece will be treasured for years."
+  },
+  {
+    "id": 1390,
+    "name": "Pearl-Studded Brocade Tote Bag",
+    "price": 28499,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "An artfully designed thewa meenakari statement necklace that blends heritage techniques with contemporary style. The premium materials ensure lasting beauty and elegance."
+  },
+  {
+    "id": 1395,
+    "name": "Blush Pink Antique-Finish Temple Gold Choker",
+    "price": 27499,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "This beautifully crafted thewa potli bag showcases the finest satin workmanship. A timeless addition that pairs seamlessly with both ethnic and western wear."
+  },
+  {
+    "id": 1400,
+    "name": "Amethyst Silk Scarf",
+    "price": 25499,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "Elevate your accessory game with this sequined pashmina belt from the Festival Edit collection. Perfect for adding a luxurious finishing touch to any look.",
+    "badge": "Sale"
+  },
+  {
+    "id": 1405,
+    "name": "Silver-Plated Pearl-Studded Maang Tikka",
+    "price": 14499,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "From the Vintage Revival collection, this hammered ring set in meenakari showcases exceptional artisanship. A versatile piece that elevates both traditional and contemporary outfits."
+  },
+  {
+    "id": 1410,
+    "name": "Kundan-Set Satin Earrings",
+    "price": 9499,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "Crafted with premium crystal, this antique-finish clutch features intricate detailing that catches the light beautifully. An investment piece for your accessory collection."
+  },
+  {
+    "id": 1415,
+    "name": "Thewa Gold Bangle Set",
+    "price": 27999,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "From the Festival Edit collection, this embroidered scarf in pearl showcases exceptional artisanship. A versatile piece that elevates both traditional and contemporary outfits."
+  },
+  {
+    "id": 1420,
+    "name": "Engraved Temple Gold Statement Necklace",
+    "price": 13999,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "Crafted with premium silk, this handcrafted pendant features intricate detailing that catches the light beautifully. An investment piece for your accessory collection."
+  },
+  {
+    "id": 1425,
+    "name": "Zardozi Coral Ring Set",
+    "price": 13999,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "Elevate your accessory game with this hammered pashmina belt from the Regal Adornments collection. Perfect for adding a luxurious finishing touch to any look."
+  },
+  {
+    "id": 1430,
+    "name": "Silk Oxidized Clutch",
+    "price": 7499,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "A statement-making enamel bangle set in premium pearl that completes any outfit. The meticulous craftsmanship ensures this piece will be treasured for years."
+  },
+  {
+    "id": 1435,
+    "name": "Stone-Set Wine Minaudiere",
+    "price": 10499,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "Elevate your accessory game with this antique-finish brocade clutch from the Regal Adornments collection. Perfect for adding a luxurious finishing touch to any look.",
+    "badge": "Sale"
+  },
+  {
+    "id": 1440,
+    "name": "Velvet Beaded Crossbody Bag",
+    "price": 13499,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "Crafted with premium meenakari, this lacquer potli bag features intricate detailing that catches the light beautifully. An investment piece for your accessory collection.",
+    "oldPrice": 18999,
+    "badge": "Sale"
+  },
+  {
+    "id": 1445,
+    "name": "Ruby Sequined Kundan Sling Bag",
+    "price": 20999,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "Crafted with premium silk, this enamel minaudiere features intricate detailing that catches the light beautifully. An investment piece for your accessory collection."
+  },
+  {
+    "id": 1450,
+    "name": "Champagne Kundan Hair Accessory",
+    "price": 27999,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "A statement-making jadau belt in premium temple gold that completes any outfit. The meticulous craftsmanship ensures this piece will be treasured for years."
+  },
+  {
+    "id": 1455,
+    "name": "Beaded Onyx Choker",
+    "price": 23999,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "Elevate your accessory game with this engraved velvet choker from the Artisan Collection collection. Perfect for adding a luxurious finishing touch to any look.",
+    "oldPrice": 30999,
+    "badge": "Sale"
+  },
+  {
+    "id": 1460,
+    "name": "Kundan Hammered Tote Bag",
+    "price": 12999,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "From the Statement Luxe collection, this hammered tote bag in silk showcases exceptional artisanship. A versatile piece that elevates both traditional and contemporary outfits."
+  },
+  {
+    "id": 1465,
+    "name": "Jadau Charcoal Tote Bag",
+    "price": 21999,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "Elevate your accessory game with this hammered brocade choker from the Everyday Luxe collection. Perfect for adding a luxurious finishing touch to any look.",
+    "badge": "Sale"
+  },
+  {
+    "id": 1470,
+    "name": "Filigree Indigo Cuff Bracelet",
+    "price": 22999,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "Elevate your accessory game with this oxidized zari wristlet from the Resort Accessories collection. Perfect for adding a luxurious finishing touch to any look.",
+    "oldPrice": 28999,
+    "badge": "Hot"
+  },
+  {
+    "id": 1475,
+    "name": "Sequined Ivory Wristlet",
+    "price": 6499,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "Elevate your accessory game with this temple-style gold-plated brooch from the Bridal Luxe collection. Perfect for adding a luxurious finishing touch to any look."
+  },
+  {
+    "id": 1480,
+    "name": "Copper Crystal Maang Tikka",
+    "price": 20999,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "This stunning antique-finish pashmina bangle set from our Resort Accessories line embodies Indian luxury craftsmanship. Each piece is individually finished for a truly unique accessory."
+  },
+  {
+    "id": 1485,
+    "name": "Wine Kundan Stole",
+    "price": 21499,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "Elevate your accessory game with this sequined kundan choker from the Bridal Luxe collection. Perfect for adding a luxurious finishing touch to any look."
+  },
+  {
+    "id": 1490,
+    "name": "Lacquer Meenakari Earrings",
+    "price": 14999,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "This beautifully crafted lacquer statement necklace showcases the finest zari workmanship. A timeless addition that pairs seamlessly with both ethnic and western wear.",
+    "oldPrice": 17999,
+    "badge": "Sale"
+  },
+  {
+    "id": 1495,
+    "name": "Pearl-Studded Pearl White Scarf",
+    "price": 19499,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "Elevate your accessory game with this jadau temple gold belt from the Festival Edit collection. Perfect for adding a luxurious finishing touch to any look.",
+    "oldPrice": 22499,
+    "badge": "Limited"
+  },
+  {
+    "id": 1500,
+    "name": "Handcrafted Silk Tote Bag",
+    "price": 6999,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "This beautifully crafted stone-set hair accessory showcases the finest brocade workmanship. A timeless addition that pairs seamlessly with both ethnic and western wear."
+  },
+  {
+    "id": 1505,
+    "name": "Temple-Style Zari Handbag",
+    "price": 8499,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "A statement-making hammered stole in premium velvet that completes any outfit. The meticulous craftsmanship ensures this piece will be treasured for years."
+  },
+  {
+    "id": 1510,
+    "name": "Enamel Slate Grey Sling Bag",
+    "price": 13999,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "This stunning hammered leather scarf from our Regal Adornments line embodies Indian luxury craftsmanship. Each piece is individually finished for a truly unique accessory."
+  },
+  {
+    "id": 1515,
+    "name": "Embroidered Burgundy Scarf",
+    "price": 3499,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "This exquisite enamel polki scarf is a must-have accessory for the discerning woman. Handcrafted with precision, it adds a touch of luxury to any ensemble."
+  },
+  {
+    "id": 1520,
+    "name": "Antique-Finish Zari Cuff Bracelet",
+    "price": 2999,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "Elevate your accessory game with this embroidered meenakari bracelet from the Treasure Edit collection. Perfect for adding a luxurious finishing touch to any look.",
+    "oldPrice": 4499,
+    "badge": "Sale"
+  },
+  {
+    "id": 1525,
+    "name": "Beaded Leather Nose Ring",
+    "price": 4999,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "Crafted with premium gold-plated, this beaded crossbody bag features intricate detailing that catches the light beautifully. An investment piece for your accessory collection."
+  },
+  {
+    "id": 1530,
+    "name": "Crystal-Encrusted Temple Gold Anklet",
+    "price": 13999,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "A statement-making beaded earrings in premium silk that completes any outfit. The meticulous craftsmanship ensures this piece will be treasured for years."
+  },
+  {
+    "id": 1535,
+    "name": "Amethyst Polki Nose Ring",
+    "price": 10499,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "A statement-making jadau nose ring in premium temple gold that completes any outfit. The meticulous craftsmanship ensures this piece will be treasured for years."
+  },
+  {
+    "id": 1540,
+    "name": "Enamel Brocade Scarf",
+    "price": 13499,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "A statement-making stone-set bangle set in premium meenakari that completes any outfit. The meticulous craftsmanship ensures this piece will be treasured for years.",
+    "oldPrice": 18999,
+    "badge": "Limited"
+  },
+  {
+    "id": 1545,
+    "name": "Zardozi Satin Handbag",
+    "price": 12999,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "Elevate your accessory game with this antique-finish satin nose ring from the Regal Adornments collection. Perfect for adding a luxurious finishing touch to any look."
+  },
+  {
+    "id": 1550,
+    "name": "Thewa Coral Maang Tikka",
+    "price": 19499,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "Crafted with premium velvet, this kundan-set wristlet features intricate detailing that catches the light beautifully. An investment piece for your accessory collection."
+  },
+  {
+    "id": 1555,
+    "name": "Plum Sequined Kundan Belt",
+    "price": 26499,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "Elevate your accessory game with this temple-style silver-plated brooch from the Heritage Jewels collection. Perfect for adding a luxurious finishing touch to any look."
+  },
+  {
+    "id": 1560,
+    "name": "Kundan-Set Gold-Plated Hair Accessory",
+    "price": 28499,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "Elevate your accessory game with this hand-painted polki wristlet from the Modern Heirloom collection. Perfect for adding a luxurious finishing touch to any look.",
+    "badge": "New"
+  },
+  {
+    "id": 1565,
+    "name": "Engraved Mauve Bangle Set",
+    "price": 10999,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "This exquisite filigree pashmina handbag is a must-have accessory for the discerning woman. Handcrafted with precision, it adds a touch of luxury to any ensemble.",
+    "badge": "Limited"
+  },
+  {
+    "id": 1570,
+    "name": "Oxidized Silk Scarf",
+    "price": 27999,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "From the Signature Pieces collection, this beaded maang tikka in pearl showcases exceptional artisanship. A versatile piece that elevates both traditional and contemporary outfits."
+  },
+  {
+    "id": 1575,
+    "name": "Temple Gold Zardozi Nose Ring",
+    "price": 13999,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "This beautifully crafted beaded maang tikka showcases the finest pashmina workmanship. A timeless addition that pairs seamlessly with both ethnic and western wear."
+  },
+  {
+    "id": 1580,
+    "name": "Thewa Silver Ring Set",
+    "price": 8999,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "A statement-making pearl-studded handbag in premium leather that completes any outfit. The meticulous craftsmanship ensures this piece will be treasured for years.",
+    "oldPrice": 11999
+  },
+  {
+    "id": 1585,
+    "name": "Jadau Mustard Minaudiere",
+    "price": 27499,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "From the Modern Heirloom collection, this zardozi stole in pearl showcases exceptional artisanship. A versatile piece that elevates both traditional and contemporary outfits."
+  },
+  {
+    "id": 1590,
+    "name": "Filigree Dusty Rose Cuff Bracelet",
+    "price": 25999,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "Crafted with premium silk, this filigree clutch features intricate detailing that catches the light beautifully. An investment piece for your accessory collection."
+  },
+  {
+    "id": 1595,
+    "name": "Deep Teal Oxidized Satin Headband",
+    "price": 5999,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "Crafted with premium pearl, this lacquer earrings features intricate detailing that catches the light beautifully. An investment piece for your accessory collection."
+  },
+  {
+    "id": 1600,
+    "name": "Temple-Style Crystal Crossbody Bag",
+    "price": 16999,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "Elevate your accessory game with this hammered leather sling bag from the Opulent Details collection. Perfect for adding a luxurious finishing touch to any look."
+  },
+  {
+    "id": 1605,
+    "name": "Temple-Style Sage Handbag",
+    "price": 16499,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "An artfully designed jadau zari choker that blends heritage techniques with contemporary style. The premium materials ensure lasting beauty and elegance."
+  },
+  {
+    "id": 1610,
+    "name": "Crystal-Encrusted Silver Clutch",
+    "price": 12499,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "From the Bold & Beautiful collection, this pearl-studded crossbody bag in gold-plated showcases exceptional artisanship. A versatile piece that elevates both traditional and contemporary outfits."
+  },
+  {
+    "id": 1615,
+    "name": "Silver-Plated Handcrafted Potli Bag",
+    "price": 11499,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "This beautifully crafted jadau anklet showcases the finest pearl workmanship. A timeless addition that pairs seamlessly with both ethnic and western wear."
+  },
+  {
+    "id": 1620,
+    "name": "Copper Leather Bracelet",
+    "price": 27999,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "A statement-making engraved headband in premium brocade that completes any outfit. The meticulous craftsmanship ensures this piece will be treasured for years."
+  },
+  {
+    "id": 1625,
+    "name": "Lacquer Temple Gold Scarf",
+    "price": 26499,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "This stunning jadau gold-plated bracelet from our Royal Collection line embodies Indian luxury craftsmanship. Each piece is individually finished for a truly unique accessory."
+  },
+  {
+    "id": 1630,
+    "name": "Handcrafted Burgundy Cuff Bracelet",
+    "price": 12999,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "From the Classic Edit collection, this temple-style stole in gold-plated showcases exceptional artisanship. A versatile piece that elevates both traditional and contemporary outfits."
+  },
+  {
+    "id": 1635,
+    "name": "Teal Embroidered Meenakari Sling Bag",
+    "price": 20999,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "This beautifully crafted crystal-encrusted cuff bracelet showcases the finest kundan workmanship. A timeless addition that pairs seamlessly with both ethnic and western wear."
+  },
+  {
+    "id": 1640,
+    "name": "Onyx Filigree Pearl Stole",
+    "price": 23499,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "From the Royal Collection collection, this pearl-studded ring set in satin showcases exceptional artisanship. A versatile piece that elevates both traditional and contemporary outfits."
+  },
+  {
+    "id": 1645,
+    "name": "Slate Grey Embroidered Velvet Earrings",
+    "price": 20999,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "Crafted with premium silk, this hand-painted maang tikka features intricate detailing that catches the light beautifully. An investment piece for your accessory collection.",
+    "oldPrice": 25999
+  },
+  {
+    "id": 1650,
+    "name": "Indigo Temple-Style Velvet Pendant",
+    "price": 14999,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "From the Treasure Edit collection, this kundan-set crossbody bag in silk showcases exceptional artisanship. A versatile piece that elevates both traditional and contemporary outfits.",
+    "badge": "New"
+  },
+  {
+    "id": 1655,
+    "name": "Temple-Style Crystal Wristlet",
+    "price": 2499,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "From the Minimalist Luxe collection, this enamel handbag in crystal showcases exceptional artisanship. A versatile piece that elevates both traditional and contemporary outfits."
+  },
+  {
+    "id": 1660,
+    "name": "Silver Pearl Bracelet",
+    "price": 7499,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "Crafted with premium leather, this filigree wristlet features intricate detailing that catches the light beautifully. An investment piece for your accessory collection."
+  },
+  {
+    "id": 1665,
+    "name": "Pashmina Beaded Minaudiere",
+    "price": 9999,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "A statement-making hammered hair accessory in premium leather that completes any outfit. The meticulous craftsmanship ensures this piece will be treasured for years."
+  },
+  {
+    "id": 1670,
+    "name": "Cream Zari Potli Bag",
+    "price": 28999,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "Elevate your accessory game with this handcrafted velvet earrings from the Classic Edit collection. Perfect for adding a luxurious finishing touch to any look.",
+    "oldPrice": 31999,
+    "badge": "New"
+  },
+  {
+    "id": 1675,
+    "name": "Brocade Zardozi Potli Bag",
+    "price": 4999,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "This beautifully crafted beaded headband showcases the finest silver-plated workmanship. A timeless addition that pairs seamlessly with both ethnic and western wear."
+  },
+  {
+    "id": 1680,
+    "name": "Thewa Jade Handbag",
+    "price": 28999,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "From the Regal Adornments collection, this pearl-studded belt in temple gold showcases exceptional artisanship. A versatile piece that elevates both traditional and contemporary outfits."
+  },
+  {
+    "id": 1685,
+    "name": "Mustard Pashmina Earrings",
+    "price": 25499,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "Elevate your accessory game with this hammered velvet minaudiere from the Festival Edit collection. Perfect for adding a luxurious finishing touch to any look.",
+    "badge": "Sale"
+  },
+  {
+    "id": 1690,
+    "name": "Zari Jadau Minaudiere",
+    "price": 21499,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "This beautifully crafted antique-finish nose ring showcases the finest leather workmanship. A timeless addition that pairs seamlessly with both ethnic and western wear."
+  },
+  {
+    "id": 1695,
+    "name": "Onyx Silk Clutch",
+    "price": 999,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "This beautifully crafted sequined stole showcases the finest meenakari workmanship. A timeless addition that pairs seamlessly with both ethnic and western wear."
+  },
+  {
+    "id": 1700,
+    "name": "Dusty Rose Pashmina Minaudiere",
+    "price": 17999,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "This exquisite crystal-encrusted zari potli bag is a must-have accessory for the discerning woman. Handcrafted with precision, it adds a touch of luxury to any ensemble."
+  },
+  {
+    "id": 1705,
+    "name": "Lacquer Champagne Choker",
+    "price": 17499,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "This beautifully crafted engraved clutch showcases the finest gold-plated workmanship. A timeless addition that pairs seamlessly with both ethnic and western wear."
+  },
+  {
+    "id": 1710,
+    "name": "Terracotta Engraved Leather Stole",
+    "price": 20999,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "Crafted with premium velvet, this kundan-set potli bag features intricate detailing that catches the light beautifully. An investment piece for your accessory collection."
+  },
+  {
+    "id": 1715,
+    "name": "Oxidized Ivory Pendant",
+    "price": 4999,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "This exquisite beaded meenakari crossbody bag is a must-have accessory for the discerning woman. Handcrafted with precision, it adds a touch of luxury to any ensemble."
+  },
+  {
+    "id": 1720,
+    "name": "Charcoal Hammered Silver-Plated Statement Necklace",
+    "price": 10499,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "This beautifully crafted temple-style hair accessory showcases the finest gold-plated workmanship. A timeless addition that pairs seamlessly with both ethnic and western wear."
+  },
+  {
+    "id": 1725,
+    "name": "Engraved Brocade Handbag",
+    "price": 21999,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "This beautifully crafted thewa bracelet showcases the finest leather workmanship. A timeless addition that pairs seamlessly with both ethnic and western wear."
+  },
+  {
+    "id": 1730,
+    "name": "Filigree Dusty Rose Tote Bag",
+    "price": 21999,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "A statement-making crystal-encrusted scarf in premium polki that completes any outfit. The meticulous craftsmanship ensures this piece will be treasured for years.",
+    "badge": "Limited"
+  },
+  {
+    "id": 1735,
+    "name": "Kundan-Set Crystal Pendant",
+    "price": 2499,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "Crafted with premium brocade, this kundan-set scarf features intricate detailing that catches the light beautifully. An investment piece for your accessory collection."
+  },
+  {
+    "id": 1740,
+    "name": "Enamel Silver-Plated Bracelet",
+    "price": 23999,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "A statement-making zardozi tote bag in premium polki that completes any outfit. The meticulous craftsmanship ensures this piece will be treasured for years."
+  },
+  {
+    "id": 1745,
+    "name": "Enamel Gold-Plated Clutch",
+    "price": 14999,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "A statement-making beaded wristlet in premium kundan that completes any outfit. The meticulous craftsmanship ensures this piece will be treasured for years.",
+    "badge": "New"
+  },
+  {
+    "id": 1750,
+    "name": "Pearl-Studded Dusty Rose Handbag",
+    "price": 11999,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "This beautifully crafted engraved potli bag showcases the finest meenakari workmanship. A timeless addition that pairs seamlessly with both ethnic and western wear."
+  },
+  {
+    "id": 1755,
+    "name": "Silver Leather Bangle Set",
+    "price": 3499,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "This beautifully crafted crystal-encrusted earrings showcases the finest zari workmanship. A timeless addition that pairs seamlessly with both ethnic and western wear."
+  },
+  {
+    "id": 1760,
+    "name": "Kundan-Set Brocade Tote Bag",
+    "price": 4999,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "An artfully designed engraved kundan handbag that blends heritage techniques with contemporary style. The premium materials ensure lasting beauty and elegance.",
+    "oldPrice": 6999,
+    "badge": "Hot"
+  },
+  {
+    "id": 1765,
+    "name": "Oxidized Champagne Tote Bag",
+    "price": 1999,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "Elevate your accessory game with this embroidered polki crossbody bag from the Bridal Luxe collection. Perfect for adding a luxurious finishing touch to any look.",
+    "oldPrice": 2999,
+    "badge": "Sale"
+  },
+  {
+    "id": 1770,
+    "name": "Antique Gold Zardozi Zari Choker",
+    "price": 4999,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "This beautifully crafted beaded bangle set showcases the finest silk workmanship. A timeless addition that pairs seamlessly with both ethnic and western wear."
+  },
+  {
+    "id": 1775,
+    "name": "Zari Thewa Bangle Set",
+    "price": 8499,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "From the Treasure Edit collection, this embroidered brooch in polki showcases exceptional artisanship. A versatile piece that elevates both traditional and contemporary outfits."
+  },
+  {
+    "id": 1780,
+    "name": "Ivory Velvet Potli Bag",
+    "price": 28499,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "A statement-making hammered ring set in premium gold-plated that completes any outfit. The meticulous craftsmanship ensures this piece will be treasured for years."
+  },
+  {
+    "id": 1785,
+    "name": "Velvet Sequined Potli Bag",
+    "price": 25499,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "This stunning antique-finish kundan hair accessory from our Everyday Luxe line embodies Indian luxury craftsmanship. Each piece is individually finished for a truly unique accessory.",
+    "badge": "New"
+  },
+  {
+    "id": 1790,
+    "name": "Burnt Orange Lacquer Brocade Choker",
+    "price": 14499,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "From the Minimalist Luxe collection, this thewa statement necklace in polki showcases exceptional artisanship. A versatile piece that elevates both traditional and contemporary outfits."
+  },
+  {
+    "id": 1795,
+    "name": "Kundan-Set Champagne Choker",
+    "price": 13999,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "From the Heritage Jewels collection, this crystal-encrusted earrings in pearl showcases exceptional artisanship. A versatile piece that elevates both traditional and contemporary outfits."
+  },
+  {
+    "id": 1800,
+    "name": "Hand-Painted Meenakari Cuff Bracelet",
+    "price": 13999,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "This exquisite temple-style silk potli bag is a must-have accessory for the discerning woman. Handcrafted with precision, it adds a touch of luxury to any ensemble.",
+    "oldPrice": 15499
+  },
+  {
+    "id": 1805,
+    "name": "Lacquer Antique Gold Pendant",
+    "price": 11999,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "From the Evening Glam collection, this antique-finish bangle set in zari showcases exceptional artisanship. A versatile piece that elevates both traditional and contemporary outfits."
+  },
+  {
+    "id": 1810,
+    "name": "Antique-Finish Mustard Anklet",
+    "price": 15499,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "This stunning hammered zari cuff bracelet from our Statement Luxe line embodies Indian luxury craftsmanship. Each piece is individually finished for a truly unique accessory.",
+    "oldPrice": 17999,
+    "badge": "Limited"
+  },
+  {
+    "id": 1815,
+    "name": "Amethyst Pearl Pendant",
+    "price": 9999,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "Crafted with premium gold-plated, this handcrafted scarf features intricate detailing that catches the light beautifully. An investment piece for your accessory collection.",
+    "oldPrice": 12499,
+    "badge": "Hot"
+  },
+  {
+    "id": 1820,
+    "name": "Brocade Enamel Stole",
+    "price": 22999,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "This stunning beaded pearl maang tikka from our Bold & Beautiful line embodies Indian luxury craftsmanship. Each piece is individually finished for a truly unique accessory."
+  },
+  {
+    "id": 1825,
+    "name": "Enamel Leather Ring Set",
+    "price": 2999,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "Elevate your accessory game with this temple-style temple gold hair accessory from the Signature Pieces collection. Perfect for adding a luxurious finishing touch to any look."
+  },
+  {
+    "id": 1830,
+    "name": "Enamel Nude Earrings",
+    "price": 10499,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "Elevate your accessory game with this stone-set pearl minaudiere from the Heritage Jewels collection. Perfect for adding a luxurious finishing touch to any look.",
+    "oldPrice": 13499,
+    "badge": "Sale"
+  },
+  {
+    "id": 1835,
+    "name": "Zari Pearl-Studded Clutch",
+    "price": 29499,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "A statement-making jadau ring set in premium silver-plated that completes any outfit. The meticulous craftsmanship ensures this piece will be treasured for years."
+  },
+  {
+    "id": 1840,
+    "name": "Teal Stone-Set Pashmina Sling Bag",
+    "price": 27499,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "Crafted with premium pashmina, this jadau brooch features intricate detailing that catches the light beautifully. An investment piece for your accessory collection.",
+    "badge": "Hot"
+  },
+  {
+    "id": 1845,
+    "name": "Nude Crystal Handbag",
+    "price": 4499,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "This stunning kundan-set gold-plated belt from our Heritage Jewels line embodies Indian luxury craftsmanship. Each piece is individually finished for a truly unique accessory."
+  },
+  {
+    "id": 1850,
+    "name": "Hand-Painted Amethyst Potli Bag",
+    "price": 5999,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "Crafted with premium zari, this stone-set sling bag features intricate detailing that catches the light beautifully. An investment piece for your accessory collection."
+  },
+  {
+    "id": 1855,
+    "name": "Silver Lacquer Silk Scarf",
+    "price": 28499,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "From the Minimalist Luxe collection, this thewa belt in crystal showcases exceptional artisanship. A versatile piece that elevates both traditional and contemporary outfits.",
+    "badge": "Hot"
+  },
+  {
+    "id": 1860,
+    "name": "Gold-Plated Enamel Minaudiere",
+    "price": 11999,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "Crafted with premium brocade, this crystal-encrusted bracelet features intricate detailing that catches the light beautifully. An investment piece for your accessory collection."
+  },
+  {
+    "id": 1865,
+    "name": "Velvet Hand-Painted Bracelet",
+    "price": 2499,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "A statement-making pearl-studded anklet in premium silk that completes any outfit. The meticulous craftsmanship ensures this piece will be treasured for years."
+  },
+  {
+    "id": 1870,
+    "name": "Temple-Style Gold Nose Ring",
+    "price": 16499,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "Crafted with premium satin, this kundan-set potli bag features intricate detailing that catches the light beautifully. An investment piece for your accessory collection."
+  },
+  {
+    "id": 1875,
+    "name": "Stone-Set Pashmina Minaudiere",
+    "price": 13499,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "A statement-making thewa choker in premium kundan that completes any outfit. The meticulous craftsmanship ensures this piece will be treasured for years."
+  },
+  {
+    "id": 1880,
+    "name": "Wine Filigree Velvet Headband",
+    "price": 2999,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "Elevate your accessory game with this stone-set silver-plated brooch from the Signature Pieces collection. Perfect for adding a luxurious finishing touch to any look."
+  },
+  {
+    "id": 1885,
+    "name": "Crystal-Encrusted Kundan Hair Accessory",
+    "price": 20499,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "This stunning embroidered zari crossbody bag from our Couture Accessories line embodies Indian luxury craftsmanship. Each piece is individually finished for a truly unique accessory.",
+    "badge": "Sale"
+  },
+  {
+    "id": 1890,
+    "name": "Jadau Kundan Crossbody Bag",
+    "price": 7999,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "This exquisite embroidered crystal stole is a must-have accessory for the discerning woman. Handcrafted with precision, it adds a touch of luxury to any ensemble.",
+    "oldPrice": 11499
+  },
+  {
+    "id": 1895,
+    "name": "Pearl White Hammered Gold-Plated Stole",
+    "price": 5999,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "This exquisite engraved kundan earrings is a must-have accessory for the discerning woman. Handcrafted with precision, it adds a touch of luxury to any ensemble."
+  },
+  {
+    "id": 1900,
+    "name": "Coral Pearl-Studded Temple Gold Tote Bag",
+    "price": 23499,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "A statement-making antique-finish sling bag in premium meenakari that completes any outfit. The meticulous craftsmanship ensures this piece will be treasured for years.",
+    "oldPrice": 30999
+  },
+  {
+    "id": 1905,
+    "name": "Stone-Set Meenakari Clutch",
+    "price": 17499,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "Elevate your accessory game with this jadau silk crossbody bag from the Cocktail Collection collection. Perfect for adding a luxurious finishing touch to any look."
+  },
+  {
+    "id": 1910,
+    "name": "Sapphire Oxidized Kundan Scarf",
+    "price": 28999,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "This exquisite hand-painted leather maang tikka is a must-have accessory for the discerning woman. Handcrafted with precision, it adds a touch of luxury to any ensemble."
+  },
+  {
+    "id": 1915,
+    "name": "Jade Filigree Satin Statement Necklace",
+    "price": 6999,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "Crafted with premium gold-plated, this enamel tote bag features intricate detailing that catches the light beautifully. An investment piece for your accessory collection.",
+    "oldPrice": 10499,
+    "badge": "Sale"
+  },
+  {
+    "id": 1920,
+    "name": "Kundan-Set Terracotta Nose Ring",
+    "price": 22999,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "Elevate your accessory game with this kundan-set pearl clutch from the Resort Accessories collection. Perfect for adding a luxurious finishing touch to any look."
+  },
+  {
+    "id": 1925,
+    "name": "Crystal-Encrusted Brocade Tote Bag",
+    "price": 17499,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "This beautifully crafted pearl-studded nose ring showcases the finest kundan workmanship. A timeless addition that pairs seamlessly with both ethnic and western wear.",
+    "oldPrice": 24999,
+    "badge": "Hot"
+  },
+  {
+    "id": 1930,
+    "name": "Kundan-Set Brocade Minaudiere",
+    "price": 6499,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "An artfully designed jadau pearl anklet that blends heritage techniques with contemporary style. The premium materials ensure lasting beauty and elegance.",
+    "oldPrice": 9499
+  },
+  {
+    "id": 1935,
+    "name": "Lavender Temple Gold Bracelet",
+    "price": 17999,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "This exquisite oxidized silk choker is a must-have accessory for the discerning woman. Handcrafted with precision, it adds a touch of luxury to any ensemble.",
+    "oldPrice": 23999,
+    "badge": "Sale"
+  },
+  {
+    "id": 1940,
+    "name": "Terracotta Brocade Anklet",
+    "price": 11499,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "Crafted with premium crystal, this embroidered minaudiere features intricate detailing that catches the light beautifully. An investment piece for your accessory collection."
+  },
+  {
+    "id": 1945,
+    "name": "Terracotta Velvet Hair Accessory",
+    "price": 9499,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "This beautifully crafted hammered ring set showcases the finest pearl workmanship. A timeless addition that pairs seamlessly with both ethnic and western wear."
+  },
+  {
+    "id": 1950,
+    "name": "Burnt Orange Polki Crossbody Bag",
+    "price": 12499,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "This stunning hand-painted leather statement necklace from our Cocktail Collection line embodies Indian luxury craftsmanship. Each piece is individually finished for a truly unique accessory."
+  },
+  {
+    "id": 1955,
+    "name": "Onyx Kundan-Set Gold-Plated Scarf",
+    "price": 22499,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "From the Heritage Jewels collection, this beaded sling bag in silver-plated showcases exceptional artisanship. A versatile piece that elevates both traditional and contemporary outfits."
+  },
+  {
+    "id": 1960,
+    "name": "Meenakari Zardozi Bangle Set",
+    "price": 28999,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "Crafted with premium pashmina, this temple-style bangle set features intricate detailing that catches the light beautifully. An investment piece for your accessory collection."
+  },
+  {
+    "id": 1965,
+    "name": "Brocade Antique-Finish Handbag",
+    "price": 20499,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "This exquisite thewa brocade nose ring is a must-have accessory for the discerning woman. Handcrafted with precision, it adds a touch of luxury to any ensemble."
+  },
+  {
+    "id": 1970,
+    "name": "Lacquer Satin Bangle Set",
+    "price": 6499,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "From the Resort Accessories collection, this hammered maang tikka in silk showcases exceptional artisanship. A versatile piece that elevates both traditional and contemporary outfits.",
+    "oldPrice": 8499,
+    "badge": "Sale"
+  },
+  {
+    "id": 1975,
+    "name": "Mauve Oxidized Velvet Cuff Bracelet",
+    "price": 19499,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "This stunning handcrafted silk bangle set from our Opulent Details line embodies Indian luxury craftsmanship. Each piece is individually finished for a truly unique accessory."
+  },
+  {
+    "id": 1980,
+    "name": "Temple-Style Satin Belt",
+    "price": 18499,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "From the Bridal Luxe collection, this pearl-studded minaudiere in gold-plated showcases exceptional artisanship. A versatile piece that elevates both traditional and contemporary outfits."
+  },
+  {
+    "id": 1985,
+    "name": "Temple Gold Zardozi Sling Bag",
+    "price": 7999,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "Crafted with premium silk, this kundan-set bangle set features intricate detailing that catches the light beautifully. An investment piece for your accessory collection."
+  },
+  {
+    "id": 1990,
+    "name": "Ivory Zari Handbag",
+    "price": 12999,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "This exquisite handcrafted leather clutch is a must-have accessory for the discerning woman. Handcrafted with precision, it adds a touch of luxury to any ensemble."
+  },
+  {
+    "id": 1995,
+    "name": "Embroidered Ivory Choker",
+    "price": 1499,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "Crafted with premium silk, this temple-style pendant features intricate detailing that catches the light beautifully. An investment piece for your accessory collection."
+  },
+  {
+    "id": 2000,
+    "name": "Indigo Enamel Zari Wristlet",
+    "price": 999,
+    "category": "Accessories",
+    "images": [],
+    "emoji": "👜",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "A statement-making stone-set handbag in premium pashmina that completes any outfit. The meticulous craftsmanship ensures this piece will be treasured for years.",
+    "oldPrice": 1499
+  }
+]
