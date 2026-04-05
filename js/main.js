@@ -78,7 +78,17 @@ function toggleNav() {
   if (links) links.classList.toggle('open');
 }
 
-// ===== IMAGE HELPER =====
+// ===== ICON/IMAGE HELPER =====
+// Use for categories, values, features — shows image if available, otherwise emoji/icon
+function iconOrImage(item, size, fallbackField) {
+  const field = fallbackField || 'icon';
+  if (item.image) {
+    return `<img src="${item.image}" alt="${item.title || item.name || ''}" style="width:${size};height:${size};object-fit:cover;border-radius:8px;" onerror="this.outerHTML='<span style=\\'font-size:${size};\\'>${item[field] || item.emoji || ''}</span>'">`;
+  }
+  return `<span style="font-size:${size};">${item[field] || item.emoji || ''}</span>`;
+}
+
+// ===== PRODUCT IMAGE HELPER =====
 function productImageHTML(p, size) {
   const hasImages = p.images && p.images.length > 0;
   if (hasImages) {
@@ -236,7 +246,10 @@ function renderCategories(containerId) {
       <div class="category-card__overlay">
         <span class="category-card__name">${c.name}</span>
       </div>
-      <div style="width:100%;height:100%;background:${c.gradient || 'linear-gradient(135deg,#1a1a1a,#111)'};display:flex;align-items:center;justify-content:center;font-size:3rem;">${c.emoji}</div>
+      ${c.image
+        ? `<img src="${c.image}" alt="${c.name}" style="width:100%;height:100%;object-fit:cover;" onerror="this.outerHTML='<div style=\\'width:100%;height:100%;background:${c.gradient || 'linear-gradient(135deg,#1a1a1a,#111)'};display:flex;align-items:center;justify-content:center;font-size:3rem;\\'>${c.emoji}</div>'">`
+        : `<div style="width:100%;height:100%;background:${c.gradient || 'linear-gradient(135deg,#1a1a1a,#111)'};display:flex;align-items:center;justify-content:center;font-size:3rem;">${c.emoji}</div>`
+      }
     </a>
   `).join('');
 }
