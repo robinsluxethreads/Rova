@@ -106,6 +106,7 @@
       <div class="header-actions">
         <button class="btn btn-gold" onclick="openAddModal()">+ Add Product</button>
         <button class="btn btn-green" onclick="exportProducts()">Export products.json</button>
+        <button class="btn btn-outline" onclick="exportByCategory()">Export by Category</button>
         <label class="btn btn-outline" style="cursor:pointer;">
           Import JSON
           <input type="file" accept=".json" onchange="importProducts(event)" style="display:none;">
@@ -406,6 +407,31 @@
       a.click();
       URL.revokeObjectURL(url);
       showToast('products.json downloaded! Replace data/products.json in your repo.');
+    }
+
+    // Export by category (for 500+ products performance)
+    function exportByCategory() {
+      const categories = (siteConfig.categories || []).map(c => c.name);
+      let count = 0;
+      categories.forEach(cat => {
+        const catProducts = products.filter(p => p.category === cat);
+        if (catProducts.length === 0) return;
+        const slug = cat.toLowerCase().replace(/\s+/g, '-');
+        const clean = catProducts.map(p => {
+          const obj = { id: p.id, name: p.name, price: p.price, category: p.category, images: p.images || [], emoji: p.emoji || '👗', sizes: p.sizes, description: p.description };
+          if (p.oldPrice) obj.oldPrice = p.oldPrice;
+          if (p.badge) obj.badge = p.badge;
+          return obj;
+        });
+        const blob = new Blob([JSON.stringify(clean, null, 2)], { type: 'application/json' });
+        const a = document.createElement('a');
+        a.href = URL.createObjectURL(blob);
+        a.download = `products-${slug}.json`;
+        a.click();
+        URL.revokeObjectURL(a.href);
+        count++;
+      });
+      showToast(`Exported ${count} category files! Put them in your data/ folder.`);
     }
 
     // Import
