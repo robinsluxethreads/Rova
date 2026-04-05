@@ -37,6 +37,10 @@
         <!-- Sidebar -->
         <aside class="shop-sidebar">
           <div class="filter-group">
+            <h3 class="filter-group__title">Search</h3>
+            <input type="text" id="searchFilter" placeholder="Search products..." oninput="filterProducts()" style="width:100%;padding:12px 14px;background:var(--bg-primary);border:1px solid var(--border);border-radius:var(--radius);color:var(--text-primary);">
+          </div>
+          <div class="filter-group">
             <h3 class="filter-group__title">Category</h3>
             <div id="categoryFilters"></div>
           </div>
