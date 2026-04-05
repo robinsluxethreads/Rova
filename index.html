@@ -170,7 +170,7 @@
         if (featEl && features.length) {
           featEl.innerHTML = features.map(f => `
             <div class="feature">
-              <div class="feature__icon">${f.icon}</div>
+              <div class="feature__icon">${f.image ? `<img src="${f.image}" alt="${f.title}" style="width:48px;height:48px;object-fit:contain;" onerror="this.outerHTML='${f.icon}'">` : f.icon}</div>
               <h3 class="feature__title">${f.title}</h3>
               <p class="feature__desc">${f.desc}</p>
             </div>
