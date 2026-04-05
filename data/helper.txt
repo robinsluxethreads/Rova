@@ -1,0 +1,76 @@
+{
+  "brand": {
+    "name": "YOUR BRAND NAME",          // Navbar + footer logo
+    "tagline": "Your brand description", // Footer text under logo
+    "year": "2025",                      // Copyright year
+    "heroSubtitle": "New Collection 2026", // Small text above hero title
+    "heroTitle": "Your Main Heading",    // Big hero heading
+    "heroDesc": "Your description text"  // Paragraph below hero title
+  },
+
+  "currency": {
+    "symbol": "₹",                       // ₹ for INR, $ for USD, € for EUR
+    "code": "INR"                        // Currency code
+  },
+
+  "contact": {
+    "whatsappNumber": "919876543210",    // Country code + number (no + no spaces)
+    "email": "your@email.com",           // Main email
+    "supportEmail": "support@email.com", // Support email (optional)
+    "phone": "+91 98765 43210",          // Display phone number
+    "phoneHours": "Mon - Fri: 9AM - 6PM IST", // Phone hours
+    "address": "Line 1\nLine 2\nLine 3", // Use \n for new lines
+    "storeHours": "Mon-Sat: 10AM-8PM\nSun: 11AM-6PM" // Use \n for new lines
+  },
+
+  "categories": [
+    {
+      "name": "Dresses",                // Display name
+      "slug": "dresses",                // MUST be unique, lowercase, no spaces
+      "emoji": "👗",                    // Fallback icon
+      "image": "",                      // Optional: "images/categories/dresses.jpg"
+      "gradient": "linear-gradient(135deg,#2a1a0a,#1a0a1a)" // Background color
+    }
+    // Add more categories here...
+  ],
+
+  "trending": {
+    "title": "Trending Now",            // Section title
+    "subtitle": "Description text",     // Section subtitle
+    "count": 8,                         // Number of products to show
+    "mixCategories": true,              // true = pick from all categories
+    "productIds": []                    // Empty = auto-pick. Or [5, 12, 45] for specific products
+  },
+
+  "about": {
+    "title": "Our Story",              // About page heading
+    "description": "Your story...",    // About page subtitle
+    "whoWeAre": "First paragraph",     // Add whoWeAre2, whoWeAre3... for more paragraphs
+    "whoWeAre2": "Second paragraph",
+    "stats": [
+      {
+        "number": "100+",              // Display number
+        "label": "Happy Customers",    // Label below number
+        "desc": "And growing",         // Small description
+        "image": ""                    // Optional: replaces the number with image
+      }
+    ],
+    "values": [
+      {
+        "icon": "🌱",                 // Fallback emoji
+        "image": "",                   // Optional: "images/icons/sustainability.png"
+        "title": "Sustainability",
+        "desc": "Your description..."
+      }
+    ]
+  },
+
+  "features": [
+    {
+      "icon": "🚚",                   // Fallback emoji
+      "image": "",                     // Optional: "images/icons/shipping.png"
+      "title": "Free Shipping",
+      "desc": "On all orders over ₹5,000"
+    }
+  ]
+}
