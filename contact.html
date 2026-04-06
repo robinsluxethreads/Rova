@@ -88,10 +88,17 @@
   <div class="toast" id="toast"></div>
   <script src="js/main.js"></script>
   <script>
-    const CONTACT_FORM_ACTION = 'https://docs.google.com/forms/d/e/1FAIpQLSdiHmxNpVvf_D0fjMlpciESBVHmrDD68gWhm8jFHDum6o8uTg/formResponse';
-
     function submitContact(e) {
       e.preventDefault();
+
+      const formAction = cfg('googleForms.contact.formAction', '');
+      const fieldMap = cfg('googleForms.contact.fields', {});
+
+      if (!formAction || !fieldMap.firstName) {
+        showToast('Contact form not configured yet.');
+        return;
+      }
+
       const btn = document.getElementById('cfSubmitBtn');
       const origText = btn.textContent;
       btn.textContent = 'SENDING...';
@@ -108,16 +115,15 @@
 
       const form = document.createElement('form');
       form.method = 'POST';
-      form.action = CONTACT_FORM_ACTION;
+      form.action = formAction;
       form.target = 'cf-iframe';
 
-      const fields = {
-        'entry.785740097': document.getElementById('cfFirstName').value,
-        'entry.634884441': document.getElementById('cfLastName').value,
-        'entry.115479147': document.getElementById('cfEmail').value,
-        'entry.81727957': document.getElementById('cfSubject').value,
-        'entry.373541668': document.getElementById('cfMessage').value
-      };
+      const fields = {};
+      fields[fieldMap.firstName] = document.getElementById('cfFirstName').value;
+      fields[fieldMap.lastName] = document.getElementById('cfLastName').value;
+      fields[fieldMap.email] = document.getElementById('cfEmail').value;
+      fields[fieldMap.subject] = document.getElementById('cfSubject').value;
+      fields[fieldMap.message] = document.getElementById('cfMessage').value;
 
       Object.entries(fields).forEach(([name, value]) => {
         const input = document.createElement('input');
