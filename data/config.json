@@ -54,6 +54,83 @@
     "count": 8,
     "mixCategories": true,
     "productIds": [2,4,5,7,8,9,10]
+  },
+  
+"sizes": ["XS", "S", "M", "L", "XL"],
+
+  "nav": [
+    { "label": "Home", "url": "index.html" },
+    { "label": "Shop", "url": "shop.html" },
+    { "label": "About", "url": "about.html" },
+    { "label": "Contact", "url": "contact.html" }
+  ],
+
+  "footer": {
+    "quickLinks": [
+      { "label": "Shop All", "url": "shop.html" },
+      { "label": "Our Story", "url": "about.html" },
+      { "label": "Contact", "url": "contact.html" }
+    ],
+    "customerCare": [
+      { "label": "Shipping Info", "url": "#" },
+      { "label": "Returns & Exchanges", "url": "#" },
+      { "label": "FAQ", "url": "#" }
+    ],
+    "socialLinks": [
+      { "label": "f", "url": "#" },
+      { "label": "t", "url": "#" },
+      { "label": "i", "url": "#" },
+      { "label": "p", "url": "#" }
+    ]
+  },
+  "ui": {
+    "shopNowBtn": "Shop Now →",
+    "categorySection": { "title": "Shop by Category", "subtitle": "Find your perfect style" },
+    "viewAllBtn": "View All Products →",
+    "newsletter": {
+      "title": "Stay in the Loop",
+      "desc": "Subscribe to get exclusive access to new arrivals, style tips, and special offers.",
+      "placeholder": "Enter your email address",
+      "btn": "Subscribe"
+    },
+    "shopPage": {
+      "title": "Our Collection",
+      "priceRanges": [
+        { "value": "all", "label": "All Prices" },
+        { "value": "0-1000", "label": "Under ₹1,000" },
+        { "value": "1000-3000", "label": "₹1,000 - ₹3,000" },
+        { "value": "3000-10000", "label": "₹3,000 - ₹10,000" },
+        { "value": "10000+", "label": "₹10,000+" }
+      ],
+      "sortOptions": [
+        { "value": "default", "label": "Sort by: Featured" },
+        { "value": "price-low", "label": "Price: Low to High" },
+        { "value": "price-high", "label": "Price: High to Low" },
+        { "value": "name", "label": "Name: A-Z" }
+      ]
+    },
+    "productPage": {
+      "selectSize": "Select Size",
+      "orderWhatsApp": "Order via WhatsApp",
+      "enquireEmail": "Enquire via Email",
+      "shareTitle": "Share",
+      "relatedTitle": "You May Also Like"
+    },
+    "aboutPage": {
+      "whoWeAreTitle": "Who We Are",
+      "valuesTitle": "What We Stand For",
+      "valuesSubtitle": "The pillars that define our brand",
+      "ctaTitle": "Ready to Explore?",
+      "ctaDesc": "Discover our latest collection and find your next favourite piece.",
+      "ctaBtn": "Browse Collection →"
+    },
+    "contactPage": {
+      "title": "Get in Touch",
+      "formTitle": "Send Us a Message",
+      "formDesc": "Have a question or feedback? We'd love to hear from you.",
+      "subjects": ["Order Inquiry", "Shipping & Delivery", "Returns & Exchanges", "Product Question", "General Feedback"],
+      "sendBtn": "Send Message →"
+    }
   },  
   "features": [
     { "icon": "🚚", "title": "Free Shipping", "desc": "On all orders over ₹5,000" },
