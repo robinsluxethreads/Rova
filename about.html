@@ -9,34 +9,26 @@
 </head>
 <body>
 
-  <!-- Navbar -->
   <nav class="navbar">
     <div class="container">
-      <a href="index.html" class="navbar__logo">ROBINS LUXE THREADS</a>
-      <ul class="navbar__links" id="navLinks">
-        <li><a href="index.html">Home</a></li>
-        <li><a href="shop.html">Shop</a></li>
-        <li><a href="about.html" class="active">About</a></li>
-        <li><a href="contact.html">Contact</a></li>
-      </ul>
+      <a href="index.html" class="navbar__logo"></a>
+      <ul class="navbar__links" id="navLinks"></ul>
       <div class="navbar__toggle" id="navToggle" onclick="toggleNav()">
         <span></span><span></span><span></span>
       </div>
     </div>
   </nav>
 
-  <!-- About Hero -->
   <div class="about-hero">
-    <h1 class="about-hero__title" id="aboutTitle">Our Story</h1>
+    <h1 class="about-hero__title" id="aboutTitle"></h1>
     <p class="about-hero__desc" id="aboutDesc"></p>
   </div>
 
-  <!-- Mission -->
   <section class="section">
     <div class="container">
       <div class="about-content">
         <div class="about-content__text fade-in-left">
-          <h3>Who We Are</h3>
+          <h3 id="whoWeAreTitle"></h3>
           <div id="aboutWhoContent"></div>
         </div>
         <div class="about-content__image fade-in-right" id="aboutImage">&#10024;</div>
@@ -44,51 +36,43 @@
     </div>
   </section>
 
-  <!-- Values -->
   <section class="section" style="background:var(--bg-card);">
     <div class="container">
       <div class="section__header">
-        <h2 class="section__title">What We Stand For</h2>
-        <p class="section__subtitle">The pillars that define our brand</p>
+        <h2 class="section__title" id="valuesTitle"></h2>
+        <p class="section__subtitle" id="valuesSubtitle"></p>
         <div class="section__divider"></div>
       </div>
       <div class="about-values stagger-children" id="aboutValues"></div>
     </div>
   </section>
 
-  <!-- Stats -->
   <section class="section">
     <div class="container">
       <div class="features stagger-children" id="aboutStats"></div>
     </div>
   </section>
 
-  <!-- CTA -->
   <section class="section">
     <div class="container">
       <div class="newsletter scale-in">
-        <h2 class="newsletter__title">Ready to Explore?</h2>
-        <p class="newsletter__desc">Discover our latest collection and find your next favourite piece.</p>
-        <a href="shop.html" class="btn btn--primary">Browse Collection &#8594;</a>
+        <h2 class="newsletter__title" id="ctaTitle"></h2>
+        <p class="newsletter__desc" id="ctaDesc"></p>
+        <a href="shop.html" class="btn btn--primary" id="ctaBtn"></a>
       </div>
     </div>
   </section>
 
-  <!-- Footer -->
   <footer class="footer">
     <div class="container">
       <div class="footer__grid">
         <div>
-          <a href="index.html" class="navbar__logo">ROBINS LUXE THREADS</a>
+          <a href="index.html" class="navbar__logo"></a>
           <p class="footer__brand-desc"></p>
         </div>
         <div>
           <h4 class="footer__title">Quick Links</h4>
-          <div class="footer__links">
-            <a href="shop.html">Shop All</a>
-            <a href="about.html">Our Story</a>
-            <a href="contact.html">Contact</a>
-          </div>
+          <div class="footer__links" id="footerQuickLinks"></div>
         </div>
         <div>
           <h4 class="footer__title">Categories</h4>
@@ -96,10 +80,7 @@
         </div>
         <div>
           <h4 class="footer__title">Customer Care</h4>
-          <div class="footer__links">
-            <a href="#">Shipping Info</a>
-            <a href="#">Returns & Exchanges</a>
-          </div>
+          <div class="footer__links" id="footerCustomerCare"></div>
         </div>
       </div>
       <div class="footer__bottom"></div>
@@ -110,11 +91,14 @@
   <script>
     document.addEventListener('DOMContentLoaded', () => {
       loadConfig().then(() => {
-        // About content
+        renderNav();
+
+        // About content from config
         document.getElementById('aboutTitle').textContent = cfg('about.title', 'Our Story');
         document.getElementById('aboutDesc').textContent = cfg('about.description', '');
+        document.getElementById('whoWeAreTitle').textContent = cfg('ui.aboutPage.whoWeAreTitle', 'Who We Are');
 
-        // Dynamically render all whoWeAre paragraphs
+        // Who We Are paragraphs
         const aboutData = cfg('about', {});
         const whoContent = document.getElementById('aboutWhoContent');
         const whoKeys = Object.keys(aboutData).filter(k => k.startsWith('whoWeAre')).sort();
@@ -127,6 +111,8 @@
         }
 
         // Values
+        document.getElementById('valuesTitle').textContent = cfg('ui.aboutPage.valuesTitle', 'What We Stand For');
+        document.getElementById('valuesSubtitle').textContent = cfg('ui.aboutPage.valuesSubtitle', 'The pillars that define our brand');
         const values = cfg('about.values', []);
         const valuesEl = document.getElementById('aboutValues');
         if (valuesEl && values.length) {
@@ -152,7 +138,12 @@
           `).join('');
         }
 
-        renderFooterCategories();
+        // CTA
+        document.getElementById('ctaTitle').textContent = cfg('ui.aboutPage.ctaTitle', 'Ready to Explore?');
+        document.getElementById('ctaDesc').textContent = cfg('ui.aboutPage.ctaDesc', 'Discover our latest collection.');
+        document.getElementById('ctaBtn').textContent = cfg('ui.aboutPage.ctaBtn', 'Browse Collection →');
+
+        renderFooter();
         applyBranding();
       });
     });
