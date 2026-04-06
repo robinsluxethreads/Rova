@@ -264,12 +264,49 @@ function renderShopSidebar() {
   `).join('');
 }
 
-// ===== DYNAMIC FOOTER CATEGORIES =====
+// ===== DYNAMIC FOOTER =====
 function renderFooterCategories() {
   const el = document.getElementById('footerCategories');
   if (!el) return;
   const categories = cfg('categories', []);
   el.innerHTML = categories.map(c => `<a href="shop.html?category=${c.slug}">${c.name}</a>`).join('');
+}
+
+function renderFooter() {
+  renderFooterCategories();
+
+  const quickLinksEl = document.getElementById('footerQuickLinks');
+  if (quickLinksEl) {
+    const links = cfg('footer.quickLinks', []);
+    if (links.length) quickLinksEl.innerHTML = links.map(l => `<a href="${l.url}">${l.label}</a>`).join('');
+  }
+
+  const careEl = document.getElementById('footerCustomerCare');
+  if (careEl) {
+    const links = cfg('footer.customerCare', []);
+    if (links.length) careEl.innerHTML = links.map(l => `<a href="${l.url}">${l.label}</a>`).join('');
+  }
+
+  const socialEl = document.getElementById('footerSocial');
+  if (socialEl) {
+    const links = cfg('footer.socialLinks', []);
+    if (links.length) socialEl.innerHTML = links.map(l => `<a href="${l.url}">${l.label}</a>`).join('');
+  }
+}
+
+// ===== DYNAMIC NAV =====
+function renderNav() {
+  const navLinks = cfg('nav', []);
+  if (!navLinks.length) return;
+  document.querySelectorAll('.navbar__links').forEach(ul => {
+    const currentPage = window.location.pathname.split('/').pop() || 'index.html';
+    ul.innerHTML = navLinks.map(n => `<li><a href="${n.url}" ${n.url === currentPage ? 'class="active"' : ''}>${n.label}</a></li>`).join('');
+  });
+}
+
+// ===== DYNAMIC SIZES =====
+function getAvailableSizes() {
+  return cfg('sizes', ['XS', 'S', 'M', 'L', 'XL']);
 }
 
 // ===== NEWSLETTER (Google Forms via hidden iframe) =====
