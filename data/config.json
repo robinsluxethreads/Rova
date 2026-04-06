@@ -20,6 +20,22 @@
     "address": "4/86 Fashion Alangulam, Tenkasi 627851\nIndia",
     "storeHours": "Monday - Saturday: 10AM - 8PM\nSunday: 11AM - 6PM"
   },
+  "googleForms": {
+    "newsletter": {
+        "formAction": "https://docs.google.com/forms/d/e/.../formResponse",
+        "emailField": "entry.735564270"
+    },
+    "contact": {
+        "formAction": "https://docs.google.com/forms/d/e/.../formResponse",
+        "fields": {
+            "firstName": "entry.785740097",
+            "lastName": "entry.634884441",
+            "email": "entry.115479147",
+            "subject": "entry.81727957",
+            "message": "entry.373541668"
+        }
+    }
+},
   "categories": [
     { "name": "Dresses", "slug": "dresses", "emoji": "👗", "gradient": "linear-gradient(135deg,#2a1a0a,#1a0a1a)" },
     { "name": "Tops", "slug": "tops", "emoji": "👕", "gradient": "linear-gradient(135deg,#1a1a2a,#0a1a2a)" },
