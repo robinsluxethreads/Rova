@@ -22,7 +22,7 @@
   },
   "googleForms": {
     "newsletter": {
-        "formAction": "https://docs.google.com/forms/d/e/1FAIpQLScPE2Adjdy5uoVxZqWVJ1AXdum-mPV02g096hHOpX4Q4MaYaw/viewform?usp=header",
+        "formAction": "https://docs.google.com/forms/d/e/1FAIpQLScPE2Adjdy5uoVxZqWVJ1AXdum-mPV02g096hHOpX4Q4MaYaw/formResponse",
         "emailField": "entry.735564270"
     },
     "contact": {
