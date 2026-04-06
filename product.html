@@ -9,65 +9,49 @@
 </head>
 <body>
 
-  <!-- Navbar -->
   <nav class="navbar">
     <div class="container">
-      <a href="index.html" class="navbar__logo">ROBINS LUXE THREADS</a>
-      <ul class="navbar__links" id="navLinks">
-        <li><a href="index.html">Home</a></li>
-        <li><a href="shop.html" class="active">Shop</a></li>
-        <li><a href="about.html">About</a></li>
-        <li><a href="contact.html">Contact</a></li>
-      </ul>
+      <a href="index.html" class="navbar__logo"></a>
+      <ul class="navbar__links" id="navLinks"></ul>
       <div class="navbar__toggle" id="navToggle" onclick="toggleNav()">
         <span></span><span></span><span></span>
       </div>
     </div>
   </nav>
 
-  <!-- Page Banner -->
   <div class="page-banner">
-    <h1 class="page-banner__title" id="pageBannerTitle">Product Details</h1>
+    <h1 class="page-banner__title" id="pageBannerTitle"></h1>
   </div>
 
-  <!-- Product Detail -->
   <section class="section">
     <div class="container">
-      <div class="product-detail" id="productDetail">
+      <div class="product-detail">
         <div class="product-gallery">
-          <div class="product-gallery__main" id="productMainImage">
-            <div style="width:100%;height:100%;display:flex;align-items:center;justify-content:center;font-size:6rem;background:var(--bg-card);">👗</div>
-          </div>
+          <div class="product-gallery__main" id="productMainImage"></div>
           <div class="product-gallery__thumbs" id="productThumbs"></div>
         </div>
 
         <div class="product-info">
-          <p class="product-info__category" id="productCategory">Category</p>
-          <h1 class="product-info__title" id="productTitle">Product Name</h1>
+          <p class="product-info__category" id="productCategory"></p>
+          <h1 class="product-info__title" id="productTitle"></h1>
           <div class="product-info__price">
-            <span class="product-info__price--current" id="productPrice">₹0</span>
+            <span class="product-info__price--current" id="productPrice"></span>
             <span class="product-info__price--old" id="productOldPrice"></span>
           </div>
-          <p class="product-info__desc" id="productDesc">Product description goes here.</p>
+          <p class="product-info__desc" id="productDesc"></p>
 
           <div class="product-info__sizes">
-            <p class="product-info__sizes-title">Select Size</p>
-            <div class="size-options" id="sizeOptions">
-              <button class="size-option" onclick="selectSize(this)">XS</button>
-              <button class="size-option" onclick="selectSize(this)">S</button>
-              <button class="size-option active" onclick="selectSize(this)">M</button>
-              <button class="size-option" onclick="selectSize(this)">L</button>
-              <button class="size-option" onclick="selectSize(this)">XL</button>
-            </div>
+            <p class="product-info__sizes-title" id="selectSizeLabel"></p>
+            <div class="size-options" id="sizeOptions"></div>
           </div>
 
           <div class="product-info__actions">
-            <a class="btn btn--whatsapp" id="whatsappBtn" href="#" target="_blank">Order via WhatsApp</a>
-            <a class="btn btn--outline" id="emailBtn" href="#">Enquire via Email</a>
+            <a class="btn btn--whatsapp" id="whatsappBtn" href="#" target="_blank"></a>
+            <a class="btn btn--outline" id="emailBtn" href="#"></a>
           </div>
 
           <div class="product-share">
-            <p class="product-share__title">Share</p>
+            <p class="product-share__title" id="shareTitle"></p>
             <div class="product-share__buttons">
               <button class="share-btn share-btn--whatsapp" onclick="shareWhatsApp()" title="WhatsApp">
                 <svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor"><path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347m-5.421 7.403h-.004a9.87 9.87 0 01-5.031-1.378l-.361-.214-3.741.982.998-3.648-.235-.374a9.86 9.86 0 01-1.51-5.26c.001-5.45 4.436-9.884 9.888-9.884 2.64 0 5.122 1.03 6.988 2.898a9.825 9.825 0 012.893 6.994c-.003 5.45-4.437 9.884-9.885 9.884m8.413-18.297A11.815 11.815 0 0012.05 0C5.495 0 .16 5.335.157 11.892c0 2.096.547 4.142 1.588 5.945L.057 24l6.305-1.654a11.882 11.882 0 005.683 1.448h.005c6.554 0 11.89-5.335 11.893-11.893a11.821 11.821 0 00-3.48-8.413z"/></svg>
@@ -85,40 +69,34 @@
           </div>
 
           <div class="product-info__meta">
-            <p>SKU: <span id="productSku">RLT-001</span></p>
-            <p>Category: <span id="productMetaCat">Dresses</span></p>
+            <p>SKU: <span id="productSku"></span></p>
+            <p>Category: <span id="productMetaCat"></span></p>
           </div>
         </div>
       </div>
     </div>
   </section>
 
-  <!-- Related Products -->
   <section class="section" style="background:var(--bg-card);">
     <div class="container">
       <div class="section__header">
-        <h2 class="section__title">You May Also Like</h2>
+        <h2 class="section__title" id="relatedTitle"></h2>
         <div class="section__divider"></div>
       </div>
       <div class="products-grid" id="relatedProducts"></div>
     </div>
   </section>
 
-  <!-- Footer -->
   <footer class="footer">
     <div class="container">
       <div class="footer__grid">
         <div>
-          <a href="index.html" class="navbar__logo">ROBINS LUXE THREADS</a>
+          <a href="index.html" class="navbar__logo"></a>
           <p class="footer__brand-desc"></p>
         </div>
         <div>
           <h4 class="footer__title">Quick Links</h4>
-          <div class="footer__links">
-            <a href="shop.html">Shop All</a>
-            <a href="about.html">Our Story</a>
-            <a href="contact.html">Contact</a>
-          </div>
+          <div class="footer__links" id="footerQuickLinks"></div>
         </div>
         <div>
           <h4 class="footer__title">Categories</h4>
@@ -126,10 +104,7 @@
         </div>
         <div>
           <h4 class="footer__title">Customer Care</h4>
-          <div class="footer__links">
-            <a href="#">Shipping Info</a>
-            <a href="#">Returns & Exchanges</a>
-          </div>
+          <div class="footer__links" id="footerCustomerCare"></div>
         </div>
       </div>
       <div class="footer__bottom"></div>
@@ -147,56 +122,33 @@
       updateEnquiryLinks();
     }
 
-    function getShareText() {
-      if (!currentProduct) return '';
-      return `Check out ${currentProduct.name} - ${formatPrice(currentProduct.price)} at ${cfg('brand.name', 'Robins Luxe Threads')}`;
-    }
-
-    function shareWhatsApp() {
-      const text = encodeURIComponent(getShareText() + '\n' + window.location.href);
-      window.open(`https://wa.me/?text=${text}`, '_blank');
-    }
-
-    function shareFacebook() {
-      window.open(`https://www.facebook.com/sharer/sharer.php?u=${encodeURIComponent(window.location.href)}`, '_blank');
-    }
-
-    function shareTwitter() {
-      const text = encodeURIComponent(getShareText());
-      window.open(`https://twitter.com/intent/tweet?text=${text}&url=${encodeURIComponent(window.location.href)}`, '_blank');
-    }
-
-    function copyLink() {
-      navigator.clipboard.writeText(window.location.href).then(() => {
-        showToast('Link copied to clipboard!');
-      }).catch(() => {
-        // Fallback
-        const input = document.createElement('input');
-        input.value = window.location.href;
-        document.body.appendChild(input);
-        input.select();
-        document.execCommand('copy');
-        document.body.removeChild(input);
-        showToast('Link copied to clipboard!');
-      });
-    }
-
     function switchImage(src, thumbEl) {
       document.getElementById('productMainImage').innerHTML = `<img src="${src}" alt="${currentProduct.name}" style="width:100%;height:100%;object-fit:cover;">`;
       document.querySelectorAll('.product-gallery__thumb').forEach(t => t.classList.remove('active'));
       thumbEl.classList.add('active');
     }
 
+    function getShareText() {
+      if (!currentProduct) return '';
+      return `Check out ${currentProduct.name} - ${formatPrice(currentProduct.price)} at ${cfg('brand.name', 'Robins Luxe Threads')}`;
+    }
+    function shareWhatsApp() { window.open(`https://wa.me/?text=${encodeURIComponent(getShareText() + '\n' + window.location.href)}`, '_blank'); }
+    function shareFacebook() { window.open(`https://www.facebook.com/sharer/sharer.php?u=${encodeURIComponent(window.location.href)}`, '_blank'); }
+    function shareTwitter() { window.open(`https://twitter.com/intent/tweet?text=${encodeURIComponent(getShareText())}&url=${encodeURIComponent(window.location.href)}`, '_blank'); }
+    function copyLink() {
+      navigator.clipboard.writeText(window.location.href).then(() => showToast('Link copied!')).catch(() => {
+        const i = document.createElement('input'); i.value = window.location.href; document.body.appendChild(i); i.select(); document.execCommand('copy'); document.body.removeChild(i); showToast('Link copied!');
+      });
+    }
+
     function updateEnquiryLinks() {
       if (!currentProduct) return;
       const size = document.querySelector('.size-option.active')?.textContent || 'M';
       const whatsappNum = cfg('contact.whatsappNumber', '919876543210');
-      const storeEmail = cfg('contact.email', 'hello@robinsluxethreads.com');
+      const storeEmail = cfg('contact.email', '');
       const brandName = cfg('brand.name', 'Robins Luxe Threads');
-
       const whatsappMsg = encodeURIComponent(`Hi! I'm interested in ordering:\n\n*${currentProduct.name}*\nSize: ${size}\nPrice: ${formatPrice(currentProduct.price)}\nSKU: RLT-${String(currentProduct.id).padStart(3, '0')}\n\nPlease share availability and payment details.`);
       document.getElementById('whatsappBtn').href = `https://wa.me/${whatsappNum}?text=${whatsappMsg}`;
-
       const emailSubject = encodeURIComponent(`Order Enquiry: ${currentProduct.name}`);
       const emailBody = encodeURIComponent(`Hi ${brandName},\n\nI'm interested in ordering:\n\nProduct: ${currentProduct.name}\nSize: ${size}\nPrice: ${formatPrice(currentProduct.price)}\nSKU: RLT-${String(currentProduct.id).padStart(3, '0')}\n\nPlease share availability and payment details.\n\nThank you!`);
       document.getElementById('emailBtn').href = `mailto:${storeEmail}?subject=${emailSubject}&body=${emailBody}`;
@@ -204,10 +156,23 @@
 
     document.addEventListener('DOMContentLoaded', () => {
       loadSiteData().then(() => {
+        renderNav();
         const params = new URLSearchParams(window.location.search);
         const id = parseInt(params.get('id'));
         currentProduct = products.find(p => p.id === id) || products[0];
 
+        // UI labels from config
+        document.getElementById('selectSizeLabel').textContent = cfg('ui.productPage.selectSize', 'Select Size');
+        document.getElementById('whatsappBtn').textContent = cfg('ui.productPage.orderWhatsApp', 'Order via WhatsApp');
+        document.getElementById('emailBtn').textContent = cfg('ui.productPage.enquireEmail', 'Enquire via Email');
+        document.getElementById('shareTitle').textContent = cfg('ui.productPage.shareTitle', 'Share');
+        document.getElementById('relatedTitle').textContent = cfg('ui.productPage.relatedTitle', 'You May Also Like');
+
+        // Render sizes from config
+        const sizes = getAvailableSizes();
+        document.getElementById('sizeOptions').innerHTML = sizes.map((s, i) => `<button class="size-option ${i === 2 ? 'active' : ''}" onclick="selectSize(this)">${s}</button>`).join('');
+
+        // Product data
         document.getElementById('productTitle').textContent = currentProduct.name;
         document.getElementById('pageBannerTitle').textContent = currentProduct.name;
         document.getElementById('productCategory').textContent = currentProduct.category;
@@ -220,31 +185,22 @@
         const mainImg = document.getElementById('productMainImage');
         const thumbsEl = document.getElementById('productThumbs');
         const hasImages = currentProduct.images && currentProduct.images.length > 0;
-
         if (hasImages) {
           mainImg.innerHTML = `<img src="${currentProduct.images[0]}" alt="${currentProduct.name}" style="width:100%;height:100%;object-fit:cover;" onerror="this.parentElement.innerHTML='<div style=\\'width:100%;height:100%;display:flex;align-items:center;justify-content:center;font-size:8rem;\\'>${currentProduct.emoji || '👗'}</div>'">`;
           if (currentProduct.images.length > 1) {
-            thumbsEl.innerHTML = currentProduct.images.map((img, i) => `
-              <div class="product-gallery__thumb ${i === 0 ? 'active' : ''}" onclick="switchImage('${img}', this)">
-                <img src="${img}" alt="${currentProduct.name} - ${i + 1}" onerror="this.style.display='none'">
-              </div>
-            `).join('');
+            thumbsEl.innerHTML = currentProduct.images.map((img, i) => `<div class="product-gallery__thumb ${i === 0 ? 'active' : ''}" onclick="switchImage('${img}', this)"><img src="${img}" alt="${currentProduct.name} - ${i + 1}" onerror="this.style.display='none'"></div>`).join('');
           }
         } else {
           mainImg.innerHTML = `<div style="width:100%;height:100%;display:flex;align-items:center;justify-content:center;font-size:8rem;">${currentProduct.emoji || '👗'}</div>`;
         }
 
-        if (currentProduct.oldPrice) {
-          document.getElementById('productOldPrice').textContent = formatPrice(currentProduct.oldPrice);
-        }
-
+        if (currentProduct.oldPrice) document.getElementById('productOldPrice').textContent = formatPrice(currentProduct.oldPrice);
         document.title = `${currentProduct.name} - ${cfg('brand.name', 'Robins Luxe Threads')}`;
         updateEnquiryLinks();
 
         const related = products.filter(p => p.category === currentProduct.category && p.id !== currentProduct.id).slice(0, 4);
         renderProducts('relatedProducts', related);
-
-        renderFooterCategories();
+        renderFooter();
         applyBranding();
       });
     });
