@@ -310,9 +310,6 @@ function getAvailableSizes() {
 }
 
 // ===== NEWSLETTER (Google Forms via hidden iframe) =====
-const GOOGLE_FORM_ACTION = 'https://docs.google.com/forms/d/e/1FAIpQLSeu1bpn1DDhnbfBOHnZG7biJJPHEKxkEkE8JBcOVrohAG4knQ/formResponse';
-const GOOGLE_FORM_EMAIL_FIELD = 'entry.1045781291';
-
 function submitNewsletter(e) {
   e.preventDefault();
   const emailInput = document.getElementById('newsletterEmail');
@@ -320,10 +317,18 @@ function submitNewsletter(e) {
   const email = emailInput.value.trim();
   if (!email) return;
 
+  const formAction = cfg('googleForms.newsletter.formAction', '');
+  const emailField = cfg('googleForms.newsletter.emailField', '');
+
+  if (!formAction || !emailField) {
+    showToast('Newsletter not configured yet.');
+    return;
+  }
+
+  const origText = btn.textContent;
   btn.textContent = 'SENDING...';
   btn.style.pointerEvents = 'none';
 
-  // Create hidden iframe to receive form response
   let iframe = document.getElementById('gform-iframe');
   if (!iframe) {
     iframe = document.createElement('iframe');
@@ -333,15 +338,14 @@ function submitNewsletter(e) {
     document.body.appendChild(iframe);
   }
 
-  // Create a real form and submit it to the iframe
   const form = document.createElement('form');
   form.method = 'POST';
-  form.action = GOOGLE_FORM_ACTION;
+  form.action = formAction;
   form.target = 'gform-iframe';
 
   const input = document.createElement('input');
   input.type = 'hidden';
-  input.name = GOOGLE_FORM_EMAIL_FIELD;
+  input.name = emailField;
   input.value = email;
   form.appendChild(input);
 
@@ -349,19 +353,17 @@ function submitNewsletter(e) {
   form.submit();
   document.body.removeChild(form);
 
-  // Show success after short delay
   setTimeout(() => {
     showToast('Thank you for subscribing! You will hear from us soon.');
     emailInput.value = '';
     btn.textContent = 'SUBSCRIBED ✓';
     setTimeout(() => {
-      btn.textContent = 'SUBSCRIBE';
+      btn.textContent = origText;
       btn.style.pointerEvents = 'auto';
     }, 3000);
   }, 1000);
 }
 
-// Legacy support
 function subscribeNewsletter(e) { submitNewsletter(e); }
 
 // ===== SCROLL ANIMATIONS =====
